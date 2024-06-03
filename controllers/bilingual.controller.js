@@ -1,6 +1,6 @@
-const English = require("../models/english");
-const Tamil = require("../models/tamil");
-const Bilingual = require("../models/bilingual");
+const English = require("../models/English");
+const Tamil = require("../models/Tamil");
+const Bilingual = require("../models/Bilingual");
 
 const createBilingualContent = async () => {
   try {
