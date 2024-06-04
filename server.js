@@ -1,31 +1,22 @@
-const express = require("express");
-const mongoose = require("mongoose");
-const dotenv = require("dotenv");
-
-dotenv.config();
+const express = require('express');
+const mongoose = require('mongoose');
+const bodyParser = require('body-parser');
+const multilingualRoutes = require('./routes/multilingualRoutes');
+const logger = require('./logger');
 
 const app = express();
+app.use(bodyParser.json());
 
-// MongoDB connection:
-mongoose.connect(process.env.MONGO_URL, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-}).then(() => {
-  console.log("DB CONNECTION SUCCESSFUL!");
-}).catch((err) => {
-  console.error(`DB CONNECTION FAILURE: ${err.message}`);
-});
+// Connect to MongoDB
+mongoose.connect('mongodb://localhost:27017/Worldtamilsiragam', { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(() => logger.info('Connected to MongoDB'))
+  .catch(err => logger.error('Failed to connect to MongoDB', { error: err.message }));
 
-mongoose.connection.on('error', (err) => {
-  console.error(`DB CONNECTION FAILURE: ${err.message}`);
-});
+// Use routes
+app.use('/api', multilingualRoutes);
 
-// Import the createBilingualContent function from the controller
-const { createBilingualContent } = require("./controllers/bilingual.controller");
-
-app.listen(5000, () => {
-  console.log("Server is running on port 5000");
-
-  // Call the function to create bilingual content
-  createBilingualContent();
+// Start the server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  logger.info(`Server is running on port ${PORT}`);
 });

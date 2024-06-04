@@ -1,0 +1,3 @@
+2024-06-04T06:51:19.837Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description._ta: Path `description._ta` is required., description._en: Path `description._en` is required., name._ta: Path `name._ta` is required., name._en: Path `name._en` is required."
+}

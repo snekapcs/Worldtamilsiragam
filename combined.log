@@ -1,0 +1,127 @@
+2024-06-03T11:37:03.877Z [[32minfo[39m]: Server is running on port 5000
+2024-06-03T11:37:03.883Z [[31merror[39m]: createBilingualContent is not a function
+2024-06-03T11:37:03.920Z [[32minfo[39m]: DB CONNECTION SUCCESSFUL!
+2024-06-03T11:40:28.979Z [[32minfo[39m]: Server is running on port 5000
+2024-06-03T11:40:29.010Z [[32minfo[39m]: DB CONNECTION SUCCESSFUL!
+2024-06-03T11:40:57.074Z [[32minfo[39m]: Server is running on port 5000
+2024-06-03T11:40:57.079Z [[31merror[39m]: createBilingualContent is not a function
+2024-06-03T11:40:57.111Z [[32minfo[39m]: DB CONNECTION SUCCESSFUL!
+2024-06-04T06:20:43.633Z [info]: Server is running on port 3000 
+2024-06-04T06:20:43.670Z [info]: Connected to MongoDB 
+2024-06-04T06:20:47.580Z [info]: Server is running on port 3000 
+2024-06-04T06:20:47.608Z [info]: Connected to MongoDB 
+2024-06-04T06:20:56.474Z [info]: Server is running on port 3000 
+2024-06-04T06:20:56.525Z [info]: Connected to MongoDB 
+2024-06-04T06:21:45.329Z [info]: Server is running on port 3000 
+2024-06-04T06:21:45.385Z [info]: Connected to MongoDB 
+2024-06-04T06:28:13.552Z [info]: Retrieved all items 
+2024-06-04T06:29:32.779Z [info]: Retrieved all items 
+2024-06-04T06:41:03.079Z [info]: Server is running on port 3000 
+2024-06-04T06:41:03.122Z [info]: Connected to MongoDB 
+2024-06-04T06:51:19.837Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description._ta: Path `description._ta` is required., description._en: Path `description._en` is required., name._ta: Path `name._ta` is required., name._en: Path `name._en` is required."
+}
+2024-06-04T06:58:31.618Z [info]: Item created {
+  "item": {
+    "name": {
+      "_en": "English name",
+      "_ta": "Tamil name"
+    },
+    "description": {
+      "_en": "English description",
+      "_ta": "Tamil description"
+    },
+    "_id": "665ebb17eb44b7791238eaad",
+    "__v": 0
+  }
+}
+2024-06-04T07:08:23.950Z [info]: Item created {
+  "item": {
+    "name": {
+      "_en": "World tamil siragam",
+      "_ta": "உலகத் தமிழ்ச் சிறகம்"
+    },
+    "description": {
+      "_en": "Everyone listens to everything",
+      "_ta": "யாதும் ஊரே யாவரும் கேளிர்"
+    },
+    "_id": "665ebd67eb44b7791238eaaf",
+    "__v": 0
+  }
+}
+2024-06-04T07:08:43.558Z [info]: Server is running on port 3000 
+2024-06-04T07:08:43.571Z [info]: Connected to MongoDB 
+2024-06-04T07:10:14.348Z [info]: Retrieved all items 
+2024-06-04T07:14:17.922Z [info]: Item created {
+  "item": {
+    "name": {
+      "_en": "World tamil siragam",
+      "_ta": "உலகத் தமிழ்ச் சிறகம்"
+    },
+    "description": {
+      "_en": "World tamil siragam news",
+      "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
+    },
+    "_id": "665ebec9b4a32883cef84734",
+    "__v": 0
+  }
+}
+2024-06-04T07:14:43.850Z [info]: Retrieved all items 
+2024-06-04T07:15:06.540Z [info]: Retrieved item by ID {
+  "item": {
+    "name": {
+      "_en": "World tamil siragam",
+      "_ta": "உலகத் தமிழ்ச் சிறகம்"
+    },
+    "description": {
+      "_en": "Everyone listens to everything",
+      "_ta": "யாதும் ஊரே யாவரும் கேளிர்"
+    },
+    "_id": "665ebd67eb44b7791238eaaf",
+    "__v": 0
+  }
+}
+2024-06-04T07:19:19.314Z [info]: Updated item {
+  "item": {
+    "name": {
+      "_ta": "உலகத் தமிழ்ச் சிறகம்.",
+      "_en": "World tamil siragam."
+    },
+    "description": {
+      "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்.",
+      "_en": "World tamil siragam news."
+    },
+    "_id": "665ebd67eb44b7791238eaaf",
+    "__v": 0
+  }
+}
+2024-06-04T07:19:52.614Z [info]: Item created {
+  "item": {
+    "name": {
+      "_en": "World tamil siragam",
+      "_ta": "உலகத் தமிழ்ச் சிறகம்"
+    },
+    "description": {
+      "_en": "World tamil siragam news",
+      "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
+    },
+    "_id": "665ec018b4a32883cef84739",
+    "__v": 0
+  }
+}
+2024-06-04T07:20:47.908Z [info]: Deleted item {
+  "item": {
+    "name": {
+      "_en": "World tamil siragam",
+      "_ta": "உலகத் தமிழ்ச் சிறகம்"
+    },
+    "description": {
+      "_en": "World tamil siragam news",
+      "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
+    },
+    "_id": "665ebec9b4a32883cef84734",
+    "__v": 0
+  }
+}
+2024-06-04T07:21:54.560Z [info]: Retrieved all items 
+2024-06-04T07:21:56.287Z [info]: Retrieved all items 
