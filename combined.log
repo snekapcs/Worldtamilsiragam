@@ -125,3 +125,7 @@
 }
 2024-06-04T07:21:54.560Z [info]: Retrieved all items 
 2024-06-04T07:21:56.287Z [info]: Retrieved all items 
+2024-06-04T09:15:05.742Z [info]: Server is running on port 3000 
+2024-06-04T09:15:05.780Z [info]: Connected to MongoDB 
+2024-06-04T09:15:12.690Z [info]: Server is running on port 3000 
+2024-06-04T09:15:12.730Z [info]: Connected to MongoDB 
