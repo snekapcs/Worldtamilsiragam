@@ -23,7 +23,14 @@ const ENGLISH_MESSAGE = {
   GET_BY_ID_SUCC: "Fetched by ID Successfully",
   GET_BY_ID_FAIL: "Fail to Fetch by ID"
 };
-module.exports = { TAMIL_MESSAGE, ENGLISH_MESSAGE };
+
+const STATUS_CODES = {
+  SUCCESS: 200,
+  ERROR: 500,
+  NOT_FOUND: 404
+};
+module.exports = { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES };
+
 
 
 

@@ -121,3 +121,21 @@
 2024-06-09T11:45:39.893Z [error]: Error deleting item {
   "error": "Cannot set headers after they are sent to the client"
 }
+2024-06-10T15:59:03.670Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_ta: Path `description_ta` is required."
+}
+2024-06-10T16:16:11.868Z [error]: Error retrieving item {
+  "error": "Cannot read properties of undefined (reading 'SUCCESS')"
+}
+2024-06-10T16:17:15.598Z [error]: Error retrieving items {
+  "error": "Cannot read properties of undefined (reading 'SUCCESS')"
+}
+2024-06-10T16:19:56.506Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-10T16:31:19.920Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-10T16:53:57.363Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
+}

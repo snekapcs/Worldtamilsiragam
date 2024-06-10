@@ -1,62 +1,62 @@
 const VisionModel = require('../models/visionSchema.js');
 const logger = require('../logger');
-const { TAMIL_MESSAGE, ENGLISH_MESSAGE } = require("../util/constant.js");
+const { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES } = require("../util/constant.js");
 const upload = require('../middleware/upload');
 
 // Create a new item
 const createItem = async (req, res) => {
-    upload(req, res, async (err) => {
-      if (err) {
-        logger.error('Error uploading file', { error: err.message });
-        return res.status(500).send({
-          code: 500,
-          message: 'Error uploading file',
+  upload(req, res, async (err) => {
+    if (err) {
+      logger.error('Error uploading file', { error: err.message });
+      return res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
+        message: 'Error uploading file',
+        status: "error"
+      });
+    }
+
+    try {
+      const newItem = new VisionModel({
+        ...req.body,
+        image: req.file.filename // Save filename in the database
+      });
+      await newItem.save();
+      logger.info('Item created', { item: newItem });
+
+      if (req?.body?.lang === "TA") {
+        res.status(STATUS_CODES.SUCCESS).send({
+          code: STATUS_CODES.SUCCESS,
+          message: TAMIL_MESSAGE.CREATE_SUCC,
+          data: newItem,
+          status: "success"
+        });
+      } else {
+        res.status(STATUS_CODES.SUCCESS).send({
+          code: STATUS_CODES.SUCCESS,
+          message: ENGLISH_MESSAGE.CREATE_SUCC,
+          data: newItem,
+          status: "success"
+        });
+      }
+    } catch (error) {
+      logger.error('Error creating item', { error: error.message });
+
+      if (req?.body?.lang === "TA") {
+        res.status(STATUS_CODES.ERROR).send({
+          code: STATUS_CODES.ERROR,
+          message: TAMIL_MESSAGE.CREATE_FAIL,
+          status: "error"
+        });
+      } else {
+        res.status(STATUS_CODES.ERROR).send({
+          code: STATUS_CODES.ERROR,
+          message: ENGLISH_MESSAGE.CREATE_FAIL,
           status: "error"
         });
       }
-  
-      try {
-        const newItem = new VisionModel({
-          ...req.body,
-          image: req.file.filename // Save filename in the database
-        });
-        await newItem.save();
-        logger.info('Item created', { item: newItem });
-  
-        if (req?.body?.lang === "TA") {
-          res.status(200).send({
-            code: 200,
-            message: TAMIL_MESSAGE.CREATE_SUCC,
-            data: newItem,
-            status: "success"
-          });
-        } else {
-          res.status(200).send({
-            code: 200,
-            message: ENGLISH_MESSAGE.CREATE_SUCC,
-            data: newItem,
-            status: "success"
-          });
-        }
-      } catch (error) {
-        logger.error('Error creating item', { error: error.message });
-  
-        if (req?.body?.lang === "TA") {
-          res.status(500).send({
-            code: 500,
-            message: TAMIL_MESSAGE.CREATE_FAIL,
-            status: "error"
-          });
-        } else {
-          res.status(500).send({
-            code: 500,
-            message: ENGLISH_MESSAGE.CREATE_FAIL,
-            status: "error"
-          });
-        }
-      }
-    });
-  };  
+    }
+  });
+};  
 
 // Retrieve all items
 const getAllItems = async (req, res) => {
@@ -67,17 +67,17 @@ const getAllItems = async (req, res) => {
     }
     const items = await VisionModel.find({}, selectedValue);
     logger.info('Retrieved all items');
-   
+
     if (req?.query?.lang === "TA") {
-      res.status(200).send({
-        code: 200,
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
         message: TAMIL_MESSAGE.GET_SUCC,
         data: items,
         status: "success"
       });
     } else {
-      res.status(200).send({
-        code: 200,
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
         message: ENGLISH_MESSAGE.GET_SUCC,
         data: items,
         status: "success"
@@ -88,14 +88,14 @@ const getAllItems = async (req, res) => {
     logger.error('Error retrieving items', { error: error.message });
 
     if (req?.query?.lang === "TA") {
-      res.status(500).send({
-        code: 500,
+      res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
         message: TAMIL_MESSAGE.GET_FAIL,
         status: "error"
       });
     } else {
-      res.status(500).send({
-        code: 500,
+      res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
         message: ENGLISH_MESSAGE.GET_FAIL,
         status: "error"
       });
@@ -116,14 +116,14 @@ const getItemById = async (req, res) => {
       logger.warn('Item not found', { id: req.params.id });
 
       if (req?.query?.lang === "TA") {
-        res.status(404).send({
-          code: 404,
+        res.status(STATUS_CODES.NOT_FOUND).send({
+          code: STATUS_CODES.NOT_FOUND,
           message: TAMIL_MESSAGE.GET_BY_ID_FAIL,
           status: "error"
         });
       } else {
-        res.status(404).send({
-          code: 404,
+        res.status(STATUS_CODES.NOT_FOUND).send({
+          code: STATUS_CODES.NOT_FOUND,
           message: ENGLISH_MESSAGE.GET_BY_ID_FAIL,
           status: "error"
         });
@@ -133,15 +133,15 @@ const getItemById = async (req, res) => {
     logger.info('Retrieved item by ID', { item });
 
     if (req?.query?.lang === "TA") {
-      res.status(200).send({
-        code: 200,
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
         message: TAMIL_MESSAGE.GET_BY_ID_SUCC,
         data: item,
         status: "success"
       });
     } else {
-      res.status(200).send({
-        code: 200,
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
         message: ENGLISH_MESSAGE.GET_BY_ID_SUCC,
         data: item,
         status: "success"
@@ -152,14 +152,14 @@ const getItemById = async (req, res) => {
     logger.error('Error retrieving item', { error: error.message });
 
     if (req?.query?.lang === "TA") {
-      res.status(500).send({
-        code: 500,
+      res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
         message: TAMIL_MESSAGE.GET_BY_ID_FAIL,
         status: "error"
       });
     } else {
-      res.status(500).send({
-        code: 500,
+      res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
         message: ENGLISH_MESSAGE.GET_BY_ID_FAIL,
         status: "error"
       });
@@ -169,90 +169,89 @@ const getItemById = async (req, res) => {
 
 // Update an existing item
 const updateItem = async (req, res) => {
-    upload(req, res, async (err) => {
-      if (err) {
-        logger.error('Error uploading file', { error: err.message });
-        return res.status(500).send({
-          code: 500,
-          message: 'Error uploading file',
-          status: "error"
-        });
+  upload(req, res, async (err) => {
+    if (err) {
+      logger.error('Error uploading file', { error: err.message });
+      return res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
+        message: 'Error uploading file',
+        status: "error"
+      });
+    }
+
+    try {
+      const updateData = { ...req.body };
+      if (req.file) {
+        updateData.image = req.file.filename; // Update filename if a new file is uploaded
       }
-  
-      try {
-        const updateData = { ...req.body };
-        if (req.file) {
-          updateData.image = req.file.filename; // Update filename if a new file is uploaded
-        }
-  
-        const item = await VisionModel.findByIdAndUpdate(
-          req.params.id,
-          updateData,
-          { new: true, runValidators: true }
-        );
-  
-        if (!item) {
-          logger.warn('Item not found for update', { id: req.params.id });
-  
-          if (req?.query?.lang === "TA") {
-            res.status(404).send({
-              code: 404,
-              message: TAMIL_MESSAGE.UPDATE_FAIL,
-              status: "error"
-            });
-          } else {
-            res.status(404).send({
-              code: 404,
-              message: ENGLISH_MESSAGE.UPDATE_FAIL,
-              status: "error"
-            });
-          }
-          return;
-        }
-  
-        let selectedValue = 'title_en description_en imageTitle_en _id';
-        if (req.query.lang && req.query.lang === "TA") {
-          selectedValue = 'title_ta description_ta imageTitle_ta _id';
-        }
-        const updatedItem = await VisionModel.findById(req.params.id, selectedValue);
-  
-        logger.info('Updated item', { item: updatedItem });
-  
+
+      const item = await VisionModel.findByIdAndUpdate(
+        req.params.id,
+        updateData,
+        { new: true, runValidators: true }
+      );
+
+      if (!item) {
+        logger.warn('Item not found for update', { id: req.params.id });
+
         if (req?.query?.lang === "TA") {
-          res.status(200).send({
-            code: 200,
-            message: TAMIL_MESSAGE.UPDATE_SUCC,
-            data: updatedItem,
-            status: "success"
-          });
-        } else {
-          res.status(200).send({
-            code: 200,
-            message: ENGLISH_MESSAGE.UPDATE_SUCC,
-            data: updatedItem,
-            status: "success"
-          });
-        }
-      } catch (error) {
-        logger.error('Error updating item', { error: error.message });
-  
-        if (req?.query?.lang === "TA") {
-          res.status(500).send({
-            code: 500,
+          res.status(STATUS_CODES.NOT_FOUND).send({
+            code: STATUS_CODES.NOT_FOUND,
             message: TAMIL_MESSAGE.UPDATE_FAIL,
             status: "error"
           });
         } else {
-          res.status(500).send({
-            code: 500,
+          res.status(STATUS_CODES.NOT_FOUND).send({
+            code: STATUS_CODES.NOT_FOUND,
             message: ENGLISH_MESSAGE.UPDATE_FAIL,
             status: "error"
           });
         }
+        return;
       }
-    });
-  };
-  
+
+      let selectedValue = 'title_en description_en imageTitle_en _id';
+      if (req.query.lang && req.query.lang === "TA") {
+        selectedValue = 'title_ta description_ta imageTitle_ta _id';
+      }
+      const updatedItem = await VisionModel.findById(req.params.id, selectedValue);
+
+      logger.info('Updated item', { item: updatedItem });
+
+      if (req?.query?.lang === "TA") {
+        res.status(STATUS_CODES.SUCCESS).send({
+          code: STATUS_CODES.SUCCESS,
+          message: TAMIL_MESSAGE.UPDATE_SUCC,
+          data: updatedItem,
+          status: "success"
+        });
+      } else {
+        res.status(STATUS_CODES.SUCCESS).send({
+          code: STATUS_CODES.SUCCESS,
+          message: ENGLISH_MESSAGE.UPDATE_SUCC,
+          data: updatedItem,
+          status: "success"
+        });
+      }
+    } catch (error) {
+      logger.error('Error updating item', { error: error.message });
+
+      if (req?.query?.lang === "TA") {
+        res.status(STATUS_CODES.ERROR).send({
+          code: STATUS_CODES.ERROR,
+          message: TAMIL_MESSAGE.UPDATE_FAIL,
+          status: "error"
+        });
+      } else {
+        res.status(STATUS_CODES.ERROR).send({
+          code: STATUS_CODES.ERROR,
+          message: ENGLISH_MESSAGE.UPDATE_FAIL,
+          status: "error"
+        });
+      }
+    }
+  });
+};
 
 // Delete an item
 const deleteItem = async (req, res) => {
@@ -267,15 +266,15 @@ const deleteItem = async (req, res) => {
       logger.warn('Item not found for deletion', { id: req.params.id });
 
       if (req?.query?.lang === "TA") {
-        res.status(404).send({
-          code: 404,
+        res.status(STATUS_CODES.NOT_FOUND).send({
+          code: STATUS_CODES.NOT_FOUND,
           message: TAMIL_MESSAGE.DELETE_FAIL,
           status: "error"
         });
-  
+
       } else {
-        res.status(404).send({
-          code: 404,
+        res.status(STATUS_CODES.NOT_FOUND).send({
+          code: STATUS_CODES.NOT_FOUND,
           message: ENGLISH_MESSAGE.DELETE_FAIL,
           status: "error"
         });
@@ -286,16 +285,16 @@ const deleteItem = async (req, res) => {
     logger.info('Deleted item', { dltitem });
 
     if (req?.query?.lang === "TA") {
-      res.status(200).send({
-        code: 200,
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
         message: TAMIL_MESSAGE.DELETE_SUCC,
         data: dltitem,
         status: "success"
       });
 
     } else {
-      res.status(200).send({
-        code: 200,
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
         message: ENGLISH_MESSAGE.DELETE_SUCC,
         data: dltitem,
         status: "success"
@@ -305,15 +304,15 @@ const deleteItem = async (req, res) => {
     logger.error('Error deleting item', { error: error.message });
 
     if (req?.query?.lang === "TA") {
-      res.status(500).send({
-        code: 500,
+      res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
         message: TAMIL_MESSAGE.DELETE_FAIL,
         status: "error"
       });
 
     } else {
-      res.status(500).send({
-        code: 500,
+      res.status(STATUS_CODES.ERROR).send({
+        code: STATUS_CODES.ERROR,
         message: ENGLISH_MESSAGE.DELETE_FAIL,
         status: "error"
       });
@@ -328,18 +327,3 @@ module.exports = {
   updateItem,
   deleteItem
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
