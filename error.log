@@ -1,3 +1,123 @@
-2024-06-04T06:51:19.837Z [error]: Error creating item {
-  "error": "Multilingual validation failed: description._ta: Path `description._ta` is required., description._en: Path `description._en` is required., name._ta: Path `name._ta` is required., name._en: Path `name._en` is required."
+2024-06-05T14:58:38.580Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T15:55:35.665Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T15:56:43.739Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T16:10:59.498Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T16:23:34.285Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-05T16:23:40.646Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-05T16:28:29.115Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-06T05:30:22.995Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:32:41.481Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:36:49.162Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:38:34.789Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:39:05.728Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:39:18.678Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:44:05.961Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:44:28.532Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:49:37.867Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:58:50.324Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_en: Path `description_en` is required., name_en: Path `name_en` is required."
+}
+2024-06-06T05:59:10.112Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_en: Path `description_en` is required., name_en: Path `name_en` is required."
+}
+2024-06-06T05:59:36.524Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_ta: Path `description_ta` is required., name_ta: Path `name_ta` is required."
+}
+2024-06-06T06:30:52.827Z [error]: Error retrieving item {
+  "error": "Cast to ObjectId failed for value \"lang\" (type string) at path \"_id\" for model \"Multilingual\""
+}
+2024-06-06T06:37:12.549Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-06T06:53:29.419Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-06T06:53:48.142Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_ta description_ta _id'"
+}
+2024-06-06T07:22:46.142Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_ta description_ta _id'"
+}
+2024-06-07T10:42:56.101Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:43:12.795Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:44:00.169Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:44:09.479Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:45:04.957Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:45:15.048Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:45:44.723Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:46:59.139Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
+}
+2024-06-08T10:56:42.075Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
+}
+2024-06-08T11:20:58.399Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-08T11:21:06.849Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-09T10:52:41.560Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
+}
+2024-06-09T11:00:23.854Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-09T11:06:58.910Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
+}
+2024-06-09T11:08:14.559Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
+}
+2024-06-09T11:37:18.168Z [error]: Error creating item {
+  "error": "Festival validation failed: description_ta: Path `description_ta` is required."
+}
+2024-06-09T11:45:39.893Z [error]: Error deleting item {
+  "error": "Cannot set headers after they are sent to the client"
 }

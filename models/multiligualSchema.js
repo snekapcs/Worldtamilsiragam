@@ -1,14 +1,10 @@
 const mongoose = require('mongoose');
 
 const multilingualSchema = new mongoose.Schema({
-  name: {
-    _en: { type: String, required: true },
-    _ta: { type: String, required: true }
-  },
-  description: {
-    _en: { type: String, required: true },
-    _ta: { type: String, required: true }
-  }
+    name_en: { type: String, required: true },
+    name_ta: { type: String, required: true },
+    description_en: { type: String, required: true },
+    description_ta: { type: String, required: true }
 });
 
 const MultilingualModel = mongoose.model('Multilingual', multilingualSchema);

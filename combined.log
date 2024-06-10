@@ -1,58 +1,13 @@
-2024-06-03T11:37:03.877Z [[32minfo[39m]: Server is running on port 5000
-2024-06-03T11:37:03.883Z [[31merror[39m]: createBilingualContent is not a function
-2024-06-03T11:37:03.920Z [[32minfo[39m]: DB CONNECTION SUCCESSFUL!
-2024-06-03T11:40:28.979Z [[32minfo[39m]: Server is running on port 5000
-2024-06-03T11:40:29.010Z [[32minfo[39m]: DB CONNECTION SUCCESSFUL!
-2024-06-03T11:40:57.074Z [[32minfo[39m]: Server is running on port 5000
-2024-06-03T11:40:57.079Z [[31merror[39m]: createBilingualContent is not a function
-2024-06-03T11:40:57.111Z [[32minfo[39m]: DB CONNECTION SUCCESSFUL!
-2024-06-04T06:20:43.633Z [info]: Server is running on port 3000 
-2024-06-04T06:20:43.670Z [info]: Connected to MongoDB 
-2024-06-04T06:20:47.580Z [info]: Server is running on port 3000 
-2024-06-04T06:20:47.608Z [info]: Connected to MongoDB 
-2024-06-04T06:20:56.474Z [info]: Server is running on port 3000 
-2024-06-04T06:20:56.525Z [info]: Connected to MongoDB 
-2024-06-04T06:21:45.329Z [info]: Server is running on port 3000 
-2024-06-04T06:21:45.385Z [info]: Connected to MongoDB 
-2024-06-04T06:28:13.552Z [info]: Retrieved all items 
-2024-06-04T06:29:32.779Z [info]: Retrieved all items 
-2024-06-04T06:41:03.079Z [info]: Server is running on port 3000 
-2024-06-04T06:41:03.122Z [info]: Connected to MongoDB 
-2024-06-04T06:51:19.837Z [error]: Error creating item {
-  "error": "Multilingual validation failed: description._ta: Path `description._ta` is required., description._en: Path `description._en` is required., name._ta: Path `name._ta` is required., name._en: Path `name._en` is required."
-}
-2024-06-04T06:58:31.618Z [info]: Item created {
-  "item": {
-    "name": {
-      "_en": "English name",
-      "_ta": "Tamil name"
-    },
-    "description": {
-      "_en": "English description",
-      "_ta": "Tamil description"
-    },
-    "_id": "665ebb17eb44b7791238eaad",
-    "__v": 0
-  }
-}
-2024-06-04T07:08:23.950Z [info]: Item created {
-  "item": {
-    "name": {
-      "_en": "World tamil siragam",
-      "_ta": "உலகத் தமிழ்ச் சிறகம்"
-    },
-    "description": {
-      "_en": "Everyone listens to everything",
-      "_ta": "யாதும் ஊரே யாவரும் கேளிர்"
-    },
-    "_id": "665ebd67eb44b7791238eaaf",
-    "__v": 0
-  }
-}
-2024-06-04T07:08:43.558Z [info]: Server is running on port 3000 
-2024-06-04T07:08:43.571Z [info]: Connected to MongoDB 
-2024-06-04T07:10:14.348Z [info]: Retrieved all items 
-2024-06-04T07:14:17.922Z [info]: Item created {
+2024-06-04T11:00:19.546Z [info]: Server is running on port 3000 
+2024-06-04T11:00:19.645Z [info]: Connected to MongoDB 
+2024-06-04T11:00:50.379Z [info]: Server is running on port 3000 
+2024-06-04T11:00:50.412Z [info]: Connected to MongoDB 
+2024-06-04T11:01:56.431Z [info]: Server is running on port 3000 
+2024-06-04T11:01:56.460Z [info]: Connected to MongoDB 
+2024-06-04T11:20:00.064Z [info]: Server is running on port 3000 
+2024-06-04T11:20:00.107Z [info]: Connected to MongoDB 
+2024-06-04T14:05:23.625Z [info]: Retrieved all items 
+2024-06-04T14:05:29.908Z [info]: Item created {
   "item": {
     "name": {
       "_en": "World tamil siragam",
@@ -62,26 +17,11 @@
       "_en": "World tamil siragam news",
       "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
     },
-    "_id": "665ebec9b4a32883cef84734",
+    "_id": "665f1f294eba435dedd8b377",
     "__v": 0
   }
 }
-2024-06-04T07:14:43.850Z [info]: Retrieved all items 
-2024-06-04T07:15:06.540Z [info]: Retrieved item by ID {
-  "item": {
-    "name": {
-      "_en": "World tamil siragam",
-      "_ta": "உலகத் தமிழ்ச் சிறகம்"
-    },
-    "description": {
-      "_en": "Everyone listens to everything",
-      "_ta": "யாதும் ஊரே யாவரும் கேளிர்"
-    },
-    "_id": "665ebd67eb44b7791238eaaf",
-    "__v": 0
-  }
-}
-2024-06-04T07:19:19.314Z [info]: Updated item {
+2024-06-04T14:05:35.709Z [info]: Retrieved item by ID {
   "item": {
     "name": {
       "_ta": "உலகத் தமிழ்ச் சிறகம்.",
@@ -95,7 +35,24 @@
     "__v": 0
   }
 }
-2024-06-04T07:19:52.614Z [info]: Item created {
+2024-06-04T14:05:42.723Z [info]: Updated item {
+  "item": {
+    "name": {
+      "_ta": "உலகத் தமிழ்ச் சிறகம்.",
+      "_en": "World tamil siragam."
+    },
+    "description": {
+      "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்.",
+      "_en": "World tamil siragam news."
+    },
+    "_id": "665ebd67eb44b7791238eaaf",
+    "__v": 0
+  }
+}
+2024-06-04T14:05:51.046Z [warn]: Item not found for deletion {
+  "id": "665ebec9b4a32883cef84734"
+}
+2024-06-04T14:06:30.719Z [info]: Deleted item {
   "item": {
     "name": {
       "_en": "World tamil siragam",
@@ -105,27 +62,2259 @@
       "_en": "World tamil siragam news",
       "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
     },
-    "_id": "665ec018b4a32883cef84739",
+    "_id": "665f1f294eba435dedd8b377",
     "__v": 0
   }
 }
-2024-06-04T07:20:47.908Z [info]: Deleted item {
+2024-06-04T14:12:12.763Z [info]: Server is running on port 3000 
+2024-06-04T14:12:12.803Z [info]: Connected to MongoDB 
+2024-06-04T14:13:51.876Z [info]: Server is running on port 3000 
+2024-06-04T14:13:51.972Z [info]: Connected to MongoDB 
+2024-06-04T14:14:05.145Z [info]: Server is running on port 3000 
+2024-06-04T14:14:05.178Z [info]: Connected to MongoDB 
+2024-06-05T05:44:10.764Z [info]: Server is running on port 3000 
+2024-06-05T05:44:10.796Z [info]: Connected to MongoDB 
+2024-06-05T05:44:33.142Z [info]: Retrieved all items 
+2024-06-05T05:50:26.681Z [info]: Item created {
   "item": {
-    "name": {
-      "_en": "World tamil siragam",
-      "_ta": "உலகத் தமிழ்ச் சிறகம்"
-    },
-    "description": {
-      "_en": "World tamil siragam news",
-      "_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
-    },
-    "_id": "665ebec9b4a32883cef84734",
+    "name_en": "World tamil siragam",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "_id": "665ffca26fab8f338ce87d4d",
     "__v": 0
   }
 }
-2024-06-04T07:21:54.560Z [info]: Retrieved all items 
-2024-06-04T07:21:56.287Z [info]: Retrieved all items 
-2024-06-04T09:15:05.742Z [info]: Server is running on port 3000 
-2024-06-04T09:15:05.780Z [info]: Connected to MongoDB 
-2024-06-04T09:15:12.690Z [info]: Server is running on port 3000 
-2024-06-04T09:15:12.730Z [info]: Connected to MongoDB 
+2024-06-05T05:59:41.585Z [info]: Server is running on port 3000 
+2024-06-05T05:59:41.650Z [info]: Connected to MongoDB 
+2024-06-05T06:00:26.859Z [info]: Server is running on port 3000 
+2024-06-05T06:00:26.950Z [info]: Connected to MongoDB 
+2024-06-05T06:00:45.103Z [info]: Item created {
+  "item": {
+    "name_en": "World tamil siragam",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "_id": "665fff0d6d3ae3a91a740f20",
+    "__v": 0
+  }
+}
+2024-06-05T06:05:17.007Z [info]: Server is running on port 3000 
+2024-06-05T06:05:17.048Z [info]: Connected to MongoDB 
+2024-06-05T06:07:11.361Z [info]: Server is running on port 3000 
+2024-06-05T06:07:11.405Z [info]: Connected to MongoDB 
+2024-06-05T06:07:13.579Z [info]: Server is running on port 3000 
+2024-06-05T06:07:13.605Z [info]: Connected to MongoDB 
+2024-06-05T11:59:46.686Z [info]: Server is running on port 3000 
+2024-06-05T11:59:46.718Z [info]: Connected to MongoDB 
+2024-06-05T14:28:43.916Z [info]: Server is running on port 3000 
+2024-06-05T14:28:43.968Z [info]: Connected to MongoDB 
+2024-06-05T14:35:00.508Z [info]: Item created {
+  "item": {
+    "name_en": "World tamil siragam",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "_id": "6660779463d63907267bee32",
+    "__v": 0
+  }
+}
+2024-06-05T14:41:18.084Z [info]: Server is running on port 3000 
+2024-06-05T14:41:18.147Z [info]: Connected to MongoDB 
+2024-06-05T14:41:48.794Z [info]: Server is running on port 3000 
+2024-06-05T14:41:48.844Z [info]: Connected to MongoDB 
+2024-06-05T14:44:36.629Z [info]: Server is running on port 3000 
+2024-06-05T14:44:36.737Z [info]: Connected to MongoDB 
+2024-06-05T14:57:48.948Z [info]: Server is running on port 3000 
+2024-06-05T14:57:49.052Z [info]: Connected to MongoDB 
+2024-06-05T14:58:38.565Z [info]: Item created {
+  "item": {
+    "name_en": "World tamil siragam",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "_id": "66607d1edf1a4431185a462e",
+    "__v": 0
+  }
+}
+2024-06-05T14:58:38.580Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T15:13:09.650Z [info]: Server is running on port 3000 
+2024-06-05T15:13:09.798Z [info]: Connected to MongoDB 
+2024-06-05T15:13:29.624Z [info]: Item created {
+  "item": {
+    "name_en": "World tamil siragam",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "_id": "666080998e0ab2b5d33d9b93",
+    "__v": 0
+  }
+}
+2024-06-05T15:15:12.392Z [info]: Server is running on port 3000 
+2024-06-05T15:15:12.475Z [info]: Connected to MongoDB 
+2024-06-05T15:16:35.749Z [info]: Server is running on port 3000 
+2024-06-05T15:16:35.841Z [info]: Connected to MongoDB 
+2024-06-05T15:18:57.449Z [info]: Retrieved all items 
+2024-06-05T15:23:12.651Z [info]: Server is running on port 3000 
+2024-06-05T15:23:12.744Z [info]: Connected to MongoDB 
+2024-06-05T15:23:18.972Z [info]: Retrieved all items 
+2024-06-05T15:26:58.342Z [info]: Server is running on port 3000 
+2024-06-05T15:26:58.436Z [info]: Connected to MongoDB 
+2024-06-05T15:27:05.952Z [info]: Retrieved all items 
+2024-06-05T15:37:11.532Z [info]: Server is running on port 3000 
+2024-06-05T15:37:11.589Z [info]: Connected to MongoDB 
+2024-06-05T15:37:37.196Z [info]: Updated item {
+  "item": {
+    "_id": "665ff738c12a71553914d5b1",
+    "name_en": "World tamil siragam.",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்!.",
+    "description_en": "World tamil siragam news.",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்!.",
+    "__v": 0
+  }
+}
+2024-06-05T15:37:59.138Z [info]: Updated item {
+  "item": {
+    "_id": "665ff738c12a71553914d5b1",
+    "name_en": "World tamil siragam.",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்!.",
+    "description_en": "World tamil siragam news.",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்!.",
+    "__v": 0
+  }
+}
+2024-06-05T15:38:52.529Z [info]: Server is running on port 3000 
+2024-06-05T15:38:52.565Z [info]: Connected to MongoDB 
+2024-06-05T15:39:12.150Z [info]: Server is running on port 3000 
+2024-06-05T15:39:12.216Z [info]: Connected to MongoDB 
+2024-06-05T15:53:43.098Z [info]: Server is running on port 3000 
+2024-06-05T15:53:43.134Z [info]: Connected to MongoDB 
+2024-06-05T15:53:56.026Z [info]: Retrieved all items 
+2024-06-05T15:55:35.661Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66608a77d5deb3e640c14410",
+    "__v": 0
+  }
+}
+2024-06-05T15:55:35.665Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T15:56:31.442Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66608aafd5deb3e640c14412",
+    "__v": 0
+  }
+}
+2024-06-05T15:56:43.736Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66608abbd5deb3e640c14414",
+    "__v": 0
+  }
+}
+2024-06-05T15:56:43.739Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T15:57:17.731Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66608addd5deb3e640c14416",
+    "__v": 0
+  }
+}
+2024-06-05T15:58:24.542Z [info]: Retrieved all items 
+2024-06-05T16:00:55.062Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-05T16:01:09.165Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-05T16:01:24.779Z [info]: Retrieved all items 
+2024-06-05T16:02:43.401Z [info]: Retrieved all items 
+2024-06-05T16:04:40.424Z [info]: Retrieved all items 
+2024-06-05T16:06:27.788Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்"
+  }
+}
+2024-06-05T16:08:02.535Z [info]: Server is running on port 3000 
+2024-06-05T16:08:02.571Z [info]: Connected to MongoDB 
+2024-06-05T16:08:21.552Z [info]: Server is running on port 3000 
+2024-06-05T16:08:21.583Z [info]: Connected to MongoDB 
+2024-06-05T16:10:00.894Z [info]: Server is running on port 3000 
+2024-06-05T16:10:00.930Z [info]: Connected to MongoDB 
+2024-06-05T16:10:50.499Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name...",
+    "name_ta": "உதாரணம் பெயர்...",
+    "description_en": "Example Description...",
+    "description_ta": "உதாரணம் விளக்கம்...",
+    "_id": "66608e0a846ec20acf836ddf",
+    "__v": 0
+  }
+}
+2024-06-05T16:10:59.494Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name...",
+    "name_ta": "உதாரணம் பெயர்...",
+    "description_en": "Example Description...",
+    "description_ta": "உதாரணம் விளக்கம்...",
+    "_id": "66608e13846ec20acf836de1",
+    "__v": 0
+  }
+}
+2024-06-05T16:10:59.498Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-05T16:11:08.053Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name...",
+    "name_ta": "உதாரணம் பெயர்...",
+    "description_en": "Example Description...",
+    "description_ta": "உதாரணம் விளக்கம்...",
+    "_id": "66608e1c846ec20acf836de3",
+    "__v": 0
+  }
+}
+2024-06-05T16:12:08.611Z [info]: Retrieved all items 
+2024-06-05T16:12:17.605Z [info]: Retrieved all items 
+2024-06-05T16:12:22.608Z [info]: Retrieved all items 
+2024-06-05T16:12:45.011Z [info]: Retrieved all items 
+2024-06-05T16:12:54.254Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_en": "World tamil siragam",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-05T16:13:28.189Z [info]: Server is running on port 3000 
+2024-06-05T16:13:28.237Z [info]: Connected to MongoDB 
+2024-06-05T16:13:42.926Z [info]: Retrieved all items 
+2024-06-05T16:13:55.194Z [info]: Retrieved all items 
+2024-06-05T16:14:09.404Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name...",
+    "name_ta": "உதாரணம் பெயர்...",
+    "description_en": "Example Description...",
+    "description_ta": "உதாரணம் விளக்கம்...",
+    "_id": "66608ed18d8e256edc27cb1f",
+    "__v": 0
+  }
+}
+2024-06-05T16:14:15.015Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்"
+  }
+}
+2024-06-05T16:14:24.951Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_en": "World tamil siragam",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-05T16:14:37.739Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_en": "World tamil siragam",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-05T16:14:47.984Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_en": "World tamil siragam",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-05T16:14:54.638Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்"
+  }
+}
+2024-06-05T16:15:06.168Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_en": "World tamil siragam",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-05T16:15:39.112Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_en": "World tamil siragam",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-05T16:16:03.185Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66607d1edf1a4431185a462e",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்"
+  }
+}
+2024-06-05T16:16:31.006Z [warn]: Item not found for update {
+  "id": "665ff738c12a71553914d5b1"
+}
+2024-06-05T16:17:30.712Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_en": "World tamil siragam.",
+    "description_en": "World tamil siragam news."
+  }
+}
+2024-06-05T16:19:33.730Z [info]: Server is running on port 3000 
+2024-06-05T16:19:33.783Z [info]: Connected to MongoDB 
+2024-06-05T16:19:42.560Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_en": "World tamil siragam.",
+    "description_en": "World tamil siragam news."
+  }
+}
+2024-06-05T16:20:42.291Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_en": "World tamil siragam.",
+    "description_en": "World tamil siragam news."
+  }
+}
+2024-06-05T16:21:29.751Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_en": "World tamil siragam.",
+    "description_en": "World tamil siragam news."
+  }
+}
+2024-06-05T16:21:37.907Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
+  }
+}
+2024-06-05T16:22:25.398Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்"
+  }
+}
+2024-06-05T16:23:34.285Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-05T16:23:40.646Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-05T16:25:34.738Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்.........",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்........"
+  }
+}
+2024-06-05T16:26:30.791Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்.........",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்........"
+  }
+}
+2024-06-05T16:27:39.334Z [info]: Server is running on port 3000 
+2024-06-05T16:27:39.362Z [info]: Connected to MongoDB 
+2024-06-05T16:27:59.596Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்.........",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்........"
+  }
+}
+2024-06-05T16:28:01.034Z [info]: Updated item {
+  "item": {
+    "_id": "66608e0a846ec20acf836ddf",
+    "name_ta": "உலகத் தமிழ்ச் சிறகம்.........",
+    "description_ta": "உலகத் தமிழ்ச் சிறகம் செய்திகள்........"
+  }
+}
+2024-06-05T16:28:29.115Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-05T16:28:57.733Z [info]: Server is running on port 3000 
+2024-06-05T16:28:57.823Z [info]: Connected to MongoDB 
+2024-06-05T16:29:06.678Z [info]: Retrieved all items 
+2024-06-05T16:29:17.794Z [info]: Retrieved all items 
+2024-06-05T16:30:55.978Z [info]: Server is running on port 3000 
+2024-06-05T16:30:56.023Z [info]: Connected to MongoDB 
+2024-06-06T04:54:19.955Z [info]: Server is running on port 3000 
+2024-06-06T04:54:19.972Z [info]: Connected to MongoDB 
+2024-06-06T05:10:08.768Z [info]: Server is running on port 3000 
+2024-06-06T05:10:08.784Z [info]: Connected to MongoDB 
+2024-06-06T05:10:56.247Z [info]: Server is running on port 3000 
+2024-06-06T05:10:56.265Z [info]: Connected to MongoDB 
+2024-06-06T05:11:02.474Z [info]: Server is running on port 3000 
+2024-06-06T05:11:02.489Z [info]: Connected to MongoDB 
+2024-06-06T05:11:17.528Z [info]: Server is running on port 3000 
+2024-06-06T05:11:17.543Z [info]: Connected to MongoDB 
+2024-06-06T05:16:54.158Z [info]: Server is running on port 3000 
+2024-06-06T05:16:54.182Z [info]: Connected to MongoDB 
+2024-06-06T05:17:02.839Z [info]: Server is running on port 3000 
+2024-06-06T05:17:02.856Z [info]: Connected to MongoDB 
+2024-06-06T05:28:36.153Z [info]: Server is running on port 3000 
+2024-06-06T05:28:36.170Z [info]: Connected to MongoDB 
+2024-06-06T05:29:22.834Z [info]: Server is running on port 3000 
+2024-06-06T05:29:22.850Z [info]: Connected to MongoDB 
+2024-06-06T05:29:34.943Z [info]: Retrieved all items 
+2024-06-06T05:30:22.992Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6661496e6336a1879ee8f3a9",
+    "__v": 0
+  }
+}
+2024-06-06T05:32:15.106Z [info]: Server is running on port 3000 
+2024-06-06T05:32:15.120Z [info]: Connected to MongoDB 
+2024-06-06T05:32:41.479Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "666149f9eb055c88aa7e2ed2",
+    "__v": 0
+  }
+}
+2024-06-06T05:32:41.481Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:32:57.530Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614a09eb055c88aa7e2ed4",
+    "__v": 0
+  }
+}
+2024-06-06T05:36:19.927Z [info]: Server is running on port 3000 
+2024-06-06T05:36:19.947Z [info]: Connected to MongoDB 
+2024-06-06T05:36:27.254Z [info]: Server is running on port 3000 
+2024-06-06T05:36:27.268Z [info]: Connected to MongoDB 
+2024-06-06T05:36:49.159Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614af1e95efa0d2931e78a",
+    "__v": 0
+  }
+}
+2024-06-06T05:36:49.162Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'CREATE_SUCC')"
+}
+2024-06-06T05:37:20.698Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614b10e95efa0d2931e78c",
+    "__v": 0
+  }
+}
+2024-06-06T05:38:04.465Z [info]: Server is running on port 3000 
+2024-06-06T05:38:04.482Z [info]: Connected to MongoDB 
+2024-06-06T05:38:12.057Z [info]: Server is running on port 3000 
+2024-06-06T05:38:12.074Z [info]: Connected to MongoDB 
+2024-06-06T05:38:20.185Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614b4ce633706161f23973",
+    "__v": 0
+  }
+}
+2024-06-06T05:38:34.786Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614b5ae633706161f23975",
+    "__v": 0
+  }
+}
+2024-06-06T05:38:48.582Z [info]: Server is running on port 3000 
+2024-06-06T05:38:48.598Z [info]: Connected to MongoDB 
+2024-06-06T05:38:56.292Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614b705d77ba29c806ca99",
+    "__v": 0
+  }
+}
+2024-06-06T05:39:05.726Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614b795d77ba29c806ca9b",
+    "__v": 0
+  }
+}
+2024-06-06T05:39:11.664Z [info]: Server is running on port 3000 
+2024-06-06T05:39:11.678Z [info]: Connected to MongoDB 
+2024-06-06T05:39:18.676Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614b86c36ef195e4d11d65",
+    "__v": 0
+  }
+}
+2024-06-06T05:43:51.521Z [info]: Server is running on port 3000 
+2024-06-06T05:43:51.536Z [info]: Connected to MongoDB 
+2024-06-06T05:44:05.959Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614ca50c2a596d7bec857b",
+    "__v": 0
+  }
+}
+2024-06-06T05:44:15.734Z [info]: Server is running on port 3000 
+2024-06-06T05:44:15.748Z [info]: Connected to MongoDB 
+2024-06-06T05:44:19.316Z [info]: Server is running on port 3000 
+2024-06-06T05:44:19.333Z [info]: Connected to MongoDB 
+2024-06-06T05:44:28.531Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614cbc0a5cb680371cc8d1",
+    "__v": 0
+  }
+}
+2024-06-06T05:45:20.430Z [info]: Server is running on port 3000 
+2024-06-06T05:45:20.448Z [info]: Connected to MongoDB 
+2024-06-06T05:49:07.625Z [info]: Server is running on port 3000 
+2024-06-06T05:49:07.643Z [info]: Connected to MongoDB 
+2024-06-06T05:49:18.975Z [info]: Server is running on port 3000 
+2024-06-06T05:49:18.994Z [info]: Connected to MongoDB 
+2024-06-06T05:49:37.864Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614df11e4e926226038d09",
+    "__v": 0
+  }
+}
+2024-06-06T05:52:07.378Z [info]: Server is running on port 3000 
+2024-06-06T05:52:07.397Z [info]: Connected to MongoDB 
+2024-06-06T05:53:28.838Z [info]: TAMIL_MESSAGE: {
+  "CREATE_SUCC": "வெற்றிகரமாக உருவாக்கியது",
+  "CREATE_FAIL": "உருவாக்க முடியவில்லை"
+}
+2024-06-06T05:53:28.841Z [info]: ENGLISH_MESSAGE: {
+  "CREATE_SUCC": "Created Successfully",
+  "CREATE_FAIL": "Fail to Create"
+}
+2024-06-06T05:53:28.874Z [info]: Server is running on port 3000 
+2024-06-06T05:53:28.888Z [info]: Connected to MongoDB 
+2024-06-06T05:53:41.874Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614ee5cb801f33c780e4d6",
+    "__v": 0
+  }
+}
+2024-06-06T05:54:00.055Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614ef8cb801f33c780e4d8",
+    "__v": 0
+  }
+}
+2024-06-06T05:55:57.250Z [info]: Retrieved all items 
+2024-06-06T05:57:00.633Z [info]: TAMIL_MESSAGE: {
+  "CREATE_SUCC": "வெற்றிகரமாக உருவாக்கியது",
+  "CREATE_FAIL": "உருவாக்க முடியவில்லை"
+}
+2024-06-06T05:57:00.636Z [info]: ENGLISH_MESSAGE: {
+  "CREATE_SUCC": "Created Successfully",
+  "CREATE_FAIL": "Fail to Create"
+}
+2024-06-06T05:57:00.670Z [info]: Server is running on port 3000 
+2024-06-06T05:57:00.686Z [info]: Connected to MongoDB 
+2024-06-06T05:57:11.857Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614fb7b3561c2869eedb50",
+    "__v": 0
+  }
+}
+2024-06-06T05:57:18.253Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66614fbeb3561c2869eedb52",
+    "__v": 0
+  }
+}
+2024-06-06T05:58:50.324Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_en: Path `description_en` is required., name_en: Path `name_en` is required."
+}
+2024-06-06T05:59:10.112Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_en: Path `description_en` is required., name_en: Path `name_en` is required."
+}
+2024-06-06T05:59:36.524Z [error]: Error creating item {
+  "error": "Multilingual validation failed: description_ta: Path `description_ta` is required., name_ta: Path `name_ta` is required."
+}
+2024-06-06T05:59:43.326Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6661504fb3561c2869eedb57",
+    "__v": 0
+  }
+}
+2024-06-06T05:59:49.919Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66615055b3561c2869eedb59",
+    "__v": 0
+  }
+}
+2024-06-06T06:30:52.827Z [error]: Error retrieving item {
+  "error": "Cast to ObjectId failed for value \"lang\" (type string) at path \"_id\" for model \"Multilingual\""
+}
+2024-06-06T06:32:55.717Z [info]: Retrieved all items 
+2024-06-06T06:33:04.963Z [info]: Retrieved all items 
+2024-06-06T06:35:37.320Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T06:36:09.583Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T06:36:29.506Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "666158edb3561c2869eedb5f",
+    "__v": 0
+  }
+}
+2024-06-06T06:37:12.549Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-06T06:37:40.708Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T06:38:00.205Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T06:40:00.667Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T06:40:21.918Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_en": "Example Name....",
+    "description_en": "Example Description....."
+  }
+}
+2024-06-06T06:40:56.464Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_en": "Example Name....",
+    "description_en": "Example Description....."
+  }
+}
+2024-06-06T06:41:20.935Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T06:42:14.367Z [info]: Server is running on port 3000 
+2024-06-06T06:42:14.405Z [info]: Connected to MongoDB 
+2024-06-06T06:43:42.906Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்."
+  }
+}
+2024-06-06T06:44:56.716Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66615ae86705da6cd7a23112",
+    "__v": 0
+  }
+}
+2024-06-06T06:53:29.419Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_en description_en _id'"
+}
+2024-06-06T06:53:48.142Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_ta description_ta _id'"
+}
+2024-06-06T06:57:54.301Z [info]: Server is running on port 3000 
+2024-06-06T06:57:54.334Z [info]: Connected to MongoDB 
+2024-06-06T06:58:11.331Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66615e03ce5fa97fc07958c9",
+    "__v": 0
+  }
+}
+2024-06-06T06:58:23.715Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66615e0fce5fa97fc07958cb",
+    "__v": 0
+  }
+}
+2024-06-06T07:00:46.409Z [info]: Server is running on port 3000 
+2024-06-06T07:00:46.494Z [info]: Connected to MongoDB 
+2024-06-06T07:00:51.968Z [info]: Retrieved all items 
+2024-06-06T07:00:57.950Z [info]: Retrieved all items 
+2024-06-06T07:01:56.258Z [info]: Server is running on port 3000 
+2024-06-06T07:01:56.296Z [info]: Connected to MongoDB 
+2024-06-06T07:02:11.698Z [info]: Retrieved all items 
+2024-06-06T07:03:21.081Z [info]: Retrieved all items 
+2024-06-06T07:04:14.197Z [info]: Retrieved all items 
+2024-06-06T07:04:49.063Z [info]: Server is running on port 3000 
+2024-06-06T07:04:49.091Z [info]: Connected to MongoDB 
+2024-06-06T07:04:55.677Z [info]: Retrieved all items 
+2024-06-06T07:05:07.933Z [info]: Server is running on port 3000 
+2024-06-06T07:05:08.065Z [info]: Connected to MongoDB 
+2024-06-06T07:09:02.609Z [info]: Server is running on port 3000 
+2024-06-06T07:09:02.653Z [info]: Connected to MongoDB 
+2024-06-06T07:09:53.327Z [info]: Server is running on port 3000 
+2024-06-06T07:09:53.366Z [info]: Connected to MongoDB 
+2024-06-06T07:15:11.706Z [info]: Server is running on port 3000 
+2024-06-06T07:15:11.738Z [info]: Connected to MongoDB 
+2024-06-06T07:15:19.197Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:15:25.283Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T07:16:17.429Z [info]: Server is running on port 3000 
+2024-06-06T07:16:17.477Z [info]: Connected to MongoDB 
+2024-06-06T07:16:31.790Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:16:40.078Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:16:45.785Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:17:14.820Z [info]: Server is running on port 3000 
+2024-06-06T07:17:14.856Z [info]: Connected to MongoDB 
+2024-06-06T07:17:31.032Z [info]: Server is running on port 3000 
+2024-06-06T07:17:31.071Z [info]: Connected to MongoDB 
+2024-06-06T07:17:45.451Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:17:51.863Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:18:40.325Z [info]: Server is running on port 3000 
+2024-06-06T07:18:40.380Z [info]: Connected to MongoDB 
+2024-06-06T07:18:49.443Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T07:18:55.681Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66608aafd5deb3e640c14412",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T07:19:35.750Z [info]: Server is running on port 3000 
+2024-06-06T07:19:35.781Z [info]: Connected to MongoDB 
+2024-06-06T07:19:58.851Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!."
+  }
+}
+2024-06-06T07:20:14.183Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_en": "Updated Item in English",
+    "description_en": "This is an updated description in English."
+  }
+}
+2024-06-06T07:22:09.351Z [info]: Server is running on port 3000 
+2024-06-06T07:22:09.379Z [info]: Connected to MongoDB 
+2024-06-06T07:22:46.142Z [error]: Error deleting item {
+  "error": "Cannot create property 'select' on string 'name_ta description_ta _id'"
+}
+2024-06-06T07:25:31.449Z [info]: Server is running on port 3000 
+2024-06-06T07:25:31.488Z [info]: Connected to MongoDB 
+2024-06-06T07:25:38.466Z [info]: Deleted item {
+  "item": {
+    "_id": "66615ae86705da6cd7a23112",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T07:25:51.986Z [warn]: Item not found for deletion {
+  "id": "66615ae86705da6cd7a23112"
+}
+2024-06-06T07:28:12.851Z [info]: Deleted item {
+  "item": {
+    "_id": "66615e0fce5fa97fc07958cb",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T09:30:00.518Z [info]: Server is running on port 3000 
+2024-06-06T09:30:00.548Z [info]: Connected to MongoDB 
+2024-06-06T09:38:07.151Z [info]: Server is running on port 3000 
+2024-06-06T09:38:07.180Z [info]: Connected to MongoDB 
+2024-06-06T09:49:37.879Z [info]: Retrieved all items 
+2024-06-06T09:49:53.271Z [info]: Retrieved all items 
+2024-06-06T09:50:09.493Z [info]: Retrieved all items 
+2024-06-06T09:52:43.927Z [info]: Server is running on port 3000 
+2024-06-06T09:52:43.961Z [info]: Connected to MongoDB 
+2024-06-06T10:00:49.646Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "666188d151d7465727152051",
+    "__v": 0
+  }
+}
+2024-06-06T10:05:39.906Z [warn]: Item not found {
+  "id": "66608aafd5deb3e640c14412"
+}
+2024-06-06T10:05:55.219Z [info]: Server is running on port 3000 
+2024-06-06T10:05:55.309Z [info]: Connected to MongoDB 
+2024-06-06T10:06:27.052Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66614df11e4e926226038d09",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T10:07:42.083Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66614df11e4e926226038d09",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-06T10:08:40.835Z [warn]: Item not found for deletion {
+  "id": "66615e0fce5fa97fc07958cb"
+}
+2024-06-06T10:09:08.331Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66618ac4562093a84f742145",
+    "__v": 0
+  }
+}
+2024-06-06T10:09:52.598Z [info]: Deleted item {
+  "item": {
+    "_id": "666188d151d7465727152051",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-06T10:12:13.208Z [info]: Updated item {
+  "item": {
+    "_id": "66614fbeb3561c2869eedb52",
+    "name_en": "Updated Item in English...",
+    "description_en": "This is an updated description in English..."
+  }
+}
+2024-06-07T04:58:15.700Z [info]: Server is running on port 3000 
+2024-06-07T04:58:15.748Z [info]: Connected to MongoDB 
+2024-06-07T05:15:20.558Z [info]: Server is running on port 3000 
+2024-06-07T05:15:20.639Z [info]: Connected to MongoDB 
+2024-06-07T05:16:16.568Z [info]: Server is running on port 3000 
+2024-06-07T05:16:16.606Z [info]: Connected to MongoDB 
+2024-06-07T05:16:29.487Z [info]: Server is running on port 3000 
+2024-06-07T05:16:29.523Z [info]: Connected to MongoDB 
+2024-06-07T05:24:54.001Z [info]: Server is running on port 3000 
+2024-06-07T05:24:54.052Z [info]: Connected to MongoDB 
+2024-06-07T05:24:58.161Z [info]: Server is running on port 3000 
+2024-06-07T05:24:58.217Z [info]: Connected to MongoDB 
+2024-06-07T05:25:14.614Z [info]: Server is running on port 3000 
+2024-06-07T05:25:14.637Z [info]: Connected to MongoDB 
+2024-06-07T05:25:37.172Z [info]: Retrieved all items 
+2024-06-07T05:26:54.056Z [info]: Retrieved all items 
+2024-06-07T05:27:01.998Z [info]: Retrieved all items 
+2024-06-07T05:27:29.522Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66629a4131691f848c2fa09c",
+    "__v": 0
+  }
+}
+2024-06-07T05:28:07.753Z [info]: Server is running on port 3000 
+2024-06-07T05:28:07.807Z [info]: Connected to MongoDB 
+2024-06-07T05:28:14.371Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66629a6e38e7234c4a90e559",
+    "__v": 0
+  }
+}
+2024-06-07T05:28:33.222Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66629a8138e7234c4a90e55b",
+    "__v": 0
+  }
+}
+2024-06-07T05:28:42.773Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66629a8a38e7234c4a90e55d",
+    "__v": 0
+  }
+}
+2024-06-07T05:29:25.905Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66629ab538e7234c4a90e55f",
+    "__v": 0
+  }
+}
+2024-06-07T05:35:23.388Z [info]: Updated item {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_en": "Updated Item in English...",
+    "description_en": "This is an updated description in English..."
+  }
+}
+2024-06-07T05:36:53.775Z [info]: Updated item {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-07T05:37:51.942Z [info]: Deleted item {
+  "item": {
+    "_id": "66629ab538e7234c4a90e55f",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-07T05:50:27.800Z [info]: Server is running on port 3000 
+2024-06-07T05:50:27.852Z [info]: Connected to MongoDB 
+2024-06-07T05:51:20.742Z [info]: Server is running on port 3000 
+2024-06-07T05:51:20.824Z [info]: Connected to MongoDB 
+2024-06-07T05:52:30.943Z [info]: Server is running on port 3000 
+2024-06-07T05:52:30.987Z [info]: Connected to MongoDB 
+2024-06-07T05:52:38.952Z [info]: Server is running on port 3000 
+2024-06-07T05:52:38.988Z [info]: Connected to MongoDB 
+2024-06-07T05:52:57.709Z [info]: Server is running on port 3000 
+2024-06-07T05:52:57.774Z [info]: Connected to MongoDB 
+2024-06-07T05:53:52.101Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a07069996dc64a5043c7",
+    "__v": 0
+  }
+}
+2024-06-07T05:54:33.324Z [info]: Server is running on port 3000 
+2024-06-07T05:54:33.362Z [info]: Connected to MongoDB 
+2024-06-07T05:54:57.837Z [info]: Server is running on port 3000 
+2024-06-07T05:54:57.872Z [info]: Connected to MongoDB 
+2024-06-07T05:55:04.469Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a0b8c70b5abfc10a3ed9",
+    "__v": 0
+  }
+}
+2024-06-07T05:55:18.632Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a0c6c70b5abfc10a3edb",
+    "__v": 0
+  }
+}
+2024-06-07T06:16:29.502Z [info]: Server is running on port 3000 
+2024-06-07T06:16:29.518Z [info]: Connected to MongoDB 
+2024-06-07T06:16:37.210Z [info]: Server is running on port 3000 
+2024-06-07T06:16:37.226Z [info]: Connected to MongoDB 
+2024-06-07T06:16:56.618Z [info]: Server is running on port 3000 
+2024-06-07T06:16:56.636Z [info]: Connected to MongoDB 
+2024-06-07T06:17:03.515Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a5dfc910498199e468fd",
+    "__v": 0
+  }
+}
+2024-06-07T06:17:11.961Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a5e7c910498199e468ff",
+    "__v": 0
+  }
+}
+2024-06-07T06:17:31.831Z [info]: Retrieved all items 
+2024-06-07T06:17:38.125Z [info]: Retrieved all items 
+2024-06-07T06:20:30.581Z [info]: Server is running on port 3000 
+2024-06-07T06:20:30.597Z [info]: Connected to MongoDB 
+2024-06-07T06:21:52.377Z [info]: Server is running on port 3000 
+2024-06-07T06:21:52.394Z [info]: Connected to MongoDB 
+2024-06-07T06:24:11.622Z [info]: Server is running on port 3000 
+2024-06-07T06:24:11.640Z [info]: Connected to MongoDB 
+2024-06-07T06:24:55.599Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a7b76c8f7e97c02b6d10",
+    "__v": 0
+  }
+}
+2024-06-07T06:25:04.815Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "__v": 0
+  }
+}
+2024-06-07T06:26:26.996Z [info]: Retrieved all items 
+2024-06-07T06:26:40.940Z [info]: Retrieved all items 
+2024-06-07T06:30:34.655Z [info]: Server is running on port 3000 
+2024-06-07T06:30:34.675Z [info]: Connected to MongoDB 
+2024-06-07T06:30:59.301Z [info]: Retrieved all items 
+2024-06-07T06:31:07.246Z [info]: Retrieved all items 
+2024-06-07T06:34:28.247Z [info]: Server is running on port 3000 
+2024-06-07T06:34:28.263Z [info]: Connected to MongoDB 
+2024-06-07T06:36:05.124Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-07T06:36:39.802Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-07T06:37:07.257Z [info]: Server is running on port 3000 
+2024-06-07T06:37:07.273Z [info]: Connected to MongoDB 
+2024-06-07T06:37:11.540Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-07T06:37:22.630Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-07T06:37:34.032Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-07T06:44:16.734Z [info]: Server is running on port 3000 
+2024-06-07T06:44:16.750Z [info]: Connected to MongoDB 
+2024-06-07T09:22:08.419Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_en": "Updated Item in English...",
+    "description_en": "This is an updated description in English..."
+  }
+}
+2024-06-07T09:22:56.416Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-07T09:37:19.169Z [info]: Server is running on port 3000 
+2024-06-07T09:37:19.222Z [info]: Connected to MongoDB 
+2024-06-07T09:37:50.431Z [info]: Server is running on port 3000 
+2024-06-07T09:37:50.476Z [info]: Connected to MongoDB 
+2024-06-07T09:38:24.806Z [info]: Retrieved all items 
+2024-06-07T09:38:31.863Z [info]: Retrieved all items 
+2024-06-07T09:38:57.171Z [info]: Retrieved all items 
+2024-06-07T09:40:12.550Z [info]: Server is running on port 3000 
+2024-06-07T09:40:12.597Z [info]: Connected to MongoDB 
+2024-06-07T09:41:01.643Z [info]: Server is running on port 3000 
+2024-06-07T09:41:01.697Z [info]: Connected to MongoDB 
+2024-06-07T09:41:48.354Z [info]: Server is running on port 3000 
+2024-06-07T09:41:48.386Z [info]: Connected to MongoDB 
+2024-06-07T10:01:28.807Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-07T10:01:37.441Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_en": "Updated Item in English...",
+    "description_en": "This is an updated description in English..."
+  }
+}
+2024-06-07T10:34:16.665Z [info]: Server is running on port 3000 
+2024-06-07T10:34:16.701Z [info]: Connected to MongoDB 
+2024-06-07T10:38:10.664Z [info]: Server is running on port 3000 
+2024-06-07T10:38:10.722Z [info]: Connected to MongoDB 
+2024-06-07T10:39:19.659Z [info]: Server is running on port 3000 
+2024-06-07T10:39:19.728Z [info]: Connected to MongoDB 
+2024-06-07T10:42:35.958Z [info]: Server is running on port 3000 
+2024-06-07T10:42:35.988Z [info]: Connected to MongoDB 
+2024-06-07T10:42:56.101Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:43:12.795Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:44:00.169Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:44:05.644Z [info]: Server is running on port 3000 
+2024-06-07T10:44:05.664Z [info]: Connected to MongoDB 
+2024-06-07T10:44:09.479Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:45:04.957Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:45:10.586Z [info]: Server is running on port 3000 
+2024-06-07T10:45:10.689Z [info]: Connected to MongoDB 
+2024-06-07T10:45:15.048Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:45:40.531Z [info]: Server is running on port 3000 
+2024-06-07T10:45:40.559Z [info]: Connected to MongoDB 
+2024-06-07T10:45:44.723Z [error]: Error deleting item {
+  "error": "item is not defined"
+}
+2024-06-07T10:46:43.589Z [info]: Server is running on port 3000 
+2024-06-07T10:46:43.635Z [info]: Connected to MongoDB 
+2024-06-07T10:46:47.801Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6662a7c06c8f7e97c02b6d12",
+    "name_en": "Example Name",
+    "description_en": "Example Description"
+  }
+}
+2024-06-07T10:46:59.128Z [warn]: Item not found for deletion {
+  "id": "6662a7c06c8f7e97c02b6d12"
+}
+2024-06-07T10:46:59.136Z [info]: Deleted item {
+  "dltitem": null
+}
+2024-06-07T10:47:27.007Z [info]: Server is running on port 3000 
+2024-06-07T10:47:27.062Z [info]: Connected to MongoDB 
+2024-06-07T10:47:34.084Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6662a7b76c8f7e97c02b6d10",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-07T10:48:56.088Z [info]: Updated item {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-07T10:50:42.270Z [info]: Updated item {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_en": "Updated Item in English",
+    "description_en": "This is an updated description in English"
+  }
+}
+2024-06-07T15:04:07.106Z [info]: Retrieved all items 
+2024-06-08T06:15:59.354Z [info]: Server is running on port 3000 
+2024-06-08T06:15:59.382Z [info]: Connected to MongoDB 
+2024-06-08T06:16:25.434Z [info]: Server is running on port 3000 
+2024-06-08T06:16:25.454Z [info]: Connected to MongoDB 
+2024-06-08T06:16:57.043Z [info]: Server is running on port 3000 
+2024-06-08T06:16:57.071Z [info]: Connected to MongoDB 
+2024-06-08T06:17:44.546Z [info]: Server is running on port 3000 
+2024-06-08T06:17:44.563Z [info]: Connected to MongoDB 
+2024-06-08T06:17:49.773Z [info]: Server is running on port 3000 
+2024-06-08T06:17:49.787Z [info]: Connected to MongoDB 
+2024-06-08T06:17:58.956Z [info]: Retrieved all items 
+2024-06-08T06:18:03.125Z [info]: Retrieved all items 
+2024-06-08T06:18:10.761Z [info]: Retrieved all items 
+2024-06-08T06:18:18.035Z [info]: Retrieved all items 
+2024-06-08T06:44:02.761Z [info]: Server is running on port 3000 
+2024-06-08T06:44:02.779Z [info]: Connected to MongoDB 
+2024-06-08T06:45:43.992Z [info]: Server is running on port 3000 
+2024-06-08T06:45:44.006Z [info]: Connected to MongoDB 
+2024-06-08T06:46:41.901Z [info]: Server is running on port 3000 
+2024-06-08T06:46:41.918Z [info]: Connected to MongoDB 
+2024-06-08T07:16:27.585Z [info]: Server is running on port 3000 
+2024-06-08T07:16:27.619Z [info]: Connected to MongoDB 
+2024-06-08T07:16:38.970Z [info]: Server is running on port 3000 
+2024-06-08T07:16:39.012Z [info]: Connected to MongoDB 
+2024-06-08T07:16:53.414Z [info]: Server is running on port 3000 
+2024-06-08T07:16:53.444Z [info]: Connected to MongoDB 
+2024-06-08T07:17:29.283Z [info]: Server is running on port 3000 
+2024-06-08T07:17:29.326Z [info]: Connected to MongoDB 
+2024-06-08T07:18:41.762Z [info]: Server is running on port 3000 
+2024-06-08T07:18:41.798Z [info]: Connected to MongoDB 
+2024-06-08T07:25:01.272Z [info]: Server is running on port 3000 
+2024-06-08T07:25:01.319Z [info]: Connected to MongoDB 
+2024-06-08T07:35:49.455Z [info]: Server is running on port 3000 
+2024-06-08T07:35:49.508Z [info]: Connected to MongoDB 
+2024-06-08T07:43:04.583Z [info]: Server is running on port 3000 
+2024-06-08T07:43:04.627Z [info]: Connected to MongoDB 
+2024-06-08T07:45:56.944Z [info]: Server is running on port 3000 
+2024-06-08T07:45:56.983Z [info]: Connected to MongoDB 
+2024-06-08T07:46:31.683Z [info]: Server is running on port 3000 
+2024-06-08T07:46:31.728Z [info]: Connected to MongoDB 
+2024-06-08T07:46:44.303Z [info]: Server is running on port 3000 
+2024-06-08T07:46:44.336Z [info]: Connected to MongoDB 
+2024-06-08T07:56:49.240Z [info]: Server is running on port 3000 
+2024-06-08T07:56:49.288Z [info]: Connected to MongoDB 
+2024-06-08T08:11:35.007Z [info]: Server is running on port 3000 
+2024-06-08T08:11:35.091Z [info]: Connected to MongoDB 
+2024-06-08T08:12:23.439Z [info]: Server is running on port 3000 
+2024-06-08T08:12:23.476Z [info]: Connected to MongoDB 
+2024-06-08T08:15:19.219Z [info]: Server is running on port 3000 
+2024-06-08T08:15:19.255Z [info]: Connected to MongoDB 
+2024-06-08T08:15:52.725Z [info]: Server is running on port 3000 
+2024-06-08T08:15:52.769Z [info]: Connected to MongoDB 
+2024-06-08T08:18:44.374Z [info]: Server is running on port 3000 
+2024-06-08T08:18:44.450Z [info]: Connected to MongoDB 
+2024-06-08T08:19:54.135Z [info]: Server is running on port 3000 
+2024-06-08T08:19:54.165Z [info]: Connected to MongoDB 
+2024-06-08T08:21:39.012Z [info]: Server is running on port 3000 
+2024-06-08T08:21:39.041Z [info]: Connected to MongoDB 
+2024-06-08T08:23:28.902Z [info]: Server is running on port 3000 
+2024-06-08T08:23:28.932Z [info]: Connected to MongoDB 
+2024-06-08T08:24:17.484Z [info]: Server is running on port 3000 
+2024-06-08T08:24:17.558Z [info]: Connected to MongoDB 
+2024-06-08T08:25:24.727Z [info]: Server is running on port 3000 
+2024-06-08T08:25:24.779Z [info]: Connected to MongoDB 
+2024-06-08T08:26:18.932Z [info]: Server is running on port 3000 
+2024-06-08T08:26:18.973Z [info]: Connected to MongoDB 
+2024-06-08T08:29:22.062Z [info]: Server is running on port 3000 
+2024-06-08T08:29:22.132Z [info]: Connected to MongoDB 
+2024-06-08T08:31:40.534Z [info]: Server is running on port 3000 
+2024-06-08T08:31:40.573Z [info]: Connected to MongoDB 
+2024-06-08T08:32:44.889Z [info]: Server is running on port 3000 
+2024-06-08T08:32:44.927Z [info]: Connected to MongoDB 
+2024-06-08T09:39:09.963Z [info]: Server is running on port 3000 
+2024-06-08T09:39:10.000Z [info]: Connected to MongoDB 
+2024-06-08T09:55:17.008Z [info]: Server is running on port 3000 
+2024-06-08T09:55:17.036Z [info]: Connected to MongoDB 
+2024-06-08T10:24:28.639Z [info]: Server is running on port 3000 
+2024-06-08T10:24:28.688Z [info]: Connected to MongoDB 
+2024-06-08T10:24:42.552Z [info]: Server is running on port 3000 
+2024-06-08T10:24:42.603Z [info]: Connected to MongoDB 
+2024-06-08T10:25:05.583Z [info]: Server is running on port 3000 
+2024-06-08T10:25:05.618Z [info]: Connected to MongoDB 
+2024-06-08T10:25:37.737Z [info]: Server is running on port 3000 
+2024-06-08T10:25:37.785Z [info]: Connected to MongoDB 
+2024-06-08T10:27:43.587Z [info]: Server is running on port 3000 
+2024-06-08T10:27:43.623Z [info]: Connected to MongoDB 
+2024-06-08T10:27:58.090Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717842477978.png",
+    "isDisabled": false,
+    "_id": "6664322e6948452ff22ce544",
+    "createdAt": "2024-06-08T10:27:58.056Z",
+    "updatedAt": "2024-06-08T10:27:58.057Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:28:29.367Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717842509300.png",
+    "isDisabled": false,
+    "_id": "6664324d6948452ff22ce546",
+    "createdAt": "2024-06-08T10:28:29.359Z",
+    "updatedAt": "2024-06-08T10:28:29.359Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:28:39.962Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717842519927.png",
+    "isDisabled": false,
+    "_id": "666432576948452ff22ce548",
+    "createdAt": "2024-06-08T10:28:39.953Z",
+    "updatedAt": "2024-06-08T10:28:39.953Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:30:42.002Z [info]: Retrieved all items 
+2024-06-08T10:31:17.041Z [info]: Retrieved all items 
+2024-06-08T10:31:53.111Z [info]: Retrieved all items 
+2024-06-08T10:31:59.281Z [info]: Retrieved all items 
+2024-06-08T10:32:23.047Z [info]: Retrieved all items 
+2024-06-08T10:32:55.193Z [info]: Server is running on port 3000 
+2024-06-08T10:32:55.241Z [info]: Connected to MongoDB 
+2024-06-08T10:34:20.039Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717842859979.png",
+    "isDisabled": false,
+    "_id": "666433acc09366ffccdac517",
+    "createdAt": "2024-06-08T10:34:20.016Z",
+    "updatedAt": "2024-06-08T10:34:20.016Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:34:30.905Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717842870879.png",
+    "isDisabled": false,
+    "_id": "666433b6c09366ffccdac519",
+    "createdAt": "2024-06-08T10:34:30.897Z",
+    "updatedAt": "2024-06-08T10:34:30.897Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:38:50.001Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "666434b9c09366ffccdac51b",
+    "__v": 0
+  }
+}
+2024-06-08T10:39:20.619Z [info]: Retrieved all items 
+2024-06-08T10:39:46.621Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "666434f2c09366ffccdac51e",
+    "__v": 0
+  }
+}
+2024-06-08T10:39:56.755Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "666434fcc09366ffccdac520",
+    "__v": 0
+  }
+}
+2024-06-08T10:40:22.695Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_en": "Updated Item in English...",
+    "description_en": "This is an updated description in English..."
+  }
+}
+2024-06-08T10:40:31.709Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-08T10:41:42.312Z [info]: Updated item {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_en": "Updated Item in English",
+    "description_en": "This is an updated description in English"
+  }
+}
+2024-06-08T10:41:51.382Z [info]: Updated item {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-08T10:42:44.869Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717843364842.png",
+    "isDisabled": false,
+    "_id": "666435a4c09366ffccdac528",
+    "createdAt": "2024-06-08T10:42:44.863Z",
+    "updatedAt": "2024-06-08T10:42:44.863Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:43:00.019Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717843379990.png",
+    "isDisabled": false,
+    "_id": "666435b4c09366ffccdac52a",
+    "createdAt": "2024-06-08T10:43:00.009Z",
+    "updatedAt": "2024-06-08T10:43:00.009Z",
+    "__v": 0
+  }
+}
+2024-06-08T10:45:05.648Z [info]: Retrieved all items 
+2024-06-08T10:46:18.411Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_en": "Updated Item in English",
+    "description_en": "This is an updated description in English"
+  }
+}
+2024-06-08T10:46:43.764Z [info]: Retrieved all items 
+2024-06-08T10:46:48.266Z [info]: Retrieved all items 
+2024-06-08T10:52:34.718Z [info]: Retrieved all items 
+2024-06-08T10:53:06.408Z [info]: Server is running on port 3000 
+2024-06-08T10:53:06.452Z [info]: Connected to MongoDB 
+2024-06-08T10:53:12.857Z [info]: Retrieved all items 
+2024-06-08T10:53:25.236Z [info]: Server is running on port 3000 
+2024-06-08T10:53:25.317Z [info]: Connected to MongoDB 
+2024-06-08T10:54:21.461Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666435b4c09366ffccdac52a",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils"
+  }
+}
+2024-06-08T10:54:35.771Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666435b4c09366ffccdac52a",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்"
+  }
+}
+2024-06-08T10:55:42.030Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666435a4c09366ffccdac528",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils"
+  }
+}
+2024-06-08T10:55:50.471Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "666435a4c09366ffccdac528",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils"
+  }
+}
+2024-06-08T10:56:42.065Z [warn]: Item not found for deletion {
+  "id": "666435a4c09366ffccdac528"
+}
+2024-06-08T10:56:42.071Z [info]: Deleted item {
+  "dltitem": null
+}
+2024-06-08T10:58:27.928Z [info]: Server is running on port 3000 
+2024-06-08T10:58:27.975Z [info]: Connected to MongoDB 
+2024-06-08T10:58:32.865Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "666433b6c09366ffccdac519",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils"
+  }
+}
+2024-06-08T11:10:22.672Z [info]: Item created {
+  "item": {
+    "title_en": "Aid in the promotion of education",
+    "title_ta": "கல்வி உயர்வுக்கு உதவுதல்",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717845022629.jpg",
+    "isDisabled": false,
+    "_id": "66643c1e6c221cd6d31c53f1",
+    "createdAt": "2024-06-08T11:10:22.653Z",
+    "updatedAt": "2024-06-08T11:10:22.653Z",
+    "__v": 0
+  }
+}
+2024-06-08T11:10:45.336Z [info]: Item created {
+  "item": {
+    "title_en": "Aid in the promotion of education",
+    "title_ta": "கல்வி உயர்வுக்கு உதவுதல்",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717845045321.jpg",
+    "isDisabled": false,
+    "_id": "66643c356c221cd6d31c53f3",
+    "createdAt": "2024-06-08T11:10:45.327Z",
+    "updatedAt": "2024-06-08T11:10:45.327Z",
+    "__v": 0
+  }
+}
+2024-06-08T11:10:52.960Z [info]: Item created {
+  "item": {
+    "title_en": "Aid in the promotion of education",
+    "title_ta": "கல்வி உயர்வுக்கு உதவுதல்",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717845052950.jpg",
+    "isDisabled": false,
+    "_id": "66643c3c6c221cd6d31c53f5",
+    "createdAt": "2024-06-08T11:10:52.954Z",
+    "updatedAt": "2024-06-08T11:10:52.954Z",
+    "__v": 0
+  }
+}
+2024-06-08T11:12:53.818Z [info]: Updated item {
+  "item": {
+    "_id": "666432576948452ff22ce548",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas"
+  }
+}
+2024-06-08T11:13:22.500Z [info]: Updated item {
+  "item": {
+    "_id": "666432576948452ff22ce548",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள்"
+  }
+}
+2024-06-08T11:20:58.399Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-08T11:21:06.849Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-08T11:24:10.309Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717845850282.jpg",
+    "isDisabled": false,
+    "_id": "66643f5a6c221cd6d31c53fb",
+    "createdAt": "2024-06-08T11:24:10.294Z",
+    "updatedAt": "2024-06-08T11:24:10.294Z",
+    "__v": 0
+  }
+}
+2024-06-08T16:12:18.368Z [info]: Retrieved all items 
+2024-06-08T16:13:27.366Z [info]: Server is running on port 3000 
+2024-06-08T16:13:27.407Z [info]: Connected to MongoDB 
+2024-06-08T16:13:48.881Z [info]: Server is running on port 3000 
+2024-06-08T16:13:48.926Z [info]: Connected to MongoDB 
+2024-06-08T16:14:25.409Z [info]: Server is running on port 3000 
+2024-06-08T16:14:25.448Z [info]: Connected to MongoDB 
+2024-06-08T16:16:09.294Z [info]: Server is running on port 3000 
+2024-06-08T16:16:09.347Z [info]: Connected to MongoDB 
+2024-06-08T16:16:46.690Z [info]: Server is running on port 3000 
+2024-06-08T16:16:46.728Z [info]: Connected to MongoDB 
+2024-06-08T16:18:21.685Z [info]: Server is running on port 3000 
+2024-06-08T16:18:21.719Z [info]: Connected to MongoDB 
+2024-06-08T16:19:54.595Z [info]: Server is running on port 3000 
+2024-06-08T16:19:54.635Z [info]: Connected to MongoDB 
+2024-06-08T16:21:23.738Z [info]: Retrieved all items 
+2024-06-08T16:22:07.815Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "6664852f355c1c9c20882238",
+    "__v": 0
+  }
+}
+2024-06-08T16:22:21.272Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-08T16:22:43.670Z [info]: Updated item {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-08T16:26:07.033Z [info]: Server is running on port 3000 
+2024-06-08T16:26:07.106Z [info]: Connected to MongoDB 
+2024-06-08T16:28:17.104Z [info]: Server is running on port 3000 
+2024-06-08T16:28:17.126Z [info]: Connected to MongoDB 
+2024-06-08T16:28:49.748Z [info]: Retrieved all items 
+2024-06-08T16:30:07.172Z [info]: Retrieved all items 
+2024-06-09T10:25:05.421Z [info]: Server is running on port 3000 
+2024-06-09T10:25:05.479Z [info]: Connected to MongoDB 
+2024-06-09T10:27:01.350Z [info]: Server is running on port 3000 
+2024-06-09T10:27:01.383Z [info]: Connected to MongoDB 
+2024-06-09T10:32:26.678Z [info]: Server is running on port 3000 
+2024-06-09T10:32:26.745Z [info]: Connected to MongoDB 
+2024-06-09T10:32:36.664Z [info]: Server is running on port 3000 
+2024-06-09T10:32:36.696Z [info]: Connected to MongoDB 
+2024-06-09T10:33:01.771Z [info]: Server is running on port 5000 
+2024-06-09T10:33:01.835Z [info]: Connected to MongoDB 
+2024-06-09T10:33:15.992Z [info]: Server is running on port 5000 
+2024-06-09T10:33:16.039Z [info]: Connected to MongoDB 
+2024-06-09T10:34:06.292Z [info]: Server is running on port 5000 
+2024-06-09T10:34:06.326Z [info]: Connected to MongoDB 
+2024-06-09T10:39:12.706Z [info]: Server is running on port 5000 
+2024-06-09T10:39:12.744Z [info]: Connected to MongoDB 
+2024-06-09T10:40:15.855Z [info]: Server is running on port 5000 
+2024-06-09T10:40:15.890Z [info]: Connected to MongoDB 
+2024-06-09T10:41:32.547Z [info]: Server is running on port 5000 
+2024-06-09T10:41:32.587Z [info]: Connected to MongoDB 
+2024-06-09T10:42:19.978Z [info]: Server is running on port 5000 
+2024-06-09T10:42:20.018Z [info]: Connected to MongoDB 
+2024-06-09T10:43:19.553Z [info]: Server is running on port 5000 
+2024-06-09T10:43:19.616Z [info]: Connected to MongoDB 
+2024-06-09T10:43:55.944Z [info]: Server is running on port 5000 
+2024-06-09T10:43:56.014Z [info]: Connected to MongoDB 
+2024-06-09T10:46:37.744Z [info]: Retrieved all items 
+2024-06-09T10:47:34.988Z [info]: Retrieved all items 
+2024-06-09T10:47:49.529Z [info]: Retrieved all items 
+2024-06-09T10:48:24.820Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66658878256ca4854ff252a6",
+    "__v": 0
+  }
+}
+2024-06-09T10:48:39.582Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66658887256ca4854ff252a8",
+    "__v": 0
+  }
+}
+2024-06-09T10:48:51.707Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_en": "Example Description",
+    "description_ta": "உதாரணம் விளக்கம்",
+    "_id": "66658893256ca4854ff252aa",
+    "__v": 0
+  }
+}
+2024-06-09T10:50:06.842Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-09T10:50:20.534Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66629a8a38e7234c4a90e55d",
+    "name_en": "Updated Item in English...",
+    "description_en": "This is an updated description in English..."
+  }
+}
+2024-06-09T10:51:05.180Z [info]: Updated item {
+  "item": {
+    "_id": "6662a5e7c910498199e468ff",
+    "name_ta": "புதுப்பிக்கப்பட்ட பொருள் தமிழ்!",
+    "description_ta": "இது தமிழில் புதுப்பிக்கப்பட்ட விளக்கம்!"
+  }
+}
+2024-06-09T10:52:32.375Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66658893256ca4854ff252aa",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-09T10:52:41.551Z [warn]: Item not found for deletion {
+  "id": "66658893256ca4854ff252aa"
+}
+2024-06-09T10:52:41.557Z [info]: Deleted item {
+  "dltitem": null
+}
+2024-06-09T10:52:58.046Z [info]: Server is running on port 5000 
+2024-06-09T10:52:58.085Z [info]: Connected to MongoDB 
+2024-06-09T10:53:18.415Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66658887256ca4854ff252a8",
+    "name_ta": "உதாரணம் பெயர்",
+    "description_ta": "உதாரணம் விளக்கம்"
+  }
+}
+2024-06-09T10:54:26.149Z [info]: Item created {
+  "item": {
+    "name_en": "Example Name!!",
+    "name_ta": "உதாரணம் பெயர்!!",
+    "description_en": "Example Description!!",
+    "description_ta": "உதாரணம் விளக்கம்!!",
+    "_id": "666589e2b2105d844b9a599e",
+    "__v": 0
+  }
+}
+2024-06-09T10:54:46.109Z [info]: Retrieved all items 
+2024-06-09T10:54:57.004Z [info]: Retrieved all items 
+2024-06-09T10:56:41.626Z [info]: Retrieved all items 
+2024-06-09T10:57:15.031Z [info]: Retrieved all items 
+2024-06-09T10:57:47.634Z [info]: Retrieved all items 
+2024-06-09T10:58:48.542Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666435b4c09366ffccdac52a",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா"
+  }
+}
+2024-06-09T10:59:34.548Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666435b4c09366ffccdac52a",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly"
+  }
+}
+2024-06-09T11:00:23.854Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-09T11:02:17.391Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717930937375.jpg",
+    "isDisabled": false,
+    "_id": "66658bb9b2105d844b9a59a7",
+    "createdAt": "2024-06-09T11:02:17.384Z",
+    "updatedAt": "2024-06-09T11:02:17.384Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:02:45.958Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717930965942.jpg",
+    "isDisabled": false,
+    "_id": "66658bd5b2105d844b9a59a9",
+    "createdAt": "2024-06-09T11:02:45.953Z",
+    "updatedAt": "2024-06-09T11:02:45.953Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:02:55.829Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1717930975809.jpg",
+    "isDisabled": false,
+    "_id": "66658bdfb2105d844b9a59ab",
+    "createdAt": "2024-06-09T11:02:55.822Z",
+    "updatedAt": "2024-06-09T11:02:55.822Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:04:04.752Z [info]: Updated item {
+  "item": {
+    "_id": "66658bdfb2105d844b9a59ab",
+    "title_ta": "கல்வி உயர்வுக்கு உதவுதல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள்",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா"
+  }
+}
+2024-06-09T11:04:33.951Z [info]: Updated item {
+  "item": {
+    "_id": "66658bdfb2105d844b9a59ab",
+    "title_en": "Aid in the promotion of education",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly"
+  }
+}
+2024-06-09T11:06:48.505Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66658bd5b2105d844b9a59a9",
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly"
+  }
+}
+2024-06-09T11:06:58.901Z [warn]: Item not found for deletion {
+  "id": "66658bd5b2105d844b9a59a9"
+}
+2024-06-09T11:06:58.908Z [info]: Deleted item {
+  "dltitem": null
+}
+2024-06-09T11:07:58.773Z [info]: Server is running on port 5000 
+2024-06-09T11:07:58.805Z [info]: Connected to MongoDB 
+2024-06-09T11:08:05.312Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66658bb9b2105d844b9a59a7",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா"
+  }
+}
+2024-06-09T11:08:14.548Z [warn]: Item not found for deletion {
+  "id": "66658bb9b2105d844b9a59a7"
+}
+2024-06-09T11:08:14.556Z [info]: Deleted item {
+  "dltitem": null
+}
+2024-06-09T11:09:27.801Z [info]: Server is running on port 5000 
+2024-06-09T11:09:27.843Z [info]: Connected to MongoDB 
+2024-06-09T11:10:31.172Z [info]: Server is running on port 5000 
+2024-06-09T11:10:31.210Z [info]: Connected to MongoDB 
+2024-06-09T11:10:42.683Z [info]: Retrieved all items 
+2024-06-09T11:11:36.222Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1717931496160.jpg",
+    "isDisabled": false,
+    "_id": "66658de8009e08bf3d5a3df3",
+    "createdAt": "2024-06-09T11:11:36.208Z",
+    "updatedAt": "2024-06-09T11:11:36.208Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:11:43.606Z [info]: Retrieved all items 
+2024-06-09T11:13:16.118Z [info]: Server is running on port 5000 
+2024-06-09T11:13:16.156Z [info]: Connected to MongoDB 
+2024-06-09T11:13:26.330Z [info]: Retrieved all items 
+2024-06-09T11:14:21.706Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1717931661659.jpg",
+    "isDisabled": false,
+    "_id": "66658e8d9e6994afd7579000",
+    "createdAt": "2024-06-09T11:14:21.692Z",
+    "updatedAt": "2024-06-09T11:14:21.692Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:14:43.907Z [info]: Retrieved all items 
+2024-06-09T11:17:44.200Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66658de8009e08bf3d5a3df3",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்"
+  }
+}
+2024-06-09T11:17:52.748Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66658de8009e08bf3d5a3df3",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Publication of Tamil books"
+  }
+}
+2024-06-09T11:21:16.159Z [info]: Updated item {
+  "item": {
+    "_id": "66658de8009e08bf3d5a3df3",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future."
+  }
+}
+2024-06-09T11:21:30.709Z [info]: Updated item {
+  "item": {
+    "_id": "66658de8009e08bf3d5a3df3",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்"
+  }
+}
+2024-06-09T11:22:24.838Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66658e8d9e6994afd7579000",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்"
+  }
+}
+2024-06-09T11:25:02.264Z [info]: Server is running on port 5000 
+2024-06-09T11:25:02.301Z [info]: Connected to MongoDB 
+2024-06-09T11:26:11.948Z [info]: Server is running on port 5000 
+2024-06-09T11:26:11.992Z [info]: Connected to MongoDB 
+2024-06-09T11:26:28.122Z [info]: Server is running on port 5000 
+2024-06-09T11:26:28.170Z [info]: Connected to MongoDB 
+2024-06-09T11:26:38.631Z [info]: Server is running on port 5000 
+2024-06-09T11:26:38.671Z [info]: Connected to MongoDB 
+2024-06-09T11:27:16.138Z [info]: Server is running on port 5000 
+2024-06-09T11:27:16.176Z [info]: Connected to MongoDB 
+2024-06-09T11:27:27.954Z [info]: Server is running on port 5000 
+2024-06-09T11:27:27.987Z [info]: Connected to MongoDB 
+2024-06-09T11:28:12.659Z [info]: Server is running on port 5000 
+2024-06-09T11:28:12.702Z [info]: Connected to MongoDB 
+2024-06-09T11:29:04.178Z [info]: Server is running on port 5000 
+2024-06-09T11:29:04.212Z [info]: Connected to MongoDB 
+2024-06-09T11:30:08.717Z [info]: Server is running on port 5000 
+2024-06-09T11:30:08.757Z [info]: Connected to MongoDB 
+2024-06-09T11:31:18.153Z [info]: Server is running on port 5000 
+2024-06-09T11:31:18.201Z [info]: Connected to MongoDB 
+2024-06-09T11:32:17.387Z [info]: Server is running on port 5000 
+2024-06-09T11:32:17.417Z [info]: Connected to MongoDB 
+2024-06-09T11:33:22.213Z [info]: Retrieved all items 
+2024-06-09T11:33:33.512Z [info]: Retrieved all items 
+2024-06-09T11:37:18.168Z [error]: Error creating item {
+  "error": "Festival validation failed: description_ta: Path `description_ta` is required."
+}
+2024-06-09T11:37:33.796Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1717933053776.jpg",
+    "isDisabled": false,
+    "_id": "666593fd35ffb4f716682566",
+    "createdAt": "2024-06-09T11:37:33.784Z",
+    "updatedAt": "2024-06-09T11:37:33.784Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:37:54.219Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1717933074204.jpg",
+    "isDisabled": false,
+    "_id": "6665941235ffb4f716682568",
+    "createdAt": "2024-06-09T11:37:54.215Z",
+    "updatedAt": "2024-06-09T11:37:54.215Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:38:18.188Z [info]: Retrieved all items 
+2024-06-09T11:38:34.120Z [info]: Retrieved all items 
+2024-06-09T11:38:42.434Z [info]: Retrieved all items 
+2024-06-09T11:39:55.081Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666593fd35ffb4f716682566",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்"
+  }
+}
+2024-06-09T11:40:03.617Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666593fd35ffb4f716682566",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils"
+  }
+}
+2024-06-09T11:43:54.808Z [info]: Updated item {
+  "item": {
+    "_id": "666593fd35ffb4f716682566",
+    "title_en": "World Tamil Flag!!..",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils"
+  }
+}
+2024-06-09T11:44:07.971Z [info]: Updated item {
+  "item": {
+    "_id": "666593fd35ffb4f716682566",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம்!!..",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்"
+  }
+}
+2024-06-09T11:44:31.086Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1717933471076.jpg",
+    "isDisabled": false,
+    "_id": "6665959f35ffb4f716682573",
+    "createdAt": "2024-06-09T11:44:31.082Z",
+    "updatedAt": "2024-06-09T11:44:31.082Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:45:30.832Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6665959f35ffb4f716682573",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்"
+  }
+}
+2024-06-09T11:45:39.881Z [warn]: Item not found for deletion {
+  "id": "6665959f35ffb4f716682573"
+}
+2024-06-09T11:45:39.890Z [info]: Deleted item {
+  "dltitem": null
+}
+2024-06-09T11:45:55.014Z [info]: Server is running on port 5000 
+2024-06-09T11:45:55.060Z [info]: Connected to MongoDB 
+2024-06-09T11:46:05.823Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1717933565769.jpg",
+    "isDisabled": false,
+    "_id": "666595fd09253c9771c4bb5f",
+    "createdAt": "2024-06-09T11:46:05.805Z",
+    "updatedAt": "2024-06-09T11:46:05.805Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:46:16.846Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1717933576788.jpg",
+    "isDisabled": false,
+    "_id": "6665960809253c9771c4bb61",
+    "createdAt": "2024-06-09T11:46:16.840Z",
+    "updatedAt": "2024-06-09T11:46:16.840Z",
+    "__v": 0
+  }
+}
+2024-06-09T11:46:46.932Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6665960809253c9771c4bb61",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்"
+  }
+}
+2024-06-09T11:47:32.195Z [info]: Retrieved all items 
+2024-06-09T11:51:11.379Z [info]: Retrieved all items 
+2024-06-09T11:51:41.519Z [info]: Server is running on port 5000 
+2024-06-09T11:51:41.592Z [info]: Connected to MongoDB 
