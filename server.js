@@ -7,12 +7,16 @@ const newsRoutes = require('./routes/newsRoutes');
 const festivalRoutes = require('./routes/festivalRoutes');
 const contactformRoutes = require('./routes/contactformRoutes');
 const logger = require('./logger');
+const cors = require('cors');
+
+require('dotenv').config();
 
 const app = express();
 app.use(bodyParser.json());
+app.use(cors());
 
 // Connect to MongoDB
-mongoose.connect('mongodb://localhost:27017/Worldtamilsiragam', {
+mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })

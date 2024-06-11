@@ -2768,3 +2768,39 @@
 2024-06-11T09:26:24.678Z [info]: Email sent: 250 2.0.0 OK  1718097985 41be03b00d2f7-6e93c399118sm4384734a12.58 - gsmtp {
   "statusCode": 200
 }
+2024-06-11T09:46:41.333Z [info]: Server is running on port 5000 
+2024-06-11T09:46:41.347Z [info]: Connected to MongoDB 
+2024-06-11T09:46:48.808Z [info]: Contact user added: Sneka1 {
+  "statusCode": 200
+}
+2024-06-11T09:46:51.172Z [info]: Email sent: 250 2.0.0 OK  1718099212 d9443c01a7336-1f6fbc25401sm51695405ad.171 - gsmtp {
+  "statusCode": 200
+}
+2024-06-11T10:03:44.846Z [info]: Server is running on port 5000 
+2024-06-11T10:03:44.894Z [info]: Connected to MongoDB 
+2024-06-11T11:14:23.024Z [info]: Server is running on port 5000 
+2024-06-11T11:14:23.059Z [info]: Connected to MongoDB 
+2024-06-11T11:14:36.809Z [info]: Server is running on port 5000 
+2024-06-11T11:14:36.856Z [info]: Connected to MongoDB 
+2024-06-11T11:15:23.402Z [error]: Error creating item {
+  "error": "db already exists with different case already have: [Worldtamilsiragam] trying to create [worldtamilsiragam]"
+}
+2024-06-11T11:16:50.146Z [info]: Server is running on port 5000 
+2024-06-11T11:16:50.176Z [info]: Connected to MongoDB 
+2024-06-11T11:16:56.896Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1718104616861.png",
+    "isDisabled": false,
+    "_id": "66683228b8a8c9ffe6b04f48",
+    "createdAt": "2024-06-11T11:16:56.886Z",
+    "updatedAt": "2024-06-11T11:16:56.886Z",
+    "__v": 0
+  }
+}
+2024-06-11T14:32:30.210Z [info]: Server is running on port 5000 
+2024-06-11T14:32:30.253Z [info]: Connected to MongoDB 
+2024-06-11T14:32:59.028Z [info]: Retrieved all items 

@@ -32,27 +32,3 @@ const STATUS_CODES = {
 module.exports = { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES };
 
 
-
-
-
-// // export const TAMIL_MESSAGE={
-// //     "CREATE_SUCC":"Created Successfully!",
-// //     "CREATE_FAIL":"Fail to Create"
-// // };
-// module.exports = {
-//     TAMIL_MESSAGE:{
-//     "CREATE_SUCC":"வெற்றிகரமாக உருவாக்கியது",
-//     "CREATE_FAIL":"உருவாக்க முடியவில்லை"
-// }}
-// // module.export= TAMIL_MESSAGE;
-
-// // export const ENGLISH_MESSAGE={
-// //     "CREATE_SUCC":"Created Successfully",
-// //     "CREATE_FAIL":"Fail to Create"
-// // };
-// // module.export= ENGLISH_MESSAGE;
-// module.exports = {
-//     ENGLISH_MESSAGE:{
-//     "CREATE_SUCC":"Created Successfully",
-//     "CREATE_FAIL":"Fail to Create"
-// }}

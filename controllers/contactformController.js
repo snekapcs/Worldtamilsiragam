@@ -21,8 +21,8 @@ const createContactForm = async (req, res) => {
         const transporter = nodeMail.createTransport({
             service: "gmail",
             auth: {
-                user: "kalaiarsankan1426@gmail.com",
-                pass: "xvql zjlb fhqk elln",
+                user: process.env.GMAIL_USER,
+                pass: process.env.PASSWORD,
             },
         });
 
@@ -56,4 +56,41 @@ const createContactForm = async (req, res) => {
     }
 };
 
-module.exports = { createContactForm };
+const getContactForms = async (req, res) => {
+    try {
+        const contactForms = await ContactformModel.find({});
+        res.status(200).json(contactForms);
+    } catch (error) {
+        logger.error(`Error retrieving contact forms: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
+        res.status(500).json({ error: "An error occurred while retrieving contact forms" });
+    }
+};
+
+const updateContactForm = async (req, res) => {
+    const { id } = req.params;
+    const { name, email, liveFrom, interestedIn, message } = req.body;
+
+    try {
+        const updatedContactForm = await ContactformModel.findByIdAndUpdate(
+            id, 
+            { name, email, liveFrom, interestedIn, message },
+            { new: true } 
+        );
+
+        if (!updatedContactForm) {
+            return res.status(404).json({ error: "Contact form not found" });
+        }
+
+        res.status(200).json(updatedContactForm);
+    } catch (error) {
+        logger.error(`Error updating contact form: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
+        res.status(500).json({ error: "An error occurred while updating the contact form" });
+    }
+};
+
+
+module.exports = {
+    createContactForm,
+    getContactForms,
+    updateContactForm
+};

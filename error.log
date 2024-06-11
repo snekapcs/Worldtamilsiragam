@@ -173,3 +173,6 @@
 2024-06-11T08:02:59.672Z [error]: Error sending email: Missing credentials for "PLAIN" {
   "statusCode": 500
 }
+2024-06-11T11:15:23.402Z [error]: Error creating item {
+  "error": "db already exists with different case already have: [Worldtamilsiragam] trying to create [worldtamilsiragam]"
+}
