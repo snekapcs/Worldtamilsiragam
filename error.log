@@ -139,3 +139,37 @@
 2024-06-10T16:53:57.363Z [error]: Error deleting item {
   "error": "Cannot set headers after they are sent to the client"
 }
+2024-06-11T07:08:11.971Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:13:16.786Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:14:58.669Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:32:48.929Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:35:03.180Z [error]: Error: Missing credentials for "PLAIN" 
+2024-06-11T07:38:22.868Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:45:48.606Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:50:25.089Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:50:44.522Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T07:54:58.465Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T08:01:12.216Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-11T08:02:59.672Z [error]: Error sending email: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}

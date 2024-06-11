@@ -5,6 +5,7 @@ const multilingualRoutes = require('./routes/multilingualRoutes');
 const visionRoutes = require('./routes/visionRoutes');
 const newsRoutes = require('./routes/newsRoutes');
 const festivalRoutes = require('./routes/festivalRoutes');
+const contactformRoutes = require('./routes/contactformRoutes');
 const logger = require('./logger');
 
 const app = express();
@@ -23,6 +24,7 @@ app.use('/api', multilingualRoutes);
 app.use('/api/vision', visionRoutes);
 app.use('/api/news', newsRoutes);
 app.use('/api/festival', festivalRoutes);
+app.use('/api/contact', contactformRoutes);
 
 // Start the server
 const PORT = process.env.PORT || 5000;
