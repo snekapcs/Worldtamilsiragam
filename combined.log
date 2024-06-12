@@ -2812,3 +2812,215 @@
 2024-06-11T14:59:12.748Z [info]: Retrieved all items 
 2024-06-11T15:39:22.015Z [info]: Server is running on port 5000 
 2024-06-11T15:39:22.071Z [info]: Connected to MongoDB 
+2024-06-12T05:29:38.812Z [info]: Server is running on port 5000 
+2024-06-12T05:29:38.831Z [info]: Connected to MongoDB 
+2024-06-12T05:36:41.539Z [info]: Server is running on port 5000 
+2024-06-12T05:36:41.567Z [info]: Connected to MongoDB 
+2024-06-12T09:58:43.065Z [info]: Server is running on port 5000 
+2024-06-12T09:58:43.116Z [info]: Connected to MongoDB 
+2024-06-12T09:59:50.597Z [info]: Server is running on port 5000 
+2024-06-12T09:59:50.625Z [info]: Connected to MongoDB 
+2024-06-12T10:00:02.966Z [info]: Contact user added: Sneka1 {
+  "statusCode": 200
+}
+2024-06-12T10:00:04.391Z [error]: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-704228c2c74sm7372883b3a.209 - gsmtp {
+  "statusCode": 500
+}
+2024-06-12T11:15:27.999Z [info]: Server is running on port 5000 
+2024-06-12T11:15:28.095Z [info]: Connected to MongoDB 
+2024-06-12T11:15:50.887Z [info]: Retrieved all items 
+2024-06-12T11:15:54.388Z [info]: Contact user added: Sneka1 {
+  "statusCode": 200
+}
+2024-06-12T11:15:55.414Z [error]: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1f73f66fe4esm22727925ad.102 - gsmtp {
+  "statusCode": 500
+}
+2024-06-12T11:17:16.426Z [info]: Server is running on port 5000 
+2024-06-12T11:17:16.485Z [info]: Connected to MongoDB 
+2024-06-12T11:17:22.422Z [info]: Retrieved all items 
+2024-06-12T11:17:31.971Z [info]: Retrieved all items 
+2024-06-12T11:50:48.994Z [info]: Server is running on port 5000 
+2024-06-12T11:50:49.092Z [info]: Connected to MongoDB 
+2024-06-12T11:54:00.572Z [info]: Server is running on port 5000 
+2024-06-12T11:54:00.654Z [info]: Connected to MongoDB 
+2024-06-12T11:56:38.427Z [info]: Server is running on port 5000 
+2024-06-12T11:56:38.515Z [info]: Connected to MongoDB 
+2024-06-12T12:05:25.303Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1718193925208.png",
+    "isDisabled": false,
+    "_id": "66698f055640ef00033f0c70",
+    "createdAt": "2024-06-12T12:05:25.273Z",
+    "updatedAt": "2024-06-12T12:05:25.273Z",
+    "__v": 0
+  }
+}
+2024-06-12T12:08:22.825Z [info]: Server is running on port 5000 
+2024-06-12T12:08:22.869Z [info]: Connected to MongoDB 
+2024-06-12T12:08:49.289Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1718194129218.png",
+    "isDisabled": false,
+    "_id": "66698fd1da04c1e5e2fc8f75",
+    "createdAt": "2024-06-12T12:08:49.271Z",
+    "updatedAt": "2024-06-12T12:08:49.271Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:23:56.865Z [info]: Server is running on port 5000 
+2024-06-12T13:23:56.920Z [info]: Connected to MongoDB 
+2024-06-12T13:24:21.344Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "666435b4c09366ffccdac52a",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photocopy books, today's paper book, sound, optical fibers, microfilm, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1717843379990.png"
+  }
+}
+2024-06-12T13:24:33.773Z [info]: Retrieved all items 
+2024-06-12T13:24:43.880Z [info]: Retrieved all items 
+2024-06-12T13:27:41.535Z [info]: Contact user added: Sneka1 {
+  "statusCode": 200
+}
+2024-06-12T13:27:44.535Z [info]: Email sent: 250 2.0.0 OK  1718198865 d9443c01a7336-1f6d6617394sm102242885ad.261 - gsmtp {
+  "statusCode": 200
+}
+2024-06-12T13:29:46.735Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1718198986714.png",
+    "isDisabled": false,
+    "_id": "6669a2ca4e20abd7cec4cb14",
+    "createdAt": "2024-06-12T13:29:46.727Z",
+    "updatedAt": "2024-06-12T13:29:46.727Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:29:49.974Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1718198989956.png",
+    "isDisabled": false,
+    "_id": "6669a2cd4e20abd7cec4cb16",
+    "createdAt": "2024-06-12T13:29:49.966Z",
+    "updatedAt": "2024-06-12T13:29:49.966Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:29:51.775Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1718198991750.png",
+    "isDisabled": false,
+    "_id": "6669a2cf4e20abd7cec4cb18",
+    "createdAt": "2024-06-12T13:29:51.763Z",
+    "updatedAt": "2024-06-12T13:29:51.763Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:30:35.164Z [info]: Retrieved all items 
+2024-06-12T13:31:47.089Z [info]: Retrieved all items 
+2024-06-12T13:32:06.530Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1718199126485.png",
+    "isDisabled": false,
+    "_id": "6669a3564e20abd7cec4cb1c",
+    "createdAt": "2024-06-12T13:32:06.520Z",
+    "updatedAt": "2024-06-12T13:32:06.520Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:32:09.079Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1718199129041.png",
+    "isDisabled": false,
+    "_id": "6669a3594e20abd7cec4cb1e",
+    "createdAt": "2024-06-12T13:32:09.067Z",
+    "updatedAt": "2024-06-12T13:32:09.067Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:33:01.563Z [warn]: Item not found {
+  "id": "666593fd35ffb4f716682566"
+}
+2024-06-12T13:33:07.827Z [info]: Retrieved all items 
+2024-06-12T13:33:35.192Z [info]: Retrieved all items 
+2024-06-12T13:33:55.123Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1718199235085.png",
+    "isDisabled": false,
+    "_id": "6669a3c34e20abd7cec4cb23",
+    "createdAt": "2024-06-12T13:33:55.115Z",
+    "updatedAt": "2024-06-12T13:33:55.115Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:34:06.681Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-06-12T13:34:15.434Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1718199255415.png",
+    "isDisabled": false,
+    "_id": "6669a3d74e20abd7cec4cb25",
+    "createdAt": "2024-06-12T13:34:15.428Z",
+    "updatedAt": "2024-06-12T13:34:15.428Z",
+    "__v": 0
+  }
+}
+2024-06-12T13:34:30.707Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Publication of Tamil books",
+    "description_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "image": "image-1718199270696.png",
+    "isDisabled": false,
+    "_id": "6669a3e64e20abd7cec4cb27",
+    "createdAt": "2024-06-12T13:34:30.703Z",
+    "updatedAt": "2024-06-12T13:34:30.703Z",
+    "__v": 0
+  }
+}

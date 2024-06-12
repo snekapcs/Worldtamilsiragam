@@ -17,6 +17,7 @@ app.use(cors());
 
 // // Serve uploaded files
 // app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+app.use('/public', express.static(__dirname + '/public'));
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URL, {
@@ -32,6 +33,7 @@ app.use('/api/vision', visionRoutes);
 app.use('/api/news', newsRoutes);
 app.use('/api/festival', festivalRoutes);
 app.use('/api/contact', contactformRoutes);
+
 
 // Start the server
 const PORT = process.env.PORT || 5000;

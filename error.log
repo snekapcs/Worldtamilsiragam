@@ -176,3 +176,14 @@
 2024-06-11T11:15:23.402Z [error]: Error creating item {
   "error": "db already exists with different case already have: [Worldtamilsiragam] trying to create [worldtamilsiragam]"
 }
+2024-06-12T10:00:04.391Z [error]: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-704228c2c74sm7372883b3a.209 - gsmtp {
+  "statusCode": 500
+}
+2024-06-12T11:15:55.414Z [error]: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1f73f66fe4esm22727925ad.102 - gsmtp {
+  "statusCode": 500
+}
+2024-06-12T13:34:06.681Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
