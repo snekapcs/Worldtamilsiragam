@@ -65,9 +65,9 @@ const getAllItems = async (req, res) => {
     try {
         let selectedValue;
         if (req.query.lang === "TA") {
-            selectedValue = 'title_ta description_ta _id';
+            selectedValue = 'title_ta description_ta image _id';
         } else {
-            selectedValue = 'title_en description_en _id';
+            selectedValue = 'title_en description_en image _id';
         }
 
         const items = await FestivalModel.find({}, selectedValue);
@@ -116,9 +116,9 @@ const getItemById = async (req, res) => {
     try {
         let selectedValue;
         if (req.query.lang === "TA") {
-            selectedValue = 'title_ta description_ta _id';
+            selectedValue = 'title_ta description_ta image _id';
         } else {
-            selectedValue = 'title_en description_en _id';
+            selectedValue = 'title_en description_en image _id';
         }
 
         const item = await FestivalModel.findById(req.params.id, selectedValue);
@@ -228,9 +228,9 @@ const updateItem = async (req, res) => {
 
             let selectedValue;
             if (req.query.lang === "TA") {
-                selectedValue = 'title_ta description_ta _id';
+                selectedValue = 'title_ta description_ta image _id';
             } else {
-                selectedValue = 'title_en description_en _id';
+                selectedValue = 'title_en description_en image _id';
             }
 
             const updatedItem = await FestivalModel.findById(req.params.id, selectedValue);
@@ -280,9 +280,9 @@ const deleteItem = async (req, res) => {
     try {
         let selectedFields;
         if (req.query.lang === "TA") {
-            selectedFields = 'title_ta description_ta _id';
+            selectedFields = 'title_ta description_ta image _id';
         } else {
-            selectedFields = 'title_en description_en _id';
+            selectedFields = 'title_en description_en image _id';
         }
 
         const dltitem = await FestivalModel.findById(req.params.id).select(selectedFields);

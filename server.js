@@ -15,6 +15,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
+// // Serve uploaded files
+// app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
