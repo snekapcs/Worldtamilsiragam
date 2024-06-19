@@ -3024,3 +3024,794 @@
     "__v": 0
   }
 }
+2024-06-13T05:08:05.530Z [info]: Server is running on port 5000 
+2024-06-13T05:08:05.545Z [info]: Connected to MongoDB 
+2024-06-13T05:24:28.654Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1718256268627.png",
+    "isDisabled": false,
+    "_id": "666a828c2c671db3f435be13",
+    "createdAt": "2024-06-13T05:24:28.645Z",
+    "updatedAt": "2024-06-13T05:24:28.645Z",
+    "__v": 0
+  }
+}
+2024-06-13T05:26:33.882Z [info]: Item created {
+  "item": {
+    "title_en": "A statue for those who served Tamil",
+    "title_ta": "தமிழினத்திற்கு  தொண்டாற்றியவர்களுக்கு சிலை",
+    "description_en": "Tamil books, weeklies and Monday magazines to be published in the near future",
+    "description_ta": "இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1718256393875.png",
+    "isDisabled": false,
+    "_id": "666a83092c671db3f435be15",
+    "createdAt": "2024-06-13T05:26:33.879Z",
+    "updatedAt": "2024-06-13T05:26:33.879Z",
+    "__v": 0
+  }
+}
+2024-06-13T05:28:07.331Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்",
+    "image": "image-1718256487323.png",
+    "isDisabled": false,
+    "_id": "666a83672c671db3f435be17",
+    "createdAt": "2024-06-13T05:28:07.329Z",
+    "updatedAt": "2024-06-13T05:28:07.329Z",
+    "__v": 0
+  }
+}
+2024-06-13T15:55:28.549Z [warn]: Item not found {
+  "id": "666435b4c09366ffccdac52a"
+}
+2024-06-13T15:55:54.925Z [info]: Server is running on port 5000 
+2024-06-13T15:55:55.026Z [info]: Connected to MongoDB 
+2024-06-13T15:56:03.440Z [info]: Retrieved all items 
+2024-06-14T05:00:29.763Z [info]: Server is running on port 5000 
+2024-06-14T05:00:29.802Z [info]: Connected to MongoDB 
+2024-06-14T05:04:26.086Z [info]: Server is running on port 5000 
+2024-06-14T05:04:26.146Z [info]: Connected to MongoDB 
+2024-06-14T11:41:05.866Z [info]: Retrieved all items 
+2024-06-14T11:42:40.315Z [info]: Retrieved all items 
+2024-06-14T11:42:40.341Z [info]: Retrieved all items 
+2024-06-14T11:43:22.279Z [info]: Retrieved all items 
+2024-06-14T11:43:22.337Z [info]: Retrieved all items 
+2024-06-14T11:44:28.663Z [info]: Retrieved all items 
+2024-06-14T11:44:28.674Z [info]: Retrieved all items 
+2024-06-14T11:45:32.527Z [info]: Retrieved all items 
+2024-06-14T11:46:47.271Z [info]: Retrieved all items 
+2024-06-14T11:46:47.283Z [info]: Retrieved all items 
+2024-06-14T11:46:56.784Z [info]: Retrieved all items 
+2024-06-14T11:46:56.796Z [info]: Retrieved all items 
+2024-06-14T11:47:14.258Z [info]: Retrieved all items 
+2024-06-14T11:47:27.720Z [info]: Retrieved all items 
+2024-06-14T11:47:44.011Z [info]: Retrieved all items 
+2024-06-14T11:48:19.264Z [info]: Retrieved all items 
+2024-06-14T11:48:19.271Z [info]: Retrieved all items 
+2024-06-14T11:48:23.391Z [info]: Retrieved all items 
+2024-06-14T11:48:23.449Z [info]: Retrieved all items 
+2024-06-14T11:48:32.547Z [info]: Retrieved all items 
+2024-06-14T11:48:32.561Z [info]: Retrieved all items 
+2024-06-14T11:48:34.768Z [info]: Retrieved all items 
+2024-06-14T11:48:34.780Z [info]: Retrieved all items 
+2024-06-14T11:48:36.140Z [info]: Retrieved all items 
+2024-06-14T11:48:36.148Z [info]: Retrieved all items 
+2024-06-14T11:48:46.314Z [info]: Retrieved all items 
+2024-06-14T11:48:46.330Z [info]: Retrieved all items 
+2024-06-14T11:50:47.258Z [info]: Retrieved all items 
+2024-06-14T11:50:47.273Z [info]: Retrieved all items 
+2024-06-14T11:50:49.106Z [info]: Retrieved all items 
+2024-06-14T11:50:49.164Z [info]: Retrieved all items 
+2024-06-14T11:50:56.807Z [info]: Retrieved all items 
+2024-06-14T11:50:56.824Z [info]: Retrieved all items 
+2024-06-14T11:51:01.413Z [info]: Retrieved all items 
+2024-06-14T11:51:01.428Z [info]: Retrieved all items 
+2024-06-14T11:51:14.082Z [info]: Retrieved all items 
+2024-06-14T11:51:14.095Z [info]: Retrieved all items 
+2024-06-14T11:53:26.452Z [info]: Retrieved all items 
+2024-06-14T11:53:26.467Z [info]: Retrieved all items 
+2024-06-14T11:56:26.303Z [info]: Retrieved all items 
+2024-06-14T11:56:26.319Z [info]: Retrieved all items 
+2024-06-14T11:58:15.282Z [info]: Retrieved all items 
+2024-06-14T11:59:22.689Z [info]: Retrieved all items 
+2024-06-14T11:59:22.696Z [info]: Retrieved all items 
+2024-06-14T11:59:50.273Z [info]: Retrieved all items 
+2024-06-14T11:59:50.284Z [info]: Retrieved all items 
+2024-06-14T12:00:09.727Z [info]: Retrieved all items 
+2024-06-14T12:00:09.737Z [info]: Retrieved all items 
+2024-06-14T12:01:01.847Z [info]: Retrieved all items 
+2024-06-14T12:01:01.854Z [info]: Retrieved all items 
+2024-06-14T12:01:03.694Z [info]: Retrieved all items 
+2024-06-14T12:01:03.703Z [info]: Retrieved all items 
+2024-06-14T12:01:05.023Z [info]: Retrieved all items 
+2024-06-14T12:01:05.034Z [info]: Retrieved all items 
+2024-06-14T12:03:19.356Z [info]: Retrieved all items 
+2024-06-14T12:03:19.375Z [info]: Retrieved all items 
+2024-06-14T12:03:43.728Z [info]: Retrieved all items 
+2024-06-14T12:03:43.735Z [info]: Retrieved all items 
+2024-06-14T12:04:55.708Z [info]: Retrieved all items 
+2024-06-14T12:04:55.724Z [info]: Retrieved all items 
+2024-06-14T12:04:57.033Z [info]: Retrieved all items 
+2024-06-14T12:04:57.046Z [info]: Retrieved all items 
+2024-06-14T12:04:58.394Z [info]: Retrieved all items 
+2024-06-14T12:04:58.408Z [info]: Retrieved all items 
+2024-06-14T12:08:54.271Z [info]: Retrieved all items 
+2024-06-14T12:08:54.286Z [info]: Retrieved all items 
+2024-06-14T12:08:58.560Z [info]: Retrieved all items 
+2024-06-14T12:08:58.569Z [info]: Retrieved all items 
+2024-06-14T12:09:04.596Z [info]: Retrieved all items 
+2024-06-14T12:09:04.604Z [info]: Retrieved all items 
+2024-06-14T12:09:05.621Z [info]: Retrieved all items 
+2024-06-14T12:09:05.634Z [info]: Retrieved all items 
+2024-06-14T12:09:07.097Z [info]: Retrieved all items 
+2024-06-14T12:09:07.107Z [info]: Retrieved all items 
+2024-06-14T12:13:28.313Z [info]: Retrieved all items 
+2024-06-14T12:13:28.322Z [info]: Retrieved all items 
+2024-06-14T12:15:34.323Z [info]: Retrieved all items 
+2024-06-14T12:15:34.339Z [info]: Retrieved all items 
+2024-06-14T12:16:02.919Z [info]: Retrieved all items 
+2024-06-14T12:16:02.926Z [info]: Retrieved all items 
+2024-06-14T12:16:04.518Z [info]: Retrieved all items 
+2024-06-14T12:16:04.530Z [info]: Retrieved all items 
+2024-06-14T12:16:06.326Z [info]: Retrieved all items 
+2024-06-14T12:16:06.333Z [info]: Retrieved all items 
+2024-06-14T12:18:31.276Z [info]: Retrieved all items 
+2024-06-14T12:18:31.336Z [info]: Retrieved all items 
+2024-06-14T12:18:53.622Z [info]: Retrieved all items 
+2024-06-14T12:20:01.270Z [info]: Retrieved all items 
+2024-06-14T12:20:12.366Z [info]: Retrieved all items 
+2024-06-14T12:20:12.387Z [info]: Retrieved all items 
+2024-06-14T12:20:31.325Z [info]: Retrieved all items 
+2024-06-14T12:21:09.060Z [info]: Retrieved all items 
+2024-06-14T12:21:09.074Z [info]: Retrieved all items 
+2024-06-14T12:21:10.777Z [info]: Retrieved all items 
+2024-06-14T12:21:10.790Z [info]: Retrieved all items 
+2024-06-14T12:21:12.342Z [info]: Retrieved all items 
+2024-06-14T12:21:12.355Z [info]: Retrieved all items 
+2024-06-14T12:22:13.209Z [info]: Retrieved all items 
+2024-06-14T12:22:13.220Z [info]: Retrieved all items 
+2024-06-14T12:22:14.955Z [info]: Retrieved all items 
+2024-06-14T12:22:14.969Z [info]: Retrieved all items 
+2024-06-14T12:22:22.371Z [info]: Retrieved all items 
+2024-06-14T12:22:22.386Z [info]: Retrieved all items 
+2024-06-14T12:22:25.010Z [info]: Retrieved all items 
+2024-06-14T12:22:25.024Z [info]: Retrieved all items 
+2024-06-14T12:22:28.621Z [info]: Retrieved all items 
+2024-06-14T12:22:28.635Z [info]: Retrieved all items 
+2024-06-14T12:23:07.494Z [info]: Retrieved all items 
+2024-06-14T12:26:03.719Z [info]: Retrieved all items 
+2024-06-14T12:26:03.727Z [info]: Retrieved all items 
+2024-06-14T12:26:05.278Z [info]: Retrieved all items 
+2024-06-14T12:26:05.292Z [info]: Retrieved all items 
+2024-06-14T12:26:06.795Z [info]: Retrieved all items 
+2024-06-14T12:26:06.807Z [info]: Retrieved all items 
+2024-06-14T17:06:16.530Z [info]: Retrieved all items 
+2024-06-14T17:06:16.541Z [info]: Retrieved all items 
+2024-06-14T17:06:23.823Z [info]: Retrieved all items 
+2024-06-14T17:06:23.829Z [info]: Retrieved all items 
+2024-06-14T17:07:10.253Z [info]: Retrieved all items 
+2024-06-14T17:07:10.262Z [info]: Retrieved all items 
+2024-06-14T17:07:19.753Z [info]: Retrieved all items 
+2024-06-14T17:07:19.762Z [info]: Retrieved all items 
+2024-06-14T17:07:21.538Z [info]: Retrieved all items 
+2024-06-14T17:07:21.549Z [info]: Retrieved all items 
+2024-06-14T17:07:38.202Z [info]: Retrieved all items 
+2024-06-14T17:07:38.213Z [info]: Retrieved all items 
+2024-06-14T17:07:51.302Z [info]: Retrieved all items 
+2024-06-14T17:07:51.308Z [info]: Retrieved all items 
+2024-06-14T17:10:11.866Z [info]: Retrieved all items 
+2024-06-14T17:10:11.874Z [info]: Retrieved all items 
+2024-06-14T17:10:14.068Z [info]: Retrieved all items 
+2024-06-14T17:10:14.076Z [info]: Retrieved all items 
+2024-06-18T04:52:10.651Z [info]: Server is running on port 5000 
+2024-06-18T04:52:10.672Z [info]: Connected to MongoDB 
+2024-06-18T04:53:16.044Z [info]: Retrieved all items 
+2024-06-18T04:53:16.060Z [info]: Retrieved all items 
+2024-06-18T04:54:22.606Z [info]: Retrieved all items 
+2024-06-18T04:54:22.615Z [info]: Retrieved all items 
+2024-06-18T05:05:08.576Z [info]: Retrieved all items 
+2024-06-18T05:05:08.590Z [info]: Retrieved all items 
+2024-06-18T05:06:26.911Z [info]: Retrieved all items 
+2024-06-18T05:06:26.916Z [info]: Retrieved all items 
+2024-06-18T05:06:28.387Z [info]: Retrieved all items 
+2024-06-18T05:06:28.397Z [info]: Retrieved all items 
+2024-06-18T05:06:29.844Z [info]: Retrieved all items 
+2024-06-18T05:06:29.856Z [info]: Retrieved all items 
+2024-06-18T05:11:50.693Z [info]: Retrieved all items 
+2024-06-18T05:11:50.701Z [info]: Retrieved all items 
+2024-06-18T05:11:52.504Z [info]: Retrieved all items 
+2024-06-18T05:11:52.514Z [info]: Retrieved all items 
+2024-06-18T05:11:54.184Z [info]: Retrieved all items 
+2024-06-18T05:11:54.192Z [info]: Retrieved all items 
+2024-06-18T05:23:54.321Z [info]: Retrieved all items 
+2024-06-18T05:23:54.334Z [info]: Retrieved all items 
+2024-06-18T05:23:56.535Z [info]: Retrieved all items 
+2024-06-18T05:23:56.541Z [info]: Retrieved all items 
+2024-06-18T05:27:05.089Z [info]: Retrieved all items 
+2024-06-18T05:29:00.547Z [info]: Retrieved all items 
+2024-06-18T05:46:45.546Z [info]: Retrieved all items 
+2024-06-18T05:47:37.232Z [info]: Retrieved all items 
+2024-06-18T05:47:37.237Z [info]: Retrieved all items 
+2024-06-18T06:03:57.824Z [info]: Retrieved all items 
+2024-06-18T06:03:57.834Z [info]: Retrieved all items 
+2024-06-18T06:04:08.605Z [info]: Retrieved all items 
+2024-06-18T06:04:08.618Z [info]: Retrieved all items 
+2024-06-18T06:14:45.630Z [info]: Retrieved all items 
+2024-06-18T06:14:45.651Z [info]: Retrieved all items 
+2024-06-18T06:15:43.766Z [info]: Retrieved all items 
+2024-06-18T06:15:43.772Z [info]: Retrieved all items 
+2024-06-18T06:15:45.509Z [info]: Retrieved all items 
+2024-06-18T06:15:45.516Z [info]: Retrieved all items 
+2024-06-18T06:15:47.257Z [info]: Retrieved all items 
+2024-06-18T06:15:47.264Z [info]: Retrieved all items 
+2024-06-18T06:15:48.547Z [info]: Retrieved all items 
+2024-06-18T06:15:48.557Z [info]: Retrieved all items 
+2024-06-18T06:22:45.575Z [info]: Retrieved all items 
+2024-06-18T06:24:07.057Z [info]: Retrieved all items 
+2024-06-18T06:24:07.072Z [info]: Retrieved all items 
+2024-06-18T06:24:08.934Z [info]: Retrieved all items 
+2024-06-18T06:24:08.940Z [info]: Retrieved all items 
+2024-06-18T06:24:51.929Z [info]: Retrieved all items 
+2024-06-18T06:25:27.596Z [info]: Retrieved all items 
+2024-06-18T06:25:35.094Z [info]: Retrieved all items 
+2024-06-18T06:25:35.100Z [info]: Retrieved all items 
+2024-06-18T06:25:49.166Z [info]: Retrieved all items 
+2024-06-18T06:26:03.978Z [info]: Retrieved all items 
+2024-06-18T06:27:12.053Z [info]: Retrieved all items 
+2024-06-18T06:27:19.573Z [info]: Retrieved all items 
+2024-06-18T06:27:31.096Z [info]: Retrieved all items 
+2024-06-18T06:27:41.616Z [info]: Retrieved all items 
+2024-06-18T06:27:49.560Z [info]: Retrieved all items 
+2024-06-18T06:27:54.588Z [info]: Retrieved all items 
+2024-06-18T06:30:36.325Z [info]: Retrieved all items 
+2024-06-18T06:30:44.552Z [info]: Retrieved all items 
+2024-06-18T06:32:15.268Z [info]: Retrieved all items 
+2024-06-18T06:32:39.309Z [info]: Retrieved all items 
+2024-06-18T06:32:44.916Z [info]: Retrieved all items 
+2024-06-18T06:32:44.958Z [info]: Retrieved all items 
+2024-06-18T06:40:41.888Z [info]: Retrieved all items 
+2024-06-18T06:40:41.902Z [info]: Retrieved all items 
+2024-06-18T06:40:43.430Z [info]: Retrieved all items 
+2024-06-18T06:40:43.441Z [info]: Retrieved all items 
+2024-06-18T06:42:11.564Z [info]: Retrieved all items 
+2024-06-18T06:42:26.768Z [info]: Retrieved all items 
+2024-06-18T06:42:26.819Z [info]: Retrieved all items 
+2024-06-18T06:42:29.985Z [info]: Retrieved all items 
+2024-06-18T06:42:30.041Z [info]: Retrieved all items 
+2024-06-18T06:42:34.871Z [info]: Retrieved all items 
+2024-06-18T06:42:34.886Z [info]: Retrieved all items 
+2024-06-18T06:45:48.011Z [info]: Retrieved all items 
+2024-06-18T06:45:48.021Z [info]: Retrieved all items 
+2024-06-18T06:45:56.512Z [info]: Retrieved all items 
+2024-06-18T06:45:56.526Z [info]: Retrieved all items 
+2024-06-18T06:50:40.318Z [info]: Retrieved all items 
+2024-06-18T06:50:40.325Z [info]: Retrieved all items 
+2024-06-18T06:51:07.957Z [info]: Retrieved all items 
+2024-06-18T06:51:07.964Z [info]: Retrieved all items 
+2024-06-18T06:57:34.557Z [info]: Retrieved all items 
+2024-06-18T06:57:34.567Z [info]: Retrieved all items 
+2024-06-18T06:58:37.805Z [info]: Retrieved all items 
+2024-06-18T06:58:37.847Z [info]: Retrieved all items 
+2024-06-18T06:58:39.871Z [info]: Retrieved all items 
+2024-06-18T06:58:39.876Z [info]: Retrieved all items 
+2024-06-18T06:58:41.411Z [info]: Retrieved all items 
+2024-06-18T06:58:41.416Z [info]: Retrieved all items 
+2024-06-18T06:58:51.555Z [info]: Retrieved all items 
+2024-06-18T06:58:59.249Z [info]: Retrieved all items 
+2024-06-18T06:58:59.259Z [info]: Retrieved all items 
+2024-06-18T07:04:38.579Z [info]: Retrieved all items 
+2024-06-18T07:07:27.063Z [info]: Retrieved all items 
+2024-06-18T07:07:27.069Z [info]: Retrieved all items 
+2024-06-18T07:08:16.885Z [info]: Retrieved all items 
+2024-06-18T07:08:19.189Z [info]: Retrieved all items 
+2024-06-18T07:08:19.196Z [info]: Retrieved all items 
+2024-06-18T07:08:24.662Z [info]: Retrieved all items 
+2024-06-18T07:08:24.677Z [info]: Retrieved all items 
+2024-06-18T07:08:26.288Z [info]: Retrieved all items 
+2024-06-18T07:08:26.294Z [info]: Retrieved all items 
+2024-06-18T07:08:28.016Z [info]: Retrieved all items 
+2024-06-18T07:08:28.062Z [info]: Retrieved all items 
+2024-06-18T07:08:29.368Z [info]: Retrieved all items 
+2024-06-18T07:08:29.374Z [info]: Retrieved all items 
+2024-06-18T07:08:31.190Z [info]: Retrieved all items 
+2024-06-18T07:08:31.207Z [info]: Retrieved all items 
+2024-06-18T07:13:00.551Z [info]: Retrieved all items 
+2024-06-18T07:13:00.603Z [info]: Retrieved all items 
+2024-06-18T07:13:12.412Z [info]: Retrieved all items 
+2024-06-18T07:13:12.421Z [info]: Retrieved all items 
+2024-06-18T07:13:17.311Z [info]: Retrieved all items 
+2024-06-18T07:13:17.323Z [info]: Retrieved all items 
+2024-06-18T07:13:18.658Z [info]: Retrieved all items 
+2024-06-18T07:13:18.707Z [info]: Retrieved all items 
+2024-06-18T07:13:25.330Z [info]: Retrieved all items 
+2024-06-18T07:13:25.342Z [info]: Retrieved all items 
+2024-06-18T07:13:29.068Z [info]: Retrieved all items 
+2024-06-18T07:13:29.074Z [info]: Retrieved all items 
+2024-06-18T07:13:47.240Z [info]: Retrieved all items 
+2024-06-18T07:13:47.255Z [info]: Retrieved all items 
+2024-06-18T07:14:03.583Z [info]: Retrieved all items 
+2024-06-18T07:14:17.085Z [info]: Retrieved all items 
+2024-06-18T07:14:17.097Z [info]: Retrieved all items 
+2024-06-18T07:14:20.236Z [info]: Retrieved all items 
+2024-06-18T07:14:20.242Z [info]: Retrieved all items 
+2024-06-18T07:14:21.847Z [info]: Retrieved all items 
+2024-06-18T07:14:21.853Z [info]: Retrieved all items 
+2024-06-18T07:39:36.537Z [info]: Retrieved all items 
+2024-06-18T07:39:36.547Z [info]: Retrieved all items 
+2024-06-18T07:39:38.745Z [info]: Retrieved all items 
+2024-06-18T07:39:38.753Z [info]: Retrieved all items 
+2024-06-18T07:39:54.590Z [info]: Retrieved all items 
+2024-06-18T07:43:44.582Z [info]: Retrieved all items 
+2024-06-18T07:43:50.217Z [info]: Retrieved all items 
+2024-06-18T07:43:50.225Z [info]: Retrieved all items 
+2024-06-18T07:43:53.090Z [info]: Retrieved all items 
+2024-06-18T07:43:53.099Z [info]: Retrieved all items 
+2024-06-18T07:43:55.275Z [info]: Retrieved all items 
+2024-06-18T07:43:55.280Z [info]: Retrieved all items 
+2024-06-18T07:44:04.367Z [info]: Retrieved all items 
+2024-06-18T09:04:58.487Z [info]: Retrieved all items 
+2024-06-18T09:07:47.655Z [info]: Retrieved all items 
+2024-06-18T09:12:18.270Z [info]: Retrieved all items 
+2024-06-18T09:12:18.313Z [info]: Retrieved all items 
+2024-06-18T09:12:22.089Z [info]: Retrieved all items 
+2024-06-18T09:12:22.096Z [info]: Retrieved all items 
+2024-06-18T09:12:42.777Z [info]: Retrieved all items 
+2024-06-18T09:12:42.788Z [info]: Retrieved all items 
+2024-06-18T09:12:48.225Z [info]: Retrieved all items 
+2024-06-18T09:12:48.231Z [info]: Retrieved all items 
+2024-06-18T09:14:51.530Z [info]: Retrieved all items 
+2024-06-18T09:14:51.536Z [info]: Retrieved all items 
+2024-06-18T09:17:32.550Z [info]: Retrieved all items 
+2024-06-18T09:18:13.545Z [info]: Retrieved all items 
+2024-06-18T09:20:09.582Z [info]: Retrieved all items 
+2024-06-18T09:20:32.469Z [info]: Retrieved all items 
+2024-06-18T09:20:32.476Z [info]: Retrieved all items 
+2024-06-18T09:20:38.529Z [info]: Retrieved all items 
+2024-06-18T09:20:38.579Z [info]: Retrieved all items 
+2024-06-18T09:20:44.040Z [info]: Retrieved all items 
+2024-06-18T09:20:44.059Z [info]: Retrieved all items 
+2024-06-18T09:20:45.883Z [info]: Retrieved all items 
+2024-06-18T09:20:45.892Z [info]: Retrieved all items 
+2024-06-18T09:24:28.553Z [info]: Retrieved all items 
+2024-06-18T09:24:37.265Z [warn]: Item not found {
+  "id": "66658de8009e08bf3d5a3df3"
+}
+2024-06-18T09:25:19.368Z [info]: Server is running on port 5000 
+2024-06-18T09:25:19.419Z [info]: Connected to MongoDB 
+2024-06-18T09:25:36.262Z [info]: Retrieved all items 
+2024-06-18T09:28:54.050Z [info]: Retrieved all items 
+2024-06-18T09:29:01.970Z [info]: Retrieved all items 
+2024-06-18T09:30:32.533Z [info]: Retrieved all items 
+2024-06-18T09:30:32.557Z [info]: Retrieved all items 
+2024-06-18T09:30:44.770Z [info]: Retrieved all items 
+2024-06-18T09:30:44.779Z [info]: Retrieved all items 
+2024-06-18T09:35:40.125Z [info]: Retrieved all items 
+2024-06-18T09:35:40.138Z [info]: Retrieved all items 
+2024-06-18T09:42:44.556Z [info]: Retrieved all items 
+2024-06-18T09:48:13.544Z [info]: Retrieved all items 
+2024-06-18T09:48:13.555Z [info]: Retrieved all items 
+2024-06-18T09:48:14.965Z [info]: Retrieved all items 
+2024-06-18T09:48:14.989Z [info]: Retrieved all items 
+2024-06-18T09:48:27.092Z [info]: Retrieved all items 
+2024-06-18T09:48:27.103Z [info]: Retrieved all items 
+2024-06-18T09:48:33.397Z [info]: Retrieved all items 
+2024-06-18T09:48:33.405Z [info]: Retrieved all items 
+2024-06-18T09:48:48.137Z [info]: Retrieved all items 
+2024-06-18T09:49:00.829Z [info]: Retrieved all items 
+2024-06-18T09:49:00.841Z [info]: Retrieved all items 
+2024-06-18T09:51:47.781Z [info]: Retrieved all items 
+2024-06-18T09:51:47.791Z [info]: Retrieved all items 
+2024-06-18T09:51:54.348Z [info]: Retrieved all items 
+2024-06-18T09:51:54.357Z [info]: Retrieved all items 
+2024-06-18T09:51:57.821Z [info]: Retrieved all items 
+2024-06-18T09:51:57.832Z [info]: Retrieved all items 
+2024-06-18T09:52:13.524Z [info]: Retrieved all items 
+2024-06-18T09:52:13.531Z [info]: Retrieved all items 
+2024-06-18T09:52:30.447Z [info]: Retrieved all items 
+2024-06-18T09:52:30.478Z [info]: Retrieved all items 
+2024-06-18T09:52:34.622Z [info]: Retrieved all items 
+2024-06-18T09:52:34.629Z [info]: Retrieved all items 
+2024-06-18T09:52:37.458Z [info]: Retrieved all items 
+2024-06-18T09:52:37.467Z [info]: Retrieved all items 
+2024-06-18T09:52:42.082Z [info]: Retrieved all items 
+2024-06-18T09:52:42.092Z [info]: Retrieved all items 
+2024-06-18T09:52:46.351Z [info]: Retrieved all items 
+2024-06-18T09:52:46.361Z [info]: Retrieved all items 
+2024-06-18T10:05:29.581Z [info]: Retrieved all items 
+2024-06-18T10:05:33.973Z [info]: Retrieved all items 
+2024-06-18T10:05:33.981Z [info]: Retrieved all items 
+2024-06-18T10:05:35.905Z [info]: Retrieved all items 
+2024-06-18T10:05:35.913Z [info]: Retrieved all items 
+2024-06-18T10:13:31.604Z [info]: Retrieved all items 
+2024-06-18T10:13:38.026Z [info]: Retrieved all items 
+2024-06-18T10:13:38.035Z [info]: Retrieved all items 
+2024-06-18T10:13:40.372Z [info]: Retrieved all items 
+2024-06-18T10:13:40.380Z [info]: Retrieved all items 
+2024-06-18T10:14:40.564Z [info]: Retrieved all items 
+2024-06-18T10:14:55.574Z [info]: Retrieved all items 
+2024-06-18T10:15:32.403Z [info]: Retrieved all items 
+2024-06-18T10:15:32.412Z [info]: Retrieved all items 
+2024-06-18T10:15:34.708Z [info]: Retrieved all items 
+2024-06-18T10:15:34.715Z [info]: Retrieved all items 
+2024-06-18T10:15:54.174Z [info]: Retrieved all items 
+2024-06-18T10:18:58.843Z [info]: Retrieved all items 
+2024-06-18T10:18:58.850Z [info]: Retrieved all items 
+2024-06-18T10:19:01.304Z [info]: Retrieved all items 
+2024-06-18T10:19:01.310Z [info]: Retrieved all items 
+2024-06-18T10:19:24.363Z [info]: Retrieved all items 
+2024-06-18T10:22:23.705Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1718706143623.png",
+    "isDisabled": false,
+    "_id": "66715fdf043489587620b517",
+    "createdAt": "2024-06-18T10:22:23.680Z",
+    "updatedAt": "2024-06-18T10:22:23.680Z",
+    "__v": 0
+  }
+}
+2024-06-18T10:22:43.972Z [info]: Retrieved all items 
+2024-06-18T10:22:43.982Z [info]: Retrieved all items 
+2024-06-18T10:22:45.890Z [info]: Retrieved all items 
+2024-06-18T10:22:45.897Z [info]: Retrieved all items 
+2024-06-18T10:23:24.852Z [info]: Retrieved all items 
+2024-06-18T10:23:24.862Z [info]: Retrieved all items 
+2024-06-18T10:26:25.652Z [info]: Retrieved all items 
+2024-06-18T10:26:25.660Z [info]: Retrieved all items 
+2024-06-18T10:29:00.539Z [info]: Retrieved all items 
+2024-06-18T10:29:00.550Z [info]: Retrieved all items 
+2024-06-18T10:29:06.812Z [info]: Retrieved all items 
+2024-06-18T10:29:06.819Z [info]: Retrieved all items 
+2024-06-18T10:29:08.675Z [info]: Retrieved all items 
+2024-06-18T10:29:08.685Z [info]: Retrieved all items 
+2024-06-18T10:30:15.291Z [info]: Retrieved all items 
+2024-06-18T10:30:15.302Z [info]: Retrieved all items 
+2024-06-18T10:30:18.848Z [info]: Retrieved all items 
+2024-06-18T10:30:18.857Z [info]: Retrieved all items 
+2024-06-18T10:30:30.535Z [info]: Retrieved all items 
+2024-06-18T10:30:30.544Z [info]: Retrieved all items 
+2024-06-18T10:36:44.121Z [info]: Retrieved all items 
+2024-06-18T10:36:44.132Z [info]: Retrieved all items 
+2024-06-18T10:36:52.759Z [info]: Retrieved all items 
+2024-06-18T10:36:52.766Z [info]: Retrieved all items 
+2024-06-18T10:37:41.544Z [info]: Retrieved all items 
+2024-06-18T10:37:41.555Z [info]: Retrieved all items 
+2024-06-18T10:37:46.633Z [info]: Retrieved all items 
+2024-06-18T10:37:46.642Z [info]: Retrieved all items 
+2024-06-18T10:37:47.876Z [info]: Retrieved all items 
+2024-06-18T10:37:47.885Z [info]: Retrieved all items 
+2024-06-18T10:38:06.536Z [info]: Retrieved all items 
+2024-06-18T10:38:06.543Z [info]: Retrieved all items 
+2024-06-18T10:38:24.158Z [info]: Retrieved all items 
+2024-06-18T10:38:24.166Z [info]: Retrieved all items 
+2024-06-18T10:38:26.463Z [info]: Retrieved all items 
+2024-06-18T10:38:26.471Z [info]: Retrieved all items 
+2024-06-18T10:38:29.149Z [info]: Retrieved all items 
+2024-06-18T10:38:29.196Z [info]: Retrieved all items 
+2024-06-18T10:39:11.713Z [info]: Retrieved all items 
+2024-06-18T10:39:11.721Z [info]: Retrieved all items 
+2024-06-18T10:39:14.298Z [info]: Retrieved all items 
+2024-06-18T10:39:14.305Z [info]: Retrieved all items 
+2024-06-18T10:41:04.547Z [info]: Retrieved all items 
+2024-06-18T10:41:04.555Z [info]: Retrieved all items 
+2024-06-18T10:41:21.539Z [info]: Retrieved all items 
+2024-06-18T10:41:21.569Z [info]: Retrieved all items 
+2024-06-18T10:41:59.544Z [info]: Retrieved all items 
+2024-06-18T10:42:26.224Z [info]: Retrieved all items 
+2024-06-18T10:42:26.234Z [info]: Retrieved all items 
+2024-06-18T10:42:28.071Z [info]: Retrieved all items 
+2024-06-18T10:42:28.078Z [info]: Retrieved all items 
+2024-06-18T10:42:29.772Z [info]: Retrieved all items 
+2024-06-18T10:42:29.780Z [info]: Retrieved all items 
+2024-06-18T10:45:35.909Z [info]: Retrieved all items 
+2024-06-18T10:45:35.919Z [info]: Retrieved all items 
+2024-06-18T10:45:41.940Z [info]: Retrieved all items 
+2024-06-18T10:45:41.950Z [info]: Retrieved all items 
+2024-06-18T10:47:41.767Z [info]: Retrieved all items 
+2024-06-18T10:47:41.782Z [info]: Retrieved all items 
+2024-06-18T10:47:46.269Z [info]: Retrieved all items 
+2024-06-18T10:47:46.280Z [info]: Retrieved all items 
+2024-06-18T10:47:47.943Z [info]: Retrieved all items 
+2024-06-18T10:47:47.952Z [info]: Retrieved all items 
+2024-06-18T10:48:05.642Z [info]: Retrieved all items 
+2024-06-18T10:48:05.660Z [info]: Retrieved all items 
+2024-06-18T10:48:07.963Z [info]: Retrieved all items 
+2024-06-18T10:48:07.970Z [info]: Retrieved all items 
+2024-06-18T10:58:57.633Z [info]: Retrieved all items 
+2024-06-18T10:58:57.645Z [info]: Retrieved all items 
+2024-06-18T10:59:07.658Z [info]: Retrieved all items 
+2024-06-18T10:59:07.663Z [info]: Retrieved all items 
+2024-06-18T10:59:08.973Z [info]: Retrieved all items 
+2024-06-18T10:59:08.983Z [info]: Retrieved all items 
+2024-06-18T10:59:30.604Z [info]: Retrieved all items 
+2024-06-18T10:59:30.611Z [info]: Retrieved all items 
+2024-06-18T10:59:36.392Z [info]: Retrieved all items 
+2024-06-18T10:59:36.415Z [info]: Retrieved all items 
+2024-06-18T10:59:37.856Z [info]: Retrieved all items 
+2024-06-18T10:59:37.867Z [info]: Retrieved all items 
+2024-06-18T11:01:55.714Z [info]: Retrieved all items 
+2024-06-18T11:01:55.733Z [info]: Retrieved all items 
+2024-06-18T11:02:03.865Z [info]: Retrieved all items 
+2024-06-18T11:02:03.872Z [info]: Retrieved all items 
+2024-06-18T11:02:06.827Z [info]: Retrieved all items 
+2024-06-18T11:02:06.838Z [info]: Retrieved all items 
+2024-06-18T11:03:12.762Z [info]: Retrieved all items 
+2024-06-18T11:03:12.772Z [info]: Retrieved all items 
+2024-06-18T11:03:18.831Z [info]: Retrieved all items 
+2024-06-18T11:03:18.838Z [info]: Retrieved all items 
+2024-06-18T11:03:20.419Z [info]: Retrieved all items 
+2024-06-18T11:03:20.425Z [info]: Retrieved all items 
+2024-06-18T11:11:11.558Z [info]: Retrieved all items 
+2024-06-18T11:11:11.567Z [info]: Retrieved all items 
+2024-06-18T11:12:11.241Z [info]: Retrieved all items 
+2024-06-18T11:12:11.253Z [info]: Retrieved all items 
+2024-06-18T11:12:13.272Z [info]: Retrieved all items 
+2024-06-18T11:12:13.283Z [info]: Retrieved all items 
+2024-06-18T11:14:41.571Z [info]: Retrieved all items 
+2024-06-18T11:14:41.581Z [info]: Retrieved all items 
+2024-06-18T11:14:46.241Z [info]: Retrieved all items 
+2024-06-18T11:14:46.244Z [info]: Retrieved all items 
+2024-06-18T11:14:48.725Z [info]: Retrieved all items 
+2024-06-18T11:14:48.731Z [info]: Retrieved all items 
+2024-06-18T11:19:28.558Z [info]: Retrieved all items 
+2024-06-18T11:19:28.565Z [info]: Retrieved all items 
+2024-06-18T11:20:06.639Z [info]: Retrieved all items 
+2024-06-18T11:20:06.647Z [info]: Retrieved all items 
+2024-06-18T11:20:08.948Z [info]: Retrieved all items 
+2024-06-18T11:20:08.955Z [info]: Retrieved all items 
+2024-06-18T11:22:29.539Z [info]: Retrieved all items 
+2024-06-18T11:22:33.951Z [info]: Retrieved all items 
+2024-06-18T11:22:33.964Z [info]: Retrieved all items 
+2024-06-18T11:22:37.145Z [info]: Retrieved all items 
+2024-06-18T11:22:37.153Z [info]: Retrieved all items 
+2024-06-18T11:28:09.545Z [info]: Retrieved all items 
+2024-06-18T11:28:09.550Z [info]: Retrieved all items 
+2024-06-18T11:28:13.303Z [info]: Retrieved all items 
+2024-06-18T11:28:13.309Z [info]: Retrieved all items 
+2024-06-18T11:28:15.134Z [info]: Retrieved all items 
+2024-06-18T11:28:15.141Z [info]: Retrieved all items 
+2024-06-18T11:31:31.602Z [info]: Retrieved all items 
+2024-06-18T11:47:12.539Z [info]: Retrieved all items 
+2024-06-18T11:47:19.137Z [info]: Retrieved all items 
+2024-06-18T11:47:19.143Z [info]: Retrieved all items 
+2024-06-18T11:47:23.084Z [info]: Retrieved all items 
+2024-06-18T11:47:23.092Z [info]: Retrieved all items 
+2024-06-18T11:53:22.547Z [info]: Retrieved all items 
+2024-06-18T11:53:22.557Z [info]: Retrieved all items 
+2024-06-18T11:53:29.487Z [info]: Retrieved all items 
+2024-06-18T11:53:29.492Z [info]: Retrieved all items 
+2024-06-18T11:54:02.459Z [info]: Retrieved all items 
+2024-06-18T11:54:02.467Z [info]: Retrieved all items 
+2024-06-18T11:58:51.397Z [info]: Retrieved all items 
+2024-06-18T11:58:51.419Z [info]: Retrieved all items 
+2024-06-18T12:02:08.867Z [info]: Retrieved all items 
+2024-06-18T12:02:08.875Z [info]: Retrieved all items 
+2024-06-18T12:02:12.607Z [info]: Retrieved all items 
+2024-06-18T12:02:12.614Z [info]: Retrieved all items 
+2024-06-18T12:02:27.462Z [info]: Retrieved all items 
+2024-06-18T12:02:27.472Z [info]: Retrieved all items 
+2024-06-18T12:03:31.693Z [info]: Retrieved all items 
+2024-06-18T12:03:31.700Z [info]: Retrieved all items 
+2024-06-18T12:07:54.038Z [info]: Retrieved all items 
+2024-06-18T12:07:54.045Z [info]: Retrieved all items 
+2024-06-18T12:10:26.849Z [info]: Retrieved all items 
+2024-06-18T12:10:26.861Z [info]: Retrieved all items 
+2024-06-19T04:47:13.836Z [info]: Retrieved all items 
+2024-06-19T04:47:13.846Z [info]: Retrieved all items 
+2024-06-19T04:47:16.880Z [info]: Retrieved all items 
+2024-06-19T04:47:16.888Z [info]: Retrieved all items 
+2024-06-19T04:47:18.904Z [info]: Retrieved all items 
+2024-06-19T04:47:18.911Z [info]: Retrieved all items 
+2024-06-19T04:47:20.216Z [info]: Retrieved all items 
+2024-06-19T04:47:20.225Z [info]: Retrieved all items 
+2024-06-19T04:47:23.447Z [info]: Retrieved all items 
+2024-06-19T04:47:23.454Z [info]: Retrieved all items 
+2024-06-19T04:55:48.608Z [info]: Retrieved all items 
+2024-06-19T04:55:48.614Z [info]: Retrieved all items 
+2024-06-19T04:55:54.553Z [info]: Retrieved all items 
+2024-06-19T04:55:54.562Z [info]: Retrieved all items 
+2024-06-19T04:55:56.399Z [info]: Retrieved all items 
+2024-06-19T04:55:56.407Z [info]: Retrieved all items 
+2024-06-19T04:57:33.087Z [info]: Retrieved all items 
+2024-06-19T04:57:33.142Z [info]: Retrieved all items 
+2024-06-19T04:57:53.453Z [info]: Retrieved all items 
+2024-06-19T04:57:53.461Z [info]: Retrieved all items 
+2024-06-19T04:57:55.509Z [info]: Retrieved all items 
+2024-06-19T04:57:55.515Z [info]: Retrieved all items 
+2024-06-19T04:58:15.835Z [info]: Retrieved all items 
+2024-06-19T04:58:15.843Z [info]: Retrieved all items 
+2024-06-19T04:58:23.542Z [info]: Retrieved all items 
+2024-06-19T04:58:23.551Z [info]: Retrieved all items 
+2024-06-19T04:59:11.458Z [info]: Retrieved all items 
+2024-06-19T04:59:11.466Z [info]: Retrieved all items 
+2024-06-19T05:04:38.639Z [info]: Retrieved all items 
+2024-06-19T05:04:38.648Z [info]: Retrieved all items 
+2024-06-19T05:04:43.269Z [info]: Retrieved all items 
+2024-06-19T05:04:43.276Z [info]: Retrieved all items 
+2024-06-19T05:04:45.485Z [info]: Retrieved all items 
+2024-06-19T05:04:45.490Z [info]: Retrieved all items 
+2024-06-19T05:05:03.720Z [info]: Retrieved all items 
+2024-06-19T05:05:03.726Z [info]: Retrieved all items 
+2024-06-19T05:05:05.931Z [info]: Retrieved all items 
+2024-06-19T05:05:05.938Z [info]: Retrieved all items 
+2024-06-19T05:05:16.425Z [info]: Retrieved all items 
+2024-06-19T05:05:16.436Z [info]: Retrieved all items 
+2024-06-19T05:14:34.530Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1718774074512.png",
+    "isDisabled": false,
+    "_id": "6672693a043489587620b5d3",
+    "createdAt": "2024-06-19T05:14:34.522Z",
+    "updatedAt": "2024-06-19T05:14:34.522Z",
+    "__v": 0
+  }
+}
+2024-06-19T05:15:09.199Z [info]: Retrieved all items 
+2024-06-19T05:45:51.593Z [info]: Retrieved all items 
+2024-06-19T05:45:51.600Z [info]: Retrieved all items 
+2024-06-19T05:46:26.605Z [info]: Retrieved all items 
+2024-06-19T05:46:39.269Z [info]: Retrieved all items 
+2024-06-19T05:46:39.277Z [info]: Retrieved all items 
+2024-06-19T05:46:43.723Z [info]: Retrieved all items 
+2024-06-19T05:46:43.730Z [info]: Retrieved all items 
+2024-06-19T05:47:07.574Z [info]: Retrieved all items 
+2024-06-19T05:47:07.581Z [info]: Retrieved all items 
+2024-06-19T05:47:52.030Z [info]: Retrieved all items 
+2024-06-19T05:47:52.038Z [info]: Retrieved all items 
+2024-06-19T05:47:57.738Z [info]: Retrieved all items 
+2024-06-19T05:47:57.748Z [info]: Retrieved all items 
+2024-06-19T05:58:26.396Z [info]: Retrieved all items 
+2024-06-19T05:58:26.406Z [info]: Retrieved all items 
+2024-06-19T06:20:44.590Z [info]: Retrieved all items 
+2024-06-19T06:20:44.596Z [info]: Retrieved all items 
+2024-06-19T06:20:52.247Z [info]: Retrieved all items 
+2024-06-19T06:20:52.257Z [info]: Retrieved all items 
+2024-06-19T06:20:57.322Z [info]: Retrieved all items 
+2024-06-19T06:20:57.329Z [info]: Retrieved all items 
+2024-06-19T06:25:18.602Z [info]: Retrieved all items 
+2024-06-19T06:25:18.611Z [info]: Retrieved all items 
+2024-06-19T06:25:25.737Z [info]: Retrieved all items 
+2024-06-19T06:25:25.746Z [info]: Retrieved all items 
+2024-06-19T06:25:27.055Z [info]: Retrieved all items 
+2024-06-19T06:25:27.066Z [info]: Retrieved all items 
+2024-06-19T06:25:51.705Z [info]: Retrieved all items 
+2024-06-19T06:25:51.713Z [info]: Retrieved all items 
+2024-06-19T06:25:53.611Z [info]: Retrieved all items 
+2024-06-19T06:25:53.619Z [info]: Retrieved all items 
+2024-06-19T06:25:55.513Z [info]: Retrieved all items 
+2024-06-19T06:25:55.521Z [info]: Retrieved all items 
+2024-06-19T06:26:09.188Z [info]: Retrieved all items 
+2024-06-19T06:26:09.196Z [info]: Retrieved all items 
+2024-06-19T06:26:19.863Z [info]: Retrieved all items 
+2024-06-19T06:26:19.872Z [info]: Retrieved all items 
+2024-06-19T06:28:50.547Z [info]: Retrieved all items 
+2024-06-19T06:28:50.555Z [info]: Retrieved all items 
+2024-06-19T06:28:52.708Z [info]: Retrieved all items 
+2024-06-19T06:28:52.746Z [info]: Retrieved all items 
+2024-06-19T06:29:24.916Z [info]: Retrieved all items 
+2024-06-19T06:29:24.924Z [info]: Retrieved all items 
+2024-06-19T06:29:27.330Z [info]: Retrieved all items 
+2024-06-19T06:29:27.338Z [info]: Retrieved all items 
+2024-06-19T06:33:24.464Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1718778804413.png",
+    "isDisabled": false,
+    "_id": "66727bb4043489587620b603",
+    "createdAt": "2024-06-19T06:33:24.453Z",
+    "updatedAt": "2024-06-19T06:33:24.453Z",
+    "__v": 0
+  }
+}
+2024-06-19T06:33:31.150Z [info]: Retrieved all items 
+2024-06-19T06:33:31.243Z [info]: Retrieved all items 
+2024-06-19T06:33:35.237Z [info]: Retrieved all items 
+2024-06-19T06:33:35.247Z [info]: Retrieved all items 
+2024-06-19T06:37:57.639Z [info]: Retrieved all items 
+2024-06-19T06:37:57.650Z [info]: Retrieved all items 
+2024-06-19T06:38:02.448Z [info]: Retrieved all items 
+2024-06-19T06:38:02.465Z [info]: Retrieved all items 
+2024-06-19T06:38:04.970Z [info]: Retrieved all items 
+2024-06-19T06:38:04.977Z [info]: Retrieved all items 
+2024-06-19T06:38:37.270Z [info]: Retrieved all items 
+2024-06-19T06:38:37.277Z [info]: Retrieved all items 
+2024-06-19T06:39:19.749Z [info]: Retrieved all items 
+2024-06-19T06:39:19.756Z [info]: Retrieved all items 
+2024-06-19T06:39:33.546Z [info]: Retrieved all items 
+2024-06-19T06:39:33.554Z [info]: Retrieved all items 
+2024-06-19T06:41:43.620Z [info]: Retrieved all items 
+2024-06-19T06:42:01.481Z [info]: Retrieved all items 
+2024-06-19T06:42:01.542Z [info]: Retrieved all items 
+2024-06-19T06:42:03.675Z [info]: Retrieved all items 
+2024-06-19T06:42:03.681Z [info]: Retrieved all items 
+2024-06-19T06:43:20.249Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66727bb4043489587620b603",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718778804413.png"
+  }
+}
+2024-06-19T06:43:24.975Z [info]: Retrieved all items 
+2024-06-19T06:43:24.982Z [info]: Retrieved all items 
+2024-06-19T06:43:31.967Z [info]: Retrieved all items 
+2024-06-19T06:43:31.974Z [info]: Retrieved all items 
+2024-06-19T06:43:42.633Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6669a3564e20abd7cec4cb1c",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718199126485.png"
+  }
+}
+2024-06-19T06:43:47.112Z [info]: Retrieved all items 
+2024-06-19T06:43:47.121Z [info]: Retrieved all items 
+2024-06-19T06:43:48.863Z [info]: Retrieved all items 
+2024-06-19T06:43:48.872Z [info]: Retrieved all items 
+2024-06-19T06:44:04.038Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1718779444004.png",
+    "isDisabled": false,
+    "_id": "66727e34043489587620b626",
+    "createdAt": "2024-06-19T06:44:04.033Z",
+    "updatedAt": "2024-06-19T06:44:04.033Z",
+    "__v": 0
+  }
+}
+2024-06-19T06:44:05.799Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1718779445778.png",
+    "isDisabled": false,
+    "_id": "66727e35043489587620b628",
+    "createdAt": "2024-06-19T06:44:05.794Z",
+    "updatedAt": "2024-06-19T06:44:05.794Z",
+    "__v": 0
+  }
+}
+2024-06-19T06:44:10.071Z [info]: Retrieved all items 
+2024-06-19T06:44:10.080Z [info]: Retrieved all items 
+2024-06-19T06:44:12.043Z [info]: Retrieved all items 
+2024-06-19T06:44:12.052Z [info]: Retrieved all items 
+2024-06-19T07:27:10.035Z [info]: Server is running on port 5000 
+2024-06-19T07:27:10.086Z [info]: Connected to MongoDB 
+2024-06-19T07:27:50.879Z [info]: Server is running on port 5000 
+2024-06-19T07:27:50.914Z [info]: Connected to MongoDB 
+2024-06-19T08:30:11.256Z [info]: Server is running on port 5000 
+2024-06-19T08:30:11.298Z [info]: Connected to MongoDB 
+2024-06-19T08:30:46.871Z [info]: Server is running on port 5000 
+2024-06-19T08:30:46.913Z [info]: Connected to MongoDB 
+2024-06-19T08:30:54.298Z [info]: Server is running on port 5000 
+2024-06-19T08:30:54.343Z [info]: Connected to MongoDB 
+2024-06-19T08:31:03.345Z [info]: Server is running on port 5000 
+2024-06-19T08:31:03.386Z [info]: Connected to MongoDB 
+2024-06-19T08:31:22.154Z [info]: Server is running on port 5000 
+2024-06-19T08:31:22.304Z [info]: Connected to MongoDB 
+2024-06-19T08:31:56.353Z [info]: Server is running on port 5000 
+2024-06-19T08:31:56.407Z [info]: Connected to MongoDB 

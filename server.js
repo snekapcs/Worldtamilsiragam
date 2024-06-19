@@ -34,7 +34,9 @@ app.use('/api/news', newsRoutes);
 app.use('/api/festival', festivalRoutes);
 app.use('/api/contact', contactformRoutes);
 
-
+app.get("/", (req, res) => {
+  return res.status(200).send(`Welcome to World Tamil siragam 🎉`);
+})
 // Start the server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {

@@ -187,3 +187,9 @@
 2024-06-12T13:34:06.681Z [error]: Error uploading file {
   "error": "Unexpected field"
 }
+2024-06-13T15:55:28.583Z [error]: Error retrieving item {
+  "error": "Cannot set headers after they are sent to the client"
+}
+2024-06-18T09:24:37.276Z [error]: Error retrieving item {
+  "error": "Cannot set headers after they are sent to the client"
+}
