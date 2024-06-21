@@ -28,7 +28,7 @@ const createContactForm = async (req, res) => {
 
         const mailOptions = {
             from: email,
-            to: "kalaiarsankan1426@gmail.com", 
+            to: "snekav371@gmail.com", 
             subject: `Message from ${name}`,
             html: `
                 You got a message from <br>
