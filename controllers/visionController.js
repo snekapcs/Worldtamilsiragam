@@ -61,9 +61,9 @@ const createItem = async (req, res) => {
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en imageTitle_en image _id';
+    let selectedValue = 'title_en description_en imageTitle_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta imageTitle_ta image _id';
+      selectedValue = 'title_ta description_ta imageTitle_ta image isDisabled _id';
     }
     const items = await VisionModel.find({}, selectedValue);
     logger.info('Retrieved all items');
@@ -106,9 +106,9 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en imageTitle_en image _id';
+    let selectedValue = 'title_en description_en imageTitle_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta imageTitle_ta image _id';
+      selectedValue = 'title_ta description_ta imageTitle_ta image isDisabled _id';
     }
 
     const item = await VisionModel.findById(req.params.id, selectedValue);
@@ -210,9 +210,9 @@ const updateItem = async (req, res) => {
         return;
       }
 
-      let selectedValue = 'title_en description_en imageTitle_en image _id';
+      let selectedValue = 'title_en description_en imageTitle_en image isDisabled _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta imageTitle_ta image _id';
+        selectedValue = 'title_ta description_ta imageTitle_ta image isDisabled _id';
       }
       const updatedItem = await VisionModel.findById(req.params.id, selectedValue);
 
@@ -256,9 +256,9 @@ const updateItem = async (req, res) => {
 // Delete an item
 const deleteItem = async (req, res) => {
   try {
-    let selectedFields = 'title_en description_en imageTitle_en image _id';
+    let selectedFields = 'title_en description_en imageTitle_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedFields = 'title_ta description_ta imageTitle_ta image _id';
+      selectedFields = 'title_ta description_ta imageTitle_ta image isDisabled _id';
     }
 
     const dltitem = await VisionModel.findById(req.params.id).select(selectedFields);

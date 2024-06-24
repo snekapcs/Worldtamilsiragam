@@ -15,9 +15,18 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-// // Serve uploaded files
-// app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use('/public', express.static(__dirname + '/public'));
+// // Connect to MongoDB
+// const host = process.env.HOST;
+// const dbname = process.env.DBNAME;
+// const user = process.env.USER;
+// const password = process.env.PASSWORD;
+
+// const uri = `mongodb://${user}:${password}@${host}/${dbname}?authSource=admin`;
+// mongoose.connect(uri, {
+//   useNewUrlParser: true,
+//   useUnifiedTopology: true
+// })
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URL, {

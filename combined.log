@@ -1,0 +1,3827 @@
+2024-06-21T06:38:05.659Z [info]: Server is running on port 5000 
+2024-06-21T06:38:35.665Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T06:38:50.675Z [info]: Server is running on port 5000 
+2024-06-21T06:39:20.673Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T06:43:00.869Z [info]: Server is running on port 5000 
+2024-06-21T06:43:30.876Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T06:45:13.529Z [info]: Server is running on port 5000 
+2024-06-21T06:45:14.310Z [error]: Failed to connect to MongoDB {
+  "error": "querySrv ENODATA _mongodb._tcp.node207927-dbserver1.in1.cobracloudservers.com"
+}
+2024-06-21T06:49:21.777Z [info]: Server is running on port 5000 
+2024-06-21T06:49:51.781Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T06:50:22.804Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-21T06:51:41.242Z [info]: Server is running on port 5000 
+2024-06-21T06:52:11.238Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T06:56:08.999Z [info]: Server is running on port 5000 
+2024-06-21T06:56:39.010Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T06:59:35.129Z [info]: Server is running on port 5000 
+2024-06-21T07:00:05.137Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:00:05.145Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-21T07:00:05.146Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:00:05.149Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017 
+2024-06-21T07:00:10.161Z [info]: Connected to MongoDB 
+2024-06-21T07:00:35.160Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:00:35.176Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T07:00:35.181Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:00:35.188Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017 
+2024-06-21T07:00:40.184Z [info]: Connected to MongoDB 
+2024-06-21T07:00:43.786Z [info]: Server is running on port 5000 
+2024-06-21T07:01:13.783Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:01:13.792Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T07:01:13.794Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:01:13.797Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017 
+2024-06-21T07:01:18.799Z [info]: Connected to MongoDB 
+2024-06-21T07:01:43.795Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:01:43.807Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-06-21T07:01:43.810Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:01:43.815Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017 
+2024-06-21T07:01:48.827Z [info]: Connected to MongoDB 
+2024-06-21T07:02:13.809Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:02:13.815Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T07:02:13.817Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:02:13.819Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017 
+2024-06-21T07:02:18.827Z [info]: Connected to MongoDB 
+2024-06-21T07:02:42.641Z [info]: Server is running on port 5000 
+2024-06-21T07:03:12.642Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:03:12.663Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-06-21T07:03:12.668Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:03:12.674Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017 
+2024-06-21T07:03:17.676Z [info]: Connected to MongoDB 
+2024-06-21T07:03:51.354Z [info]: Server is running on port 5000 
+2024-06-21T07:04:21.357Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:04:21.364Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T07:04:21.365Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:04:21.368Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017 
+2024-06-21T07:04:26.372Z [info]: Connected to MongoDB 
+2024-06-21T07:04:49.517Z [error]: Error creating item {
+  "error": "Operation `news.insertOne()` buffering timed out after 10000ms"
+}
+2024-06-21T07:04:51.370Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:04:51.389Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T07:04:51.394Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:04:51.398Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017 
+2024-06-21T07:04:56.395Z [info]: Connected to MongoDB 
+2024-06-21T07:05:19.056Z [error]: Error creating item {
+  "error": "Operation `news.insertOne()` buffering timed out after 10000ms"
+}
+2024-06-21T07:05:21.395Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:05:21.406Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-21T07:05:21.410Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:05:21.416Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017 
+2024-06-21T07:05:26.418Z [info]: Connected to MongoDB 
+2024-06-21T07:05:51.421Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:05:51.429Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T07:05:51.431Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:05:51.433Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017 
+2024-06-21T07:05:56.444Z [info]: Connected to MongoDB 
+2024-06-21T07:06:21.432Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:06:21.440Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-21T07:06:21.441Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:06:21.443Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017 
+2024-06-21T07:06:26.447Z [info]: Connected to MongoDB 
+2024-06-21T07:06:51.453Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:06:51.464Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T07:06:51.467Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:06:51.472Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017 
+2024-06-21T07:06:56.474Z [info]: Connected to MongoDB 
+2024-06-21T07:07:03.301Z [error]: Error creating item {
+  "error": "Operation `news.insertOne()` buffering timed out after 10000ms"
+}
+2024-06-21T07:07:17.803Z [error]: Error creating item {
+  "error": "Operation `news.insertOne()` buffering timed out after 10000ms"
+}
+2024-06-21T07:07:21.478Z [warn]: Mongoose disconnected. Attempting to reconnect... 
+2024-06-21T07:07:21.488Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-21T07:07:21.492Z [info]: Retrying to connect to MongoDB. Attempts remaining: 4 
+2024-06-21T07:07:21.499Z [error]: Mongoose connection error: MongoServerSelectionError: connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017 
+2024-06-21T07:07:26.495Z [info]: Connected to MongoDB 
+2024-06-21T07:07:31.691Z [info]: Server is running on port 5000 
+2024-06-21T07:08:01.691Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-21T07:08:29.011Z [info]: Server is running on port 5000 
+2024-06-21T07:08:59.010Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T07:11:13.350Z [info]: Server is running on port 5000 
+2024-06-21T07:11:43.360Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-06-21T07:18:56.947Z [info]: Server is running on port 5000 
+2024-06-21T07:19:26.953Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND node207927"
+}
+2024-06-21T07:36:17.461Z [info]: Server is running on port 5000 
+2024-06-21T07:36:47.466Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-21T07:37:09.495Z [info]: Server is running on port 5000 
+2024-06-21T07:37:39.504Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-21T08:22:25.580Z [info]: Server is running on port 5000 
+2024-06-21T09:04:51.526Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 30000 ms"
+}
+2024-06-21T09:10:56.110Z [info]: Server is running on port 5000 
+2024-06-21T09:11:18.177Z [info]: Server is running on port 5000 
+2024-06-21T09:11:18.254Z [info]: Connected to MongoDB 
+2024-06-21T09:13:59.026Z [info]: Retrieved all items 
+2024-06-21T09:13:59.049Z [info]: Retrieved all items 
+2024-06-21T09:14:07.316Z [info]: Retrieved all items 
+2024-06-21T09:14:07.326Z [info]: Retrieved all items 
+2024-06-21T09:14:12.340Z [info]: Retrieved all items 
+2024-06-21T09:14:12.350Z [info]: Retrieved all items 
+2024-06-21T09:14:15.088Z [info]: Retrieved all items 
+2024-06-21T09:14:15.097Z [info]: Retrieved all items 
+2024-06-21T09:14:21.825Z [info]: Retrieved all items 
+2024-06-21T09:14:21.835Z [info]: Retrieved all items 
+2024-06-21T09:25:47.968Z [info]: Retrieved all items 
+2024-06-21T09:25:48.000Z [info]: Retrieved all items 
+2024-06-21T09:25:48.009Z [info]: Retrieved all items 
+2024-06-21T09:25:48.016Z [info]: Retrieved all items 
+2024-06-21T09:25:48.051Z [info]: Retrieved all items 
+2024-06-21T09:25:48.057Z [info]: Retrieved all items 
+2024-06-21T09:25:48.063Z [info]: Retrieved all items 
+2024-06-21T09:25:48.066Z [info]: Retrieved all items 
+2024-06-21T09:26:05.803Z [info]: Retrieved all items 
+2024-06-21T09:26:05.810Z [info]: Retrieved all items 
+2024-06-21T09:26:06.868Z [info]: Retrieved all items 
+2024-06-21T09:26:06.875Z [info]: Retrieved all items 
+2024-06-21T09:26:09.784Z [info]: Retrieved all items 
+2024-06-21T09:26:09.792Z [info]: Retrieved all items 
+2024-06-21T09:27:23.429Z [info]: Retrieved all items 
+2024-06-21T09:27:23.441Z [info]: Retrieved all items 
+2024-06-21T09:27:25.370Z [info]: Retrieved all items 
+2024-06-21T09:27:25.380Z [info]: Retrieved all items 
+2024-06-21T09:27:33.683Z [info]: Retrieved all items 
+2024-06-21T09:27:33.690Z [info]: Retrieved all items 
+2024-06-21T09:30:23.501Z [info]: Retrieved all items 
+2024-06-21T09:30:27.494Z [info]: Retrieved all items 
+2024-06-21T09:31:19.180Z [info]: Retrieved all items 
+2024-06-21T09:31:19.190Z [info]: Retrieved all items 
+2024-06-21T09:31:52.659Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718962312563.jpeg",
+    "isDisabled": false,
+    "_id": "66754888ed42c2a092cb1700",
+    "createdAt": "2024-06-21T09:31:52.634Z",
+    "updatedAt": "2024-06-21T09:31:52.634Z",
+    "__v": 0
+  }
+}
+2024-06-21T09:32:13.123Z [info]: Retrieved all items 
+2024-06-21T09:32:13.130Z [info]: Retrieved all items 
+2024-06-21T09:32:13.135Z [info]: Retrieved all items 
+2024-06-21T09:32:13.162Z [info]: Retrieved all items 
+2024-06-21T09:32:13.187Z [info]: Retrieved all items 
+2024-06-21T09:32:13.193Z [info]: Retrieved all items 
+2024-06-21T09:32:39.983Z [info]: Retrieved all items 
+2024-06-21T09:32:40.021Z [info]: Retrieved all items 
+2024-06-21T09:32:40.066Z [info]: Retrieved all items 
+2024-06-21T09:32:40.087Z [info]: Retrieved all items 
+2024-06-21T09:32:40.097Z [info]: Retrieved all items 
+2024-06-21T09:32:40.102Z [info]: Retrieved all items 
+2024-06-21T09:33:07.813Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66754888ed42c2a092cb1700",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718962312563.jpeg"
+  }
+}
+2024-06-21T09:33:16.885Z [info]: Retrieved all items 
+2024-06-21T09:33:16.901Z [info]: Retrieved all items 
+2024-06-21T09:33:16.948Z [info]: Retrieved all items 
+2024-06-21T09:33:16.982Z [info]: Retrieved all items 
+2024-06-21T09:33:16.997Z [info]: Retrieved all items 
+2024-06-21T09:33:17.064Z [info]: Retrieved all items 
+2024-06-21T09:33:50.049Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T09:34:23.254Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T09:34:53.149Z [info]: Retrieved all items 
+2024-06-21T09:34:53.185Z [info]: Retrieved all items 
+2024-06-21T09:36:00.536Z [info]: Retrieved all items 
+2024-06-21T09:37:54.514Z [info]: Retrieved all items 
+2024-06-21T09:38:32.889Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-21T09:39:23.396Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718962763259.jpeg",
+    "isDisabled": false,
+    "_id": "66754a4bed42c2a092cb171e",
+    "createdAt": "2024-06-21T09:39:23.319Z",
+    "updatedAt": "2024-06-21T09:39:23.319Z",
+    "__v": 0
+  }
+}
+2024-06-21T09:39:35.800Z [info]: Retrieved all items 
+2024-06-21T09:39:35.813Z [info]: Retrieved all items 
+2024-06-21T09:39:35.820Z [info]: Retrieved all items 
+2024-06-21T09:39:35.850Z [info]: Retrieved all items 
+2024-06-21T09:39:35.856Z [info]: Retrieved all items 
+2024-06-21T09:39:35.879Z [info]: Retrieved all items 
+2024-06-21T09:40:22.344Z [info]: Retrieved all items 
+2024-06-21T09:40:22.410Z [info]: Retrieved all items 
+2024-06-21T09:40:22.439Z [info]: Retrieved all items 
+2024-06-21T09:40:22.506Z [info]: Retrieved all items 
+2024-06-21T09:40:22.513Z [info]: Retrieved all items 
+2024-06-21T09:40:22.526Z [info]: Retrieved all items 
+2024-06-21T09:40:43.164Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66754a4bed42c2a092cb171e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718962763259.jpeg"
+  }
+}
+2024-06-21T09:40:49.020Z [info]: Retrieved all items 
+2024-06-21T09:40:49.027Z [info]: Retrieved all items 
+2024-06-21T09:40:49.033Z [info]: Retrieved all items 
+2024-06-21T09:40:49.039Z [info]: Retrieved all items 
+2024-06-21T09:40:49.045Z [info]: Retrieved all items 
+2024-06-21T09:40:49.052Z [info]: Retrieved all items 
+2024-06-21T09:40:59.504Z [info]: Retrieved all items 
+2024-06-21T09:41:28.645Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!!!!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:41:38.918Z [info]: Retrieved all items 
+2024-06-21T09:41:38.924Z [info]: Retrieved all items 
+2024-06-21T09:41:38.931Z [info]: Retrieved all items 
+2024-06-21T09:41:38.938Z [info]: Retrieved all items 
+2024-06-21T09:41:38.947Z [info]: Retrieved all items 
+2024-06-21T09:41:38.952Z [info]: Retrieved all items 
+2024-06-21T09:42:02.312Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:42:32.868Z [info]: Retrieved all items 
+2024-06-21T09:42:32.899Z [info]: Retrieved all items 
+2024-06-21T09:42:51.413Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!!!!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:42:51.428Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!!!!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:42:59.909Z [info]: Retrieved all items 
+2024-06-21T09:42:59.918Z [info]: Retrieved all items 
+2024-06-21T09:42:59.925Z [info]: Retrieved all items 
+2024-06-21T09:42:59.931Z [info]: Retrieved all items 
+2024-06-21T09:42:59.939Z [info]: Retrieved all items 
+2024-06-21T09:42:59.964Z [info]: Retrieved all items 
+2024-06-21T09:44:00.907Z [info]: Retrieved all items 
+2024-06-21T09:44:00.943Z [info]: Retrieved all items 
+2024-06-21T09:44:10.652Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:44:27.657Z [info]: Retrieved all items 
+2024-06-21T09:44:27.665Z [info]: Retrieved all items 
+2024-06-21T09:44:27.672Z [info]: Retrieved all items 
+2024-06-21T09:44:27.681Z [info]: Retrieved all items 
+2024-06-21T09:44:27.695Z [info]: Retrieved all items 
+2024-06-21T09:44:27.699Z [info]: Retrieved all items 
+2024-06-21T09:46:45.147Z [info]: Updated item {
+  "item": {
+    "_id": "6674063ef7090e3d0f75f4b1",
+    "title_en": "Aid in the promotion of education!!",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879805995.jpeg"
+  }
+}
+2024-06-21T09:46:51.638Z [info]: Retrieved all items 
+2024-06-21T09:46:51.646Z [info]: Retrieved all items 
+2024-06-21T09:46:51.652Z [info]: Retrieved all items 
+2024-06-21T09:46:51.657Z [info]: Retrieved all items 
+2024-06-21T09:46:51.663Z [info]: Retrieved all items 
+2024-06-21T09:46:51.667Z [info]: Retrieved all items 
+2024-06-21T09:47:14.232Z [info]: Retrieved all items 
+2024-06-21T09:47:14.240Z [info]: Retrieved all items 
+2024-06-21T09:47:42.761Z [info]: Updated item {
+  "item": {
+    "_id": "6674063ef7090e3d0f75f4b1",
+    "title_en": "Aid in the promotion of education",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879805995.jpeg"
+  }
+}
+2024-06-21T09:47:47.890Z [info]: Retrieved all items 
+2024-06-21T09:47:47.897Z [info]: Retrieved all items 
+2024-06-21T09:47:47.901Z [info]: Retrieved all items 
+2024-06-21T09:47:47.914Z [info]: Retrieved all items 
+2024-06-21T09:47:47.918Z [info]: Retrieved all items 
+2024-06-21T09:47:47.925Z [info]: Retrieved all items 
+2024-06-21T09:55:45.561Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:56:35.455Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:59:03.833Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T09:59:10.824Z [info]: Retrieved all items 
+2024-06-21T09:59:10.828Z [info]: Retrieved all items 
+2024-06-21T09:59:10.831Z [info]: Retrieved all items 
+2024-06-21T09:59:10.841Z [info]: Retrieved all items 
+2024-06-21T09:59:10.845Z [info]: Retrieved all items 
+2024-06-21T09:59:10.850Z [info]: Retrieved all items 
+2024-06-21T09:59:40.853Z [info]: Retrieved all items 
+2024-06-21T09:59:40.860Z [info]: Retrieved all items 
+2024-06-21T10:00:56.692Z [info]: Retrieved all items 
+2024-06-21T10:00:56.724Z [info]: Retrieved all items 
+2024-06-21T10:00:58.129Z [info]: Retrieved all items 
+2024-06-21T10:00:58.143Z [info]: Retrieved all items 
+2024-06-21T10:02:17.457Z [info]: Retrieved all items 
+2024-06-21T10:10:56.344Z [info]: Retrieved all items 
+2024-06-21T10:10:56.352Z [info]: Retrieved all items 
+2024-06-21T10:11:03.028Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T10:11:31.624Z [info]: Retrieved all items 
+2024-06-21T10:11:31.635Z [info]: Retrieved all items 
+2024-06-21T10:11:31.639Z [info]: Retrieved all items 
+2024-06-21T10:11:31.643Z [info]: Retrieved all items 
+2024-06-21T10:11:31.653Z [info]: Retrieved all items 
+2024-06-21T10:11:31.662Z [info]: Retrieved all items 
+2024-06-21T10:12:47.795Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T10:17:21.713Z [info]: Retrieved all items 
+2024-06-21T10:17:21.740Z [info]: Retrieved all items 
+2024-06-21T10:19:01.239Z [info]: Retrieved all items 
+2024-06-21T10:19:01.255Z [info]: Retrieved all items 
+2024-06-21T10:19:12.895Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T10:32:51.561Z [info]: Retrieved all items 
+2024-06-21T10:32:51.571Z [info]: Retrieved all items 
+2024-06-21T10:32:58.541Z [info]: Retrieved all items 
+2024-06-21T10:32:58.548Z [info]: Retrieved all items 
+2024-06-21T10:33:12.919Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T10:33:38.967Z [info]: Retrieved all items 
+2024-06-21T10:33:38.971Z [info]: Retrieved all items 
+2024-06-21T10:33:38.975Z [info]: Retrieved all items 
+2024-06-21T10:33:38.984Z [info]: Retrieved all items 
+2024-06-21T10:33:38.987Z [info]: Retrieved all items 
+2024-06-21T10:33:38.990Z [info]: Retrieved all items 
+2024-06-21T10:33:50.452Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T10:34:17.475Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T10:34:20.685Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T10:55:42.613Z [info]: Retrieved all items 
+2024-06-21T10:55:42.646Z [info]: Retrieved all items 
+2024-06-21T10:55:49.839Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T11:01:43.650Z [info]: Retrieved all items 
+2024-06-21T11:01:43.696Z [info]: Retrieved all items 
+2024-06-21T11:01:55.473Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T11:02:05.168Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T11:02:28.903Z [info]: Retrieved all items 
+2024-06-21T11:02:28.913Z [info]: Retrieved all items 
+2024-06-21T11:02:28.921Z [info]: Retrieved all items 
+2024-06-21T11:02:28.935Z [info]: Retrieved all items 
+2024-06-21T11:02:28.939Z [info]: Retrieved all items 
+2024-06-21T11:02:28.941Z [info]: Retrieved all items 
+2024-06-21T11:02:39.577Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T11:02:48.337Z [info]: Retrieved all items 
+2024-06-21T11:02:48.344Z [info]: Retrieved all items 
+2024-06-21T11:02:48.354Z [info]: Retrieved all items 
+2024-06-21T11:02:48.362Z [info]: Retrieved all items 
+2024-06-21T11:02:48.369Z [info]: Retrieved all items 
+2024-06-21T11:02:48.374Z [info]: Retrieved all items 
+2024-06-21T11:05:54.086Z [info]: Retrieved all items 
+2024-06-21T11:05:54.134Z [info]: Retrieved all items 
+2024-06-21T11:05:55.855Z [info]: Retrieved all items 
+2024-06-21T11:05:55.865Z [info]: Retrieved all items 
+2024-06-21T11:05:58.160Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T11:05:59.541Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T11:06:14.564Z [info]: Retrieved all items 
+2024-06-21T11:06:14.573Z [info]: Retrieved all items 
+2024-06-21T11:06:23.052Z [info]: Retrieved all items 
+2024-06-21T11:06:23.086Z [info]: Retrieved all items 
+2024-06-21T11:06:31.828Z [info]: Retrieved all items 
+2024-06-21T11:06:31.837Z [info]: Retrieved all items 
+2024-06-21T11:06:33.425Z [info]: Retrieved all items 
+2024-06-21T11:06:33.434Z [info]: Retrieved all items 
+2024-06-21T11:06:34.742Z [info]: Retrieved all items 
+2024-06-21T11:06:34.749Z [info]: Retrieved all items 
+2024-06-21T11:09:14.785Z [info]: Retrieved all items 
+2024-06-21T11:09:14.793Z [info]: Retrieved all items 
+2024-06-21T11:09:24.636Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T11:09:37.149Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-21T11:09:53.095Z [info]: Retrieved all items 
+2024-06-21T11:09:53.103Z [info]: Retrieved all items 
+2024-06-21T11:10:00.430Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg"
+  }
+}
+2024-06-21T11:10:10.885Z [info]: Retrieved all items 
+2024-06-21T11:10:10.893Z [info]: Retrieved all items 
+2024-06-21T11:10:10.905Z [info]: Retrieved all items 
+2024-06-21T11:10:10.910Z [info]: Retrieved all items 
+2024-06-21T11:10:10.922Z [info]: Retrieved all items 
+2024-06-21T11:10:10.930Z [info]: Retrieved all items 
+2024-06-21T11:11:42.917Z [info]: Retrieved all items 
+2024-06-21T11:12:01.081Z [info]: Retrieved all items 
+2024-06-21T11:12:33.320Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg"
+  }
+}
+2024-06-21T11:12:42.065Z [info]: Retrieved all items 
+2024-06-21T11:12:54.173Z [info]: Retrieved all items 
+2024-06-21T11:12:54.182Z [info]: Retrieved all items 
+2024-06-21T11:13:17.430Z [info]: Retrieved all items 
+2024-06-21T11:13:17.440Z [info]: Retrieved all items 
+2024-06-21T11:13:32.101Z [info]: Retrieved all items 
+2024-06-21T11:13:32.109Z [info]: Retrieved all items 
+2024-06-21T11:54:45.246Z [info]: Retrieved all items 
+2024-06-21T12:17:08.429Z [info]: Retrieved all items 
+2024-06-21T12:17:08.439Z [info]: Retrieved all items 
+2024-06-21T12:17:23.814Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg"
+  }
+}
+2024-06-21T12:17:42.059Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg"
+  }
+}
+2024-06-21T12:17:48.214Z [info]: Retrieved all items 
+2024-06-21T12:17:48.222Z [info]: Retrieved all items 
+2024-06-21T12:17:49.830Z [info]: Retrieved all items 
+2024-06-21T12:17:49.835Z [info]: Retrieved all items 
+2024-06-21T12:17:55.714Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T12:18:03.977Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T12:19:20.101Z [info]: Retrieved all items 
+2024-06-21T12:19:20.109Z [info]: Retrieved all items 
+2024-06-21T12:19:32.367Z [info]: Retrieved all items 
+2024-06-21T12:19:32.373Z [info]: Retrieved all items 
+2024-06-21T12:19:33.725Z [info]: Retrieved all items 
+2024-06-21T12:19:33.776Z [info]: Retrieved all items 
+2024-06-21T12:19:35.452Z [info]: Retrieved all items 
+2024-06-21T12:19:35.458Z [info]: Retrieved all items 
+2024-06-21T12:19:39.615Z [info]: Retrieved all items 
+2024-06-21T12:19:39.621Z [info]: Retrieved all items 
+2024-06-21T12:24:43.626Z [info]: Retrieved all items 
+2024-06-21T12:24:43.634Z [info]: Retrieved all items 
+2024-06-21T12:25:18.174Z [info]: Retrieved all items 
+2024-06-21T12:25:18.268Z [info]: Retrieved all items 
+2024-06-21T12:26:03.267Z [info]: Retrieved all items 
+2024-06-21T12:26:03.275Z [info]: Retrieved all items 
+2024-06-21T12:26:12.332Z [info]: Retrieved all items 
+2024-06-21T12:26:12.339Z [info]: Retrieved all items 
+2024-06-21T12:26:14.585Z [info]: Retrieved all items 
+2024-06-21T12:26:14.594Z [info]: Retrieved all items 
+2024-06-21T12:26:16.082Z [info]: Retrieved all items 
+2024-06-21T12:26:16.090Z [info]: Retrieved all items 
+2024-06-21T12:27:23.019Z [info]: Retrieved all items 
+2024-06-21T12:27:23.072Z [info]: Retrieved all items 
+2024-06-21T12:27:42.434Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T12:27:43.381Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-21T12:30:01.493Z [info]: Retrieved all items 
+2024-06-21T12:30:01.503Z [info]: Retrieved all items 
+2024-06-21T12:30:03.033Z [info]: Retrieved all items 
+2024-06-21T12:30:03.080Z [info]: Retrieved all items 
+2024-06-21T12:30:04.025Z [info]: Retrieved all items 
+2024-06-21T12:30:04.031Z [info]: Retrieved all items 
+2024-06-21T12:30:08.043Z [info]: Retrieved all items 
+2024-06-21T12:30:08.050Z [info]: Retrieved all items 
+2024-06-22T04:59:45.124Z [info]: Server is running on port 5000 
+2024-06-22T04:59:45.157Z [info]: Connected to MongoDB 
+2024-06-22T05:00:52.278Z [info]: Server is running on port 5000 
+2024-06-22T05:00:52.292Z [info]: Connected to MongoDB 
+2024-06-22T05:05:37.941Z [info]: Retrieved all items 
+2024-06-22T05:05:37.950Z [info]: Retrieved all items 
+2024-06-22T05:05:46.784Z [info]: Retrieved all items 
+2024-06-22T05:05:46.791Z [info]: Retrieved all items 
+2024-06-22T05:21:53.967Z [info]: Server is running on port 5000 
+2024-06-22T05:22:23.968Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND ${host}"
+}
+2024-06-22T05:25:21.909Z [info]: Server is running on port 5000 
+2024-06-22T05:25:38.162Z [info]: Server is running on port 5000 
+2024-06-22T05:26:08.171Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-22T05:30:27.867Z [info]: Server is running on port 5000 
+2024-06-22T05:30:49.586Z [info]: Server is running on port 5000 
+2024-06-22T05:31:19.585Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T05:31:27.577Z [info]: Server is running on port 5000 
+2024-06-22T05:31:57.592Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T05:32:00.767Z [info]: Server is running on port 5000 
+2024-06-22T05:32:30.770Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-22T06:01:32.351Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-06-22T06:01:36.768Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T06:01:38.138Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-22T06:01:42.433Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-06-22T06:01:42.900Z [error]: Error retrieving contact forms: Operation `contactforms.find()` buffering timed out after 10000ms {
+  "statusCode": 500
+}
+2024-06-22T06:01:46.794Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T06:01:48.155Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-22T06:01:52.975Z [error]: Error retrieving contact forms: Operation `contactforms.find()` buffering timed out after 10000ms {
+  "statusCode": 500
+}
+2024-06-22T06:17:16.728Z [info]: Server is running on port 5000 
+2024-06-22T06:17:46.723Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-22T06:18:36.246Z [info]: Server is running on port 5000 
+2024-06-22T06:19:06.256Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-22T06:37:37.827Z [info]: Server is running on port 5000 
+2024-06-22T06:38:07.838Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T06:40:33.198Z [info]: Server is running on port 5000 
+2024-06-22T06:41:03.188Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T06:42:10.542Z [info]: Server is running on port 5000 
+2024-06-22T06:42:40.549Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T06:46:18.944Z [info]: Server is running on port 5000 
+2024-06-22T06:46:48.938Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-06-22T07:32:35.289Z [info]: Server is running on port 5000 
+2024-06-22T07:33:05.289Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T07:34:00.702Z [info]: Server is running on port 5000 
+2024-06-22T07:34:30.664Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-06-22T08:15:42.289Z [info]: Server is running on port 5000 
+2024-06-22T08:16:12.298Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-22T08:19:47.960Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T08:19:52.408Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-22T08:19:54.386Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T08:20:02.431Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-22T08:20:04.406Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T08:23:48.864Z [info]: Server is running on port 5000 
+2024-06-22T08:23:48.891Z [info]: Connected to MongoDB 
+2024-06-22T08:23:57.728Z [info]: Retrieved all items 
+2024-06-22T08:23:57.753Z [info]: Retrieved all items 
+2024-06-22T08:24:01.000Z [info]: Retrieved all items 
+2024-06-22T08:24:01.011Z [info]: Retrieved all items 
+2024-06-22T08:24:04.452Z [info]: Retrieved all items 
+2024-06-22T08:24:04.462Z [info]: Retrieved all items 
+2024-06-22T08:24:06.032Z [info]: Retrieved all items 
+2024-06-22T08:24:06.040Z [info]: Retrieved all items 
+2024-06-22T10:08:00.378Z [info]: Retrieved all items 
+2024-06-22T10:08:00.382Z [info]: Retrieved all items 
+2024-06-22T10:08:00.387Z [info]: Retrieved all items 
+2024-06-22T10:08:00.403Z [info]: Retrieved all items 
+2024-06-22T10:08:00.416Z [info]: Retrieved all items 
+2024-06-22T10:08:00.463Z [info]: Retrieved all items 
+2024-06-22T10:11:25.828Z [info]: Server is running on port 5000 
+2024-06-22T10:11:25.885Z [info]: Connected to MongoDB 
+2024-06-22T10:13:18.327Z [info]: Server is running on port 5000 
+2024-06-22T10:13:48.338Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-06-22T10:15:01.496Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-22T10:15:01.508Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T10:15:01.514Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-06-22T10:15:06.460Z [info]: Server is running on port 5000 
+2024-06-22T10:15:06.465Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-06-22T10:15:16.741Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-22T10:15:16.766Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-06-22T10:15:16.771Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-06-22T10:15:20.225Z [info]: Server is running on port 5000 
+2024-06-22T10:15:20.264Z [info]: Connected to MongoDB 
+2024-06-22T10:15:25.838Z [info]: Retrieved all items 
+2024-06-22T10:15:25.910Z [info]: Retrieved all items 
+2024-06-22T10:15:25.920Z [info]: Retrieved all items 
+2024-06-22T10:15:25.931Z [info]: Retrieved all items 
+2024-06-22T10:15:25.998Z [info]: Retrieved all items 
+2024-06-22T10:15:26.020Z [info]: Retrieved all items 
+2024-06-22T10:15:43.758Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg"
+  }
+}
+2024-06-22T10:15:48.740Z [info]: Retrieved all items 
+2024-06-22T10:15:48.746Z [info]: Retrieved all items 
+2024-06-22T10:15:48.751Z [info]: Retrieved all items 
+2024-06-22T10:15:48.770Z [info]: Retrieved all items 
+2024-06-22T10:15:48.777Z [info]: Retrieved all items 
+2024-06-22T10:15:48.784Z [info]: Retrieved all items 
+2024-06-22T10:15:59.820Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg"
+  }
+}
+2024-06-22T10:16:04.813Z [info]: Retrieved all items 
+2024-06-22T10:16:04.816Z [info]: Retrieved all items 
+2024-06-22T10:16:04.819Z [info]: Retrieved all items 
+2024-06-22T10:16:04.835Z [info]: Retrieved all items 
+2024-06-22T10:16:04.847Z [info]: Retrieved all items 
+2024-06-22T10:16:04.852Z [info]: Retrieved all items 
+2024-06-22T10:27:11.610Z [info]: Retrieved all items 
+2024-06-22T10:27:11.618Z [info]: Retrieved all items 
+2024-06-22T10:27:12.971Z [info]: Retrieved all items 
+2024-06-22T10:27:12.979Z [info]: Retrieved all items 
+2024-06-22T10:27:15.151Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:27:40.568Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:27:50.666Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:27:56.994Z [info]: Retrieved all items 
+2024-06-22T10:27:57.001Z [info]: Retrieved all items 
+2024-06-22T10:27:59.515Z [info]: Retrieved all items 
+2024-06-22T10:27:59.521Z [info]: Retrieved all items 
+2024-06-22T10:28:11.930Z [info]: Retrieved all items 
+2024-06-22T10:28:11.937Z [info]: Retrieved all items 
+2024-06-22T10:28:17.880Z [info]: Retrieved all items 
+2024-06-22T10:28:17.888Z [info]: Retrieved all items 
+2024-06-22T10:28:26.699Z [info]: Retrieved all items 
+2024-06-22T10:28:26.708Z [info]: Retrieved all items 
+2024-06-22T10:28:28.711Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:28:32.659Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:28:34.139Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:28:36.496Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:28:47.918Z [info]: Retrieved all items 
+2024-06-22T10:28:47.924Z [info]: Retrieved all items 
+2024-06-22T10:30:23.798Z [info]: Retrieved all items 
+2024-06-22T10:30:23.806Z [info]: Retrieved all items 
+2024-06-22T10:33:13.968Z [info]: Retrieved all items 
+2024-06-22T10:33:23.505Z [info]: Retrieved all items 
+2024-06-22T10:33:23.519Z [info]: Retrieved all items 
+2024-06-22T10:34:12.156Z [info]: Retrieved all items 
+2024-06-22T10:34:12.163Z [info]: Retrieved all items 
+2024-06-22T10:34:14.338Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:34:20.451Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:34:21.531Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:34:23.309Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:34:44.641Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:34:48.580Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:34:50.966Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:35:13.404Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719052513351.jpeg",
+    "isDisabled": false,
+    "_id": "6676a8e1c4a2b7ae149146d8",
+    "createdAt": "2024-06-22T10:35:13.384Z",
+    "updatedAt": "2024-06-22T10:35:13.384Z",
+    "__v": 0
+  }
+}
+2024-06-22T10:35:16.810Z [info]: Updated item {
+  "item": {
+    "_id": "6676a8e1c4a2b7ae149146d8",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719052513351.jpeg"
+  }
+}
+2024-06-22T10:35:23.052Z [info]: Retrieved all items 
+2024-06-22T10:35:23.059Z [info]: Retrieved all items 
+2024-06-22T10:35:26.290Z [info]: Retrieved all items 
+2024-06-22T10:35:26.297Z [info]: Retrieved all items 
+2024-06-22T10:35:39.710Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:35:46.441Z [info]: Retrieved all items 
+2024-06-22T10:35:46.449Z [info]: Retrieved all items 
+2024-06-22T10:35:48.920Z [info]: Retrieved all items 
+2024-06-22T10:35:48.927Z [info]: Retrieved all items 
+2024-06-22T10:36:01.029Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:36:06.412Z [info]: Retrieved all items 
+2024-06-22T10:36:06.447Z [info]: Retrieved all items 
+2024-06-22T10:36:06.449Z [info]: Retrieved all items 
+2024-06-22T10:36:06.452Z [info]: Retrieved all items 
+2024-06-22T10:36:06.459Z [info]: Retrieved all items 
+2024-06-22T10:36:06.462Z [info]: Retrieved all items 
+2024-06-22T10:36:08.273Z [info]: Retrieved all items 
+2024-06-22T10:36:08.277Z [info]: Retrieved all items 
+2024-06-22T10:36:08.279Z [info]: Retrieved all items 
+2024-06-22T10:36:08.288Z [info]: Retrieved all items 
+2024-06-22T10:36:08.293Z [info]: Retrieved all items 
+2024-06-22T10:36:08.302Z [info]: Retrieved all items 
+2024-06-22T10:36:29.615Z [info]: Updated item {
+  "item": {
+    "_id": "6676a8e1c4a2b7ae149146d8",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719052513351.jpeg"
+  }
+}
+2024-06-22T10:36:32.431Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6676a8e1c4a2b7ae149146d8",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719052513351.jpeg"
+  }
+}
+2024-06-22T10:36:35.779Z [info]: Retrieved all items 
+2024-06-22T10:36:35.789Z [info]: Retrieved all items 
+2024-06-22T10:36:37.861Z [info]: Retrieved all items 
+2024-06-22T10:36:37.868Z [info]: Retrieved all items 
+2024-06-22T10:36:42.489Z [info]: Retrieved all items 
+2024-06-22T10:36:42.492Z [info]: Retrieved all items 
+2024-06-22T10:36:42.495Z [info]: Retrieved all items 
+2024-06-22T10:36:42.506Z [info]: Retrieved all items 
+2024-06-22T10:36:42.511Z [info]: Retrieved all items 
+2024-06-22T10:36:42.519Z [info]: Retrieved all items 
+2024-06-22T10:39:09.976Z [info]: Retrieved all items 
+2024-06-22T10:39:31.915Z [info]: Retrieved all items 
+2024-06-22T10:40:17.927Z [info]: Retrieved all items 
+2024-06-22T10:40:17.934Z [info]: Retrieved all items 
+2024-06-22T10:40:22.795Z [info]: Retrieved all items 
+2024-06-22T10:40:22.807Z [info]: Retrieved all items 
+2024-06-22T10:40:25.045Z [info]: Retrieved all items 
+2024-06-22T10:40:25.051Z [info]: Retrieved all items 
+2024-06-22T10:40:26.899Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:40:28.083Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:43:46.006Z [info]: Retrieved all items 
+2024-06-22T10:43:50.973Z [info]: Retrieved all items 
+2024-06-22T10:43:51.034Z [info]: Retrieved all items 
+2024-06-22T10:43:53.546Z [info]: Retrieved all items 
+2024-06-22T10:43:53.552Z [info]: Retrieved all items 
+2024-06-22T10:44:04.081Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:44:10.962Z [info]: Retrieved all items 
+2024-06-22T10:44:10.968Z [info]: Retrieved all items 
+2024-06-22T10:44:10.973Z [info]: Retrieved all items 
+2024-06-22T10:44:10.982Z [info]: Retrieved all items 
+2024-06-22T10:44:10.987Z [info]: Retrieved all items 
+2024-06-22T10:44:11.020Z [info]: Retrieved all items 
+2024-06-22T10:44:17.381Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:44:20.399Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:44:22.135Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:44:31.511Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:44:37.692Z [info]: Retrieved all items 
+2024-06-22T10:44:37.695Z [info]: Retrieved all items 
+2024-06-22T10:44:37.698Z [info]: Retrieved all items 
+2024-06-22T10:44:37.711Z [info]: Retrieved all items 
+2024-06-22T10:44:37.721Z [info]: Retrieved all items 
+2024-06-22T10:44:37.728Z [info]: Retrieved all items 
+2024-06-22T10:45:45.736Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:45:47.310Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:48:15.930Z [info]: Retrieved all items 
+2024-06-22T10:48:21.816Z [info]: Retrieved all items 
+2024-06-22T10:48:21.824Z [info]: Retrieved all items 
+2024-06-22T10:48:31.182Z [info]: Retrieved all items 
+2024-06-22T10:48:31.188Z [info]: Retrieved all items 
+2024-06-22T10:48:33.676Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:48:41.752Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:48:47.763Z [info]: Retrieved all items 
+2024-06-22T10:48:47.769Z [info]: Retrieved all items 
+2024-06-22T10:48:47.774Z [info]: Retrieved all items 
+2024-06-22T10:48:47.778Z [info]: Retrieved all items 
+2024-06-22T10:48:47.784Z [info]: Retrieved all items 
+2024-06-22T10:48:47.788Z [info]: Retrieved all items 
+2024-06-22T10:49:11.263Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:49:15.049Z [info]: Retrieved all items 
+2024-06-22T10:49:15.053Z [info]: Retrieved all items 
+2024-06-22T10:49:15.055Z [info]: Retrieved all items 
+2024-06-22T10:49:15.065Z [info]: Retrieved all items 
+2024-06-22T10:49:15.068Z [info]: Retrieved all items 
+2024-06-22T10:49:15.072Z [info]: Retrieved all items 
+2024-06-22T10:49:23.104Z [info]: Retrieved all items 
+2024-06-22T10:49:23.110Z [info]: Retrieved all items 
+2024-06-22T10:49:24.578Z [info]: Retrieved all items 
+2024-06-22T10:49:24.585Z [info]: Retrieved all items 
+2024-06-22T10:54:51.936Z [info]: Retrieved all items 
+2024-06-22T10:55:01.388Z [info]: Retrieved all items 
+2024-06-22T10:55:01.394Z [info]: Retrieved all items 
+2024-06-22T10:55:03.660Z [info]: Retrieved all items 
+2024-06-22T10:55:03.666Z [info]: Retrieved all items 
+2024-06-22T10:55:09.496Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:55:17.622Z [info]: Retrieved all items 
+2024-06-22T10:55:17.626Z [info]: Retrieved all items 
+2024-06-22T10:55:17.668Z [info]: Retrieved all items 
+2024-06-22T10:55:17.677Z [info]: Retrieved all items 
+2024-06-22T10:55:17.680Z [info]: Retrieved all items 
+2024-06-22T10:55:17.683Z [info]: Retrieved all items 
+2024-06-22T10:55:42.175Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:55:51.378Z [info]: Retrieved all items 
+2024-06-22T10:55:51.383Z [info]: Retrieved all items 
+2024-06-22T10:55:51.387Z [info]: Retrieved all items 
+2024-06-22T10:55:51.394Z [info]: Retrieved all items 
+2024-06-22T10:55:51.399Z [info]: Retrieved all items 
+2024-06-22T10:55:51.405Z [info]: Retrieved all items 
+2024-06-22T10:55:57.494Z [info]: Retrieved all items 
+2024-06-22T10:55:57.501Z [info]: Retrieved all items 
+2024-06-22T10:55:59.036Z [info]: Retrieved all items 
+2024-06-22T10:55:59.087Z [info]: Retrieved all items 
+2024-06-22T10:56:33.582Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719053793570.jpeg",
+    "isDisabled": true,
+    "_id": "6676ade1c4a2b7ae14914761",
+    "createdAt": "2024-06-22T10:56:33.577Z",
+    "updatedAt": "2024-06-22T10:56:33.577Z",
+    "__v": 0
+  }
+}
+2024-06-22T10:56:43.256Z [info]: Retrieved all items 
+2024-06-22T10:56:43.259Z [info]: Retrieved all items 
+2024-06-22T10:56:43.261Z [info]: Retrieved all items 
+2024-06-22T10:56:43.271Z [info]: Retrieved all items 
+2024-06-22T10:56:43.275Z [info]: Retrieved all items 
+2024-06-22T10:56:43.287Z [info]: Retrieved all items 
+2024-06-22T10:56:49.408Z [info]: Updated item {
+  "item": {
+    "_id": "6676ade1c4a2b7ae14914761",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719053793570.jpeg"
+  }
+}
+2024-06-22T10:56:57.657Z [info]: Updated item {
+  "item": {
+    "_id": "6676ade1c4a2b7ae14914761",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719053793570.jpeg"
+  }
+}
+2024-06-22T10:57:01.723Z [info]: Retrieved all items 
+2024-06-22T10:57:01.726Z [info]: Retrieved all items 
+2024-06-22T10:57:01.729Z [info]: Retrieved all items 
+2024-06-22T10:57:01.740Z [info]: Retrieved all items 
+2024-06-22T10:57:01.744Z [info]: Retrieved all items 
+2024-06-22T10:57:01.751Z [info]: Retrieved all items 
+2024-06-22T10:57:07.045Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6676ade1c4a2b7ae14914761",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719053793570.jpeg"
+  }
+}
+2024-06-22T10:57:18.626Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T10:57:23.812Z [info]: Retrieved all items 
+2024-06-22T10:57:23.815Z [info]: Retrieved all items 
+2024-06-22T10:57:23.819Z [info]: Retrieved all items 
+2024-06-22T10:57:23.826Z [info]: Retrieved all items 
+2024-06-22T10:57:23.832Z [info]: Retrieved all items 
+2024-06-22T10:57:23.836Z [info]: Retrieved all items 
+2024-06-22T11:15:35.995Z [info]: Retrieved all items 
+2024-06-22T11:15:41.182Z [info]: Retrieved all items 
+2024-06-22T11:15:41.190Z [info]: Retrieved all items 
+2024-06-22T11:15:43.355Z [info]: Retrieved all items 
+2024-06-22T11:15:43.361Z [info]: Retrieved all items 
+2024-06-22T11:15:53.803Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:15:58.690Z [info]: Retrieved all items 
+2024-06-22T11:15:58.696Z [info]: Retrieved all items 
+2024-06-22T11:15:58.702Z [info]: Retrieved all items 
+2024-06-22T11:15:58.761Z [info]: Retrieved all items 
+2024-06-22T11:15:58.772Z [info]: Retrieved all items 
+2024-06-22T11:15:58.776Z [info]: Retrieved all items 
+2024-06-22T11:22:00.957Z [info]: Retrieved all items 
+2024-06-22T11:22:15.355Z [info]: Retrieved all items 
+2024-06-22T11:22:15.365Z [info]: Retrieved all items 
+2024-06-22T11:22:17.485Z [info]: Retrieved all items 
+2024-06-22T11:22:17.490Z [info]: Retrieved all items 
+2024-06-22T11:22:26.971Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:22:34.119Z [info]: Retrieved all items 
+2024-06-22T11:22:34.124Z [info]: Retrieved all items 
+2024-06-22T11:22:34.128Z [info]: Retrieved all items 
+2024-06-22T11:22:34.131Z [info]: Retrieved all items 
+2024-06-22T11:22:34.138Z [info]: Retrieved all items 
+2024-06-22T11:22:34.141Z [info]: Retrieved all items 
+2024-06-22T11:22:42.206Z [info]: Retrieved all items 
+2024-06-22T11:22:42.213Z [info]: Retrieved all items 
+2024-06-22T11:22:44.226Z [info]: Retrieved all items 
+2024-06-22T11:22:44.232Z [info]: Retrieved all items 
+2024-06-22T11:24:51.007Z [info]: Retrieved all items 
+2024-06-22T11:24:55.711Z [info]: Retrieved all items 
+2024-06-22T11:24:55.719Z [info]: Retrieved all items 
+2024-06-22T11:24:57.998Z [info]: Retrieved all items 
+2024-06-22T11:24:58.005Z [info]: Retrieved all items 
+2024-06-22T11:25:04.258Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:25:11.850Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:25:22.388Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:25:30.486Z [info]: Retrieved all items 
+2024-06-22T11:25:30.489Z [info]: Retrieved all items 
+2024-06-22T11:25:30.490Z [info]: Retrieved all items 
+2024-06-22T11:25:30.546Z [info]: Retrieved all items 
+2024-06-22T11:25:30.551Z [info]: Retrieved all items 
+2024-06-22T11:25:30.555Z [info]: Retrieved all items 
+2024-06-22T11:25:37.634Z [info]: Retrieved all items 
+2024-06-22T11:25:37.640Z [info]: Retrieved all items 
+2024-06-22T11:25:39.609Z [info]: Retrieved all items 
+2024-06-22T11:25:39.614Z [info]: Retrieved all items 
+2024-06-22T11:25:53.199Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:26:09.797Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:35:25.959Z [info]: Retrieved all items 
+2024-06-22T11:35:36.246Z [info]: Retrieved all items 
+2024-06-22T11:35:36.253Z [info]: Retrieved all items 
+2024-06-22T11:35:37.904Z [info]: Retrieved all items 
+2024-06-22T11:35:37.911Z [info]: Retrieved all items 
+2024-06-22T11:35:42.071Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:35:48.150Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:35:55.631Z [info]: Retrieved all items 
+2024-06-22T11:35:55.635Z [info]: Retrieved all items 
+2024-06-22T11:35:55.637Z [info]: Retrieved all items 
+2024-06-22T11:35:55.644Z [info]: Retrieved all items 
+2024-06-22T11:35:55.650Z [info]: Retrieved all items 
+2024-06-22T11:35:55.653Z [info]: Retrieved all items 
+2024-06-22T11:36:12.206Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:36:16.874Z [info]: Retrieved all items 
+2024-06-22T11:36:16.877Z [info]: Retrieved all items 
+2024-06-22T11:36:16.881Z [info]: Retrieved all items 
+2024-06-22T11:36:16.889Z [info]: Retrieved all items 
+2024-06-22T11:36:16.891Z [info]: Retrieved all items 
+2024-06-22T11:36:16.894Z [info]: Retrieved all items 
+2024-06-22T11:49:28.937Z [info]: Retrieved all items 
+2024-06-22T11:49:38.354Z [info]: Retrieved all items 
+2024-06-22T11:49:38.364Z [info]: Retrieved all items 
+2024-06-22T11:49:45.657Z [info]: Retrieved all items 
+2024-06-22T11:49:45.663Z [info]: Retrieved all items 
+2024-06-22T11:49:48.816Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:50:12.579Z [info]: Retrieved all items 
+2024-06-22T11:50:21.103Z [info]: Retrieved all items 
+2024-06-22T11:50:21.113Z [info]: Retrieved all items 
+2024-06-22T11:50:23.961Z [info]: Retrieved all items 
+2024-06-22T11:50:23.968Z [info]: Retrieved all items 
+2024-06-22T11:50:27.235Z [info]: Retrieved all items 
+2024-06-22T11:50:27.242Z [info]: Retrieved all items 
+2024-06-22T11:50:30.298Z [info]: Retrieved all items 
+2024-06-22T11:50:30.304Z [info]: Retrieved all items 
+2024-06-22T11:50:43.521Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:50:49.015Z [info]: Retrieved all items 
+2024-06-22T11:50:49.045Z [info]: Retrieved all items 
+2024-06-22T11:50:49.051Z [info]: Retrieved all items 
+2024-06-22T11:50:49.056Z [info]: Retrieved all items 
+2024-06-22T11:50:49.064Z [info]: Retrieved all items 
+2024-06-22T11:50:49.068Z [info]: Retrieved all items 
+2024-06-22T11:50:55.668Z [info]: Retrieved all items 
+2024-06-22T11:50:55.674Z [info]: Retrieved all items 
+2024-06-22T11:50:59.316Z [info]: Retrieved all items 
+2024-06-22T11:50:59.322Z [info]: Retrieved all items 
+2024-06-22T11:51:09.316Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:51:23.885Z [info]: Retrieved all items 
+2024-06-22T11:51:23.895Z [info]: Retrieved all items 
+2024-06-22T11:51:23.899Z [info]: Retrieved all items 
+2024-06-22T11:51:23.903Z [info]: Retrieved all items 
+2024-06-22T11:51:23.915Z [info]: Retrieved all items 
+2024-06-22T11:51:23.926Z [info]: Retrieved all items 
+2024-06-22T11:51:39.944Z [info]: Retrieved all items 
+2024-06-22T11:51:39.951Z [info]: Retrieved all items 
+2024-06-22T11:58:37.450Z [info]: Retrieved all items 
+2024-06-22T11:58:37.466Z [info]: Retrieved all items 
+2024-06-22T11:58:40.425Z [info]: Retrieved all items 
+2024-06-22T11:58:40.431Z [info]: Retrieved all items 
+2024-06-22T11:58:52.236Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T11:58:59.047Z [info]: Retrieved all items 
+2024-06-22T11:58:59.098Z [info]: Retrieved all items 
+2024-06-22T11:58:59.101Z [info]: Retrieved all items 
+2024-06-22T11:58:59.108Z [info]: Retrieved all items 
+2024-06-22T11:58:59.116Z [info]: Retrieved all items 
+2024-06-22T11:58:59.120Z [info]: Retrieved all items 
+2024-06-22T11:59:10.847Z [info]: Retrieved all items 
+2024-06-22T11:59:10.855Z [info]: Retrieved all items 
+2024-06-22T11:59:13.391Z [info]: Retrieved all items 
+2024-06-22T11:59:13.396Z [info]: Retrieved all items 
+2024-06-22T11:59:29.499Z [info]: Retrieved all items 
+2024-06-22T11:59:29.553Z [info]: Retrieved all items 
+2024-06-22T11:59:53.108Z [info]: Retrieved all items 
+2024-06-22T11:59:53.114Z [info]: Retrieved all items 
+2024-06-22T12:13:23.933Z [info]: Retrieved all items 
+2024-06-22T12:13:29.594Z [info]: Retrieved all items 
+2024-06-22T12:13:29.600Z [info]: Retrieved all items 
+2024-06-22T12:13:31.672Z [info]: Retrieved all items 
+2024-06-22T12:13:31.678Z [info]: Retrieved all items 
+2024-06-22T12:13:43.819Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T12:13:51.291Z [info]: Retrieved all items 
+2024-06-22T12:13:51.295Z [info]: Retrieved all items 
+2024-06-22T12:13:51.301Z [info]: Retrieved all items 
+2024-06-22T12:13:51.305Z [info]: Retrieved all items 
+2024-06-22T12:13:51.312Z [info]: Retrieved all items 
+2024-06-22T12:13:51.315Z [info]: Retrieved all items 
+2024-06-22T12:13:57.130Z [info]: Retrieved all items 
+2024-06-22T12:13:57.139Z [info]: Retrieved all items 
+2024-06-22T12:13:58.830Z [info]: Retrieved all items 
+2024-06-22T12:13:58.835Z [info]: Retrieved all items 
+2024-06-22T12:14:01.866Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T12:14:09.061Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony.....",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T12:14:13.955Z [info]: Retrieved all items 
+2024-06-22T12:14:13.959Z [info]: Retrieved all items 
+2024-06-22T12:14:13.967Z [info]: Retrieved all items 
+2024-06-22T12:14:13.972Z [info]: Retrieved all items 
+2024-06-22T12:14:13.979Z [info]: Retrieved all items 
+2024-06-22T12:14:13.990Z [info]: Retrieved all items 
+2024-06-22T12:14:35.307Z [info]: Retrieved all items 
+2024-06-22T12:14:35.317Z [info]: Retrieved all items 
+2024-06-22T12:14:37.349Z [info]: Retrieved all items 
+2024-06-22T12:14:37.401Z [info]: Retrieved all items 
+2024-06-22T12:14:54.921Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719058494892.jpeg",
+    "isDisabled": true,
+    "_id": "6676c03ec4a2b7ae14914826",
+    "createdAt": "2024-06-22T12:14:54.910Z",
+    "updatedAt": "2024-06-22T12:14:54.910Z",
+    "__v": 0
+  }
+}
+2024-06-22T12:14:59.647Z [info]: Retrieved all items 
+2024-06-22T12:14:59.652Z [info]: Retrieved all items 
+2024-06-22T12:14:59.659Z [info]: Retrieved all items 
+2024-06-22T12:14:59.666Z [info]: Retrieved all items 
+2024-06-22T12:14:59.676Z [info]: Retrieved all items 
+2024-06-22T12:14:59.688Z [info]: Retrieved all items 
+2024-06-22T12:15:07.377Z [info]: Updated item {
+  "item": {
+    "_id": "6676c03ec4a2b7ae14914826",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719058494892.jpeg"
+  }
+}
+2024-06-22T12:15:08.328Z [info]: Updated item {
+  "item": {
+    "_id": "6676c03ec4a2b7ae14914826",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719058494892.jpeg"
+  }
+}
+2024-06-22T12:15:10.968Z [info]: Retrieved all items 
+2024-06-22T12:15:10.975Z [info]: Retrieved all items 
+2024-06-22T12:15:13.201Z [info]: Retrieved all items 
+2024-06-22T12:15:13.207Z [info]: Retrieved all items 
+2024-06-22T12:15:51.754Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-22T12:15:55.216Z [info]: Retrieved all items 
+2024-06-22T12:15:55.231Z [info]: Retrieved all items 
+2024-06-22T12:16:10.346Z [info]: Retrieved all items 
+2024-06-22T12:16:10.355Z [info]: Retrieved all items 
+2024-06-23T15:28:14.743Z [info]: Retrieved all items 
+2024-06-23T15:28:14.750Z [info]: Retrieved all items 
+2024-06-23T15:28:14.767Z [info]: Retrieved all items 
+2024-06-23T15:28:14.773Z [info]: Retrieved all items 
+2024-06-23T15:28:14.776Z [info]: Retrieved all items 
+2024-06-23T15:28:14.782Z [info]: Retrieved all items 
+2024-06-23T15:28:35.831Z [info]: Updated item {
+  "item": {
+    "_id": "6676c03ec4a2b7ae14914826",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719058494892.jpeg"
+  }
+}
+2024-06-23T15:30:10.803Z [info]: Retrieved all items 
+2024-06-23T15:32:04.557Z [info]: Server is running on port 5000 
+2024-06-23T15:32:04.578Z [info]: Connected to MongoDB 
+2024-06-23T15:32:36.002Z [info]: Retrieved all items 
+2024-06-23T15:33:12.188Z [info]: Retrieved all items 
+2024-06-23T15:33:34.411Z [info]: Retrieved all items 
+2024-06-23T15:33:34.417Z [info]: Retrieved all items 
+2024-06-23T15:33:36.921Z [info]: Retrieved all items 
+2024-06-23T15:33:36.928Z [info]: Retrieved all items 
+2024-06-23T15:33:38.958Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-23T15:33:42.178Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-23T15:33:44.948Z [info]: Retrieved all items 
+2024-06-23T15:33:44.954Z [info]: Retrieved all items 
+2024-06-23T15:33:47.759Z [info]: Retrieved all items 
+2024-06-23T15:33:47.765Z [info]: Retrieved all items 
+2024-06-23T15:34:38.940Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-23T15:34:45.389Z [info]: Retrieved all items 
+2024-06-23T15:34:45.390Z [info]: Retrieved all items 
+2024-06-23T15:34:45.393Z [info]: Retrieved all items 
+2024-06-23T15:34:45.409Z [info]: Retrieved all items 
+2024-06-23T15:34:45.412Z [info]: Retrieved all items 
+2024-06-23T15:34:45.414Z [info]: Retrieved all items 
+2024-06-23T15:34:54.158Z [info]: Retrieved all items 
+2024-06-23T15:35:06.471Z [info]: Retrieved all items 
+2024-06-23T15:35:06.479Z [info]: Retrieved all items 
+2024-06-23T15:35:08.516Z [info]: Retrieved all items 
+2024-06-23T15:35:08.521Z [info]: Retrieved all items 
+2024-06-23T15:35:12.873Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-23T15:35:14.255Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg"
+  }
+}
+2024-06-23T15:35:17.470Z [info]: Retrieved all items 
+2024-06-23T15:35:17.475Z [info]: Retrieved all items 
+2024-06-23T15:35:19.429Z [info]: Retrieved all items 
+2024-06-23T15:35:19.434Z [info]: Retrieved all items 
+2024-06-23T15:36:58.665Z [info]: Server is running on port 5000 
+2024-06-23T15:36:58.683Z [info]: Connected to MongoDB 
+2024-06-23T15:37:18.904Z [info]: Server is running on port 5000 
+2024-06-23T15:37:18.938Z [info]: Connected to MongoDB 
+2024-06-23T15:37:32.084Z [info]: Server is running on port 5000 
+2024-06-23T15:37:32.104Z [info]: Connected to MongoDB 
+2024-06-23T15:37:40.436Z [info]: Retrieved all items 
+2024-06-23T15:37:40.449Z [info]: Retrieved all items 
+2024-06-23T15:37:42.981Z [info]: Retrieved all items 
+2024-06-23T15:37:42.989Z [info]: Retrieved all items 
+2024-06-23T15:37:45.283Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6676c03ec4a2b7ae14914826",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719058494892.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T15:37:49.242Z [info]: Retrieved all items 
+2024-06-23T15:37:49.245Z [info]: Retrieved all items 
+2024-06-23T15:37:49.248Z [info]: Retrieved all items 
+2024-06-23T15:37:49.266Z [info]: Retrieved all items 
+2024-06-23T15:37:49.270Z [info]: Retrieved all items 
+2024-06-23T15:37:49.278Z [info]: Retrieved all items 
+2024-06-23T15:37:57.448Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T15:38:00.271Z [info]: Retrieved all items 
+2024-06-23T15:38:00.276Z [info]: Retrieved all items 
+2024-06-23T15:38:02.172Z [info]: Retrieved all items 
+2024-06-23T15:38:02.178Z [info]: Retrieved all items 
+2024-06-23T15:38:08.138Z [info]: Retrieved all items 
+2024-06-23T15:39:08.401Z [info]: Retrieved all items 
+2024-06-23T15:39:21.365Z [info]: Retrieved all items 
+2024-06-23T15:39:26.130Z [info]: Retrieved all items 
+2024-06-23T15:39:26.137Z [info]: Retrieved all items 
+2024-06-23T15:39:27.720Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-23T15:39:29.207Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg"
+  }
+}
+2024-06-23T15:39:31.531Z [info]: Retrieved all items 
+2024-06-23T15:39:31.535Z [info]: Retrieved all items 
+2024-06-23T15:39:44.678Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T15:39:51.355Z [info]: Retrieved all items 
+2024-06-23T15:39:51.359Z [info]: Retrieved all items 
+2024-06-23T15:39:52.992Z [info]: Retrieved all items 
+2024-06-23T15:39:52.996Z [info]: Retrieved all items 
+2024-06-23T15:39:57.130Z [info]: Retrieved all items 
+2024-06-23T15:39:57.133Z [info]: Retrieved all items 
+2024-06-23T15:39:57.135Z [info]: Retrieved all items 
+2024-06-23T15:39:57.142Z [info]: Retrieved all items 
+2024-06-23T15:39:57.145Z [info]: Retrieved all items 
+2024-06-23T15:39:57.149Z [info]: Retrieved all items 
+2024-06-23T15:40:35.424Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": false,
+    "_id": "667841f3d5fcc0483806c28d",
+    "createdAt": "2024-06-23T15:40:35.417Z",
+    "updatedAt": "2024-06-23T15:40:35.417Z",
+    "__v": 0
+  }
+}
+2024-06-23T15:40:43.565Z [info]: Retrieved all items 
+2024-06-23T15:40:43.567Z [info]: Retrieved all items 
+2024-06-23T15:40:43.569Z [info]: Retrieved all items 
+2024-06-23T15:40:43.577Z [info]: Retrieved all items 
+2024-06-23T15:40:43.580Z [info]: Retrieved all items 
+2024-06-23T15:40:43.584Z [info]: Retrieved all items 
+2024-06-23T15:42:28.461Z [info]: Retrieved all items 
+2024-06-23T15:59:06.374Z [info]: Retrieved all items 
+2024-06-23T15:59:11.809Z [info]: Retrieved all items 
+2024-06-23T15:59:11.815Z [info]: Retrieved all items 
+2024-06-23T15:59:15.270Z [info]: Retrieved all items 
+2024-06-23T15:59:15.275Z [info]: Retrieved all items 
+2024-06-23T15:59:16.999Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T15:59:17.987Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T15:59:18.867Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T15:59:25.392Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T15:59:26.426Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T15:59:30.380Z [info]: Retrieved all items 
+2024-06-23T15:59:30.384Z [info]: Retrieved all items 
+2024-06-23T15:59:31.813Z [info]: Retrieved all items 
+2024-06-23T15:59:31.819Z [info]: Retrieved all items 
+2024-06-23T15:59:34.983Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T15:59:37.127Z [info]: Retrieved all items 
+2024-06-23T15:59:37.137Z [info]: Retrieved all items 
+2024-06-23T15:59:38.761Z [info]: Retrieved all items 
+2024-06-23T15:59:38.766Z [info]: Retrieved all items 
+2024-06-23T15:59:51.398Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T16:00:02.420Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T16:04:20.670Z [info]: Updated item {
+  "item": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T16:04:24.030Z [info]: Retrieved all items 
+2024-06-23T16:04:24.043Z [info]: Retrieved all items 
+2024-06-23T16:04:25.208Z [info]: Retrieved all items 
+2024-06-23T16:04:25.216Z [info]: Retrieved all items 
+2024-06-23T16:04:40.421Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667841f3d5fcc0483806c28d",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719157235404.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T16:05:00.282Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true,
+    "_id": "667847acd5fcc0483806c2bb",
+    "createdAt": "2024-06-23T16:05:00.276Z",
+    "updatedAt": "2024-06-23T16:05:00.276Z",
+    "__v": 0
+  }
+}
+2024-06-23T16:05:04.253Z [info]: Retrieved all items 
+2024-06-23T16:05:04.260Z [info]: Retrieved all items 
+2024-06-23T16:05:05.693Z [info]: Retrieved all items 
+2024-06-23T16:05:05.700Z [info]: Retrieved all items 
+2024-06-23T16:05:25.711Z [info]: Retrieved all items 
+2024-06-23T16:05:25.723Z [info]: Retrieved all items 
+2024-06-23T16:05:25.725Z [info]: Retrieved all items 
+2024-06-23T16:05:25.732Z [info]: Retrieved all items 
+2024-06-23T16:05:25.739Z [info]: Retrieved all items 
+2024-06-23T16:05:25.742Z [info]: Retrieved all items 
+2024-06-23T16:06:17.346Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T16:06:21.074Z [info]: Retrieved all items 
+2024-06-23T16:06:21.078Z [info]: Retrieved all items 
+2024-06-23T16:06:21.083Z [info]: Retrieved all items 
+2024-06-23T16:06:21.089Z [info]: Retrieved all items 
+2024-06-23T16:06:21.095Z [info]: Retrieved all items 
+2024-06-23T16:06:21.099Z [info]: Retrieved all items 
+2024-06-23T16:06:35.305Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T16:06:51.453Z [info]: Retrieved all items 
+2024-06-23T16:06:51.460Z [info]: Retrieved all items 
+2024-06-23T16:07:24.084Z [info]: Retrieved all items 
+2024-06-23T16:07:24.091Z [info]: Retrieved all items 
+2024-06-23T16:07:29.945Z [info]: Retrieved all items 
+2024-06-23T16:07:39.252Z [info]: Retrieved all items 
+2024-06-23T16:07:39.257Z [info]: Retrieved all items 
+2024-06-23T16:07:39.260Z [info]: Retrieved all items 
+2024-06-23T16:07:39.271Z [info]: Retrieved all items 
+2024-06-23T16:07:39.276Z [info]: Retrieved all items 
+2024-06-23T16:07:39.279Z [info]: Retrieved all items 
+2024-06-23T16:16:36.432Z [info]: Retrieved all items 
+2024-06-23T16:16:36.441Z [info]: Retrieved all items 
+2024-06-23T16:16:42.017Z [info]: Retrieved all items 
+2024-06-23T16:16:42.024Z [info]: Retrieved all items 
+2024-06-23T16:16:43.797Z [info]: Retrieved all items 
+2024-06-23T16:16:43.803Z [info]: Retrieved all items 
+2024-06-23T16:16:55.009Z [info]: Retrieved all items 
+2024-06-23T16:16:55.012Z [info]: Retrieved all items 
+2024-06-23T16:16:55.016Z [info]: Retrieved all items 
+2024-06-23T16:16:55.027Z [info]: Retrieved all items 
+2024-06-23T16:16:55.032Z [info]: Retrieved all items 
+2024-06-23T16:16:55.035Z [info]: Retrieved all items 
+2024-06-23T16:17:04.168Z [info]: Retrieved all items 
+2024-06-23T16:17:08.286Z [info]: Retrieved all items 
+2024-06-23T16:17:11.461Z [info]: Retrieved all items 
+2024-06-23T16:17:12.565Z [info]: Retrieved all items 
+2024-06-23T16:17:25.129Z [info]: Retrieved all items 
+2024-06-23T16:17:25.136Z [info]: Retrieved all items 
+2024-06-23T16:37:14.699Z [info]: Retrieved all items 
+2024-06-23T16:37:14.707Z [info]: Retrieved all items 
+2024-06-23T16:37:17.382Z [info]: Retrieved all items 
+2024-06-23T16:37:17.387Z [info]: Retrieved all items 
+2024-06-23T16:37:19.860Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T16:37:20.825Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T16:37:24.255Z [info]: Retrieved all items 
+2024-06-23T16:37:24.263Z [info]: Retrieved all items 
+2024-06-23T16:37:26.164Z [info]: Retrieved all items 
+2024-06-23T16:37:26.174Z [info]: Retrieved all items 
+2024-06-23T16:41:05.426Z [info]: Retrieved all items 
+2024-06-23T16:42:28.403Z [info]: Retrieved all items 
+2024-06-23T16:42:28.411Z [info]: Retrieved all items 
+2024-06-23T16:42:32.983Z [info]: Retrieved all items 
+2024-06-23T16:42:32.990Z [info]: Retrieved all items 
+2024-06-23T16:42:34.877Z [info]: Retrieved all items 
+2024-06-23T16:42:34.884Z [info]: Retrieved all items 
+2024-06-23T16:44:34.443Z [info]: Retrieved all items 
+2024-06-23T16:44:34.449Z [info]: Retrieved all items 
+2024-06-23T16:44:37.341Z [info]: Retrieved all items 
+2024-06-23T16:44:37.348Z [info]: Retrieved all items 
+2024-06-23T16:44:48.482Z [info]: Retrieved all items 
+2024-06-23T16:44:48.490Z [info]: Retrieved all items 
+2024-06-23T16:44:50.450Z [info]: Retrieved all items 
+2024-06-23T16:44:50.457Z [info]: Retrieved all items 
+2024-06-23T16:44:52.583Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T16:44:57.896Z [info]: Retrieved all items 
+2024-06-23T16:44:57.908Z [info]: Retrieved all items 
+2024-06-23T16:44:57.911Z [info]: Retrieved all items 
+2024-06-23T16:44:57.917Z [info]: Retrieved all items 
+2024-06-23T16:44:57.922Z [info]: Retrieved all items 
+2024-06-23T16:44:57.926Z [info]: Retrieved all items 
+2024-06-23T16:45:38.414Z [info]: Retrieved all items 
+2024-06-23T16:45:38.423Z [info]: Retrieved all items 
+2024-06-23T16:45:43.273Z [info]: Retrieved all items 
+2024-06-23T16:45:43.280Z [info]: Retrieved all items 
+2024-06-23T16:45:45.342Z [info]: Retrieved all items 
+2024-06-23T16:45:45.351Z [info]: Retrieved all items 
+2024-06-23T16:45:46.966Z [info]: Retrieved all items 
+2024-06-23T16:45:49.330Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T16:45:52.933Z [info]: Retrieved all items 
+2024-06-23T16:45:52.941Z [info]: Retrieved all items 
+2024-06-23T16:45:54.640Z [info]: Retrieved all items 
+2024-06-23T16:45:54.646Z [info]: Retrieved all items 
+2024-06-23T16:45:56.667Z [info]: Retrieved all items 
+2024-06-23T16:46:01.457Z [info]: Retrieved all items 
+2024-06-23T16:46:04.175Z [info]: Retrieved all items 
+2024-06-23T16:46:09.534Z [info]: Retrieved all items 
+2024-06-23T16:46:09.537Z [info]: Retrieved all items 
+2024-06-23T16:46:09.541Z [info]: Retrieved all items 
+2024-06-23T16:46:09.550Z [info]: Retrieved all items 
+2024-06-23T16:46:09.573Z [info]: Retrieved all items 
+2024-06-23T16:46:09.576Z [info]: Retrieved all items 
+2024-06-23T16:46:13.015Z [info]: Retrieved all items 
+2024-06-23T16:49:09.992Z [info]: Retrieved all items 
+2024-06-23T16:49:17.849Z [info]: Retrieved all items 
+2024-06-23T16:49:41.485Z [info]: Retrieved all items 
+2024-06-23T16:49:41.492Z [info]: Retrieved all items 
+2024-06-23T16:49:46.582Z [info]: Retrieved all items 
+2024-06-23T16:49:46.592Z [info]: Retrieved all items 
+2024-06-23T16:49:48.157Z [info]: Retrieved all items 
+2024-06-23T16:49:48.163Z [info]: Retrieved all items 
+2024-06-23T16:50:19.436Z [info]: Retrieved all items 
+2024-06-23T16:50:19.445Z [info]: Retrieved all items 
+2024-06-23T16:50:25.676Z [info]: Retrieved all items 
+2024-06-23T16:50:25.683Z [info]: Retrieved all items 
+2024-06-23T16:50:27.919Z [info]: Retrieved all items 
+2024-06-23T16:50:27.925Z [info]: Retrieved all items 
+2024-06-23T16:50:29.162Z [info]: Retrieved all items 
+2024-06-23T16:50:31.042Z [info]: Retrieved all items 
+2024-06-23T16:50:33.042Z [info]: Retrieved all items 
+2024-06-23T16:56:54.423Z [info]: Retrieved all items 
+2024-06-23T16:56:54.435Z [info]: Retrieved all items 
+2024-06-23T16:56:59.255Z [info]: Retrieved all items 
+2024-06-23T16:56:59.261Z [info]: Retrieved all items 
+2024-06-23T16:57:01.389Z [info]: Retrieved all items 
+2024-06-23T16:57:01.394Z [info]: Retrieved all items 
+2024-06-23T16:57:06.236Z [info]: Retrieved all items 
+2024-06-23T16:57:06.244Z [info]: Retrieved all items 
+2024-06-23T16:57:06.247Z [info]: Retrieved all items 
+2024-06-23T16:57:06.250Z [info]: Retrieved all items 
+2024-06-23T16:57:06.261Z [info]: Retrieved all items 
+2024-06-23T16:57:06.264Z [info]: Retrieved all items 
+2024-06-23T16:59:35.392Z [info]: Retrieved all items 
+2024-06-23T17:00:26.399Z [info]: Retrieved all items 
+2024-06-23T17:00:26.406Z [info]: Retrieved all items 
+2024-06-23T17:00:31.133Z [info]: Retrieved all items 
+2024-06-23T17:00:31.140Z [info]: Retrieved all items 
+2024-06-23T17:00:33.170Z [info]: Retrieved all items 
+2024-06-23T17:00:33.176Z [info]: Retrieved all items 
+2024-06-23T17:00:35.383Z [info]: Retrieved all items 
+2024-06-23T17:00:38.810Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-23T17:00:41.679Z [info]: Retrieved all items 
+2024-06-23T17:00:43.314Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-23T17:00:51.413Z [info]: Retrieved all items 
+2024-06-23T17:00:51.425Z [info]: Retrieved all items 
+2024-06-23T17:00:56.387Z [info]: Retrieved all items 
+2024-06-23T17:00:56.393Z [info]: Retrieved all items 
+2024-06-23T17:00:58.594Z [info]: Retrieved all items 
+2024-06-23T17:00:58.668Z [info]: Retrieved all items 
+2024-06-23T17:05:18.395Z [info]: Retrieved all items 
+2024-06-23T17:05:18.403Z [info]: Retrieved all items 
+2024-06-23T17:05:23.847Z [info]: Retrieved all items 
+2024-06-23T17:05:25.378Z [info]: Retrieved all items 
+2024-06-23T17:05:26.155Z [info]: Retrieved all items 
+2024-06-23T17:05:32.010Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-06-23T17:05:40.254Z [info]: Retrieved all items 
+2024-06-23T17:05:40.261Z [info]: Retrieved all items 
+2024-06-23T17:08:27.378Z [info]: Retrieved all items 
+2024-06-23T17:08:32.738Z [info]: Retrieved all items 
+2024-06-23T17:08:32.744Z [info]: Retrieved all items 
+2024-06-23T17:08:35.920Z [info]: Retrieved all items 
+2024-06-23T17:08:35.926Z [info]: Retrieved all items 
+2024-06-23T17:08:44.975Z [info]: Retrieved all items 
+2024-06-23T17:08:45.017Z [info]: Retrieved all items 
+2024-06-23T17:08:45.021Z [info]: Retrieved all items 
+2024-06-23T17:08:45.024Z [info]: Retrieved all items 
+2024-06-23T17:08:45.031Z [info]: Retrieved all items 
+2024-06-23T17:08:45.034Z [info]: Retrieved all items 
+2024-06-23T17:09:57.844Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:10:41.925Z [info]: Retrieved all items 
+2024-06-23T17:10:48.500Z [info]: Retrieved all items 
+2024-06-23T17:10:48.513Z [info]: Retrieved all items 
+2024-06-23T17:10:49.774Z [info]: Retrieved all items 
+2024-06-23T17:10:49.781Z [info]: Retrieved all items 
+2024-06-23T17:10:51.651Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:10:55.563Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:10:56.505Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:11:01.462Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:11:03.223Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:11:07.553Z [info]: Retrieved all items 
+2024-06-23T17:11:07.560Z [info]: Retrieved all items 
+2024-06-23T17:11:12.022Z [info]: Retrieved all items 
+2024-06-23T17:11:12.028Z [info]: Retrieved all items 
+2024-06-23T17:11:15.058Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:11:16.845Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:11:19.879Z [info]: Retrieved all items 
+2024-06-23T17:11:19.891Z [info]: Retrieved all items 
+2024-06-23T17:11:22.632Z [info]: Retrieved all items 
+2024-06-23T17:11:22.637Z [info]: Retrieved all items 
+2024-06-23T17:13:14.405Z [info]: Retrieved all items 
+2024-06-23T17:13:27.052Z [info]: Retrieved all items 
+2024-06-23T17:13:27.057Z [info]: Retrieved all items 
+2024-06-23T17:13:28.955Z [info]: Retrieved all items 
+2024-06-23T17:13:28.963Z [info]: Retrieved all items 
+2024-06-23T17:13:31.538Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:13:33.442Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:13:38.698Z [info]: Retrieved all items 
+2024-06-23T17:13:38.751Z [info]: Retrieved all items 
+2024-06-23T17:13:38.754Z [info]: Retrieved all items 
+2024-06-23T17:13:38.758Z [info]: Retrieved all items 
+2024-06-23T17:13:38.764Z [info]: Retrieved all items 
+2024-06-23T17:13:38.767Z [info]: Retrieved all items 
+2024-06-23T17:16:04.421Z [info]: Retrieved all items 
+2024-06-23T17:16:09.786Z [info]: Retrieved all items 
+2024-06-23T17:16:09.799Z [info]: Retrieved all items 
+2024-06-23T17:16:13.913Z [info]: Retrieved all items 
+2024-06-23T17:16:13.918Z [info]: Retrieved all items 
+2024-06-23T17:16:13.926Z [info]: Retrieved all items 
+2024-06-23T17:16:13.933Z [info]: Retrieved all items 
+2024-06-23T17:16:13.939Z [info]: Retrieved all items 
+2024-06-23T17:16:13.944Z [info]: Retrieved all items 
+2024-06-23T17:16:21.942Z [info]: Retrieved all items 
+2024-06-23T17:16:21.951Z [info]: Retrieved all items 
+2024-06-23T17:16:23.508Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:16:25.650Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:16:28.125Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:16:31.152Z [info]: Retrieved all items 
+2024-06-23T17:16:31.163Z [info]: Retrieved all items 
+2024-06-23T17:16:32.346Z [info]: Retrieved all items 
+2024-06-23T17:16:32.352Z [info]: Retrieved all items 
+2024-06-23T17:16:44.178Z [info]: Retrieved all items 
+2024-06-23T17:16:49.818Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:16:51.888Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:16:55.572Z [info]: Retrieved all items 
+2024-06-23T17:16:55.577Z [info]: Retrieved all items 
+2024-06-23T17:17:06.028Z [info]: Retrieved all items 
+2024-06-23T17:17:06.035Z [info]: Retrieved all items 
+2024-06-23T17:17:17.203Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:17:20.898Z [info]: Retrieved all items 
+2024-06-23T17:17:20.912Z [info]: Retrieved all items 
+2024-06-23T17:17:23.541Z [info]: Retrieved all items 
+2024-06-23T17:17:23.547Z [info]: Retrieved all items 
+2024-06-23T17:17:30.086Z [info]: Retrieved all items 
+2024-06-23T17:17:30.091Z [info]: Retrieved all items 
+2024-06-23T17:17:30.097Z [info]: Retrieved all items 
+2024-06-23T17:17:30.101Z [info]: Retrieved all items 
+2024-06-23T17:17:30.125Z [info]: Retrieved all items 
+2024-06-23T17:17:30.128Z [info]: Retrieved all items 
+2024-06-23T17:19:15.397Z [info]: Retrieved all items 
+2024-06-23T17:19:35.211Z [info]: Retrieved all items 
+2024-06-23T17:19:35.263Z [info]: Retrieved all items 
+2024-06-23T17:19:37.716Z [info]: Retrieved all items 
+2024-06-23T17:19:37.721Z [info]: Retrieved all items 
+2024-06-23T17:19:56.005Z [info]: Retrieved all items 
+2024-06-23T17:20:00.396Z [info]: Retrieved all items 
+2024-06-23T17:20:00.412Z [info]: Retrieved all items 
+2024-06-23T17:20:02.538Z [info]: Retrieved all items 
+2024-06-23T17:20:02.545Z [info]: Retrieved all items 
+2024-06-23T17:20:22.867Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": true,
+    "_id": "66785956d5fcc0483806c3ca",
+    "createdAt": "2024-06-23T17:20:22.857Z",
+    "updatedAt": "2024-06-23T17:20:22.857Z",
+    "__v": 0
+  }
+}
+2024-06-23T17:20:38.681Z [info]: Retrieved all items 
+2024-06-23T17:20:44.328Z [info]: Retrieved all items 
+2024-06-23T17:20:44.334Z [info]: Retrieved all items 
+2024-06-23T17:20:46.545Z [info]: Retrieved all items 
+2024-06-23T17:20:46.552Z [info]: Retrieved all items 
+2024-06-23T17:21:45.692Z [info]: Retrieved all items 
+2024-06-23T17:21:48.652Z [info]: Retrieved all items 
+2024-06-23T17:21:48.657Z [info]: Retrieved all items 
+2024-06-23T17:21:50.701Z [info]: Retrieved all items 
+2024-06-23T17:21:50.707Z [info]: Retrieved all items 
+2024-06-23T17:21:54.810Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:21:57.649Z [info]: Retrieved all items 
+2024-06-23T17:21:57.656Z [info]: Retrieved all items 
+2024-06-23T17:21:59.922Z [info]: Retrieved all items 
+2024-06-23T17:21:59.930Z [info]: Retrieved all items 
+2024-06-23T17:22:07.821Z [info]: Retrieved all items 
+2024-06-23T17:22:07.830Z [info]: Retrieved all items 
+2024-06-23T17:22:07.833Z [info]: Retrieved all items 
+2024-06-23T17:22:07.836Z [info]: Retrieved all items 
+2024-06-23T17:22:07.844Z [info]: Retrieved all items 
+2024-06-23T17:22:07.846Z [info]: Retrieved all items 
+2024-06-23T17:22:13.442Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:22:15.500Z [info]: Retrieved all items 
+2024-06-23T17:22:15.517Z [info]: Retrieved all items 
+2024-06-23T17:22:17.651Z [info]: Retrieved all items 
+2024-06-23T17:22:17.657Z [info]: Retrieved all items 
+2024-06-23T17:27:42.450Z [info]: Retrieved all items 
+2024-06-23T17:27:47.654Z [info]: Retrieved all items 
+2024-06-23T17:27:47.661Z [info]: Retrieved all items 
+2024-06-23T17:27:49.880Z [info]: Retrieved all items 
+2024-06-23T17:27:49.886Z [info]: Retrieved all items 
+2024-06-23T17:27:54.778Z [info]: Retrieved all items 
+2024-06-23T17:27:54.783Z [info]: Retrieved all items 
+2024-06-23T17:27:54.788Z [info]: Retrieved all items 
+2024-06-23T17:27:54.794Z [info]: Retrieved all items 
+2024-06-23T17:27:54.798Z [info]: Retrieved all items 
+2024-06-23T17:27:54.801Z [info]: Retrieved all items 
+2024-06-23T17:28:09.698Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:28:21.193Z [info]: Retrieved all items 
+2024-06-23T17:28:23.647Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:28:28.953Z [info]: Retrieved all items 
+2024-06-23T17:28:28.961Z [info]: Retrieved all items 
+2024-06-23T17:28:31.743Z [info]: Retrieved all items 
+2024-06-23T17:28:31.750Z [info]: Retrieved all items 
+2024-06-23T17:31:59.755Z [info]: Retrieved all items 
+2024-06-23T17:32:05.665Z [info]: Retrieved all items 
+2024-06-23T17:32:05.720Z [info]: Retrieved all items 
+2024-06-23T17:32:08.251Z [info]: Retrieved all items 
+2024-06-23T17:32:08.257Z [info]: Retrieved all items 
+2024-06-23T17:32:45.485Z [info]: Retrieved all items 
+2024-06-23T17:33:25.405Z [info]: Retrieved all items 
+2024-06-23T17:33:33.895Z [info]: Retrieved all items 
+2024-06-23T17:33:33.902Z [info]: Retrieved all items 
+2024-06-23T17:33:35.317Z [info]: Retrieved all items 
+2024-06-23T17:33:35.325Z [info]: Retrieved all items 
+2024-06-23T17:34:42.505Z [info]: Retrieved all items 
+2024-06-23T17:34:42.627Z [info]: Retrieved all items 
+2024-06-23T17:34:42.682Z [info]: Retrieved all items 
+2024-06-23T17:34:42.750Z [info]: Retrieved all items 
+2024-06-23T17:34:42.848Z [info]: Retrieved all items 
+2024-06-23T17:34:42.917Z [info]: Retrieved all items 
+2024-06-23T17:34:42.987Z [info]: Retrieved all items 
+2024-06-23T17:34:43.067Z [info]: Retrieved all items 
+2024-06-23T17:34:43.103Z [info]: Retrieved all items 
+2024-06-23T17:34:43.147Z [info]: Retrieved all items 
+2024-06-23T17:34:43.224Z [info]: Retrieved all items 
+2024-06-23T17:34:43.326Z [info]: Retrieved all items 
+2024-06-23T17:34:43.395Z [info]: Retrieved all items 
+2024-06-23T17:34:43.473Z [info]: Retrieved all items 
+2024-06-23T17:34:43.555Z [info]: Retrieved all items 
+2024-06-23T17:34:43.623Z [info]: Retrieved all items 
+2024-06-23T17:34:43.684Z [info]: Retrieved all items 
+2024-06-23T17:34:43.755Z [info]: Retrieved all items 
+2024-06-23T17:34:43.856Z [info]: Retrieved all items 
+2024-06-23T17:34:43.968Z [info]: Retrieved all items 
+2024-06-23T17:34:44.018Z [info]: Retrieved all items 
+2024-06-23T17:34:44.075Z [info]: Retrieved all items 
+2024-06-23T17:34:44.128Z [info]: Retrieved all items 
+2024-06-23T17:34:44.186Z [info]: Retrieved all items 
+2024-06-23T17:34:44.230Z [info]: Retrieved all items 
+2024-06-23T17:34:44.307Z [info]: Retrieved all items 
+2024-06-23T17:34:44.371Z [info]: Retrieved all items 
+2024-06-23T17:34:44.425Z [info]: Retrieved all items 
+2024-06-23T17:34:44.496Z [info]: Retrieved all items 
+2024-06-23T17:34:44.563Z [info]: Retrieved all items 
+2024-06-23T17:34:44.603Z [info]: Retrieved all items 
+2024-06-23T17:34:44.668Z [info]: Retrieved all items 
+2024-06-23T17:34:44.756Z [info]: Retrieved all items 
+2024-06-23T17:34:44.828Z [info]: Retrieved all items 
+2024-06-23T17:34:44.867Z [info]: Retrieved all items 
+2024-06-23T17:34:44.901Z [info]: Retrieved all items 
+2024-06-23T17:34:44.958Z [info]: Retrieved all items 
+2024-06-23T17:34:45.020Z [info]: Retrieved all items 
+2024-06-23T17:34:45.060Z [info]: Retrieved all items 
+2024-06-23T17:34:45.118Z [info]: Retrieved all items 
+2024-06-23T17:34:45.173Z [info]: Retrieved all items 
+2024-06-23T17:34:45.245Z [info]: Retrieved all items 
+2024-06-23T17:34:47.282Z [info]: Retrieved all items 
+2024-06-23T17:34:47.293Z [info]: Retrieved all items 
+2024-06-23T17:34:54.316Z [info]: Retrieved all items 
+2024-06-23T17:34:54.323Z [info]: Retrieved all items 
+2024-06-23T17:35:14.043Z [info]: Retrieved all items 
+2024-06-23T17:35:14.055Z [info]: Retrieved all items 
+2024-06-23T17:35:34.124Z [info]: Retrieved all items 
+2024-06-23T17:35:34.130Z [info]: Retrieved all items 
+2024-06-23T17:36:42.397Z [info]: Retrieved all items 
+2024-06-23T17:36:45.961Z [info]: Retrieved all items 
+2024-06-23T17:36:45.972Z [info]: Retrieved all items 
+2024-06-23T17:36:54.349Z [info]: Retrieved all items 
+2024-06-23T17:36:54.400Z [info]: Retrieved all items 
+2024-06-23T17:37:14.018Z [info]: Retrieved all items 
+2024-06-23T17:38:53.213Z [info]: Server is running on port 5000 
+2024-06-23T17:38:53.263Z [info]: Connected to MongoDB 
+2024-06-23T17:39:03.111Z [info]: Server is running on port 5000 
+2024-06-23T17:39:03.143Z [info]: Connected to MongoDB 
+2024-06-23T17:39:11.865Z [info]: Server is running on port 5000 
+2024-06-23T17:39:11.910Z [info]: Connected to MongoDB 
+2024-06-23T17:39:22.529Z [info]: Server is running on port 5000 
+2024-06-23T17:39:22.568Z [info]: Connected to MongoDB 
+2024-06-23T17:39:53.401Z [info]: Server is running on port 5000 
+2024-06-23T17:39:53.452Z [info]: Connected to MongoDB 
+2024-06-23T17:40:01.140Z [info]: Server is running on port 5000 
+2024-06-23T17:40:01.204Z [info]: Connected to MongoDB 
+2024-06-23T17:40:13.881Z [info]: Server is running on port 5000 
+2024-06-23T17:40:13.913Z [info]: Connected to MongoDB 
+2024-06-23T17:40:19.430Z [info]: Retrieved all items 
+2024-06-23T17:40:19.475Z [info]: Retrieved all items 
+2024-06-23T17:40:21.414Z [info]: Retrieved all items 
+2024-06-23T17:40:21.432Z [info]: Retrieved all items 
+2024-06-23T17:40:25.027Z [info]: Retrieved all items 
+2024-06-23T17:40:25.037Z [info]: Retrieved all items 
+2024-06-23T17:40:26.419Z [info]: Retrieved all items 
+2024-06-23T17:40:26.433Z [info]: Retrieved all items 
+2024-06-23T17:40:28.931Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:40:31.404Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:41:13.004Z [info]: Retrieved all items 
+2024-06-23T17:41:13.016Z [info]: Retrieved all items 
+2024-06-23T17:41:13.976Z [info]: Retrieved all items 
+2024-06-23T17:41:13.991Z [info]: Retrieved all items 
+2024-06-23T17:41:15.527Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:41:16.468Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:41:18.871Z [info]: Retrieved all items 
+2024-06-23T17:41:18.879Z [info]: Retrieved all items 
+2024-06-23T17:41:21.320Z [info]: Retrieved all items 
+2024-06-23T17:41:21.328Z [info]: Retrieved all items 
+2024-06-23T17:41:23.359Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-23T17:41:35.724Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-23T17:41:37.835Z [info]: Retrieved all items 
+2024-06-23T17:41:37.848Z [info]: Retrieved all items 
+2024-06-23T17:41:40.387Z [info]: Retrieved all items 
+2024-06-23T17:41:40.395Z [info]: Retrieved all items 
+2024-06-23T17:42:22.462Z [info]: Retrieved all items 
+2024-06-24T04:54:50.893Z [info]: Retrieved all items 
+2024-06-24T04:54:50.907Z [info]: Retrieved all items 
+2024-06-24T04:54:58.572Z [info]: Retrieved all items 
+2024-06-24T04:54:58.580Z [info]: Retrieved all items 
+2024-06-24T04:55:49.344Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719204949307.jpeg",
+    "isDisabled": false,
+    "_id": "6678fc55b0efa4b4c8eaeb7e",
+    "createdAt": "2024-06-24T04:55:49.333Z",
+    "updatedAt": "2024-06-24T04:55:49.333Z",
+    "__v": 0
+  }
+}
+2024-06-24T04:55:56.436Z [info]: Retrieved all items 
+2024-06-24T04:55:56.440Z [info]: Retrieved all items 
+2024-06-24T04:55:56.444Z [info]: Retrieved all items 
+2024-06-24T04:55:56.457Z [info]: Retrieved all items 
+2024-06-24T04:55:56.460Z [info]: Retrieved all items 
+2024-06-24T04:55:56.463Z [info]: Retrieved all items 
+2024-06-24T04:56:15.770Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "6678fc55b0efa4b4c8eaeb7e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719204949307.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T04:56:20.839Z [info]: Retrieved all items 
+2024-06-24T04:56:20.843Z [info]: Retrieved all items 
+2024-06-24T04:56:20.849Z [info]: Retrieved all items 
+2024-06-24T04:56:20.865Z [info]: Retrieved all items 
+2024-06-24T04:56:20.870Z [info]: Retrieved all items 
+2024-06-24T04:56:20.874Z [info]: Retrieved all items 
+2024-06-24T05:06:13.055Z [info]: Retrieved all items 
+2024-06-24T05:06:13.062Z [info]: Retrieved all items 
+2024-06-24T05:06:16.045Z [info]: Updated item {
+  "item": {
+    "_id": "66740803f7090e3d0f75f4c2",
+    "title_en": "A statue for those who served Tamil",
+    "description_en": "Tamil books, weeklies and Monday magazines to be published in the near future",
+    "image": "image-1718880259721.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:06:18.504Z [info]: Updated item {
+  "item": {
+    "_id": "66740803f7090e3d0f75f4c2",
+    "title_en": "A statue for those who served Tamil",
+    "description_en": "Tamil books, weeklies and Monday magazines to be published in the near future",
+    "image": "image-1718880259721.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:06:21.731Z [info]: Retrieved all items 
+2024-06-24T05:06:21.738Z [info]: Retrieved all items 
+2024-06-24T05:06:26.219Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:10:04.805Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1718880067168.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T05:10:07.634Z [info]: Retrieved all items 
+2024-06-24T05:10:07.643Z [info]: Retrieved all items 
+2024-06-24T05:10:09.772Z [info]: Retrieved all items 
+2024-06-24T05:10:09.780Z [info]: Retrieved all items 
+2024-06-24T05:19:16.897Z [info]: Retrieved all items 
+2024-06-24T05:19:16.900Z [info]: Retrieved all items 
+2024-06-24T05:19:16.908Z [info]: Retrieved all items 
+2024-06-24T05:19:16.911Z [info]: Retrieved all items 
+2024-06-24T05:22:25.907Z [info]: Retrieved all items 
+2024-06-24T05:28:44.892Z [info]: Retrieved all items 
+2024-06-24T05:29:06.501Z [info]: Retrieved all items 
+2024-06-24T05:29:06.504Z [info]: Retrieved all items 
+2024-06-24T05:29:06.507Z [info]: Retrieved all items 
+2024-06-24T05:29:06.516Z [info]: Retrieved all items 
+2024-06-24T05:29:06.520Z [info]: Retrieved all items 
+2024-06-24T05:29:06.525Z [info]: Retrieved all items 
+2024-06-24T05:29:34.882Z [info]: Retrieved all items 
+2024-06-24T05:29:45.661Z [info]: Retrieved all items 
+2024-06-24T05:29:45.668Z [info]: Retrieved all items 
+2024-06-24T05:29:47.697Z [info]: Retrieved all items 
+2024-06-24T05:29:47.704Z [info]: Retrieved all items 
+2024-06-24T05:30:02.919Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T05:30:06.812Z [info]: Retrieved all items 
+2024-06-24T05:30:06.821Z [info]: Retrieved all items 
+2024-06-24T05:30:06.828Z [info]: Retrieved all items 
+2024-06-24T05:30:06.835Z [info]: Retrieved all items 
+2024-06-24T05:30:06.843Z [info]: Retrieved all items 
+2024-06-24T05:30:06.849Z [info]: Retrieved all items 
+2024-06-24T05:30:18.126Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:30:19.016Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:30:22.327Z [info]: Retrieved all items 
+2024-06-24T05:30:22.330Z [info]: Retrieved all items 
+2024-06-24T05:30:22.333Z [info]: Retrieved all items 
+2024-06-24T05:30:22.346Z [info]: Retrieved all items 
+2024-06-24T05:30:22.350Z [info]: Retrieved all items 
+2024-06-24T05:30:22.361Z [info]: Retrieved all items 
+2024-06-24T05:36:21.245Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T05:36:22.213Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T05:36:25.866Z [info]: Retrieved all items 
+2024-06-24T05:36:25.869Z [info]: Retrieved all items 
+2024-06-24T05:36:25.874Z [info]: Retrieved all items 
+2024-06-24T05:36:25.886Z [info]: Retrieved all items 
+2024-06-24T05:36:25.889Z [info]: Retrieved all items 
+2024-06-24T05:36:25.937Z [info]: Retrieved all items 
+2024-06-24T05:36:40.316Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:36:44.791Z [info]: Retrieved all items 
+2024-06-24T05:36:44.795Z [info]: Retrieved all items 
+2024-06-24T05:36:44.803Z [info]: Retrieved all items 
+2024-06-24T05:36:44.808Z [info]: Retrieved all items 
+2024-06-24T05:36:44.811Z [info]: Retrieved all items 
+2024-06-24T05:36:44.817Z [info]: Retrieved all items 
+2024-06-24T05:36:51.946Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T05:36:53.218Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:36:59.081Z [info]: Retrieved all items 
+2024-06-24T05:36:59.086Z [info]: Retrieved all items 
+2024-06-24T05:36:59.090Z [info]: Retrieved all items 
+2024-06-24T05:36:59.102Z [info]: Retrieved all items 
+2024-06-24T05:36:59.109Z [info]: Retrieved all items 
+2024-06-24T05:36:59.112Z [info]: Retrieved all items 
+2024-06-24T05:45:50.037Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T05:45:53.265Z [info]: Retrieved all items 
+2024-06-24T05:45:53.269Z [info]: Retrieved all items 
+2024-06-24T05:45:53.274Z [info]: Retrieved all items 
+2024-06-24T05:45:53.279Z [info]: Retrieved all items 
+2024-06-24T05:45:53.287Z [info]: Retrieved all items 
+2024-06-24T05:45:53.289Z [info]: Retrieved all items 
+2024-06-24T05:50:03.883Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T05:50:07.104Z [info]: Retrieved all items 
+2024-06-24T05:50:07.108Z [info]: Retrieved all items 
+2024-06-24T05:50:07.110Z [info]: Retrieved all items 
+2024-06-24T05:50:07.124Z [info]: Retrieved all items 
+2024-06-24T05:50:07.127Z [info]: Retrieved all items 
+2024-06-24T05:50:07.131Z [info]: Retrieved all items 
+2024-06-24T06:17:53.733Z [info]: Updated item {
+  "item": {
+    "_id": "66785956d5fcc0483806c3ca",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils...",
+    "image": "image-1719163222841.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T06:17:57.026Z [info]: Retrieved all items 
+2024-06-24T06:17:57.033Z [info]: Retrieved all items 
+2024-06-24T06:18:02.075Z [info]: Retrieved all items 
+2024-06-24T06:18:02.082Z [info]: Retrieved all items 
+2024-06-24T06:20:13.202Z [info]: Retrieved all items 
+2024-06-24T06:20:22.696Z [info]: Retrieved all items 
+2024-06-24T06:20:22.707Z [info]: Retrieved all items 
+2024-06-24T06:20:22.709Z [info]: Retrieved all items 
+2024-06-24T06:20:22.712Z [info]: Retrieved all items 
+2024-06-24T06:20:22.720Z [info]: Retrieved all items 
+2024-06-24T06:20:22.724Z [info]: Retrieved all items 
+2024-06-24T06:20:27.498Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:20:30.496Z [info]: Retrieved all items 
+2024-06-24T06:20:30.499Z [info]: Retrieved all items 
+2024-06-24T06:20:30.503Z [info]: Retrieved all items 
+2024-06-24T06:20:30.532Z [info]: Retrieved all items 
+2024-06-24T06:20:30.538Z [info]: Retrieved all items 
+2024-06-24T06:20:30.542Z [info]: Retrieved all items 
+2024-06-24T06:20:34.879Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T06:20:38.110Z [info]: Retrieved all items 
+2024-06-24T06:20:38.118Z [info]: Retrieved all items 
+2024-06-24T06:20:38.121Z [info]: Retrieved all items 
+2024-06-24T06:20:38.125Z [info]: Retrieved all items 
+2024-06-24T06:20:38.135Z [info]: Retrieved all items 
+2024-06-24T06:20:38.142Z [info]: Retrieved all items 
+2024-06-24T06:21:25.232Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719210085209.jpeg",
+    "isDisabled": true,
+    "_id": "66791065b0efa4b4c8eaec0a",
+    "createdAt": "2024-06-24T06:21:25.226Z",
+    "updatedAt": "2024-06-24T06:21:25.226Z",
+    "__v": 0
+  }
+}
+2024-06-24T06:21:32.572Z [info]: Retrieved all items 
+2024-06-24T06:21:32.575Z [info]: Retrieved all items 
+2024-06-24T06:21:32.578Z [info]: Retrieved all items 
+2024-06-24T06:21:32.592Z [info]: Retrieved all items 
+2024-06-24T06:21:32.596Z [info]: Retrieved all items 
+2024-06-24T06:21:32.602Z [info]: Retrieved all items 
+2024-06-24T06:21:41.589Z [info]: Updated item {
+  "item": {
+    "_id": "66791065b0efa4b4c8eaec0a",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719210085209.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T06:21:45.243Z [info]: Retrieved all items 
+2024-06-24T06:21:45.302Z [info]: Retrieved all items 
+2024-06-24T06:21:50.658Z [info]: Retrieved all items 
+2024-06-24T06:21:50.660Z [info]: Retrieved all items 
+2024-06-24T06:21:50.686Z [info]: Retrieved all items 
+2024-06-24T06:21:50.700Z [info]: Retrieved all items 
+2024-06-24T06:21:50.705Z [info]: Retrieved all items 
+2024-06-24T06:21:50.708Z [info]: Retrieved all items 
+2024-06-24T06:21:56.413Z [info]: Retrieved all items 
+2024-06-24T06:21:56.419Z [info]: Retrieved all items 
+2024-06-24T06:22:21.962Z [info]: Retrieved all items 
+2024-06-24T06:27:02.843Z [info]: Retrieved all items 
+2024-06-24T06:27:02.850Z [info]: Retrieved all items 
+2024-06-24T06:27:04.531Z [info]: Retrieved all items 
+2024-06-24T06:27:04.537Z [info]: Retrieved all items 
+2024-06-24T06:27:16.256Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T06:27:17.658Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T06:29:26.958Z [info]: Retrieved all items 
+2024-06-24T06:29:30.812Z [info]: Retrieved all items 
+2024-06-24T06:29:30.819Z [info]: Retrieved all items 
+2024-06-24T06:29:44.969Z [info]: Retrieved all items 
+2024-06-24T06:29:44.975Z [info]: Retrieved all items 
+2024-06-24T06:32:16.989Z [info]: Retrieved all items 
+2024-06-24T06:32:17.005Z [info]: Retrieved all items 
+2024-06-24T06:34:00.948Z [info]: Retrieved all items 
+2024-06-24T06:34:16.970Z [info]: Retrieved all items 
+2024-06-24T06:35:06.427Z [info]: Retrieved all items 
+2024-06-24T06:35:06.434Z [info]: Retrieved all items 
+2024-06-24T06:35:08.027Z [info]: Retrieved all items 
+2024-06-24T06:35:08.034Z [info]: Retrieved all items 
+2024-06-24T06:35:12.772Z [info]: Retrieved all items 
+2024-06-24T06:35:12.777Z [info]: Retrieved all items 
+2024-06-24T06:35:15.140Z [info]: Updated item {
+  "item": {
+    "_id": "667407b5f7090e3d0f75f4c0",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1718880181110.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:35:25.486Z [info]: Retrieved all items 
+2024-06-24T06:35:25.489Z [info]: Retrieved all items 
+2024-06-24T06:35:25.493Z [info]: Retrieved all items 
+2024-06-24T06:35:25.502Z [info]: Retrieved all items 
+2024-06-24T06:35:25.505Z [info]: Retrieved all items 
+2024-06-24T06:35:25.509Z [info]: Retrieved all items 
+2024-06-24T06:36:05.945Z [info]: Retrieved all items 
+2024-06-24T06:37:57.950Z [info]: Retrieved all items 
+2024-06-24T06:38:52.891Z [info]: Retrieved all items 
+2024-06-24T06:39:04.552Z [info]: Updated item {
+  "item": {
+    "_id": "66740803f7090e3d0f75f4c2",
+    "title_en": "A statue for those who served Tamil",
+    "description_en": "Tamil books, weeklies and Monday magazines to be published in the near future",
+    "image": "image-1718880259721.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:39:05.667Z [info]: Updated item {
+  "item": {
+    "_id": "66740844f7090e3d0f75f4c4",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "image": "image-1718880324428.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:39:09.651Z [info]: Retrieved all items 
+2024-06-24T06:39:09.690Z [info]: Retrieved all items 
+2024-06-24T06:39:09.694Z [info]: Retrieved all items 
+2024-06-24T06:39:09.701Z [info]: Retrieved all items 
+2024-06-24T06:39:09.709Z [info]: Retrieved all items 
+2024-06-24T06:39:09.717Z [info]: Retrieved all items 
+2024-06-24T06:39:16.119Z [info]: Updated item {
+  "item": {
+    "_id": "66740844f7090e3d0f75f4c4",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "image": "image-1718880324428.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T06:39:19.063Z [info]: Retrieved all items 
+2024-06-24T06:39:19.066Z [info]: Retrieved all items 
+2024-06-24T06:39:19.069Z [info]: Retrieved all items 
+2024-06-24T06:39:19.080Z [info]: Retrieved all items 
+2024-06-24T06:39:19.084Z [info]: Retrieved all items 
+2024-06-24T06:39:19.088Z [info]: Retrieved all items 
+2024-06-24T06:39:27.171Z [info]: Updated item {
+  "item": {
+    "_id": "66740844f7090e3d0f75f4c4",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "image": "image-1718880324428.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:39:29.792Z [info]: Retrieved all items 
+2024-06-24T06:39:29.794Z [info]: Retrieved all items 
+2024-06-24T06:39:29.799Z [info]: Retrieved all items 
+2024-06-24T06:39:29.811Z [info]: Retrieved all items 
+2024-06-24T06:39:29.815Z [info]: Retrieved all items 
+2024-06-24T06:39:29.820Z [info]: Retrieved all items 
+2024-06-24T06:41:35.937Z [info]: Updated item {
+  "item": {
+    "_id": "66740844f7090e3d0f75f4c4",
+    "title_en": "Tamils ​​and Tamils ​​performing arts!",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "image": "image-1718880324428.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:41:39.809Z [info]: Retrieved all items 
+2024-06-24T06:41:39.812Z [info]: Retrieved all items 
+2024-06-24T06:41:39.817Z [info]: Retrieved all items 
+2024-06-24T06:41:39.829Z [info]: Retrieved all items 
+2024-06-24T06:41:39.834Z [info]: Retrieved all items 
+2024-06-24T06:41:39.840Z [info]: Retrieved all items 
+2024-06-24T06:42:05.042Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719211325031.jpeg",
+    "isDisabled": false,
+    "_id": "6679153db0efa4b4c8eaec63",
+    "createdAt": "2024-06-24T06:42:05.038Z",
+    "updatedAt": "2024-06-24T06:42:05.038Z",
+    "__v": 0
+  }
+}
+2024-06-24T06:42:09.462Z [info]: Retrieved all items 
+2024-06-24T06:42:09.466Z [info]: Retrieved all items 
+2024-06-24T06:42:09.468Z [info]: Retrieved all items 
+2024-06-24T06:42:09.482Z [info]: Retrieved all items 
+2024-06-24T06:42:09.487Z [info]: Retrieved all items 
+2024-06-24T06:42:09.491Z [info]: Retrieved all items 
+2024-06-24T06:42:12.629Z [info]: Updated item {
+  "item": {
+    "_id": "6679153db0efa4b4c8eaec63",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719211325031.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T06:42:16.937Z [info]: Retrieved all items 
+2024-06-24T06:42:16.941Z [info]: Retrieved all items 
+2024-06-24T06:42:16.947Z [info]: Retrieved all items 
+2024-06-24T06:42:16.952Z [info]: Retrieved all items 
+2024-06-24T06:42:16.958Z [info]: Retrieved all items 
+2024-06-24T06:42:16.966Z [info]: Retrieved all items 
+2024-06-24T06:42:31.650Z [info]: Retrieved all items 
+2024-06-24T06:42:31.702Z [info]: Retrieved all items 
+2024-06-24T06:48:32.723Z [info]: Retrieved all items 
+2024-06-24T06:48:32.729Z [info]: Retrieved all items 
+2024-06-24T06:48:33.543Z [info]: Retrieved all items 
+2024-06-24T06:48:33.549Z [info]: Retrieved all items 
+2024-06-24T06:48:44.245Z [info]: Retrieved all items 
+2024-06-24T06:48:44.253Z [info]: Retrieved all items 
+2024-06-24T06:48:44.261Z [info]: Retrieved all items 
+2024-06-24T06:48:44.270Z [info]: Retrieved all items 
+2024-06-24T06:48:44.277Z [info]: Retrieved all items 
+2024-06-24T06:48:44.280Z [info]: Retrieved all items 
+2024-06-24T06:49:28.439Z [info]: Retrieved all items 
+2024-06-24T06:49:28.446Z [info]: Retrieved all items 
+2024-06-24T06:55:36.318Z [info]: Retrieved all items 
+2024-06-24T06:55:36.323Z [info]: Retrieved all items 
+2024-06-24T06:55:50.948Z [info]: Retrieved all items 
+2024-06-24T07:00:59.226Z [info]: Retrieved all items 
+2024-06-24T07:00:59.231Z [info]: Retrieved all items 
+2024-06-24T07:03:56.893Z [info]: Retrieved all items 
+2024-06-24T07:03:56.898Z [info]: Retrieved all items 
+2024-06-24T07:05:31.013Z [info]: Retrieved all items 
+2024-06-24T07:05:52.945Z [info]: Retrieved all items 
+2024-06-24T07:06:39.950Z [info]: Retrieved all items 
+2024-06-24T07:07:30.680Z [info]: Retrieved all items 
+2024-06-24T07:07:30.687Z [info]: Retrieved all items 
+2024-06-24T07:09:27.885Z [info]: Retrieved all items 
+2024-06-24T07:10:18.496Z [info]: Retrieved all items 
+2024-06-24T07:10:18.499Z [info]: Retrieved all items 
+2024-06-24T07:10:18.501Z [info]: Retrieved all items 
+2024-06-24T07:10:18.511Z [info]: Retrieved all items 
+2024-06-24T07:10:18.513Z [info]: Retrieved all items 
+2024-06-24T07:10:18.516Z [info]: Retrieved all items 
+2024-06-24T07:10:24.130Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:10:26.978Z [info]: Retrieved all items 
+2024-06-24T07:10:26.980Z [info]: Retrieved all items 
+2024-06-24T07:10:26.983Z [info]: Retrieved all items 
+2024-06-24T07:10:26.994Z [info]: Retrieved all items 
+2024-06-24T07:10:26.997Z [info]: Retrieved all items 
+2024-06-24T07:10:26.999Z [info]: Retrieved all items 
+2024-06-24T07:10:32.117Z [info]: Updated item {
+  "item": {
+    "_id": "6674063ef7090e3d0f75f4b1",
+    "title_en": "Aid in the promotion of education",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879805995.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:10:34.354Z [info]: Updated item {
+  "item": {
+    "_id": "66740688f7090e3d0f75f4b3",
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879880436.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:10:35.372Z [info]: Updated item {
+  "item": {
+    "_id": "667406c6f7090e3d0f75f4b5",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879942679.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:10:38.708Z [info]: Retrieved all items 
+2024-06-24T07:10:38.713Z [info]: Retrieved all items 
+2024-06-24T07:10:38.716Z [info]: Retrieved all items 
+2024-06-24T07:10:38.730Z [info]: Retrieved all items 
+2024-06-24T07:10:38.734Z [info]: Retrieved all items 
+2024-06-24T07:10:38.738Z [info]: Retrieved all items 
+2024-06-24T07:11:02.733Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719213062725.jpeg",
+    "isDisabled": true,
+    "_id": "66791c06b0efa4b4c8eaecaa",
+    "createdAt": "2024-06-24T07:11:02.730Z",
+    "updatedAt": "2024-06-24T07:11:02.730Z",
+    "__v": 0
+  }
+}
+2024-06-24T07:11:06.907Z [info]: Retrieved all items 
+2024-06-24T07:11:06.909Z [info]: Retrieved all items 
+2024-06-24T07:11:06.911Z [info]: Retrieved all items 
+2024-06-24T07:11:06.915Z [info]: Retrieved all items 
+2024-06-24T07:11:06.921Z [info]: Retrieved all items 
+2024-06-24T07:11:06.924Z [info]: Retrieved all items 
+2024-06-24T07:11:31.170Z [info]: Updated item {
+  "item": {
+    "_id": "66791c06b0efa4b4c8eaecaa",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719213062725.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T07:11:34.459Z [info]: Updated item {
+  "item": {
+    "_id": "667406c6f7090e3d0f75f4b5",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879942679.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T07:11:38.710Z [info]: Retrieved all items 
+2024-06-24T07:11:38.712Z [info]: Retrieved all items 
+2024-06-24T07:11:38.713Z [info]: Retrieved all items 
+2024-06-24T07:11:38.720Z [info]: Retrieved all items 
+2024-06-24T07:11:38.724Z [info]: Retrieved all items 
+2024-06-24T07:11:38.730Z [info]: Retrieved all items 
+2024-06-24T07:12:41.894Z [info]: Retrieved all items 
+2024-06-24T07:12:45.972Z [info]: Retrieved all items 
+2024-06-24T07:12:45.979Z [info]: Retrieved all items 
+2024-06-24T07:12:45.982Z [info]: Retrieved all items 
+2024-06-24T07:12:45.984Z [info]: Retrieved all items 
+2024-06-24T07:12:45.993Z [info]: Retrieved all items 
+2024-06-24T07:12:45.995Z [info]: Retrieved all items 
+2024-06-24T07:12:59.224Z [info]: Updated item {
+  "item": {
+    "_id": "667406c6f7090e3d0f75f4b5",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879942679.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:13:00.204Z [info]: Updated item {
+  "item": {
+    "_id": "66791c06b0efa4b4c8eaecaa",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719213062725.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:13:02.802Z [info]: Retrieved all items 
+2024-06-24T07:13:02.804Z [info]: Retrieved all items 
+2024-06-24T07:13:02.805Z [info]: Retrieved all items 
+2024-06-24T07:13:02.810Z [info]: Retrieved all items 
+2024-06-24T07:13:02.814Z [info]: Retrieved all items 
+2024-06-24T07:13:02.819Z [info]: Retrieved all items 
+2024-06-24T07:27:31.720Z [info]: Retrieved all items 
+2024-06-24T07:27:31.725Z [info]: Retrieved all items 
+2024-06-24T07:27:32.971Z [info]: Retrieved all items 
+2024-06-24T07:27:32.976Z [info]: Retrieved all items 
+2024-06-24T07:27:34.179Z [info]: Retrieved all items 
+2024-06-24T07:27:34.185Z [info]: Retrieved all items 
+2024-06-24T07:27:41.951Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:27:46.353Z [info]: Retrieved all items 
+2024-06-24T07:27:46.356Z [info]: Retrieved all items 
+2024-06-24T07:27:46.360Z [info]: Retrieved all items 
+2024-06-24T07:27:46.373Z [info]: Retrieved all items 
+2024-06-24T07:27:46.377Z [info]: Retrieved all items 
+2024-06-24T07:27:46.380Z [info]: Retrieved all items 
+2024-06-24T07:28:00.072Z [info]: Updated item {
+  "item": {
+    "_id": "667405f3f7090e3d0f75f4af",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1718879731125.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T07:28:04.067Z [info]: Retrieved all items 
+2024-06-24T07:28:04.072Z [info]: Retrieved all items 
+2024-06-24T07:28:04.076Z [info]: Retrieved all items 
+2024-06-24T07:28:04.091Z [info]: Retrieved all items 
+2024-06-24T07:28:04.094Z [info]: Retrieved all items 
+2024-06-24T07:28:04.096Z [info]: Retrieved all items 
+2024-06-24T07:30:19.434Z [info]: Retrieved all items 
+2024-06-24T07:30:19.439Z [info]: Retrieved all items 
+2024-06-24T07:30:24.001Z [info]: Retrieved all items 
+2024-06-24T07:30:24.008Z [info]: Retrieved all items 
+2024-06-24T07:32:35.041Z [info]: Retrieved all items 
+2024-06-24T07:32:35.051Z [info]: Retrieved all items 
+2024-06-24T07:41:15.016Z [info]: Retrieved all items 
+2024-06-24T07:41:15.022Z [info]: Retrieved all items 
+2024-06-24T09:17:52.898Z [info]: Retrieved all items 
+2024-06-24T09:17:52.905Z [info]: Retrieved all items 
+2024-06-24T09:18:02.552Z [info]: Retrieved all items 
+2024-06-24T09:18:02.559Z [info]: Retrieved all items 
+2024-06-24T09:18:05.642Z [info]: Retrieved all items 
+2024-06-24T09:18:05.649Z [info]: Retrieved all items 
+2024-06-24T09:23:52.925Z [info]: Retrieved all items 
+2024-06-24T09:23:59.134Z [info]: Retrieved all items 
+2024-06-24T09:23:59.142Z [info]: Retrieved all items 
+2024-06-24T09:24:02.753Z [info]: Retrieved all items 
+2024-06-24T09:24:02.762Z [info]: Retrieved all items 
+2024-06-24T09:26:49.889Z [info]: Retrieved all items 
+2024-06-24T09:26:59.498Z [info]: Retrieved all items 
+2024-06-24T09:27:03.731Z [info]: Retrieved all items 
+2024-06-24T09:27:03.737Z [info]: Retrieved all items 
+2024-06-24T09:27:07.541Z [info]: Retrieved all items 
+2024-06-24T09:27:07.547Z [info]: Retrieved all items 
+2024-06-24T09:27:25.897Z [info]: Retrieved all items 
+2024-06-24T09:27:25.904Z [info]: Retrieved all items 
+2024-06-24T09:27:32.435Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T09:27:36.809Z [info]: Retrieved all items 
+2024-06-24T09:27:36.814Z [info]: Retrieved all items 
+2024-06-24T09:27:36.820Z [info]: Retrieved all items 
+2024-06-24T09:27:36.826Z [info]: Retrieved all items 
+2024-06-24T09:27:36.832Z [info]: Retrieved all items 
+2024-06-24T09:27:36.837Z [info]: Retrieved all items 
+2024-06-24T09:27:44.068Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T09:27:47.387Z [info]: Retrieved all items 
+2024-06-24T09:27:47.390Z [info]: Retrieved all items 
+2024-06-24T09:27:47.396Z [info]: Retrieved all items 
+2024-06-24T09:27:47.407Z [info]: Retrieved all items 
+2024-06-24T09:27:47.410Z [info]: Retrieved all items 
+2024-06-24T09:27:47.413Z [info]: Retrieved all items 
+2024-06-24T10:05:47.925Z [info]: Retrieved all items 
+2024-06-24T10:05:51.930Z [info]: Retrieved all items 
+2024-06-24T10:05:58.387Z [info]: Retrieved all items 
+2024-06-24T10:05:58.421Z [info]: Retrieved all items 
+2024-06-24T10:06:01.493Z [info]: Retrieved all items 
+2024-06-24T10:06:01.499Z [info]: Retrieved all items 
+2024-06-24T10:11:28.918Z [info]: Retrieved all items 
+2024-06-24T10:13:11.939Z [info]: Retrieved all items 
+2024-06-24T10:13:22.466Z [info]: Retrieved all items 
+2024-06-24T10:13:22.486Z [info]: Retrieved all items 
+2024-06-24T10:13:25.292Z [info]: Retrieved all items 
+2024-06-24T10:13:25.343Z [info]: Retrieved all items 
+2024-06-24T10:15:48.107Z [info]: Retrieved all items 
+2024-06-24T10:15:48.142Z [info]: Retrieved all items 
+2024-06-24T10:15:53.088Z [info]: Retrieved all items 
+2024-06-24T10:15:53.096Z [info]: Retrieved all items 
+2024-06-24T10:15:55.727Z [info]: Retrieved all items 
+2024-06-24T10:15:55.733Z [info]: Retrieved all items 
+2024-06-24T10:16:14.933Z [info]: Retrieved all items 
+2024-06-24T10:16:14.946Z [info]: Retrieved all items 
+2024-06-24T10:17:19.002Z [info]: Retrieved all items 
+2024-06-24T10:17:19.055Z [info]: Retrieved all items 
+2024-06-24T10:17:20.326Z [info]: Retrieved all items 
+2024-06-24T10:17:20.333Z [info]: Retrieved all items 
+2024-06-24T10:18:03.564Z [info]: Retrieved all items 
+2024-06-24T10:18:07.637Z [info]: Retrieved all items 
+2024-06-24T10:18:07.644Z [info]: Retrieved all items 
+2024-06-24T10:18:10.087Z [info]: Retrieved all items 
+2024-06-24T10:18:10.093Z [info]: Retrieved all items 
+2024-06-24T10:18:21.591Z [info]: Updated item {
+  "item": {
+    "_id": "66740743f7090e3d0f75f4ba",
+    "title_en": "World Tamil Flag - Opening Ceremony!.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719224301575.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:18:25.491Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:18:29.433Z [info]: Retrieved all items 
+2024-06-24T10:18:29.446Z [info]: Retrieved all items 
+2024-06-24T10:18:29.449Z [info]: Retrieved all items 
+2024-06-24T10:18:29.452Z [info]: Retrieved all items 
+2024-06-24T10:18:29.458Z [info]: Retrieved all items 
+2024-06-24T10:18:29.461Z [info]: Retrieved all items 
+2024-06-24T10:18:33.584Z [info]: Updated item {
+  "item": {
+    "_id": "667847acd5fcc0483806c2bb",
+    "title_en": "World Tamil Flag - Opening Ceremony.",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "image": "image-1719158700267.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T10:18:36.690Z [info]: Retrieved all items 
+2024-06-24T10:18:36.698Z [info]: Retrieved all items 
+2024-06-24T10:18:37.918Z [info]: Retrieved all items 
+2024-06-24T10:18:37.921Z [info]: Retrieved all items 
+2024-06-24T10:18:37.924Z [info]: Retrieved all items 
+2024-06-24T10:18:37.933Z [info]: Retrieved all items 
+2024-06-24T10:18:37.937Z [info]: Retrieved all items 
+2024-06-24T10:18:37.940Z [info]: Retrieved all items 
+2024-06-24T10:18:40.576Z [info]: Retrieved all items 
+2024-06-24T10:18:40.583Z [info]: Retrieved all items 
+2024-06-24T10:18:44.266Z [info]: Retrieved all items 
+2024-06-24T10:18:44.273Z [info]: Retrieved all items 
+2024-06-24T10:18:46.310Z [info]: Retrieved all items 
+2024-06-24T10:18:46.317Z [info]: Retrieved all items 
+2024-06-24T10:18:51.771Z [info]: Retrieved all items 
+2024-06-24T10:18:51.777Z [info]: Retrieved all items 
+2024-06-24T10:20:51.663Z [info]: Retrieved all items 
+2024-06-24T10:21:02.593Z [info]: Retrieved all items 
+2024-06-24T10:21:02.602Z [info]: Retrieved all items 
+2024-06-24T10:21:08.304Z [info]: Retrieved all items 
+2024-06-24T10:21:08.342Z [info]: Retrieved all items 
+2024-06-24T10:22:21.741Z [info]: Retrieved all items 
+2024-06-24T10:22:21.749Z [info]: Retrieved all items 
+2024-06-24T10:22:50.035Z [info]: Retrieved all items 
+2024-06-24T10:22:50.107Z [info]: Retrieved all items 
+2024-06-24T10:23:26.946Z [info]: Updated item {
+  "item": {
+    "_id": "66791c06b0efa4b4c8eaecaa",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719213062725.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T10:23:33.564Z [info]: Retrieved all items 
+2024-06-24T10:23:33.618Z [info]: Retrieved all items 
+2024-06-24T10:23:33.622Z [info]: Retrieved all items 
+2024-06-24T10:23:33.628Z [info]: Retrieved all items 
+2024-06-24T10:23:33.635Z [info]: Retrieved all items 
+2024-06-24T10:23:33.639Z [info]: Retrieved all items 
+2024-06-24T10:35:25.247Z [info]: Retrieved all items 
+2024-06-24T10:35:25.282Z [info]: Retrieved all items 
+2024-06-24T10:35:27.115Z [info]: Retrieved all items 
+2024-06-24T10:35:27.120Z [info]: Retrieved all items 
+2024-06-24T10:35:28.350Z [info]: Retrieved all items 
+2024-06-24T10:35:28.373Z [info]: Retrieved all items 
+2024-06-24T10:35:29.810Z [info]: Retrieved all items 
+2024-06-24T10:35:29.815Z [info]: Retrieved all items 
+2024-06-24T10:38:00.502Z [info]: Server is running on port 5000 
+2024-06-24T10:38:00.580Z [info]: Connected to MongoDB 
+2024-06-24T10:41:45.432Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-06-24T10:42:04.860Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள், நுண்படச்சுருள், எதிர்காலக் கணிப்பொறித் தட்டமைப்பு நூல்கள் மற்றும் இவை போன்ற தொடர்பானவற்றையும் திரட்டிப் பாதுகாத்தல்.  தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": false,
+    "_id": "66794d7cd1580c3ed5330300",
+    "createdAt": "2024-06-24T10:42:04.830Z",
+    "updatedAt": "2024-06-24T10:42:04.830Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:43:31.403Z [info]: Item created {
+  "item": {
+    "title_en": "Aid in the promotion of education",
+    "title_ta": "கல்வி உயர்வுக்கு உதவுதல்",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும் ஒலைச்சுவடிப் பொத்தகம் முதற்கொண்டு இன்றைய தாள் புத்தகம், ஒலி, ஒளி இழைகள்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1719225811355.jpeg",
+    "isDisabled": false,
+    "_id": "66794dd3d1580c3ed5330302",
+    "createdAt": "2024-06-24T10:43:31.359Z",
+    "updatedAt": "2024-06-24T10:43:31.359Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:44:29.283Z [info]: Item created {
+  "item": {
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "title_ta": "தமிழினத்திற்கு தொண்டாற்றியவர்களுக்கு சிலை அமைத்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1719225869273.jpeg",
+    "isDisabled": false,
+    "_id": "66794e0dd1580c3ed5330304",
+    "createdAt": "2024-06-24T10:44:29.278Z",
+    "updatedAt": "2024-06-24T10:44:29.278Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:45:29.593Z [info]: Item created {
+  "item": {
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "title_ta": "தமிழறிஞர்களைக் கொண்டு தமிழாய்வுக் கூட்டங்கள் நடத்துதல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false,
+    "_id": "66794e49d1580c3ed5330306",
+    "createdAt": "2024-06-24T10:45:29.588Z",
+    "updatedAt": "2024-06-24T10:45:29.588Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:46:57.089Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719226017036.jpeg",
+    "isDisabled": false,
+    "_id": "66794ea1d1580c3ed5330308",
+    "createdAt": "2024-06-24T10:46:57.085Z",
+    "updatedAt": "2024-06-24T10:46:57.085Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:47:54.062Z [info]: Item created {
+  "item": {
+    "title_en": "A statue for those who served Tamil",
+    "title_ta": "தமிழினத்திற்கு  தொண்டாற்றியவர்களுக்கு சிலை",
+    "description_en": "Tamil books, weeklies and Monday magazines to be published in the near future",
+    "description_ta": "இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719226074040.jpeg",
+    "isDisabled": false,
+    "_id": "66794edad1580c3ed533030a",
+    "createdAt": "2024-06-24T10:47:54.059Z",
+    "updatedAt": "2024-06-24T10:47:54.059Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:49:43.333Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்",
+    "image": "image-1719226183324.jpeg",
+    "isDisabled": false,
+    "_id": "66794f47d1580c3ed533030c",
+    "createdAt": "2024-06-24T10:49:43.327Z",
+    "updatedAt": "2024-06-24T10:49:43.327Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:51:07.705Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": false,
+    "_id": "66794f9bd1580c3ed533030e",
+    "createdAt": "2024-06-24T10:51:07.697Z",
+    "updatedAt": "2024-06-24T10:51:07.697Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:53:48.136Z [info]: Server is running on port 5000 
+2024-06-24T10:54:18.137Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-06-24T10:54:23.568Z [info]: Server is running on port 5000 
+2024-06-24T10:54:23.575Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-06-24T10:54:36.428Z [info]: Server is running on port 5000 
+2024-06-24T10:54:36.509Z [info]: Connected to MongoDB 
+2024-06-24T10:54:54.636Z [info]: Retrieved all items 
+2024-06-24T10:54:54.647Z [info]: Retrieved all items 
+2024-06-24T10:54:54.652Z [info]: Retrieved all items 
+2024-06-24T10:54:54.677Z [info]: Retrieved all items 
+2024-06-24T10:54:54.688Z [info]: Retrieved all items 
+2024-06-24T10:54:54.698Z [info]: Retrieved all items 
+2024-06-24T10:55:03.689Z [info]: Retrieved all items 
+2024-06-24T10:55:03.711Z [info]: Retrieved all items 
+2024-06-24T10:55:11.514Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:12.364Z [info]: Updated item {
+  "item": {
+    "_id": "66794dd3d1580c3ed5330302",
+    "title_en": "Aid in the promotion of education",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225811355.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:13.262Z [info]: Updated item {
+  "item": {
+    "_id": "66794e0dd1580c3ed5330304",
+    "title_en": "Erecting a statue for those who have contributed to the Tamil cause",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225869273.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:16.822Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:20.672Z [info]: Retrieved all items 
+2024-06-24T10:55:20.680Z [info]: Retrieved all items 
+2024-06-24T10:55:22.456Z [info]: Updated item {
+  "item": {
+    "_id": "66794ea1d1580c3ed5330308",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1719226017036.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:23.295Z [info]: Updated item {
+  "item": {
+    "_id": "66794edad1580c3ed533030a",
+    "title_en": "A statue for those who served Tamil",
+    "description_en": "Tamil books, weeklies and Monday magazines to be published in the near future",
+    "image": "image-1719226074040.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:24.151Z [info]: Updated item {
+  "item": {
+    "_id": "66794f47d1580c3ed533030c",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "image": "image-1719226183324.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:30.441Z [info]: Retrieved all items 
+2024-06-24T10:55:30.449Z [info]: Retrieved all items 
+2024-06-24T10:55:32.142Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:55:37.829Z [info]: Retrieved all items 
+2024-06-24T10:55:37.837Z [info]: Retrieved all items 
+2024-06-24T10:55:48.739Z [info]: Retrieved all items 
+2024-06-24T10:55:48.745Z [info]: Retrieved all items 
+2024-06-24T10:55:51.415Z [info]: Retrieved all items 
+2024-06-24T10:55:51.425Z [info]: Retrieved all items 
+2024-06-24T10:55:51.431Z [info]: Retrieved all items 
+2024-06-24T10:55:51.440Z [info]: Retrieved all items 
+2024-06-24T10:55:51.447Z [info]: Retrieved all items 
+2024-06-24T10:55:51.452Z [info]: Retrieved all items 
+2024-06-24T10:56:14.993Z [info]: Retrieved all items 
+2024-06-24T10:56:14.999Z [info]: Retrieved all items 
+2024-06-24T10:56:16.264Z [info]: Retrieved all items 
+2024-06-24T10:56:16.271Z [info]: Retrieved all items 
+2024-06-24T10:56:18.075Z [info]: Retrieved all items 
+2024-06-24T10:56:18.083Z [info]: Retrieved all items 
+2024-06-24T10:56:45.965Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719226605909.jpeg",
+    "isDisabled": false,
+    "_id": "667950ed147069a73437c73d",
+    "createdAt": "2024-06-24T10:56:45.954Z",
+    "updatedAt": "2024-06-24T10:56:45.954Z",
+    "__v": 0
+  }
+}
+2024-06-24T10:56:50.738Z [info]: Retrieved all items 
+2024-06-24T10:56:50.747Z [info]: Retrieved all items 
+2024-06-24T10:56:50.753Z [info]: Retrieved all items 
+2024-06-24T10:56:50.758Z [info]: Retrieved all items 
+2024-06-24T10:56:50.804Z [info]: Retrieved all items 
+2024-06-24T10:56:50.817Z [info]: Retrieved all items 
+2024-06-24T10:56:56.455Z [info]: Updated item {
+  "item": {
+    "_id": "667950ed147069a73437c73d",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719226605909.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T10:57:03.693Z [info]: Retrieved all items 
+2024-06-24T10:57:03.698Z [info]: Retrieved all items 
+2024-06-24T10:57:03.706Z [info]: Retrieved all items 
+2024-06-24T10:57:03.713Z [info]: Retrieved all items 
+2024-06-24T10:57:03.727Z [info]: Retrieved all items 
+2024-06-24T10:57:03.731Z [info]: Retrieved all items 
+2024-06-24T10:57:12.272Z [info]: Updated item {
+  "item": {
+    "_id": "667950ed147069a73437c73d",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719226605909.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T10:57:15.736Z [info]: Retrieved all items 
+2024-06-24T10:57:15.745Z [info]: Retrieved all items 
+2024-06-24T10:57:21.582Z [info]: Retrieved all items 
+2024-06-24T10:57:21.586Z [info]: Retrieved all items 
+2024-06-24T10:57:21.590Z [info]: Retrieved all items 
+2024-06-24T10:57:21.601Z [info]: Retrieved all items 
+2024-06-24T10:57:21.637Z [info]: Retrieved all items 
+2024-06-24T10:57:21.644Z [info]: Retrieved all items 
+2024-06-24T10:59:30.735Z [info]: Retrieved all items 
+2024-06-24T10:59:30.742Z [info]: Retrieved all items 
+2024-06-24T11:00:40.827Z [info]: Retrieved all items 
+2024-06-24T11:00:40.839Z [info]: Retrieved all items 
+2024-06-24T11:01:04.448Z [info]: Retrieved all items 
+2024-06-24T11:01:04.456Z [info]: Retrieved all items 
+2024-06-24T11:01:17.470Z [info]: Server is running on port 5000 
+2024-06-24T11:01:17.504Z [info]: Connected to MongoDB 
