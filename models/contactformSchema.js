@@ -5,7 +5,8 @@ const contactformSchema = new mongoose.Schema({
     email: { type: String, required: true },
     liveFrom: { type: String, required: true },
     interestedIn: { type: String, required: true },
-    message: { type: String, required: true }
+    message: { type: String, required: true },
+    status: { type: String, default: 'New' } 
 }, { timestamps: true });
 
 const ContactformModel = mongoose.model('Contactform', contactformSchema);

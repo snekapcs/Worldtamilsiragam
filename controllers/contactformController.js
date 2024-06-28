@@ -4,8 +4,7 @@ const logger = require('../logger');
 const { STATUS_CODES } = require("../util/constant.js");
 
 const createContactForm = async (req, res) => {
-    console.log(req.body);
-    const { name, email, liveFrom, interestedIn, message } = req.body;
+    const { name, email, liveFrom, interestedIn, message, status = 'New' } = req.body;
 
     try {
         const contactUser = new ContactformModel({
@@ -13,7 +12,8 @@ const createContactForm = async (req, res) => {
             email,
             liveFrom,
             interestedIn,
-            message
+            message,
+            status 
         });
 
         await contactUser.save();
@@ -22,13 +22,13 @@ const createContactForm = async (req, res) => {
             service: "gmail",
             auth: {
                 user: process.env.GMAIL_USER,
-                pass: process.env.PASSWORD,
+                pass: process.env.GMAIL_PASSWORD, // Use environment variable
             },
         });
 
         const mailOptions = {
             from: email,
-            to: "snekav371@gmail.com", 
+            to: "snekav371@gmail.com",
             subject: `Message from ${name}`,
             html: `
                 You got a message from <br>
@@ -40,15 +40,12 @@ const createContactForm = async (req, res) => {
             `,
         };
 
-        await transporter.sendMail(mailOptions, (error, info) => {
-            if (error) {
-                logger.error(`Error sending email: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
-                return res.status(500).json({ error: "Failed to send email" });
-            }
-            logger.info(`Email sent: ${info.response}`, { statusCode: STATUS_CODES.SUCCESS });
-        });
+        // Send email using await, remove callback
+        const info = await transporter.sendMail(mailOptions);
 
+        logger.info(`Email sent: ${info.response}`, { statusCode: STATUS_CODES.SUCCESS });
         logger.info(`Contact user added: ${name}`, { statusCode: STATUS_CODES.SUCCESS });
+
         res.status(201).json({ contactUser, msg: "Contact User Added Successfully" });
     } catch (error) {
         logger.error(`Error creating contact user: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
@@ -68,12 +65,12 @@ const getContactForms = async (req, res) => {
 
 const updateContactForm = async (req, res) => {
     const { id } = req.params;
-    const { name, email, liveFrom, interestedIn, message } = req.body;
+    const { name, email, liveFrom, interestedIn, message, status } = req.body;
 
     try {
         const updatedContactForm = await ContactformModel.findByIdAndUpdate(
             id, 
-            { name, email, liveFrom, interestedIn, message },
+            { name, email, liveFrom, interestedIn, message, status },
             { new: true } 
         );
 
@@ -87,7 +84,6 @@ const updateContactForm = async (req, res) => {
         res.status(500).json({ error: "An error occurred while updating the contact form" });
     }
 };
-
 
 module.exports = {
     createContactForm,

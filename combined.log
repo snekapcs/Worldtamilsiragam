@@ -3825,3 +3825,1698 @@
 2024-06-24T11:01:04.456Z [info]: Retrieved all items 
 2024-06-24T11:01:17.470Z [info]: Server is running on port 5000 
 2024-06-24T11:01:17.504Z [info]: Connected to MongoDB 
+2024-06-24T11:02:38.904Z [info]: Server is running on port 5000 
+2024-06-24T11:02:38.942Z [info]: Connected to MongoDB 
+2024-06-24T11:03:25.637Z [info]: Contact user added: Subi {
+  "statusCode": 200
+}
+2024-06-24T11:03:31.726Z [info]: Email sent: 250 2.0.0 OK  1719227012 98e67ed59e1d1-2c819dd3d81sm6466766a91.57 - gsmtp {
+  "statusCode": 200
+}
+2024-06-24T11:04:14.789Z [info]: Server is running on port 5000 
+2024-06-24T11:04:14.833Z [info]: Connected to MongoDB 
+2024-06-24T11:05:39.793Z [info]: Retrieved all items 
+2024-06-24T11:05:39.805Z [info]: Retrieved all items 
+2024-06-24T11:08:43.301Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:08:47.525Z [info]: Retrieved all items 
+2024-06-24T11:08:47.530Z [info]: Retrieved all items 
+2024-06-24T11:08:47.536Z [info]: Retrieved all items 
+2024-06-24T11:08:47.556Z [info]: Retrieved all items 
+2024-06-24T11:08:47.560Z [info]: Retrieved all items 
+2024-06-24T11:08:47.564Z [info]: Retrieved all items 
+2024-06-24T11:08:53.477Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:08:57.791Z [info]: Retrieved all items 
+2024-06-24T11:08:57.795Z [info]: Retrieved all items 
+2024-06-24T11:08:57.798Z [info]: Retrieved all items 
+2024-06-24T11:08:57.816Z [info]: Retrieved all items 
+2024-06-24T11:08:57.825Z [info]: Retrieved all items 
+2024-06-24T11:08:57.828Z [info]: Retrieved all items 
+2024-06-24T11:15:24.975Z [info]: Retrieved all items 
+2024-06-24T11:15:24.981Z [info]: Retrieved all items 
+2024-06-24T11:15:24.985Z [info]: Retrieved all items 
+2024-06-24T11:15:25.007Z [info]: Retrieved all items 
+2024-06-24T11:15:25.012Z [info]: Retrieved all items 
+2024-06-24T11:15:25.016Z [info]: Retrieved all items 
+2024-06-24T11:20:26.549Z [info]: Retrieved all items 
+2024-06-24T11:20:26.566Z [info]: Retrieved all items 
+2024-06-24T11:20:26.571Z [info]: Retrieved all items 
+2024-06-24T11:20:26.579Z [info]: Retrieved all items 
+2024-06-24T11:20:26.607Z [info]: Retrieved all items 
+2024-06-24T11:20:26.614Z [info]: Retrieved all items 
+2024-06-24T11:26:45.800Z [info]: Retrieved all items 
+2024-06-24T11:26:45.812Z [info]: Retrieved all items 
+2024-06-24T11:26:45.816Z [info]: Retrieved all items 
+2024-06-24T11:26:45.836Z [info]: Retrieved all items 
+2024-06-24T11:26:45.847Z [info]: Retrieved all items 
+2024-06-24T11:26:45.851Z [info]: Retrieved all items 
+2024-06-24T11:27:13.243Z [info]: Retrieved all items 
+2024-06-24T11:27:13.250Z [info]: Retrieved all items 
+2024-06-24T11:27:20.517Z [info]: Retrieved all items 
+2024-06-24T11:27:20.528Z [info]: Retrieved all items 
+2024-06-24T11:27:22.548Z [info]: Retrieved all items 
+2024-06-24T11:27:22.568Z [info]: Retrieved all items 
+2024-06-24T11:27:56.910Z [info]: Retrieved all items 
+2024-06-24T11:27:56.923Z [info]: Retrieved all items 
+2024-06-24T11:28:06.623Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667950ed147069a73437c73d",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719226605909.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:28:09.859Z [info]: Retrieved all items 
+2024-06-24T11:28:09.866Z [info]: Retrieved all items 
+2024-06-24T11:28:09.876Z [info]: Retrieved all items 
+2024-06-24T11:28:09.881Z [info]: Retrieved all items 
+2024-06-24T11:28:09.888Z [info]: Retrieved all items 
+2024-06-24T11:28:09.891Z [info]: Retrieved all items 
+2024-06-24T11:28:16.938Z [info]: Retrieved all items 
+2024-06-24T11:28:16.945Z [info]: Retrieved all items 
+2024-06-24T11:28:30.078Z [info]: Retrieved all items 
+2024-06-24T11:28:30.081Z [info]: Retrieved all items 
+2024-06-24T11:28:30.085Z [info]: Retrieved all items 
+2024-06-24T11:28:30.097Z [info]: Retrieved all items 
+2024-06-24T11:28:30.100Z [info]: Retrieved all items 
+2024-06-24T11:28:30.104Z [info]: Retrieved all items 
+2024-06-24T11:29:06.875Z [info]: Retrieved all items 
+2024-06-24T11:29:38.028Z [info]: Retrieved all items 
+2024-06-24T11:30:04.893Z [info]: Retrieved all items 
+2024-06-24T11:30:23.726Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:30:28.219Z [info]: Retrieved all items 
+2024-06-24T11:30:28.225Z [info]: Retrieved all items 
+2024-06-24T11:30:28.229Z [info]: Retrieved all items 
+2024-06-24T11:30:28.231Z [info]: Retrieved all items 
+2024-06-24T11:30:28.280Z [info]: Retrieved all items 
+2024-06-24T11:30:28.284Z [info]: Retrieved all items 
+2024-06-24T11:31:01.755Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:31:07.698Z [info]: Retrieved all items 
+2024-06-24T11:31:07.702Z [info]: Retrieved all items 
+2024-06-24T11:31:07.705Z [info]: Retrieved all items 
+2024-06-24T11:31:07.719Z [info]: Retrieved all items 
+2024-06-24T11:31:07.724Z [info]: Retrieved all items 
+2024-06-24T11:31:07.737Z [info]: Retrieved all items 
+2024-06-24T11:32:05.089Z [info]: Retrieved all items 
+2024-06-24T11:32:05.096Z [info]: Retrieved all items 
+2024-06-24T11:32:06.309Z [info]: Retrieved all items 
+2024-06-24T11:32:06.316Z [info]: Retrieved all items 
+2024-06-24T11:32:08.737Z [info]: Retrieved all items 
+2024-06-24T11:32:08.745Z [info]: Retrieved all items 
+2024-06-24T11:32:19.311Z [info]: Retrieved all items 
+2024-06-24T11:32:19.321Z [info]: Retrieved all items 
+2024-06-24T11:34:06.273Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": true,
+    "_id": "667959ae134fc5636c9c1c02",
+    "createdAt": "2024-06-24T11:34:06.260Z",
+    "updatedAt": "2024-06-24T11:34:06.260Z",
+    "__v": 0
+  }
+}
+2024-06-24T11:34:11.541Z [info]: Retrieved all items 
+2024-06-24T11:34:11.546Z [info]: Retrieved all items 
+2024-06-24T11:34:11.549Z [info]: Retrieved all items 
+2024-06-24T11:34:11.558Z [info]: Retrieved all items 
+2024-06-24T11:34:11.561Z [info]: Retrieved all items 
+2024-06-24T11:34:11.566Z [info]: Retrieved all items 
+2024-06-24T11:35:20.892Z [info]: Retrieved all items 
+2024-06-24T11:35:20.899Z [info]: Retrieved all items 
+2024-06-24T11:35:21.935Z [info]: Retrieved all items 
+2024-06-24T11:35:21.943Z [info]: Retrieved all items 
+2024-06-24T11:35:23.191Z [info]: Retrieved all items 
+2024-06-24T11:35:23.198Z [info]: Retrieved all items 
+2024-06-24T11:35:25.692Z [info]: Retrieved all items 
+2024-06-24T11:35:25.698Z [info]: Retrieved all items 
+2024-06-24T11:35:28.138Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:35:33.853Z [info]: Retrieved all items 
+2024-06-24T11:35:33.857Z [info]: Retrieved all items 
+2024-06-24T11:35:33.870Z [info]: Retrieved all items 
+2024-06-24T11:35:33.882Z [info]: Retrieved all items 
+2024-06-24T11:35:33.886Z [info]: Retrieved all items 
+2024-06-24T11:35:33.892Z [info]: Retrieved all items 
+2024-06-24T11:40:46.717Z [info]: Retrieved all items 
+2024-06-24T11:40:46.735Z [info]: Retrieved all items 
+2024-06-24T11:40:47.038Z [info]: Retrieved all items 
+2024-06-24T11:40:47.044Z [info]: Retrieved all items 
+2024-06-24T11:40:47.047Z [info]: Retrieved all items 
+2024-06-24T11:40:47.062Z [info]: Retrieved all items 
+2024-06-24T11:40:47.068Z [info]: Retrieved all items 
+2024-06-24T11:40:47.073Z [info]: Retrieved all items 
+2024-06-24T11:42:51.879Z [info]: Retrieved all items 
+2024-06-24T11:42:51.886Z [info]: Retrieved all items 
+2024-06-24T11:43:38.680Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:43:43.838Z [info]: Retrieved all items 
+2024-06-24T11:43:43.843Z [info]: Retrieved all items 
+2024-06-24T11:43:43.846Z [info]: Retrieved all items 
+2024-06-24T11:43:43.858Z [info]: Retrieved all items 
+2024-06-24T11:43:43.862Z [info]: Retrieved all items 
+2024-06-24T11:43:43.865Z [info]: Retrieved all items 
+2024-06-24T11:44:16.906Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:44:18.726Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:44:20.745Z [info]: Updated item {
+  "item": {
+    "_id": "66794dd3d1580c3ed5330302",
+    "title_en": "Aid in the promotion of education",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225811355.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:44:25.338Z [info]: Retrieved all items 
+2024-06-24T11:44:25.342Z [info]: Retrieved all items 
+2024-06-24T11:44:25.345Z [info]: Retrieved all items 
+2024-06-24T11:44:25.354Z [info]: Retrieved all items 
+2024-06-24T11:44:25.404Z [info]: Retrieved all items 
+2024-06-24T11:44:25.407Z [info]: Retrieved all items 
+2024-06-24T11:44:44.853Z [info]: Updated item {
+  "item": {
+    "_id": "66794dd3d1580c3ed5330302",
+    "title_en": "Aid in the promotion of education",
+    "description_en": "Tamil books that have come up to date and will be published in the future, starting with Olaichuvadi Pottagam, weekly and Monday newspapers, and today's paper book, Oli, Uhura Filas",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225811355.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:44:51.157Z [info]: Retrieved all items 
+2024-06-24T11:44:51.163Z [info]: Retrieved all items 
+2024-06-24T11:44:51.167Z [info]: Retrieved all items 
+2024-06-24T11:44:51.183Z [info]: Retrieved all items 
+2024-06-24T11:44:51.186Z [info]: Retrieved all items 
+2024-06-24T11:44:51.189Z [info]: Retrieved all items 
+2024-06-24T11:45:44.874Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-24T11:45:47.743Z [info]: Retrieved all items 
+2024-06-24T11:45:47.751Z [info]: Retrieved all items 
+2024-06-24T11:45:47.754Z [info]: Retrieved all items 
+2024-06-24T11:45:47.766Z [info]: Retrieved all items 
+2024-06-24T11:45:47.805Z [info]: Retrieved all items 
+2024-06-24T11:45:47.807Z [info]: Retrieved all items 
+2024-06-24T11:46:05.764Z [info]: Retrieved all items 
+2024-06-24T11:46:05.770Z [info]: Retrieved all items 
+2024-06-24T11:46:07.402Z [info]: Retrieved all items 
+2024-06-24T11:46:07.409Z [info]: Retrieved all items 
+2024-06-24T11:46:16.075Z [info]: Retrieved all items 
+2024-06-24T11:46:16.083Z [info]: Retrieved all items 
+2024-06-24T11:47:17.903Z [info]: Retrieved all items 
+2024-06-24T11:47:17.910Z [info]: Retrieved all items 
+2024-06-24T11:48:26.765Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books!",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:48:31.153Z [info]: Retrieved all items 
+2024-06-24T11:48:31.190Z [info]: Retrieved all items 
+2024-06-24T11:48:31.195Z [info]: Retrieved all items 
+2024-06-24T11:48:31.199Z [info]: Retrieved all items 
+2024-06-24T11:48:31.204Z [info]: Retrieved all items 
+2024-06-24T11:48:31.208Z [info]: Retrieved all items 
+2024-06-24T11:49:22.993Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-24T11:49:28.338Z [info]: Retrieved all items 
+2024-06-24T11:49:28.341Z [info]: Retrieved all items 
+2024-06-24T11:49:28.343Z [info]: Retrieved all items 
+2024-06-24T11:49:28.356Z [info]: Retrieved all items 
+2024-06-24T11:49:28.362Z [info]: Retrieved all items 
+2024-06-24T11:49:28.367Z [info]: Retrieved all items 
+2024-06-25T05:01:28.175Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-25T05:01:32.547Z [info]: Retrieved all items 
+2024-06-25T05:01:32.551Z [info]: Retrieved all items 
+2024-06-25T05:01:32.555Z [info]: Retrieved all items 
+2024-06-25T05:01:32.570Z [info]: Retrieved all items 
+2024-06-25T05:01:32.573Z [info]: Retrieved all items 
+2024-06-25T05:01:32.576Z [info]: Retrieved all items 
+2024-06-25T05:01:41.154Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-25T05:01:45.498Z [info]: Retrieved all items 
+2024-06-25T05:01:45.504Z [info]: Retrieved all items 
+2024-06-25T05:01:45.572Z [info]: Retrieved all items 
+2024-06-25T05:01:45.602Z [info]: Retrieved all items 
+2024-06-25T05:01:45.611Z [info]: Retrieved all items 
+2024-06-25T05:01:45.625Z [info]: Retrieved all items 
+2024-06-25T05:15:05.951Z [info]: Retrieved all items 
+2024-06-25T05:15:05.964Z [info]: Retrieved all items 
+2024-06-25T05:15:05.969Z [info]: Retrieved all items 
+2024-06-25T05:15:05.972Z [info]: Retrieved all items 
+2024-06-25T05:15:05.988Z [info]: Retrieved all items 
+2024-06-25T05:15:05.991Z [info]: Retrieved all items 
+2024-06-25T05:17:15.370Z [info]: Retrieved all items 
+2024-06-25T05:17:15.376Z [info]: Retrieved all items 
+2024-06-25T05:17:15.379Z [info]: Retrieved all items 
+2024-06-25T05:17:15.387Z [info]: Retrieved all items 
+2024-06-25T05:17:15.393Z [info]: Retrieved all items 
+2024-06-25T05:17:15.396Z [info]: Retrieved all items 
+2024-06-25T05:29:38.687Z [info]: Retrieved all items 
+2024-06-25T05:29:38.849Z [info]: Retrieved all items 
+2024-06-25T05:29:38.853Z [info]: Retrieved all items 
+2024-06-25T05:29:38.867Z [info]: Retrieved all items 
+2024-06-25T05:29:38.886Z [info]: Retrieved all items 
+2024-06-25T05:29:38.893Z [info]: Retrieved all items 
+2024-06-25T05:45:16.440Z [info]: Retrieved all items 
+2024-06-25T05:45:16.453Z [info]: Retrieved all items 
+2024-06-25T05:45:16.456Z [info]: Retrieved all items 
+2024-06-25T05:45:16.465Z [info]: Retrieved all items 
+2024-06-25T05:45:16.468Z [info]: Retrieved all items 
+2024-06-25T05:45:16.471Z [info]: Retrieved all items 
+2024-06-25T05:48:54.147Z [info]: Retrieved all items 
+2024-06-25T05:48:54.150Z [info]: Retrieved all items 
+2024-06-25T05:48:54.152Z [info]: Retrieved all items 
+2024-06-25T05:48:54.158Z [info]: Retrieved all items 
+2024-06-25T05:48:54.160Z [info]: Retrieved all items 
+2024-06-25T05:48:54.162Z [info]: Retrieved all items 
+2024-06-25T06:11:26.418Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-25T06:11:34.046Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-25T06:11:39.031Z [info]: Retrieved all items 
+2024-06-25T06:11:39.034Z [info]: Retrieved all items 
+2024-06-25T06:11:39.038Z [info]: Retrieved all items 
+2024-06-25T06:11:39.045Z [info]: Retrieved all items 
+2024-06-25T06:11:39.047Z [info]: Retrieved all items 
+2024-06-25T06:11:39.049Z [info]: Retrieved all items 
+2024-06-25T06:14:12.920Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-25T06:14:15.830Z [info]: Retrieved all items 
+2024-06-25T06:14:15.833Z [info]: Retrieved all items 
+2024-06-25T06:14:15.835Z [info]: Retrieved all items 
+2024-06-25T06:14:15.846Z [info]: Retrieved all items 
+2024-06-25T06:14:15.849Z [info]: Retrieved all items 
+2024-06-25T06:14:15.851Z [info]: Retrieved all items 
+2024-06-25T07:24:00.026Z [info]: Retrieved all items 
+2024-06-25T07:24:00.043Z [info]: Retrieved all items 
+2024-06-25T07:24:00.046Z [info]: Retrieved all items 
+2024-06-25T07:24:00.060Z [info]: Retrieved all items 
+2024-06-25T07:24:00.067Z [info]: Retrieved all items 
+2024-06-25T07:24:00.071Z [info]: Retrieved all items 
+2024-06-25T07:35:16.528Z [info]: Retrieved all items 
+2024-06-25T07:35:16.533Z [info]: Retrieved all items 
+2024-06-25T07:35:16.536Z [info]: Retrieved all items 
+2024-06-25T07:35:16.549Z [info]: Retrieved all items 
+2024-06-25T07:35:16.553Z [info]: Retrieved all items 
+2024-06-25T07:35:16.556Z [info]: Retrieved all items 
+2024-06-25T07:46:47.452Z [info]: Retrieved all items 
+2024-06-25T07:46:47.468Z [info]: Retrieved all items 
+2024-06-25T07:46:47.476Z [info]: Retrieved all items 
+2024-06-25T07:46:47.487Z [info]: Retrieved all items 
+2024-06-25T07:46:47.492Z [info]: Retrieved all items 
+2024-06-25T07:46:47.494Z [info]: Retrieved all items 
+2024-06-25T07:50:09.629Z [info]: Retrieved all items 
+2024-06-25T07:50:09.632Z [info]: Retrieved all items 
+2024-06-25T07:50:09.635Z [info]: Retrieved all items 
+2024-06-25T07:50:09.644Z [info]: Retrieved all items 
+2024-06-25T07:50:09.648Z [info]: Retrieved all items 
+2024-06-25T07:50:09.652Z [info]: Retrieved all items 
+2024-06-25T08:08:27.486Z [info]: Retrieved all items 
+2024-06-25T08:08:27.506Z [info]: Retrieved all items 
+2024-06-25T08:08:27.510Z [info]: Retrieved all items 
+2024-06-25T08:08:27.521Z [info]: Retrieved all items 
+2024-06-25T08:08:27.530Z [info]: Retrieved all items 
+2024-06-25T08:08:27.533Z [info]: Retrieved all items 
+2024-06-25T09:21:42.687Z [info]: Retrieved all items 
+2024-06-25T09:21:42.703Z [info]: Retrieved all items 
+2024-06-25T09:21:42.708Z [info]: Retrieved all items 
+2024-06-25T09:21:42.727Z [info]: Retrieved all items 
+2024-06-25T09:21:42.731Z [info]: Retrieved all items 
+2024-06-25T09:21:42.733Z [info]: Retrieved all items 
+2024-06-25T09:53:17.085Z [info]: Retrieved all items 
+2024-06-25T09:53:17.102Z [info]: Retrieved all items 
+2024-06-25T09:53:17.106Z [info]: Retrieved all items 
+2024-06-25T09:53:17.160Z [info]: Retrieved all items 
+2024-06-25T09:53:17.188Z [info]: Retrieved all items 
+2024-06-25T09:53:17.196Z [info]: Retrieved all items 
+2024-06-25T10:15:18.633Z [info]: Retrieved all items 
+2024-06-25T10:15:18.665Z [info]: Retrieved all items 
+2024-06-25T10:15:18.673Z [info]: Retrieved all items 
+2024-06-25T10:15:18.676Z [info]: Retrieved all items 
+2024-06-25T10:15:18.684Z [info]: Retrieved all items 
+2024-06-25T10:15:18.691Z [info]: Retrieved all items 
+2024-06-25T10:16:18.205Z [info]: Retrieved all items 
+2024-06-25T10:16:18.234Z [info]: Retrieved all items 
+2024-06-25T10:16:18.237Z [info]: Retrieved all items 
+2024-06-25T10:16:18.247Z [info]: Retrieved all items 
+2024-06-25T10:16:18.252Z [info]: Retrieved all items 
+2024-06-25T10:16:18.255Z [info]: Retrieved all items 
+2024-06-25T10:20:35.460Z [info]: Retrieved all items 
+2024-06-25T10:20:35.487Z [info]: Retrieved all items 
+2024-06-25T10:20:35.498Z [info]: Retrieved all items 
+2024-06-25T10:20:35.501Z [info]: Retrieved all items 
+2024-06-25T10:20:35.505Z [info]: Retrieved all items 
+2024-06-25T10:20:35.510Z [info]: Retrieved all items 
+2024-06-25T10:21:20.586Z [info]: Retrieved all items 
+2024-06-25T10:21:20.613Z [info]: Retrieved all items 
+2024-06-25T10:21:20.618Z [info]: Retrieved all items 
+2024-06-25T10:21:20.621Z [info]: Retrieved all items 
+2024-06-25T10:21:20.628Z [info]: Retrieved all items 
+2024-06-25T10:21:20.631Z [info]: Retrieved all items 
+2024-06-25T10:21:46.443Z [info]: Retrieved all items 
+2024-06-25T10:21:46.457Z [info]: Retrieved all items 
+2024-06-25T10:21:46.460Z [info]: Retrieved all items 
+2024-06-25T10:21:46.464Z [info]: Retrieved all items 
+2024-06-25T10:21:46.477Z [info]: Retrieved all items 
+2024-06-25T10:21:46.483Z [info]: Retrieved all items 
+2024-06-25T10:22:03.378Z [info]: Retrieved all items 
+2024-06-25T10:22:03.383Z [info]: Retrieved all items 
+2024-06-25T10:22:03.426Z [info]: Retrieved all items 
+2024-06-25T10:22:03.432Z [info]: Retrieved all items 
+2024-06-25T10:22:03.435Z [info]: Retrieved all items 
+2024-06-25T10:22:03.438Z [info]: Retrieved all items 
+2024-06-25T10:22:31.901Z [info]: Retrieved all items 
+2024-06-25T10:22:31.905Z [info]: Retrieved all items 
+2024-06-25T10:22:31.908Z [info]: Retrieved all items 
+2024-06-25T10:22:31.916Z [info]: Retrieved all items 
+2024-06-25T10:22:31.919Z [info]: Retrieved all items 
+2024-06-25T10:22:31.921Z [info]: Retrieved all items 
+2024-06-25T10:28:02.710Z [info]: Retrieved all items 
+2024-06-25T10:28:02.717Z [info]: Retrieved all items 
+2024-06-25T10:28:02.720Z [info]: Retrieved all items 
+2024-06-25T10:28:02.728Z [info]: Retrieved all items 
+2024-06-25T10:28:02.732Z [info]: Retrieved all items 
+2024-06-25T10:28:02.734Z [info]: Retrieved all items 
+2024-06-25T10:36:39.496Z [info]: Retrieved all items 
+2024-06-25T10:36:39.507Z [info]: Retrieved all items 
+2024-06-25T10:36:39.512Z [info]: Retrieved all items 
+2024-06-25T10:36:39.531Z [info]: Retrieved all items 
+2024-06-25T10:36:39.536Z [info]: Retrieved all items 
+2024-06-25T10:36:39.542Z [info]: Retrieved all items 
+2024-06-25T10:41:35.794Z [info]: Retrieved all items 
+2024-06-25T10:41:35.800Z [info]: Retrieved all items 
+2024-06-25T10:41:35.803Z [info]: Retrieved all items 
+2024-06-25T10:41:35.811Z [info]: Retrieved all items 
+2024-06-25T10:41:35.814Z [info]: Retrieved all items 
+2024-06-25T10:41:35.817Z [info]: Retrieved all items 
+2024-06-25T10:45:59.707Z [info]: Retrieved all items 
+2024-06-25T10:45:59.713Z [info]: Retrieved all items 
+2024-06-25T10:45:59.716Z [info]: Retrieved all items 
+2024-06-25T10:45:59.729Z [info]: Retrieved all items 
+2024-06-25T10:45:59.732Z [info]: Retrieved all items 
+2024-06-25T10:45:59.762Z [info]: Retrieved all items 
+2024-06-25T11:36:25.927Z [info]: Retrieved all items 
+2024-06-25T11:36:26.163Z [info]: Retrieved all items 
+2024-06-25T11:36:26.198Z [info]: Retrieved all items 
+2024-06-25T11:36:26.227Z [info]: Retrieved all items 
+2024-06-25T11:36:26.234Z [info]: Retrieved all items 
+2024-06-25T11:36:26.246Z [info]: Retrieved all items 
+2024-06-26T05:05:53.360Z [info]: Server is running on port 5000 
+2024-06-26T05:05:53.402Z [info]: Connected to MongoDB 
+2024-06-26T05:06:18.674Z [info]: Retrieved all items 
+2024-06-26T05:06:18.693Z [info]: Retrieved all items 
+2024-06-26T05:06:18.699Z [info]: Retrieved all items 
+2024-06-26T05:06:18.722Z [info]: Retrieved all items 
+2024-06-26T05:06:18.729Z [info]: Retrieved all items 
+2024-06-26T05:06:18.736Z [info]: Retrieved all items 
+2024-06-26T05:06:33.100Z [info]: Retrieved all items 
+2024-06-26T05:06:33.105Z [info]: Retrieved all items 
+2024-06-26T05:06:33.110Z [info]: Retrieved all items 
+2024-06-26T05:06:33.125Z [info]: Retrieved all items 
+2024-06-26T05:06:33.130Z [info]: Retrieved all items 
+2024-06-26T05:06:33.134Z [info]: Retrieved all items 
+2024-06-26T05:06:36.689Z [info]: Retrieved all items 
+2024-06-26T05:06:36.693Z [info]: Retrieved all items 
+2024-06-26T05:06:36.697Z [info]: Retrieved all items 
+2024-06-26T05:06:36.712Z [info]: Retrieved all items 
+2024-06-26T05:06:36.720Z [info]: Retrieved all items 
+2024-06-26T05:06:36.724Z [info]: Retrieved all items 
+2024-06-26T05:06:51.599Z [info]: Retrieved all items 
+2024-06-26T05:06:51.605Z [info]: Retrieved all items 
+2024-06-26T05:07:04.085Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T05:07:08.333Z [info]: Retrieved all items 
+2024-06-26T05:07:08.349Z [info]: Retrieved all items 
+2024-06-26T05:07:08.353Z [info]: Retrieved all items 
+2024-06-26T05:07:08.359Z [info]: Retrieved all items 
+2024-06-26T05:07:08.371Z [info]: Retrieved all items 
+2024-06-26T05:07:08.377Z [info]: Retrieved all items 
+2024-06-26T05:07:16.471Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T05:07:24.035Z [info]: Retrieved all items 
+2024-06-26T05:07:24.038Z [info]: Retrieved all items 
+2024-06-26T05:07:24.042Z [info]: Retrieved all items 
+2024-06-26T05:07:24.054Z [info]: Retrieved all items 
+2024-06-26T05:07:24.061Z [info]: Retrieved all items 
+2024-06-26T05:07:24.067Z [info]: Retrieved all items 
+2024-06-26T05:09:27.803Z [info]: Retrieved all items 
+2024-06-26T05:09:27.807Z [info]: Retrieved all items 
+2024-06-26T05:09:27.810Z [info]: Retrieved all items 
+2024-06-26T05:09:27.821Z [info]: Retrieved all items 
+2024-06-26T05:09:27.825Z [info]: Retrieved all items 
+2024-06-26T05:09:27.830Z [info]: Retrieved all items 
+2024-06-26T05:10:33.184Z [info]: Retrieved all items 
+2024-06-26T05:10:33.189Z [info]: Retrieved all items 
+2024-06-26T05:10:33.194Z [info]: Retrieved all items 
+2024-06-26T05:10:33.204Z [info]: Retrieved all items 
+2024-06-26T05:10:33.208Z [info]: Retrieved all items 
+2024-06-26T05:10:33.213Z [info]: Retrieved all items 
+2024-06-26T05:10:39.099Z [info]: Retrieved all items 
+2024-06-26T05:10:39.105Z [info]: Retrieved all items 
+2024-06-26T05:10:47.674Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T05:10:53.858Z [info]: Retrieved all items 
+2024-06-26T05:10:53.863Z [info]: Retrieved all items 
+2024-06-26T05:10:53.867Z [info]: Retrieved all items 
+2024-06-26T05:10:53.879Z [info]: Retrieved all items 
+2024-06-26T05:10:53.887Z [info]: Retrieved all items 
+2024-06-26T05:10:53.896Z [info]: Retrieved all items 
+2024-06-26T05:11:01.395Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T05:11:05.440Z [info]: Retrieved all items 
+2024-06-26T05:11:05.443Z [info]: Retrieved all items 
+2024-06-26T05:11:05.446Z [info]: Retrieved all items 
+2024-06-26T05:11:05.459Z [info]: Retrieved all items 
+2024-06-26T05:11:05.465Z [info]: Retrieved all items 
+2024-06-26T05:11:05.475Z [info]: Retrieved all items 
+2024-06-26T05:11:10.684Z [info]: Retrieved all items 
+2024-06-26T05:11:10.690Z [info]: Retrieved all items 
+2024-06-26T05:12:59.815Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378779775.jpeg",
+    "isDisabled": false,
+    "_id": "667ba35befe13b01e89c2c58",
+    "createdAt": "2024-06-26T05:12:59.799Z",
+    "updatedAt": "2024-06-26T05:12:59.799Z",
+    "__v": 0
+  }
+}
+2024-06-26T05:13:03.407Z [info]: Updated item {
+  "item": {
+    "_id": "667ba35befe13b01e89c2c58",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378779775.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T05:13:06.384Z [info]: Retrieved all items 
+2024-06-26T05:13:06.387Z [info]: Retrieved all items 
+2024-06-26T05:13:06.390Z [info]: Retrieved all items 
+2024-06-26T05:13:06.403Z [info]: Retrieved all items 
+2024-06-26T05:13:06.407Z [info]: Retrieved all items 
+2024-06-26T05:13:06.413Z [info]: Retrieved all items 
+2024-06-26T05:13:12.855Z [info]: Updated item {
+  "item": {
+    "_id": "667ba35befe13b01e89c2c58",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378779775.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T05:13:15.611Z [info]: Retrieved all items 
+2024-06-26T05:13:15.614Z [info]: Retrieved all items 
+2024-06-26T05:13:15.618Z [info]: Retrieved all items 
+2024-06-26T05:13:15.632Z [info]: Retrieved all items 
+2024-06-26T05:13:15.639Z [info]: Retrieved all items 
+2024-06-26T05:13:15.646Z [info]: Retrieved all items 
+2024-06-26T05:14:38.202Z [info]: Retrieved all items 
+2024-06-26T05:14:38.209Z [info]: Retrieved all items 
+2024-06-26T05:15:01.164Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378901154.jpeg",
+    "isDisabled": true,
+    "_id": "667ba3d5efe13b01e89c2c6c",
+    "createdAt": "2024-06-26T05:15:01.160Z",
+    "updatedAt": "2024-06-26T05:15:01.160Z",
+    "__v": 0
+  }
+}
+2024-06-26T05:15:15.096Z [info]: Retrieved all items 
+2024-06-26T05:15:15.100Z [info]: Retrieved all items 
+2024-06-26T05:15:15.103Z [info]: Retrieved all items 
+2024-06-26T05:15:15.112Z [info]: Retrieved all items 
+2024-06-26T05:15:15.116Z [info]: Retrieved all items 
+2024-06-26T05:15:15.121Z [info]: Retrieved all items 
+2024-06-26T05:15:29.992Z [info]: Updated item {
+  "item": {
+    "_id": "667ba3d5efe13b01e89c2c6c",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378901154.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T05:15:34.127Z [info]: Retrieved all items 
+2024-06-26T05:15:34.133Z [info]: Retrieved all items 
+2024-06-26T05:15:34.138Z [info]: Retrieved all items 
+2024-06-26T05:15:34.144Z [info]: Retrieved all items 
+2024-06-26T05:15:34.152Z [info]: Retrieved all items 
+2024-06-26T05:15:34.161Z [info]: Retrieved all items 
+2024-06-26T05:58:34.223Z [info]: Retrieved all items 
+2024-06-26T05:58:34.257Z [info]: Retrieved all items 
+2024-06-26T05:58:34.266Z [info]: Retrieved all items 
+2024-06-26T05:58:34.276Z [info]: Retrieved all items 
+2024-06-26T05:58:34.284Z [info]: Retrieved all items 
+2024-06-26T05:58:34.289Z [info]: Retrieved all items 
+2024-06-26T06:00:10.159Z [info]: Retrieved all items 
+2024-06-26T06:00:10.188Z [info]: Retrieved all items 
+2024-06-26T06:00:10.201Z [info]: Retrieved all items 
+2024-06-26T06:00:10.209Z [info]: Retrieved all items 
+2024-06-26T06:00:10.217Z [info]: Retrieved all items 
+2024-06-26T06:00:10.227Z [info]: Retrieved all items 
+2024-06-26T06:05:52.290Z [info]: Retrieved all items 
+2024-06-26T06:05:52.309Z [info]: Retrieved all items 
+2024-06-26T06:05:52.316Z [info]: Retrieved all items 
+2024-06-26T06:05:52.326Z [info]: Retrieved all items 
+2024-06-26T06:05:52.330Z [info]: Retrieved all items 
+2024-06-26T06:05:52.337Z [info]: Retrieved all items 
+2024-06-26T06:13:15.951Z [info]: Retrieved all items 
+2024-06-26T06:13:15.976Z [info]: Retrieved all items 
+2024-06-26T06:13:15.982Z [info]: Retrieved all items 
+2024-06-26T06:13:16.013Z [info]: Retrieved all items 
+2024-06-26T06:13:16.023Z [info]: Retrieved all items 
+2024-06-26T06:13:16.037Z [info]: Retrieved all items 
+2024-06-26T06:13:16.532Z [info]: Retrieved all items 
+2024-06-26T06:13:16.540Z [info]: Retrieved all items 
+2024-06-26T07:10:02.505Z [info]: Retrieved all items 
+2024-06-26T07:10:02.542Z [info]: Retrieved all items 
+2024-06-26T07:10:02.549Z [info]: Retrieved all items 
+2024-06-26T07:10:02.562Z [info]: Retrieved all items 
+2024-06-26T07:10:02.568Z [info]: Retrieved all items 
+2024-06-26T07:10:02.573Z [info]: Retrieved all items 
+2024-06-26T07:10:03.896Z [info]: Retrieved all items 
+2024-06-26T07:10:03.904Z [info]: Retrieved all items 
+2024-06-26T07:10:07.612Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T07:10:11.875Z [info]: Retrieved all items 
+2024-06-26T07:10:11.926Z [info]: Retrieved all items 
+2024-06-26T07:10:11.933Z [info]: Retrieved all items 
+2024-06-26T07:10:11.950Z [info]: Retrieved all items 
+2024-06-26T07:10:11.954Z [info]: Retrieved all items 
+2024-06-26T07:10:11.965Z [info]: Retrieved all items 
+2024-06-26T07:10:18.411Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T07:10:23.354Z [info]: Retrieved all items 
+2024-06-26T07:10:23.395Z [info]: Retrieved all items 
+2024-06-26T07:10:23.415Z [info]: Retrieved all items 
+2024-06-26T07:10:23.425Z [info]: Retrieved all items 
+2024-06-26T07:10:23.435Z [info]: Retrieved all items 
+2024-06-26T07:10:23.445Z [info]: Retrieved all items 
+2024-06-26T07:46:24.390Z [info]: Retrieved all items 
+2024-06-26T07:46:24.400Z [info]: Retrieved all items 
+2024-06-26T07:46:24.405Z [info]: Retrieved all items 
+2024-06-26T07:46:24.408Z [info]: Retrieved all items 
+2024-06-26T07:46:24.413Z [info]: Retrieved all items 
+2024-06-26T07:46:24.422Z [info]: Retrieved all items 
+2024-06-26T07:46:24.427Z [info]: Retrieved all items 
+2024-06-26T07:46:24.430Z [info]: Retrieved all items 
+2024-06-26T07:51:40.060Z [info]: Server is running on port 5000 
+2024-06-26T07:51:40.106Z [info]: Connected to MongoDB 
+2024-06-26T07:54:38.293Z [info]: Server is running on port 5000 
+2024-06-26T07:54:38.331Z [info]: Connected to MongoDB 
+2024-06-26T07:54:44.380Z [info]: Server is running on port 5000 
+2024-06-26T07:54:44.437Z [info]: Connected to MongoDB 
+2024-06-26T07:55:03.184Z [info]: Server is running on port 5000 
+2024-06-26T07:55:03.210Z [info]: Connected to MongoDB 
+2024-06-26T07:58:58.502Z [info]: Server is running on port 5000 
+2024-06-26T07:58:58.543Z [info]: Connected to MongoDB 
+2024-06-26T07:59:06.263Z [info]: Server is running on port 5000 
+2024-06-26T07:59:06.341Z [info]: Connected to MongoDB 
+2024-06-26T07:59:17.144Z [info]: Server is running on port 5000 
+2024-06-26T07:59:17.177Z [info]: Connected to MongoDB 
+2024-06-26T08:03:22.500Z [info]: Retrieved all items 
+2024-06-26T08:03:22.508Z [info]: Retrieved all items 
+2024-06-26T08:03:36.652Z [info]: Retrieved all items 
+2024-06-26T08:03:36.664Z [info]: Retrieved all items 
+2024-06-26T08:04:19.473Z [info]: Retrieved all items 
+2024-06-26T08:04:19.482Z [info]: Retrieved all items 
+2024-06-26T08:04:28.345Z [info]: Retrieved all items 
+2024-06-26T08:04:28.356Z [info]: Retrieved all items 
+2024-06-26T08:09:19.595Z [info]: Retrieved all items 
+2024-06-26T08:09:19.601Z [info]: Retrieved all items 
+2024-06-26T08:10:08.843Z [info]: Retrieved all items 
+2024-06-26T08:10:08.855Z [info]: Retrieved all items 
+2024-06-26T08:12:07.993Z [info]: Retrieved all items 
+2024-06-26T08:12:08.002Z [info]: Retrieved all items 
+2024-06-26T08:19:31.067Z [info]: Retrieved all items 
+2024-06-26T08:19:31.074Z [info]: Retrieved all items 
+2024-06-26T08:21:31.505Z [info]: Contact user added: Sneka1 {
+  "statusCode": 200
+}
+2024-06-26T08:21:34.474Z [info]: Email sent: 250 2.0.0 OK  1719390095 d2e1a72fcca58-7066857e9a8sm7516806b3a.89 - gsmtp {
+  "statusCode": 200
+}
+2024-06-26T08:25:14.519Z [info]: Server is running on port 5000 
+2024-06-26T08:25:14.578Z [info]: Connected to MongoDB 
+2024-06-26T08:25:24.972Z [info]: Retrieved all items 
+2024-06-26T08:25:24.993Z [info]: Retrieved all items 
+2024-06-26T08:29:06.001Z [info]: Retrieved all items 
+2024-06-26T08:29:06.017Z [info]: Retrieved all items 
+2024-06-26T08:30:41.546Z [info]: Retrieved all items 
+2024-06-26T08:30:41.557Z [info]: Retrieved all items 
+2024-06-26T08:32:20.731Z [info]: Server is running on port 5000 
+2024-06-26T08:32:20.786Z [info]: Connected to MongoDB 
+2024-06-26T08:32:28.144Z [info]: Retrieved all items 
+2024-06-26T08:32:28.169Z [info]: Retrieved all items 
+2024-06-26T08:33:33.705Z [info]: Retrieved all items 
+2024-06-26T08:33:33.716Z [info]: Retrieved all items 
+2024-06-26T09:16:26.098Z [info]: Retrieved all items 
+2024-06-26T09:16:26.106Z [info]: Retrieved all items 
+2024-06-26T09:17:03.197Z [info]: Retrieved all items 
+2024-06-26T09:17:03.203Z [info]: Retrieved all items 
+2024-06-26T09:18:00.212Z [info]: Retrieved all items 
+2024-06-26T09:18:00.217Z [info]: Retrieved all items 
+2024-06-26T09:20:36.850Z [info]: Retrieved all items 
+2024-06-26T09:20:36.854Z [info]: Retrieved all items 
+2024-06-26T09:22:38.605Z [info]: Retrieved all items 
+2024-06-26T09:22:38.610Z [info]: Retrieved all items 
+2024-06-26T09:27:23.323Z [info]: Retrieved all items 
+2024-06-26T09:27:23.328Z [info]: Retrieved all items 
+2024-06-26T09:27:41.672Z [info]: Retrieved all items 
+2024-06-26T09:27:41.680Z [info]: Retrieved all items 
+2024-06-26T09:28:35.143Z [info]: Retrieved all items 
+2024-06-26T09:28:35.149Z [info]: Retrieved all items 
+2024-06-26T09:32:30.388Z [info]: Retrieved all items 
+2024-06-26T09:33:37.353Z [info]: Retrieved all items 
+2024-06-26T09:33:44.135Z [info]: Retrieved all items 
+2024-06-26T09:33:44.147Z [info]: Retrieved all items 
+2024-06-26T09:33:44.150Z [info]: Retrieved all items 
+2024-06-26T09:33:44.154Z [info]: Retrieved all items 
+2024-06-26T09:33:44.164Z [info]: Retrieved all items 
+2024-06-26T09:33:44.168Z [info]: Retrieved all items 
+2024-06-26T09:35:18.100Z [info]: Retrieved all items 
+2024-06-26T09:35:18.103Z [info]: Retrieved all items 
+2024-06-26T09:35:18.105Z [info]: Retrieved all items 
+2024-06-26T09:35:18.113Z [info]: Retrieved all items 
+2024-06-26T09:35:18.117Z [info]: Retrieved all items 
+2024-06-26T09:35:18.121Z [info]: Retrieved all items 
+2024-06-26T09:36:18.357Z [info]: Retrieved all items 
+2024-06-26T09:37:41.152Z [info]: Retrieved all items 
+2024-06-26T09:37:41.155Z [info]: Retrieved all items 
+2024-06-26T09:37:41.158Z [info]: Retrieved all items 
+2024-06-26T09:37:41.166Z [info]: Retrieved all items 
+2024-06-26T09:37:41.170Z [info]: Retrieved all items 
+2024-06-26T09:37:41.180Z [info]: Retrieved all items 
+2024-06-26T09:38:46.503Z [info]: Retrieved all items 
+2024-06-26T09:38:46.508Z [info]: Retrieved all items 
+2024-06-26T09:38:48.703Z [info]: Updated item {
+  "item": {
+    "_id": "667959ae134fc5636c9c1c02",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719228846220.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T09:38:52.371Z [info]: Retrieved all items 
+2024-06-26T09:38:52.375Z [info]: Retrieved all items 
+2024-06-26T09:38:52.380Z [info]: Retrieved all items 
+2024-06-26T09:38:52.391Z [info]: Retrieved all items 
+2024-06-26T09:38:52.397Z [info]: Retrieved all items 
+2024-06-26T09:38:52.404Z [info]: Retrieved all items 
+2024-06-26T09:39:24.052Z [info]: Retrieved all items 
+2024-06-26T09:39:24.054Z [info]: Retrieved all items 
+2024-06-26T09:39:24.057Z [info]: Retrieved all items 
+2024-06-26T09:39:24.066Z [info]: Retrieved all items 
+2024-06-26T09:39:24.069Z [info]: Retrieved all items 
+2024-06-26T09:39:24.071Z [info]: Retrieved all items 
+2024-06-26T09:39:42.173Z [info]: Retrieved all items 
+2024-06-26T09:39:42.179Z [info]: Retrieved all items 
+2024-06-26T09:39:43.325Z [info]: Retrieved all items 
+2024-06-26T09:39:43.331Z [info]: Retrieved all items 
+2024-06-26T09:39:44.351Z [info]: Retrieved all items 
+2024-06-26T09:39:44.358Z [info]: Retrieved all items 
+2024-06-26T09:41:58.429Z [info]: Retrieved all items 
+2024-06-26T09:41:58.437Z [info]: Retrieved all items 
+2024-06-26T09:42:00.830Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T09:42:05.329Z [info]: Retrieved all items 
+2024-06-26T09:42:05.332Z [info]: Retrieved all items 
+2024-06-26T09:42:05.337Z [info]: Retrieved all items 
+2024-06-26T09:42:05.354Z [info]: Retrieved all items 
+2024-06-26T09:42:05.363Z [info]: Retrieved all items 
+2024-06-26T09:42:05.370Z [info]: Retrieved all items 
+2024-06-26T09:47:28.352Z [info]: Retrieved all items 
+2024-06-26T09:47:28.362Z [info]: Retrieved all items 
+2024-06-26T09:47:28.369Z [info]: Retrieved all items 
+2024-06-26T09:47:28.379Z [info]: Retrieved all items 
+2024-06-26T09:47:28.387Z [info]: Retrieved all items 
+2024-06-26T09:47:28.390Z [info]: Retrieved all items 
+2024-06-26T09:49:24.623Z [info]: Retrieved all items 
+2024-06-26T09:49:24.629Z [info]: Retrieved all items 
+2024-06-26T09:49:24.637Z [info]: Retrieved all items 
+2024-06-26T09:49:24.643Z [info]: Retrieved all items 
+2024-06-26T09:49:24.656Z [info]: Retrieved all items 
+2024-06-26T09:49:24.663Z [info]: Retrieved all items 
+2024-06-26T09:59:56.365Z [info]: Retrieved all items 
+2024-06-26T10:00:44.425Z [info]: Retrieved all items 
+2024-06-26T10:00:44.434Z [info]: Retrieved all items 
+2024-06-26T10:00:44.440Z [info]: Retrieved all items 
+2024-06-26T10:00:44.467Z [info]: Retrieved all items 
+2024-06-26T10:00:44.472Z [info]: Retrieved all items 
+2024-06-26T10:00:44.475Z [info]: Retrieved all items 
+2024-06-26T10:00:54.852Z [info]: Retrieved all items 
+2024-06-26T10:00:54.858Z [info]: Retrieved all items 
+2024-06-26T10:00:56.624Z [info]: Updated item {
+  "item": {
+    "_id": "667ba3d5efe13b01e89c2c6c",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378901154.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T10:01:00.903Z [info]: Retrieved all items 
+2024-06-26T10:01:00.909Z [info]: Retrieved all items 
+2024-06-26T10:01:00.913Z [info]: Retrieved all items 
+2024-06-26T10:01:00.960Z [info]: Retrieved all items 
+2024-06-26T10:01:00.964Z [info]: Retrieved all items 
+2024-06-26T10:01:00.967Z [info]: Retrieved all items 
+2024-06-26T10:01:11.516Z [info]: Updated item {
+  "item": {
+    "_id": "667ba3d5efe13b01e89c2c6c",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378901154.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T10:01:20.777Z [info]: Retrieved all items 
+2024-06-26T10:01:20.783Z [info]: Retrieved all items 
+2024-06-26T10:01:20.790Z [info]: Retrieved all items 
+2024-06-26T10:01:20.796Z [info]: Retrieved all items 
+2024-06-26T10:01:20.804Z [info]: Retrieved all items 
+2024-06-26T10:01:20.810Z [info]: Retrieved all items 
+2024-06-26T10:03:52.258Z [info]: Retrieved all items 
+2024-06-26T10:03:52.273Z [info]: Retrieved all items 
+2024-06-26T10:04:03.506Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T10:04:06.817Z [info]: Retrieved all items 
+2024-06-26T10:04:06.821Z [info]: Retrieved all items 
+2024-06-26T10:04:06.826Z [info]: Retrieved all items 
+2024-06-26T10:04:06.840Z [info]: Retrieved all items 
+2024-06-26T10:04:06.846Z [info]: Retrieved all items 
+2024-06-26T10:04:06.849Z [info]: Retrieved all items 
+2024-06-26T10:04:33.152Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T10:04:40.667Z [info]: Retrieved all items 
+2024-06-26T10:04:40.672Z [info]: Retrieved all items 
+2024-06-26T10:04:40.679Z [info]: Retrieved all items 
+2024-06-26T10:04:40.682Z [info]: Retrieved all items 
+2024-06-26T10:04:40.692Z [info]: Retrieved all items 
+2024-06-26T10:04:40.696Z [info]: Retrieved all items 
+2024-06-26T10:04:46.595Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T10:04:51.038Z [info]: Retrieved all items 
+2024-06-26T10:04:51.041Z [info]: Retrieved all items 
+2024-06-26T10:04:51.044Z [info]: Retrieved all items 
+2024-06-26T10:04:51.056Z [info]: Retrieved all items 
+2024-06-26T10:04:51.059Z [info]: Retrieved all items 
+2024-06-26T10:04:51.066Z [info]: Retrieved all items 
+2024-06-26T10:15:55.471Z [info]: Retrieved all items 
+2024-06-26T10:15:55.478Z [info]: Retrieved all items 
+2024-06-26T10:15:56.549Z [info]: Retrieved all items 
+2024-06-26T10:15:56.556Z [info]: Retrieved all items 
+2024-06-26T10:24:32.456Z [info]: Retrieved all items 
+2024-06-26T10:24:32.466Z [info]: Retrieved all items 
+2024-06-26T10:24:41.298Z [info]: Retrieved all items 
+2024-06-26T10:24:41.305Z [info]: Retrieved all items 
+2024-06-26T10:24:43.568Z [info]: Retrieved all items 
+2024-06-26T10:24:43.581Z [info]: Retrieved all items 
+2024-06-26T10:32:43.729Z [info]: Retrieved all items 
+2024-06-26T10:34:31.371Z [info]: Retrieved all items 
+2024-06-26T10:34:50.609Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667ba35befe13b01e89c2c58",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719378779775.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T10:36:26.222Z [info]: Retrieved all items 
+2024-06-26T10:37:04.417Z [info]: Retrieved all items 
+2024-06-26T10:37:30.426Z [info]: Retrieved all items 
+2024-06-26T10:37:43.368Z [info]: Retrieved all items 
+2024-06-26T10:41:34.621Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": true,
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "createdAt": "2024-06-26T10:41:34.595Z",
+    "updatedAt": "2024-06-26T10:41:34.595Z",
+    "__v": 0
+  }
+}
+2024-06-26T10:42:09.168Z [info]: Retrieved all items 
+2024-06-26T10:42:09.174Z [info]: Retrieved all items 
+2024-06-26T10:42:09.177Z [info]: Retrieved all items 
+2024-06-26T10:42:09.190Z [info]: Retrieved all items 
+2024-06-26T10:42:09.196Z [info]: Retrieved all items 
+2024-06-26T10:42:09.202Z [info]: Retrieved all items 
+2024-06-26T10:44:24.504Z [info]: Retrieved all items 
+2024-06-26T10:45:42.377Z [info]: Retrieved all items 
+2024-06-26T10:47:16.377Z [info]: Retrieved all items 
+2024-06-26T10:47:16.389Z [info]: Retrieved all items 
+2024-06-26T10:48:53.669Z [info]: Retrieved all items 
+2024-06-26T10:48:53.689Z [info]: Retrieved all items 
+2024-06-26T10:49:12.110Z [info]: Retrieved all items 
+2024-06-26T10:49:12.171Z [info]: Retrieved all items 
+2024-06-26T10:49:18.309Z [info]: Retrieved all items 
+2024-06-26T10:49:18.317Z [info]: Retrieved all items 
+2024-06-26T10:54:28.439Z [info]: Retrieved all items 
+2024-06-26T10:56:14.380Z [info]: Retrieved all items 
+2024-06-26T10:56:23.368Z [info]: Retrieved all items 
+2024-06-26T10:56:23.376Z [info]: Retrieved all items 
+2024-06-26T10:56:26.944Z [info]: Retrieved all items 
+2024-06-26T10:56:26.997Z [info]: Retrieved all items 
+2024-06-26T10:56:46.467Z [info]: Retrieved all items 
+2024-06-26T10:58:11.150Z [info]: Retrieved all items 
+2024-06-26T10:58:11.154Z [info]: Retrieved all items 
+2024-06-26T10:58:11.160Z [info]: Retrieved all items 
+2024-06-26T10:58:11.175Z [info]: Retrieved all items 
+2024-06-26T10:58:11.180Z [info]: Retrieved all items 
+2024-06-26T10:58:11.183Z [info]: Retrieved all items 
+2024-06-26T10:58:23.507Z [info]: Retrieved all items 
+2024-06-26T10:58:23.513Z [info]: Retrieved all items 
+2024-06-26T10:58:25.143Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T10:58:29.810Z [info]: Retrieved all items 
+2024-06-26T10:58:29.825Z [info]: Retrieved all items 
+2024-06-26T10:58:32.657Z [info]: Retrieved all items 
+2024-06-26T10:58:32.707Z [info]: Retrieved all items 
+2024-06-26T10:58:37.835Z [info]: Retrieved all items 
+2024-06-26T10:58:37.849Z [info]: Retrieved all items 
+2024-06-26T10:58:37.853Z [info]: Retrieved all items 
+2024-06-26T10:58:37.859Z [info]: Retrieved all items 
+2024-06-26T10:58:37.875Z [info]: Retrieved all items 
+2024-06-26T10:58:37.882Z [info]: Retrieved all items 
+2024-06-26T11:00:50.231Z [info]: Retrieved all items 
+2024-06-26T11:00:50.240Z [info]: Retrieved all items 
+2024-06-26T11:00:53.985Z [info]: Retrieved all items 
+2024-06-26T11:00:53.995Z [info]: Retrieved all items 
+2024-06-26T11:00:55.890Z [info]: Retrieved all items 
+2024-06-26T11:00:55.896Z [info]: Retrieved all items 
+2024-06-26T11:01:05.230Z [info]: Retrieved all items 
+2024-06-26T11:01:05.237Z [info]: Retrieved all items 
+2024-06-26T11:04:31.087Z [info]: Retrieved all items 
+2024-06-26T11:04:31.095Z [info]: Retrieved all items 
+2024-06-26T11:04:36.170Z [info]: Retrieved all items 
+2024-06-26T11:04:36.177Z [info]: Retrieved all items 
+2024-06-26T11:04:40.039Z [info]: Retrieved all items 
+2024-06-26T11:04:40.045Z [info]: Retrieved all items 
+2024-06-26T11:06:48.411Z [info]: Retrieved all items 
+2024-06-26T11:06:53.614Z [info]: Retrieved all items 
+2024-06-26T11:06:53.631Z [info]: Retrieved all items 
+2024-06-26T11:06:57.903Z [info]: Retrieved all items 
+2024-06-26T11:06:57.909Z [info]: Retrieved all items 
+2024-06-26T11:07:11.465Z [info]: Retrieved all items 
+2024-06-26T11:07:11.520Z [info]: Retrieved all items 
+2024-06-26T11:07:34.759Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-26T11:07:56.665Z [info]: Retrieved all items 
+2024-06-26T11:07:56.669Z [info]: Retrieved all items 
+2024-06-26T11:07:56.672Z [info]: Retrieved all items 
+2024-06-26T11:07:56.681Z [info]: Retrieved all items 
+2024-06-26T11:07:56.684Z [info]: Retrieved all items 
+2024-06-26T11:07:56.688Z [info]: Retrieved all items 
+2024-06-26T11:08:04.150Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-26T11:08:41.335Z [info]: Retrieved all items 
+2024-06-26T11:08:41.345Z [info]: Retrieved all items 
+2024-06-26T11:08:42.716Z [info]: Retrieved all items 
+2024-06-26T11:08:42.725Z [info]: Retrieved all items 
+2024-06-26T11:08:46.113Z [info]: Retrieved all items 
+2024-06-26T11:08:46.120Z [info]: Retrieved all items 
+2024-06-26T11:09:07.373Z [info]: Retrieved all items 
+2024-06-26T11:09:24.908Z [info]: Retrieved all items 
+2024-06-26T11:10:22.053Z [info]: Retrieved all items 
+2024-06-26T11:10:22.100Z [info]: Retrieved all items 
+2024-06-26T11:10:32.630Z [info]: Retrieved all items 
+2024-06-26T11:10:32.645Z [info]: Retrieved all items 
+2024-06-26T11:25:46.598Z [info]: Retrieved all items 
+2024-06-26T11:25:46.604Z [info]: Retrieved all items 
+2024-06-26T11:26:40.591Z [info]: Retrieved all items 
+2024-06-26T11:26:40.643Z [info]: Retrieved all items 
+2024-06-26T11:26:41.506Z [info]: Retrieved all items 
+2024-06-26T11:26:41.512Z [info]: Retrieved all items 
+2024-06-27T05:15:59.981Z [info]: Server is running on port 5000 
+2024-06-27T05:16:00.021Z [info]: Connected to MongoDB 
+2024-06-27T05:16:07.927Z [info]: Retrieved all items 
+2024-06-27T05:16:07.941Z [info]: Retrieved all items 
+2024-06-27T05:16:07.946Z [info]: Retrieved all items 
+2024-06-27T05:16:07.980Z [info]: Retrieved all items 
+2024-06-27T05:16:07.996Z [info]: Retrieved all items 
+2024-06-27T05:16:08.013Z [info]: Retrieved all items 
+2024-06-27T05:16:59.003Z [info]: Retrieved all items 
+2024-06-27T05:16:59.015Z [info]: Retrieved all items 
+2024-06-27T05:17:02.527Z [info]: Retrieved all items 
+2024-06-27T05:17:02.535Z [info]: Retrieved all items 
+2024-06-27T05:17:06.013Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-27T05:17:09.071Z [info]: Retrieved all items 
+2024-06-27T05:17:09.075Z [info]: Retrieved all items 
+2024-06-27T05:17:09.079Z [info]: Retrieved all items 
+2024-06-27T05:17:09.093Z [info]: Retrieved all items 
+2024-06-27T05:17:09.102Z [info]: Retrieved all items 
+2024-06-27T05:17:09.108Z [info]: Retrieved all items 
+2024-06-27T05:17:20.866Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-27T05:17:23.941Z [info]: Retrieved all items 
+2024-06-27T05:17:23.945Z [info]: Retrieved all items 
+2024-06-27T05:17:23.949Z [info]: Retrieved all items 
+2024-06-27T05:17:23.963Z [info]: Retrieved all items 
+2024-06-27T05:17:23.970Z [info]: Retrieved all items 
+2024-06-27T05:17:23.978Z [info]: Retrieved all items 
+2024-06-27T05:39:20.445Z [info]: Retrieved all items 
+2024-06-27T05:39:20.457Z [info]: Retrieved all items 
+2024-06-27T05:39:21.490Z [info]: Retrieved all items 
+2024-06-27T05:39:21.496Z [info]: Retrieved all items 
+2024-06-27T05:39:23.913Z [info]: Retrieved all items 
+2024-06-27T05:39:23.920Z [info]: Retrieved all items 
+2024-06-27T05:40:47.528Z [info]: Retrieved all items 
+2024-06-27T05:40:47.536Z [info]: Retrieved all items 
+2024-06-27T05:40:48.497Z [info]: Retrieved all items 
+2024-06-27T05:40:48.504Z [info]: Retrieved all items 
+2024-06-27T05:40:49.282Z [info]: Retrieved all items 
+2024-06-27T05:40:49.289Z [info]: Retrieved all items 
+2024-06-27T05:41:37.643Z [info]: Retrieved all items 
+2024-06-27T05:41:37.650Z [info]: Retrieved all items 
+2024-06-27T05:41:40.640Z [info]: Retrieved all items 
+2024-06-27T05:41:40.645Z [info]: Retrieved all items 
+2024-06-27T05:41:48.425Z [info]: Retrieved all items 
+2024-06-27T05:41:48.432Z [info]: Retrieved all items 
+2024-06-27T05:42:20.374Z [info]: Retrieved all items 
+2024-06-27T05:42:20.382Z [info]: Retrieved all items 
+2024-06-27T05:42:21.440Z [info]: Retrieved all items 
+2024-06-27T05:42:21.447Z [info]: Retrieved all items 
+2024-06-27T05:42:22.437Z [info]: Retrieved all items 
+2024-06-27T05:42:22.444Z [info]: Retrieved all items 
+2024-06-27T05:42:23.933Z [info]: Retrieved all items 
+2024-06-27T05:42:23.942Z [info]: Retrieved all items 
+2024-06-27T05:43:01.143Z [info]: Retrieved all items 
+2024-06-27T05:43:01.150Z [info]: Retrieved all items 
+2024-06-27T05:43:02.600Z [info]: Retrieved all items 
+2024-06-27T05:43:02.607Z [info]: Retrieved all items 
+2024-06-27T05:47:26.506Z [info]: Retrieved all items 
+2024-06-27T05:47:26.517Z [info]: Retrieved all items 
+2024-06-27T05:48:13.244Z [info]: Retrieved all items 
+2024-06-27T05:48:13.254Z [info]: Retrieved all items 
+2024-06-27T05:48:24.111Z [info]: Retrieved all items 
+2024-06-27T05:48:24.118Z [info]: Retrieved all items 
+2024-06-27T05:48:40.507Z [info]: Retrieved all items 
+2024-06-27T05:48:40.513Z [info]: Retrieved all items 
+2024-06-27T05:48:42.350Z [info]: Retrieved all items 
+2024-06-27T05:48:42.357Z [info]: Retrieved all items 
+2024-06-27T05:50:08.806Z [info]: Retrieved all items 
+2024-06-27T05:50:08.812Z [info]: Retrieved all items 
+2024-06-27T05:50:10.763Z [info]: Retrieved all items 
+2024-06-27T05:50:10.768Z [info]: Retrieved all items 
+2024-06-27T05:50:22.464Z [info]: Retrieved all items 
+2024-06-27T05:50:22.469Z [info]: Retrieved all items 
+2024-06-27T05:50:29.341Z [info]: Retrieved all items 
+2024-06-27T05:50:29.348Z [info]: Retrieved all items 
+2024-06-27T05:51:23.957Z [info]: Retrieved all items 
+2024-06-27T05:51:23.964Z [info]: Retrieved all items 
+2024-06-27T05:51:54.220Z [info]: Retrieved all items 
+2024-06-27T05:51:58.224Z [info]: Retrieved all items 
+2024-06-27T05:51:58.231Z [info]: Retrieved all items 
+2024-06-27T05:51:59.478Z [info]: Retrieved all items 
+2024-06-27T05:51:59.488Z [info]: Retrieved all items 
+2024-06-27T05:52:44.437Z [info]: Retrieved all items 
+2024-06-27T05:52:44.443Z [info]: Retrieved all items 
+2024-06-27T05:52:58.283Z [info]: Retrieved all items 
+2024-06-27T05:52:58.290Z [info]: Retrieved all items 
+2024-06-27T05:55:34.868Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719467734826.jpeg",
+    "isDisabled": true,
+    "_id": "667cfed682e9b2be07064991",
+    "createdAt": "2024-06-27T05:55:34.857Z",
+    "updatedAt": "2024-06-27T05:55:34.857Z",
+    "__v": 0
+  }
+}
+2024-06-27T05:55:53.681Z [info]: Retrieved all items 
+2024-06-27T05:55:53.693Z [info]: Retrieved all items 
+2024-06-27T05:55:57.748Z [info]: Retrieved all items 
+2024-06-27T05:55:57.754Z [info]: Retrieved all items 
+2024-06-27T05:56:09.911Z [info]: Retrieved all items 
+2024-06-27T05:56:09.914Z [info]: Retrieved all items 
+2024-06-27T05:56:09.916Z [info]: Retrieved all items 
+2024-06-27T05:56:09.924Z [info]: Retrieved all items 
+2024-06-27T05:56:09.928Z [info]: Retrieved all items 
+2024-06-27T05:56:09.957Z [info]: Retrieved all items 
+2024-06-27T05:56:26.989Z [info]: Updated item {
+  "item": {
+    "_id": "667cfed682e9b2be07064991",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1719467734826.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-27T05:56:39.497Z [info]: Retrieved all items 
+2024-06-27T05:56:39.500Z [info]: Retrieved all items 
+2024-06-27T05:56:39.503Z [info]: Retrieved all items 
+2024-06-27T05:56:39.513Z [info]: Retrieved all items 
+2024-06-27T05:56:39.518Z [info]: Retrieved all items 
+2024-06-27T05:56:39.535Z [info]: Retrieved all items 
+2024-06-27T05:56:49.260Z [info]: Retrieved all items 
+2024-06-27T05:56:49.268Z [info]: Retrieved all items 
+2024-06-27T05:57:07.023Z [info]: Retrieved all items 
+2024-06-27T05:57:07.029Z [info]: Retrieved all items 
+2024-06-27T05:57:19.156Z [info]: Retrieved all items 
+2024-06-27T05:57:19.162Z [info]: Retrieved all items 
+2024-06-27T05:57:30.586Z [info]: Retrieved all items 
+2024-06-27T05:57:30.593Z [info]: Retrieved all items 
+2024-06-27T05:57:42.231Z [info]: Retrieved all items 
+2024-06-27T05:57:42.238Z [info]: Retrieved all items 
+2024-06-27T06:02:21.502Z [info]: Retrieved all items 
+2024-06-27T06:02:21.513Z [info]: Retrieved all items 
+2024-06-27T06:02:29.534Z [info]: Retrieved all items 
+2024-06-27T06:02:29.541Z [info]: Retrieved all items 
+2024-06-27T06:03:20.802Z [info]: Retrieved all items 
+2024-06-27T06:03:27.834Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-27T06:03:32.072Z [info]: Retrieved all items 
+2024-06-27T06:03:32.075Z [info]: Retrieved all items 
+2024-06-27T06:03:32.078Z [info]: Retrieved all items 
+2024-06-27T06:03:32.088Z [info]: Retrieved all items 
+2024-06-27T06:03:32.094Z [info]: Retrieved all items 
+2024-06-27T06:03:32.098Z [info]: Retrieved all items 
+2024-06-27T06:03:38.654Z [info]: Updated item {
+  "item": {
+    "_id": "66794e49d1580c3ed5330306",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars!!!!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225929581.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-27T06:03:43.610Z [info]: Retrieved all items 
+2024-06-27T06:03:43.615Z [info]: Retrieved all items 
+2024-06-27T06:03:43.626Z [info]: Retrieved all items 
+2024-06-27T06:03:43.633Z [info]: Retrieved all items 
+2024-06-27T06:03:43.643Z [info]: Retrieved all items 
+2024-06-27T06:03:43.647Z [info]: Retrieved all items 
+2024-06-27T06:07:29.245Z [info]: Item created {
+  "item": {
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "title_ta": "தமிழறிஞர்களைக் கொண்டு தமிழாய்வுக் கூட்டங்கள் நடத்துதல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1719468449233.jpeg",
+    "isDisabled": true,
+    "_id": "667d01a182e9b2be070649c4",
+    "createdAt": "2024-06-27T06:07:29.238Z",
+    "updatedAt": "2024-06-27T06:07:29.238Z",
+    "__v": 0
+  }
+}
+2024-06-27T06:07:39.942Z [info]: Retrieved all items 
+2024-06-27T06:07:39.947Z [info]: Retrieved all items 
+2024-06-27T06:07:39.953Z [info]: Retrieved all items 
+2024-06-27T06:07:39.957Z [info]: Retrieved all items 
+2024-06-27T06:07:39.966Z [info]: Retrieved all items 
+2024-06-27T06:07:39.970Z [info]: Retrieved all items 
+2024-06-27T06:07:48.224Z [info]: Updated item {
+  "item": {
+    "_id": "667d01a182e9b2be070649c4",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719468449233.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-27T06:07:51.493Z [info]: Retrieved all items 
+2024-06-27T06:07:51.497Z [info]: Retrieved all items 
+2024-06-27T06:07:51.500Z [info]: Retrieved all items 
+2024-06-27T06:07:51.509Z [info]: Retrieved all items 
+2024-06-27T06:07:51.515Z [info]: Retrieved all items 
+2024-06-27T06:07:51.520Z [info]: Retrieved all items 
+2024-06-27T06:09:10.159Z [info]: Retrieved all items 
+2024-06-27T06:09:10.166Z [info]: Retrieved all items 
+2024-06-27T06:09:41.515Z [info]: Retrieved all items 
+2024-06-27T06:09:41.522Z [info]: Retrieved all items 
+2024-06-27T06:09:43.136Z [info]: Retrieved all items 
+2024-06-27T06:09:43.142Z [info]: Retrieved all items 
+2024-06-27T06:09:46.200Z [info]: Retrieved all items 
+2024-06-27T06:09:46.206Z [info]: Retrieved all items 
+2024-06-27T06:09:47.866Z [info]: Retrieved all items 
+2024-06-27T06:09:47.871Z [info]: Retrieved all items 
+2024-06-27T06:39:28.682Z [info]: Retrieved all items 
+2024-06-27T06:39:28.689Z [info]: Retrieved all items 
+2024-06-27T06:40:11.850Z [info]: Retrieved all items 
+2024-06-27T06:40:11.856Z [info]: Retrieved all items 
+2024-06-27T06:40:15.377Z [info]: Retrieved all items 
+2024-06-27T06:40:15.383Z [info]: Retrieved all items 
+2024-06-27T06:40:18.970Z [info]: Retrieved all items 
+2024-06-27T06:40:18.979Z [info]: Retrieved all items 
+2024-06-27T06:41:26.117Z [info]: Retrieved all items 
+2024-06-27T06:41:26.124Z [info]: Retrieved all items 
+2024-06-27T06:41:38.600Z [info]: Retrieved all items 
+2024-06-27T06:41:38.610Z [info]: Retrieved all items 
+2024-06-27T06:41:43.624Z [info]: Retrieved all items 
+2024-06-27T06:41:43.632Z [info]: Retrieved all items 
+2024-06-27T06:42:25.297Z [info]: Retrieved all items 
+2024-06-27T06:42:25.303Z [info]: Retrieved all items 
+2024-06-27T06:45:07.787Z [info]: Retrieved all items 
+2024-06-27T06:45:07.795Z [info]: Retrieved all items 
+2024-06-27T06:58:28.789Z [info]: Retrieved all items 
+2024-06-27T06:58:28.792Z [info]: Retrieved all items 
+2024-06-27T06:58:28.795Z [info]: Retrieved all items 
+2024-06-27T06:58:28.804Z [info]: Retrieved all items 
+2024-06-27T06:58:28.809Z [info]: Retrieved all items 
+2024-06-27T06:58:28.815Z [info]: Retrieved all items 
+2024-06-27T06:59:37.606Z [info]: Retrieved all items 
+2024-06-27T06:59:37.610Z [info]: Retrieved all items 
+2024-06-27T06:59:37.613Z [info]: Retrieved all items 
+2024-06-27T06:59:37.663Z [info]: Retrieved all items 
+2024-06-27T06:59:37.667Z [info]: Retrieved all items 
+2024-06-27T06:59:37.670Z [info]: Retrieved all items 
+2024-06-27T06:59:42.244Z [info]: Retrieved all items 
+2024-06-27T06:59:42.247Z [info]: Retrieved all items 
+2024-06-27T06:59:42.249Z [info]: Retrieved all items 
+2024-06-27T06:59:42.268Z [info]: Retrieved all items 
+2024-06-27T06:59:42.271Z [info]: Retrieved all items 
+2024-06-27T06:59:42.278Z [info]: Retrieved all items 
+2024-06-27T07:01:55.195Z [info]: Retrieved all items 
+2024-06-27T07:01:55.198Z [info]: Retrieved all items 
+2024-06-27T07:01:55.201Z [info]: Retrieved all items 
+2024-06-27T07:01:55.210Z [info]: Retrieved all items 
+2024-06-27T07:01:55.214Z [info]: Retrieved all items 
+2024-06-27T07:01:55.217Z [info]: Retrieved all items 
+2024-06-27T07:03:13.324Z [info]: Retrieved all items 
+2024-06-27T07:03:13.327Z [info]: Retrieved all items 
+2024-06-27T07:03:13.329Z [info]: Retrieved all items 
+2024-06-27T07:03:13.336Z [info]: Retrieved all items 
+2024-06-27T07:03:13.340Z [info]: Retrieved all items 
+2024-06-27T07:03:13.343Z [info]: Retrieved all items 
+2024-06-27T07:03:44.750Z [info]: Retrieved all items 
+2024-06-27T07:03:44.754Z [info]: Retrieved all items 
+2024-06-27T07:03:44.799Z [info]: Retrieved all items 
+2024-06-27T07:03:44.808Z [info]: Retrieved all items 
+2024-06-27T07:03:44.818Z [info]: Retrieved all items 
+2024-06-27T07:03:44.856Z [info]: Retrieved all items 
+2024-06-27T07:04:06.018Z [info]: Retrieved all items 
+2024-06-27T07:04:06.021Z [info]: Retrieved all items 
+2024-06-27T07:04:06.024Z [info]: Retrieved all items 
+2024-06-27T07:04:06.036Z [info]: Retrieved all items 
+2024-06-27T07:04:06.040Z [info]: Retrieved all items 
+2024-06-27T07:04:06.043Z [info]: Retrieved all items 
+2024-06-27T07:04:16.976Z [info]: Retrieved all items 
+2024-06-27T07:04:16.980Z [info]: Retrieved all items 
+2024-06-27T07:04:16.987Z [info]: Retrieved all items 
+2024-06-27T07:04:16.991Z [info]: Retrieved all items 
+2024-06-27T07:04:17.018Z [info]: Retrieved all items 
+2024-06-27T07:04:17.024Z [info]: Retrieved all items 
+2024-06-27T07:04:36.674Z [info]: Retrieved all items 
+2024-06-27T07:04:36.676Z [info]: Retrieved all items 
+2024-06-27T07:04:36.679Z [info]: Retrieved all items 
+2024-06-27T07:04:36.689Z [info]: Retrieved all items 
+2024-06-27T07:04:36.695Z [info]: Retrieved all items 
+2024-06-27T07:04:36.699Z [info]: Retrieved all items 
+2024-06-27T07:04:55.104Z [info]: Retrieved all items 
+2024-06-27T07:04:55.107Z [info]: Retrieved all items 
+2024-06-27T07:04:55.109Z [info]: Retrieved all items 
+2024-06-27T07:04:55.124Z [info]: Retrieved all items 
+2024-06-27T07:04:55.128Z [info]: Retrieved all items 
+2024-06-27T07:04:55.133Z [info]: Retrieved all items 
+2024-06-27T07:05:10.880Z [info]: Retrieved all items 
+2024-06-27T07:05:10.886Z [info]: Retrieved all items 
+2024-06-27T07:05:10.892Z [info]: Retrieved all items 
+2024-06-27T07:05:10.897Z [info]: Retrieved all items 
+2024-06-27T07:05:10.905Z [info]: Retrieved all items 
+2024-06-27T07:05:10.908Z [info]: Retrieved all items 
+2024-06-27T07:05:30.550Z [info]: Retrieved all items 
+2024-06-27T07:05:30.557Z [info]: Retrieved all items 
+2024-06-27T07:05:30.561Z [info]: Retrieved all items 
+2024-06-27T07:05:30.576Z [info]: Retrieved all items 
+2024-06-27T07:05:30.583Z [info]: Retrieved all items 
+2024-06-27T07:05:30.635Z [info]: Retrieved all items 
+2024-06-27T07:05:37.895Z [info]: Retrieved all items 
+2024-06-27T07:05:37.898Z [info]: Retrieved all items 
+2024-06-27T07:05:37.901Z [info]: Retrieved all items 
+2024-06-27T07:05:37.914Z [info]: Retrieved all items 
+2024-06-27T07:05:37.918Z [info]: Retrieved all items 
+2024-06-27T07:05:37.921Z [info]: Retrieved all items 
+2024-06-27T07:06:00.631Z [info]: Retrieved all items 
+2024-06-27T07:06:00.642Z [info]: Retrieved all items 
+2024-06-27T07:06:00.665Z [info]: Retrieved all items 
+2024-06-27T07:06:00.725Z [info]: Retrieved all items 
+2024-06-27T07:06:00.733Z [info]: Retrieved all items 
+2024-06-27T07:06:00.737Z [info]: Retrieved all items 
+2024-06-27T07:06:46.092Z [info]: Retrieved all items 
+2024-06-27T07:06:46.131Z [info]: Retrieved all items 
+2024-06-27T07:06:46.137Z [info]: Retrieved all items 
+2024-06-27T07:06:46.165Z [info]: Retrieved all items 
+2024-06-27T07:06:46.176Z [info]: Retrieved all items 
+2024-06-27T07:06:46.196Z [info]: Retrieved all items 
+2024-06-27T07:20:21.464Z [info]: Retrieved all items 
+2024-06-27T07:20:21.472Z [info]: Retrieved all items 
+2024-06-27T07:20:23.855Z [info]: Retrieved all items 
+2024-06-27T07:20:23.863Z [info]: Retrieved all items 
+2024-06-27T07:21:03.465Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667cfed682e9b2be07064991",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1719467734826.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-27T07:21:07.938Z [info]: Retrieved all items 
+2024-06-27T07:21:07.969Z [info]: Retrieved all items 
+2024-06-27T07:21:11.593Z [info]: Retrieved all items 
+2024-06-27T07:21:11.601Z [info]: Retrieved all items 
+2024-06-27T07:21:26.170Z [info]: Retrieved all items 
+2024-06-27T07:21:26.175Z [info]: Retrieved all items 
+2024-06-27T07:21:47.137Z [info]: Retrieved all items 
+2024-06-27T07:21:47.143Z [info]: Retrieved all items 
+2024-06-27T07:26:32.959Z [info]: Item created {
+  "item": {
+    "title_en": "Publication of Tamil books",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719473192944.jpeg",
+    "isDisabled": true,
+    "_id": "667d142882e9b2be07064a60",
+    "createdAt": "2024-06-27T07:26:32.951Z",
+    "updatedAt": "2024-06-27T07:26:32.951Z",
+    "__v": 0
+  }
+}
+2024-06-27T07:26:39.574Z [info]: Retrieved all items 
+2024-06-27T07:26:39.579Z [info]: Retrieved all items 
+2024-06-27T07:26:39.586Z [info]: Retrieved all items 
+2024-06-27T07:26:39.591Z [info]: Retrieved all items 
+2024-06-27T07:26:39.596Z [info]: Retrieved all items 
+2024-06-27T07:26:39.598Z [info]: Retrieved all items 
+2024-06-27T07:26:54.051Z [info]: Updated item {
+  "item": {
+    "_id": "667d142882e9b2be07064a60",
+    "title_en": "Publication of Tamil books",
+    "description_en": "The history of the emergence of Tamil has come up to date, and the upcoming Tamil books, weeklies and Monday magazines",
+    "image": "image-1719473192944.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-27T07:26:56.449Z [info]: Retrieved all items 
+2024-06-27T07:26:56.456Z [info]: Retrieved all items 
+2024-06-27T07:27:04.744Z [info]: Retrieved all items 
+2024-06-27T07:27:04.754Z [info]: Retrieved all items 
+2024-06-27T07:27:04.758Z [info]: Retrieved all items 
+2024-06-27T07:27:04.802Z [info]: Retrieved all items 
+2024-06-27T07:27:04.806Z [info]: Retrieved all items 
+2024-06-27T07:27:04.809Z [info]: Retrieved all items 
+2024-06-27T07:27:18.352Z [info]: Retrieved all items 
+2024-06-27T07:27:18.358Z [info]: Retrieved all items 
+2024-06-27T07:27:22.127Z [info]: Retrieved all items 
+2024-06-27T07:27:22.133Z [info]: Retrieved all items 
+2024-06-27T07:29:54.625Z [info]: Retrieved all items 
+2024-06-27T07:29:54.636Z [info]: Retrieved all items 
+2024-06-27T07:29:54.646Z [info]: Retrieved all items 
+2024-06-27T07:29:54.726Z [info]: Retrieved all items 
+2024-06-27T07:29:54.731Z [info]: Retrieved all items 
+2024-06-27T07:29:54.743Z [info]: Retrieved all items 
+2024-06-27T07:30:00.910Z [info]: Retrieved all items 
+2024-06-27T07:30:00.915Z [info]: Retrieved all items 
+2024-06-27T07:30:04.868Z [info]: Retrieved all items 
+2024-06-27T07:30:04.874Z [info]: Retrieved all items 
+2024-06-27T07:30:08.947Z [info]: Retrieved all items 
+2024-06-27T07:30:08.953Z [info]: Retrieved all items 
+2024-06-27T07:30:18.510Z [info]: Retrieved all items 
+2024-06-27T07:30:18.520Z [info]: Retrieved all items 
+2024-06-27T07:30:18.523Z [info]: Retrieved all items 
+2024-06-27T07:30:18.527Z [info]: Retrieved all items 
+2024-06-27T07:30:18.537Z [info]: Retrieved all items 
+2024-06-27T07:30:18.541Z [info]: Retrieved all items 
+2024-06-27T07:32:09.981Z [info]: Retrieved all items 
+2024-06-27T07:32:09.987Z [info]: Retrieved all items 
+2024-06-27T07:32:09.989Z [info]: Retrieved all items 
+2024-06-27T07:32:10.000Z [info]: Retrieved all items 
+2024-06-27T07:32:10.004Z [info]: Retrieved all items 
+2024-06-27T07:32:10.007Z [info]: Retrieved all items 
+2024-06-27T07:37:59.433Z [info]: Retrieved all items 
+2024-06-27T07:37:59.453Z [info]: Retrieved all items 
+2024-06-27T07:37:59.456Z [info]: Retrieved all items 
+2024-06-27T07:37:59.462Z [info]: Retrieved all items 
+2024-06-27T07:37:59.465Z [info]: Retrieved all items 
+2024-06-27T07:37:59.469Z [info]: Retrieved all items 
+2024-06-27T07:38:20.351Z [info]: Retrieved all items 
+2024-06-27T07:38:20.358Z [info]: Retrieved all items 
+2024-06-27T07:38:20.361Z [info]: Retrieved all items 
+2024-06-27T07:38:20.365Z [info]: Retrieved all items 
+2024-06-27T07:38:20.372Z [info]: Retrieved all items 
+2024-06-27T07:38:20.445Z [info]: Retrieved all items 
+2024-06-27T07:38:25.122Z [info]: Retrieved all items 
+2024-06-27T07:38:25.150Z [info]: Retrieved all items 
+2024-06-27T07:38:25.160Z [info]: Retrieved all items 
+2024-06-27T07:38:25.185Z [info]: Retrieved all items 
+2024-06-27T07:38:25.259Z [info]: Retrieved all items 
+2024-06-27T07:38:25.281Z [info]: Retrieved all items 
+2024-06-27T07:38:29.299Z [info]: Retrieved all items 
+2024-06-27T07:38:29.313Z [info]: Retrieved all items 
+2024-06-27T07:38:29.322Z [info]: Retrieved all items 
+2024-06-27T07:38:29.325Z [info]: Retrieved all items 
+2024-06-27T07:38:29.330Z [info]: Retrieved all items 
+2024-06-27T07:38:29.386Z [info]: Retrieved all items 
+2024-06-27T07:38:36.692Z [info]: Retrieved all items 
+2024-06-27T07:38:36.700Z [info]: Retrieved all items 
+2024-06-27T07:38:36.703Z [info]: Retrieved all items 
+2024-06-27T07:38:36.705Z [info]: Retrieved all items 
+2024-06-27T07:38:36.716Z [info]: Retrieved all items 
+2024-06-27T07:38:36.724Z [info]: Retrieved all items 
+2024-06-27T07:38:41.521Z [info]: Retrieved all items 
+2024-06-27T07:38:41.531Z [info]: Retrieved all items 
+2024-06-27T07:38:41.535Z [info]: Retrieved all items 
+2024-06-27T07:38:41.540Z [info]: Retrieved all items 
+2024-06-27T07:38:41.552Z [info]: Retrieved all items 
+2024-06-27T07:38:41.556Z [info]: Retrieved all items 
+2024-06-27T07:39:33.821Z [info]: Retrieved all items 
+2024-06-27T07:39:33.824Z [info]: Retrieved all items 
+2024-06-27T07:39:33.825Z [info]: Retrieved all items 
+2024-06-27T07:39:33.834Z [info]: Retrieved all items 
+2024-06-27T07:39:33.839Z [info]: Retrieved all items 
+2024-06-27T07:39:33.843Z [info]: Retrieved all items 
+2024-06-27T07:39:47.685Z [info]: Retrieved all items 
+2024-06-27T07:39:47.691Z [info]: Retrieved all items 
+2024-06-27T07:39:47.693Z [info]: Retrieved all items 
+2024-06-27T07:39:47.696Z [info]: Retrieved all items 
+2024-06-27T07:39:47.713Z [info]: Retrieved all items 
+2024-06-27T07:39:47.717Z [info]: Retrieved all items 
+2024-06-27T07:39:59.530Z [info]: Retrieved all items 
+2024-06-27T07:39:59.540Z [info]: Retrieved all items 
+2024-06-27T07:39:59.543Z [info]: Retrieved all items 
+2024-06-27T07:39:59.551Z [info]: Retrieved all items 
+2024-06-27T07:39:59.557Z [info]: Retrieved all items 
+2024-06-27T07:39:59.559Z [info]: Retrieved all items 
+2024-06-27T11:16:21.288Z [info]: Retrieved all items 
+2024-06-27T11:16:21.299Z [info]: Retrieved all items 
+2024-06-27T11:24:09.522Z [info]: Retrieved all items 
+2024-06-27T11:25:13.755Z [info]: Retrieved all items 
+2024-06-27T11:25:13.761Z [info]: Retrieved all items 
+2024-06-27T11:25:13.764Z [info]: Retrieved all items 
+2024-06-27T11:25:13.776Z [info]: Retrieved all items 
+2024-06-27T11:25:13.779Z [info]: Retrieved all items 
+2024-06-27T11:25:13.791Z [info]: Retrieved all items 
+2024-06-28T04:48:48.559Z [info]: Retrieved all items 
+2024-06-28T04:48:48.567Z [info]: Retrieved all items 
+2024-06-28T04:48:53.008Z [info]: Retrieved all items 
+2024-06-28T04:48:53.017Z [info]: Retrieved all items 
+2024-06-28T04:48:59.732Z [info]: Retrieved all items 
+2024-06-28T04:48:59.742Z [info]: Retrieved all items 
+2024-06-28T04:49:02.142Z [info]: Retrieved all items 
+2024-06-28T04:49:02.149Z [info]: Retrieved all items 
+2024-06-28T04:49:03.172Z [info]: Retrieved all items 
+2024-06-28T04:49:03.179Z [info]: Retrieved all items 
+2024-06-28T05:17:06.374Z [info]: Server is running on port 5000 
+2024-06-28T05:17:06.473Z [info]: Connected to MongoDB 
+2024-06-28T05:17:14.643Z [info]: Server is running on port 5000 
+2024-06-28T05:17:14.696Z [info]: Connected to MongoDB 
+2024-06-28T05:18:18.443Z [info]: Server is running on port 5000 
+2024-06-28T05:18:18.487Z [info]: Connected to MongoDB 
+2024-06-28T05:18:21.127Z [info]: Server is running on port 5000 
+2024-06-28T05:18:21.183Z [info]: Connected to MongoDB 
+2024-06-28T05:30:35.222Z [info]: Retrieved all items 
+2024-06-28T05:30:35.240Z [info]: Retrieved all items 
+2024-06-28T05:30:35.248Z [info]: Retrieved all items 
+2024-06-28T05:30:35.263Z [info]: Retrieved all items 
+2024-06-28T05:30:35.271Z [info]: Retrieved all items 
+2024-06-28T05:30:35.276Z [info]: Retrieved all items 
+2024-06-28T06:15:24.457Z [info]: Server is running on port 5000 
+2024-06-28T06:15:24.504Z [info]: Connected to MongoDB 
+2024-06-28T06:15:34.687Z [info]: Server is running on port 5000 
+2024-06-28T06:15:34.721Z [info]: Connected to MongoDB 
