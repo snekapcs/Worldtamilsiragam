@@ -233,3 +233,51 @@
 2024-06-24T10:54:23.575Z [error]: Failed to connect to MongoDB {
   "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
 }
+2024-06-28T09:45:49.281Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:45:52.503Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:46:10.237Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:46:28.770Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T10:04:24.025Z [error]: Error retrieving CMS items {
+  "error": "FestivalModel is not defined"
+}
+2024-06-28T10:14:43.592Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:10:29.817Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:08.212Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:09.146Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:10.159Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:11.381Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:12.202Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:13:41.511Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:15:06.804Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:15:13.179Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:19:55.576Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}

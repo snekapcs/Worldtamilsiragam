@@ -2,6 +2,7 @@ const nodeMail = require("nodemailer");
 const ContactformModel = require('../models/contactformSchema');
 const logger = require('../logger');
 const { STATUS_CODES } = require("../util/constant.js");
+require('dotenv').config();
 
 const createContactForm = async (req, res) => {
     const { name, email, liveFrom, interestedIn, message, status = 'New' } = req.body;
@@ -22,7 +23,7 @@ const createContactForm = async (req, res) => {
             service: "gmail",
             auth: {
                 user: process.env.GMAIL_USER,
-                pass: process.env.GMAIL_PASSWORD, // Use environment variable
+                pass: process.env.GMAIL_PASSWORD, 
             },
         });
 

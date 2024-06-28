@@ -56,7 +56,33 @@ const createItem = async (req, res) => {
       }
     }
   });
-};  
+};
+
+// Retrieve all CMS items (only select specific fields)
+const getAllCmsItems = async (req, res) => {
+  try {
+      const selectedValue = 'title_en title_ta description_en description_ta  imageTitle_en  imageTitle_ta image isDisabled _id'; 
+
+      const items = await VisionModel.find({}, selectedValue);
+      logger.info('Retrieved all CMS items');
+
+      res.status(STATUS_CODES.SUCCESS).send({
+          code: STATUS_CODES.SUCCESS,
+          message: ENGLISH_MESSAGE.GET_SUCC,
+          data: items,
+          status: "success"
+      });
+
+  } catch (error) {
+      logger.error('Error retrieving CMS items', { error: error.message });
+
+      res.status(STATUS_CODES.ERROR).send({
+          code: STATUS_CODES.ERROR,
+          message: ENGLISH_MESSAGE.GET_FAIL,
+          status: "error"
+      });
+  }
+};
 
 // Retrieve all items
 const getAllItems = async (req, res) => {
@@ -322,6 +348,7 @@ const deleteItem = async (req, res) => {
 
 module.exports = {
   createItem,
+  getAllCmsItems,
   getAllItems,
   getItemById,
   updateItem,

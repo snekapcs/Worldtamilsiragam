@@ -5520,3 +5520,413 @@
 2024-06-28T06:15:24.504Z [info]: Connected to MongoDB 
 2024-06-28T06:15:34.687Z [info]: Server is running on port 5000 
 2024-06-28T06:15:34.721Z [info]: Connected to MongoDB 
+2024-06-28T06:49:40.307Z [info]: Server is running on port 5000 
+2024-06-28T06:49:40.341Z [info]: Connected to MongoDB 
+2024-06-28T06:49:46.963Z [info]: Retrieved all items 
+2024-06-28T06:49:46.987Z [info]: Retrieved all items 
+2024-06-28T06:49:50.987Z [info]: Retrieved all items 
+2024-06-28T06:49:50.998Z [info]: Retrieved all items 
+2024-06-28T06:49:52.678Z [info]: Retrieved all items 
+2024-06-28T06:49:52.696Z [info]: Retrieved all items 
+2024-06-28T06:49:53.772Z [info]: Retrieved all items 
+2024-06-28T06:49:53.782Z [info]: Retrieved all items 
+2024-06-28T06:49:55.516Z [info]: Retrieved all items 
+2024-06-28T06:49:55.525Z [info]: Retrieved all items 
+2024-06-28T07:04:25.495Z [info]: Retrieved all items 
+2024-06-28T07:04:25.507Z [info]: Retrieved all items 
+2024-06-28T07:08:40.189Z [info]: Retrieved all items 
+2024-06-28T07:15:23.244Z [info]: Retrieved all items 
+2024-06-28T07:15:38.827Z [info]: Retrieved all items 
+2024-06-28T07:15:38.832Z [info]: Retrieved all items 
+2024-06-28T07:15:38.837Z [info]: Retrieved all items 
+2024-06-28T07:15:38.861Z [info]: Retrieved all items 
+2024-06-28T07:15:38.866Z [info]: Retrieved all items 
+2024-06-28T07:15:38.871Z [info]: Retrieved all items 
+2024-06-28T07:18:10.988Z [info]: Retrieved all items 
+2024-06-28T07:18:10.996Z [info]: Retrieved all items 
+2024-06-28T07:18:17.504Z [info]: Retrieved all items 
+2024-06-28T07:18:17.512Z [info]: Retrieved all items 
+2024-06-28T07:18:19.453Z [info]: Retrieved all items 
+2024-06-28T07:18:19.461Z [info]: Retrieved all items 
+2024-06-28T07:19:43.288Z [info]: Retrieved all items 
+2024-06-28T07:19:43.300Z [info]: Retrieved all items 
+2024-06-28T07:19:57.226Z [info]: Retrieved all items 
+2024-06-28T07:19:57.236Z [info]: Retrieved all items 
+2024-06-28T07:20:02.110Z [info]: Retrieved all items 
+2024-06-28T07:20:02.118Z [info]: Retrieved all items 
+2024-06-28T07:20:07.590Z [info]: Retrieved all items 
+2024-06-28T07:20:07.599Z [info]: Retrieved all items 
+2024-06-28T07:20:11.118Z [info]: Retrieved all items 
+2024-06-28T07:20:11.124Z [info]: Retrieved all items 
+2024-06-28T07:21:00.195Z [info]: Retrieved all items 
+2024-06-28T07:25:09.576Z [info]: Retrieved all items 
+2024-06-28T07:25:09.583Z [info]: Retrieved all items 
+2024-06-28T07:25:13.918Z [info]: Retrieved all items 
+2024-06-28T07:25:13.926Z [info]: Retrieved all items 
+2024-06-28T07:46:35.384Z [info]: Retrieved all items 
+2024-06-28T07:46:35.389Z [info]: Retrieved all items 
+2024-06-28T07:46:37.621Z [info]: Retrieved all items 
+2024-06-28T07:46:37.628Z [info]: Retrieved all items 
+2024-06-28T07:48:58.734Z [info]: Retrieved all items 
+2024-06-28T07:48:58.741Z [info]: Retrieved all items 
+2024-06-28T07:49:05.643Z [info]: Retrieved all items 
+2024-06-28T07:49:05.649Z [info]: Retrieved all items 
+2024-06-28T07:49:09.391Z [info]: Retrieved all items 
+2024-06-28T07:49:09.398Z [info]: Retrieved all items 
+2024-06-28T07:50:01.660Z [info]: Retrieved all items 
+2024-06-28T07:50:01.667Z [info]: Retrieved all items 
+2024-06-28T07:51:27.065Z [info]: Retrieved all items 
+2024-06-28T07:51:27.071Z [info]: Retrieved all items 
+2024-06-28T08:00:02.741Z [info]: Retrieved all items 
+2024-06-28T08:02:11.998Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-28T09:21:56.076Z [info]: Server is running on port 5000 
+2024-06-28T09:21:56.109Z [info]: Connected to MongoDB 
+2024-06-28T09:23:12.923Z [info]: Server is running on port 5000 
+2024-06-28T09:23:12.966Z [info]: Connected to MongoDB 
+2024-06-28T09:23:57.681Z [info]: Server is running on port 5000 
+2024-06-28T09:23:57.731Z [info]: Connected to MongoDB 
+2024-06-28T09:24:13.166Z [info]: Server is running on port 5000 
+2024-06-28T09:24:13.225Z [info]: Connected to MongoDB 
+2024-06-28T09:24:51.767Z [info]: Server is running on port 5000 
+2024-06-28T09:24:51.888Z [info]: Connected to MongoDB 
+2024-06-28T09:25:43.047Z [info]: Retrieved all items 
+2024-06-28T09:25:59.604Z [info]: Retrieved all cms items 
+2024-06-28T09:27:44.299Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-28T09:27:53.525Z [info]: Retrieved all items 
+2024-06-28T09:27:53.535Z [info]: Retrieved all items 
+2024-06-28T09:27:55.590Z [info]: Retrieved all items 
+2024-06-28T09:27:55.599Z [info]: Retrieved all items 
+2024-06-28T09:28:36.437Z [info]: Retrieved all items 
+2024-06-28T09:28:36.448Z [info]: Retrieved all items 
+2024-06-28T09:28:38.555Z [info]: Retrieved all items 
+2024-06-28T09:28:38.563Z [info]: Retrieved all items 
+2024-06-28T09:28:55.755Z [info]: Retrieved all cms items 
+2024-06-28T09:30:19.476Z [info]: Retrieved all items 
+2024-06-28T09:35:11.979Z [info]: Server is running on port 5000 
+2024-06-28T09:35:12.045Z [info]: Connected to MongoDB 
+2024-06-28T09:37:14.277Z [info]: Server is running on port 5000 
+2024-06-28T09:37:14.313Z [info]: Connected to MongoDB 
+2024-06-28T09:41:23.144Z [info]: Server is running on port 5000 
+2024-06-28T09:41:23.176Z [info]: Connected to MongoDB 
+2024-06-28T09:42:01.219Z [info]: Retrieved all CMS items 
+2024-06-28T09:44:00.477Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-28T09:44:14.339Z [info]: Retrieved all items 
+2024-06-28T09:44:14.345Z [info]: Retrieved all items 
+2024-06-28T09:44:14.352Z [info]: Retrieved all items 
+2024-06-28T09:44:14.387Z [info]: Retrieved all items 
+2024-06-28T09:44:14.393Z [info]: Retrieved all items 
+2024-06-28T09:44:14.400Z [info]: Retrieved all items 
+2024-06-28T09:45:49.281Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:45:52.503Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:46:10.237Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:46:28.770Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T09:48:24.191Z [info]: Retrieved all CMS items 
+2024-06-28T09:48:36.215Z [info]: Retrieved all CMS items 
+2024-06-28T09:48:56.188Z [info]: Retrieved all items 
+2024-06-28T09:49:08.162Z [info]: Retrieved all items 
+2024-06-28T09:49:14.160Z [info]: Retrieved all items 
+2024-06-28T09:49:20.039Z [info]: Retrieved all items 
+2024-06-28T09:49:20.050Z [info]: Retrieved all items 
+2024-06-28T09:49:20.054Z [info]: Retrieved all items 
+2024-06-28T09:49:20.059Z [info]: Retrieved all items 
+2024-06-28T09:49:20.071Z [info]: Retrieved all items 
+2024-06-28T09:49:20.076Z [info]: Retrieved all items 
+2024-06-28T09:49:44.467Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-28T09:49:50.499Z [info]: Retrieved all items 
+2024-06-28T09:49:50.502Z [info]: Retrieved all items 
+2024-06-28T09:49:50.506Z [info]: Retrieved all items 
+2024-06-28T09:49:50.518Z [info]: Retrieved all items 
+2024-06-28T09:49:50.527Z [info]: Retrieved all items 
+2024-06-28T09:49:50.533Z [info]: Retrieved all items 
+2024-06-28T09:49:55.530Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-28T09:49:58.875Z [info]: Retrieved all items 
+2024-06-28T09:49:58.882Z [info]: Retrieved all items 
+2024-06-28T09:49:58.886Z [info]: Retrieved all items 
+2024-06-28T09:49:58.895Z [info]: Retrieved all items 
+2024-06-28T09:49:58.907Z [info]: Retrieved all items 
+2024-06-28T09:49:58.911Z [info]: Retrieved all items 
+2024-06-28T09:50:04.619Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T09:50:08.546Z [info]: Retrieved all items 
+2024-06-28T09:50:08.550Z [info]: Retrieved all items 
+2024-06-28T09:50:08.555Z [info]: Retrieved all items 
+2024-06-28T09:50:08.563Z [info]: Retrieved all items 
+2024-06-28T09:50:08.570Z [info]: Retrieved all items 
+2024-06-28T09:50:08.574Z [info]: Retrieved all items 
+2024-06-28T09:54:41.132Z [info]: Server is running on port 5000 
+2024-06-28T09:54:41.178Z [info]: Connected to MongoDB 
+2024-06-28T09:54:50.991Z [info]: Server is running on port 5000 
+2024-06-28T09:54:51.018Z [info]: Connected to MongoDB 
+2024-06-28T09:58:31.966Z [info]: Server is running on port 5000 
+2024-06-28T09:58:32.018Z [info]: Connected to MongoDB 
+2024-06-28T09:58:45.735Z [info]: Server is running on port 5000 
+2024-06-28T09:58:45.784Z [info]: Connected to MongoDB 
+2024-06-28T10:01:58.150Z [info]: Server is running on port 5000 
+2024-06-28T10:01:58.194Z [info]: Connected to MongoDB 
+2024-06-28T10:02:34.077Z [info]: Server is running on port 5000 
+2024-06-28T10:02:34.115Z [info]: Connected to MongoDB 
+2024-06-28T10:04:24.025Z [error]: Error retrieving CMS items {
+  "error": "FestivalModel is not defined"
+}
+2024-06-28T10:05:28.766Z [info]: Server is running on port 5000 
+2024-06-28T10:05:28.808Z [info]: Connected to MongoDB 
+2024-06-28T10:05:41.230Z [info]: Retrieved all CMS items 
+2024-06-28T10:05:41.247Z [info]: Retrieved all CMS items 
+2024-06-28T10:05:44.356Z [info]: Retrieved all items 
+2024-06-28T10:05:44.367Z [info]: Retrieved all items 
+2024-06-28T10:05:49.678Z [info]: Retrieved all CMS items 
+2024-06-28T10:06:59.428Z [info]: Retrieved all CMS items 
+2024-06-28T10:07:26.052Z [info]: Retrieved all items 
+2024-06-28T10:07:26.062Z [info]: Retrieved all items 
+2024-06-28T10:10:01.797Z [info]: Server is running on port 5000 
+2024-06-28T10:10:01.837Z [info]: Connected to MongoDB 
+2024-06-28T10:11:01.635Z [info]: Server is running on port 5000 
+2024-06-28T10:11:01.681Z [info]: Connected to MongoDB 
+2024-06-28T10:11:44.784Z [info]: Retrieved all items 
+2024-06-28T10:12:00.261Z [info]: Retrieved all CMS items 
+2024-06-28T10:12:17.904Z [info]: Retrieved all CMS items 
+2024-06-28T10:12:17.917Z [info]: Retrieved all CMS items 
+2024-06-28T10:12:51.832Z [info]: Retrieved all CMS items 
+2024-06-28T10:12:51.841Z [info]: Retrieved all CMS items 
+2024-06-28T10:12:54.922Z [info]: Retrieved all CMS items 
+2024-06-28T10:12:54.932Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:01.740Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:01.751Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:03.138Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:03.149Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:05.241Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:05.253Z [info]: Retrieved all CMS items 
+2024-06-28T10:13:32.427Z [info]: Server is running on port 5000 
+2024-06-28T10:13:32.461Z [info]: Connected to MongoDB 
+2024-06-28T10:14:15.980Z [info]: Server is running on port 5000 
+2024-06-28T10:14:16.019Z [info]: Connected to MongoDB 
+2024-06-28T10:14:43.592Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T10:22:05.436Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:05.445Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:25.921Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:25.934Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:29.876Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:29.885Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:33.296Z [info]: Retrieved all CMS items 
+2024-06-28T10:22:33.305Z [info]: Retrieved all CMS items 
+2024-06-28T11:02:57.432Z [info]: Server is running on port 5000 
+2024-06-28T11:02:57.469Z [info]: Connected to MongoDB 
+2024-06-28T11:05:05.223Z [info]: Retrieved all CMS items 
+2024-06-28T11:05:05.256Z [info]: Retrieved all CMS items 
+2024-06-28T11:06:36.228Z [info]: Retrieved all items 
+2024-06-28T11:06:57.159Z [info]: Retrieved all items 
+2024-06-28T11:07:34.209Z [info]: Retrieved all CMS items 
+2024-06-28T11:07:34.219Z [info]: Retrieved all CMS items 
+2024-06-28T11:09:08.793Z [info]: Retrieved all CMS items 
+2024-06-28T11:09:08.830Z [info]: Retrieved all CMS items 
+2024-06-28T11:10:29.817Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:08.212Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:09.146Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:10.159Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:11.381Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:11:12.202Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:13:21.526Z [info]: Server is running on port 5000 
+2024-06-28T11:13:21.567Z [info]: Connected to MongoDB 
+2024-06-28T11:13:41.511Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:14:06.682Z [info]: Retrieved all CMS items 
+2024-06-28T11:14:06.698Z [info]: Retrieved all CMS items 
+2024-06-28T11:15:06.804Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:15:13.179Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:15:33.131Z [info]: Retrieved all CMS items 
+2024-06-28T11:15:33.155Z [info]: Retrieved all CMS items 
+2024-06-28T11:17:45.979Z [info]: Server is running on port 5000 
+2024-06-28T11:17:46.013Z [info]: Connected to MongoDB 
+2024-06-28T11:19:00.709Z [info]: Retrieved all CMS items 
+2024-06-28T11:19:00.739Z [info]: Retrieved all CMS items 
+2024-06-28T11:19:55.576Z [error]: Error creating contact user: Missing credentials for "PLAIN" {
+  "statusCode": 500
+}
+2024-06-28T11:24:00.073Z [info]: Server is running on port 5000 
+2024-06-28T11:24:00.129Z [info]: Connected to MongoDB 
+2024-06-28T11:24:35.685Z [info]: Server is running on port 5000 
+2024-06-28T11:24:35.722Z [info]: Connected to MongoDB 
+2024-06-28T11:24:46.997Z [info]: Email sent: 250 2.0.0 OK  1719573887 41be03b00d2f7-72c6c7f7230sm972855a12.75 - gsmtp {
+  "statusCode": 200
+}
+2024-06-28T11:24:46.999Z [info]: Contact user added: Sneka {
+  "statusCode": 200
+}
+2024-06-28T11:26:22.925Z [info]: Server is running on port 5000 
+2024-06-28T11:26:22.986Z [info]: Connected to MongoDB 
+2024-06-28T11:26:48.277Z [info]: Server is running on port 5000 
+2024-06-28T11:26:48.320Z [info]: Connected to MongoDB 
+2024-06-28T11:29:15.086Z [info]: Email sent: 250 2.0.0 OK  1719574155 d9443c01a7336-1fac1535ea5sm13017015ad.147 - gsmtp {
+  "statusCode": 200
+}
+2024-06-28T11:29:15.090Z [info]: Contact user added: Sneka {
+  "statusCode": 200
+}
+2024-06-28T11:29:20.948Z [info]: Retrieved all CMS items 
+2024-06-28T11:29:20.960Z [info]: Retrieved all CMS items 
+2024-06-28T11:30:34.789Z [info]: Server is running on port 5000 
+2024-06-28T11:30:34.819Z [info]: Connected to MongoDB 
+2024-06-28T11:31:53.013Z [info]: Retrieved all CMS items 
+2024-06-28T11:31:53.050Z [info]: Retrieved all CMS items 
+2024-06-28T11:32:15.967Z [info]: Retrieved all CMS items 
+2024-06-28T11:32:15.977Z [info]: Retrieved all CMS items 
+2024-06-28T11:32:25.448Z [info]: Retrieved all CMS items 
+2024-06-28T11:32:25.461Z [info]: Retrieved all CMS items 
+2024-06-28T11:33:11.058Z [info]: Retrieved all CMS items 
+2024-06-28T11:33:11.069Z [info]: Retrieved all CMS items 
+2024-06-28T11:33:21.330Z [info]: Retrieved all CMS items 
+2024-06-28T11:33:21.340Z [info]: Retrieved all CMS items 
+2024-06-28T11:35:14.714Z [info]: Email sent: 250 2.0.0 OK  1719574515 41be03b00d2f7-72c6a8df0e3sm1150255a12.36 - gsmtp {
+  "statusCode": 200
+}
+2024-06-28T11:35:14.717Z [info]: Contact user added: Manju {
+  "statusCode": 200
+}
+2024-06-28T11:35:30.986Z [info]: Retrieved all CMS items 
+2024-06-28T11:35:30.999Z [info]: Retrieved all CMS items 
+2024-06-28T11:47:43.059Z [info]: Retrieved all CMS items 
+2024-06-28T11:47:43.068Z [info]: Retrieved all CMS items 
+2024-06-28T11:48:08.979Z [info]: Email sent: 250 2.0.0 OK  1719575289 d2e1a72fcca58-70804a91335sm1375517b3a.213 - gsmtp {
+  "statusCode": 200
+}
+2024-06-28T11:48:08.981Z [info]: Contact user added: Sneka {
+  "statusCode": 200
+}
+2024-06-28T11:55:07.573Z [info]: Retrieved all CMS items 
+2024-06-28T11:55:07.589Z [info]: Retrieved all CMS items 
+2024-06-28T11:55:11.819Z [info]: Retrieved all CMS items 
+2024-06-28T11:55:11.827Z [info]: Retrieved all CMS items 
+2024-06-28T11:56:32.867Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1719575792852.jpeg",
+    "isDisabled": false,
+    "_id": "667ea4f0f87a5488c447b305",
+    "createdAt": "2024-06-28T11:56:32.861Z",
+    "updatedAt": "2024-06-28T11:56:32.861Z",
+    "__v": 0
+  }
+}
+2024-06-28T11:57:17.440Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1719575837431.jpeg",
+    "isDisabled": false,
+    "_id": "667ea51df87a5488c447b307",
+    "createdAt": "2024-06-28T11:57:17.436Z",
+    "updatedAt": "2024-06-28T11:57:17.436Z",
+    "__v": 0
+  }
+}
+2024-06-28T11:57:29.827Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667ea51df87a5488c447b307",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719575837431.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T11:58:55.246Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1719575935237.jpeg",
+    "isDisabled": false,
+    "_id": "667ea57ff87a5488c447b30b",
+    "createdAt": "2024-06-28T11:58:55.241Z",
+    "updatedAt": "2024-06-28T11:58:55.241Z",
+    "__v": 0
+  }
+}
+2024-06-28T11:59:24.389Z [info]: Updated item {
+  "item": {
+    "_id": "667ea57ff87a5488c447b30b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719575964372.jpeg",
+    "isDisabled": false
+  }
+}
