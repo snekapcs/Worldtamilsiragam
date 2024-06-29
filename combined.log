@@ -5930,3 +5930,118 @@
     "isDisabled": false
   }
 }
+2024-06-28T12:03:21.524Z [info]: Server is running on port 5000 
+2024-06-28T12:03:21.570Z [info]: Connected to MongoDB 
+2024-06-28T12:04:27.328Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667ea57ff87a5488c447b30b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719575964372.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T12:08:12.585Z [info]: Retrieved all CMS items 
+2024-06-28T12:08:15.420Z [info]: Retrieved all CMS items 
+2024-06-28T12:08:15.429Z [info]: Retrieved all CMS items 
+2024-06-28T12:08:19.159Z [info]: Retrieved all CMS items 
+2024-06-28T12:08:19.168Z [info]: Retrieved all CMS items 
+2024-06-28T12:08:31.661Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667ea4f0f87a5488c447b305",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719575792852.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T12:11:23.943Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1719576683896.jpeg",
+    "isDisabled": false,
+    "_id": "667ea86bdfb797e1d0c8a833",
+    "createdAt": "2024-06-28T12:11:23.925Z",
+    "updatedAt": "2024-06-28T12:11:23.925Z",
+    "__v": 0
+  }
+}
+2024-06-28T12:11:50.586Z [info]: Retrieved all CMS items 
+2024-06-28T12:11:50.596Z [info]: Retrieved all CMS items 
+2024-06-28T12:11:53.180Z [info]: Retrieved all CMS items 
+2024-06-28T12:11:53.190Z [info]: Retrieved all CMS items 
+2024-06-28T12:12:00.716Z [info]: Retrieved all CMS items 
+2024-06-28T12:12:00.726Z [info]: Retrieved all CMS items 
+2024-06-28T12:12:51.319Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "667ea86bdfb797e1d0c8a833",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719576683896.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T12:13:02.387Z [info]: Retrieved all CMS items 
+2024-06-28T12:13:02.395Z [info]: Retrieved all CMS items 
+2024-06-28T12:13:10.590Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": true
+  }
+}
+2024-06-28T12:13:18.909Z [info]: Retrieved all items 
+2024-06-28T12:13:18.914Z [info]: Retrieved all items 
+2024-06-28T12:13:18.921Z [info]: Retrieved all items 
+2024-06-28T12:13:18.940Z [info]: Retrieved all items 
+2024-06-28T12:13:18.950Z [info]: Retrieved all items 
+2024-06-28T12:13:18.965Z [info]: Retrieved all items 
+2024-06-28T12:13:26.209Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719398494513.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T12:13:29.669Z [info]: Retrieved all items 
+2024-06-28T12:13:29.676Z [info]: Retrieved all items 
+2024-06-28T12:13:29.684Z [info]: Retrieved all items 
+2024-06-28T12:13:29.690Z [info]: Retrieved all items 
+2024-06-28T12:13:29.698Z [info]: Retrieved all items 
+2024-06-28T12:13:29.706Z [info]: Retrieved all items 
+2024-06-28T12:13:50.730Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719576830715.jpeg",
+    "isDisabled": false
+  }
+}
+2024-06-28T12:14:08.768Z [info]: Retrieved all CMS items 
+2024-06-28T14:35:16.915Z [info]: Server is running on port 5000 
+2024-06-28T14:35:40.488Z [info]: Server is running on port 5000 
+2024-06-28T14:36:10.489Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 64:ff9b::67d9:dcf9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 64:ff9b::67d9:dcfa:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 64:ff9b::67d9:dc09:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 64:ff9b::67d9:dc08:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-06-28T15:08:42.182Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-28T15:08:52.211Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-06-28T15:09:29.897Z [info]: Server is running on port 5000 
+2024-06-28T15:09:59.903Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND http"
+}
+2024-06-28T15:11:47.087Z [info]: Server is running on port 5000 
+2024-06-28T15:12:17.095Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 64:ff9b::67d9:dc09:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 64:ff9b::67d9:dc08:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 64:ff9b::67d9:dcfa:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 64:ff9b::67d9:dcf9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}

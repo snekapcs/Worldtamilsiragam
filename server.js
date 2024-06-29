@@ -16,23 +16,23 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.use('/public', express.static(__dirname + '/public'));
-// // Connect to MongoDB
-// const host = process.env.HOST;
-// const dbname = process.env.DBNAME;
-// const user = process.env.USER;
-// const password = process.env.PASSWORD;
-
-// const uri = `mongodb://${user}:${password}@${host}/${dbname}?authSource=admin`;
-// mongoose.connect(uri, {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true
-// })
-
 // Connect to MongoDB
-mongoose.connect(process.env.MONGO_URL, {
+const host = process.env.HOST;
+const dbname = process.env.DBNAME;
+const user = process.env.USER;
+const password = process.env.PASSWORD;
+
+const uri = `mongodb://${user}:${password}@${host}/${dbname}?authSource=admin`;
+mongoose.connect(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
+
+// // Connect to MongoDB
+// mongoose.connect(process.env.MONGO_URL, {
+//   useNewUrlParser: true,
+//   useUnifiedTopology: true
+// })
   .then(() => logger.info('Connected to MongoDB'))
   .catch(err => logger.error('Failed to connect to MongoDB', { error: err.message }));
 
