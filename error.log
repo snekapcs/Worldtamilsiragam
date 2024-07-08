@@ -296,3 +296,258 @@
 2024-06-28T15:12:17.095Z [error]: Failed to connect to MongoDB {
   "error": "connect ETIMEDOUT 64:ff9b::67d9:dc09:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 64:ff9b::67d9:dc08:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 64:ff9b::67d9:dcfa:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 64:ff9b::67d9:dcf9:27017, connect ETIMEDOUT 103.217.220.250:27017"
 }
+2024-06-29T06:18:51.976Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-01T04:54:45.511Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-01T04:54:47.068Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-01T04:54:55.586Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-01T04:54:57.098Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-01T04:56:36.976Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-01T05:03:50.301Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-07-04T05:15:41.359Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND undefined"
+}
+2024-07-04T05:18:26.177Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-04T05:21:05.432Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-04T05:22:36.607Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-04T05:23:32.917Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-04T05:39:06.749Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:39:06.768Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:39:06.773Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:39:16.796Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:39:16.802Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:39:16.812Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:46:35.248Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:46:35.256Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:46:35.269Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:46:45.286Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:46:45.292Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:46:45.299Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:49:44.102Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:49:44.106Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:49:54.123Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:49:54.127Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:49:57.657Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:50:43.403Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:50:43.427Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:51:03.181Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-04T05:53:33.838Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:53:33.842Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:53:43.856Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:53:43.863Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:53:55.551Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:53:55.558Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:54:05.584Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:54:05.600Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:56:51.077Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:56:51.105Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:57:01.140Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:57:01.148Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:58:40.506Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:58:40.512Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:58:50.539Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:58:50.541Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:06.682Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:11.807Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:11.812Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:11.819Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:21.830Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:21.835Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:21.843Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:51.148Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:51.153Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T05:59:51.158Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:01.216Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:01.218Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:01.264Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:07.388Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:07.392Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:07.399Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:17.413Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:17.417Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:17.422Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:19.994Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:19.999Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:20.011Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:27.261Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:27.266Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:27.277Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:37.317Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:37.319Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:37.322Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:41.642Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:41.645Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:41.647Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:51.670Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:51.672Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:00:51.674Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:22:22.661Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:25:42.645Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-04T06:25:46.277Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
