@@ -7995,3 +7995,969 @@
   }
 }
 2024-07-08T10:44:47.993Z [info]: Retrieved all CMS items 
+2024-07-08T10:48:40.483Z [info]: Server is running on port 5000 
+2024-07-08T10:48:40.505Z [info]: Connected to MongoDB 
+2024-07-08T10:53:00.471Z [info]: Server is running on port 5000 
+2024-07-08T10:53:14.168Z [info]: Server is running on port 5000 
+2024-07-08T10:53:44.172Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-08T11:04:43.759Z [info]: Server is running on port 5000 
+2024-07-08T11:04:43.776Z [info]: Connected to MongoDB 
+2024-07-09T05:06:56.597Z [info]: Server is running on port 5000 
+2024-07-09T05:06:56.661Z [info]: Connected to MongoDB 
+2024-07-09T05:08:22.475Z [info]: Retrieved all items 
+2024-07-09T05:08:22.495Z [info]: Retrieved all items 
+2024-07-09T05:08:22.501Z [info]: Retrieved all items 
+2024-07-09T05:08:22.518Z [info]: Retrieved all items 
+2024-07-09T05:08:22.531Z [info]: Retrieved all items 
+2024-07-09T05:08:22.548Z [info]: Retrieved all items 
+2024-07-09T05:09:19.116Z [info]: Retrieved all CMS items 
+2024-07-09T05:09:19.126Z [info]: Retrieved all CMS items 
+2024-07-09T05:09:28.431Z [info]: Retrieved all CMS items 
+2024-07-09T05:09:28.441Z [info]: Retrieved all CMS items 
+2024-07-09T05:09:29.768Z [info]: Retrieved all CMS items 
+2024-07-09T05:09:29.778Z [info]: Retrieved all CMS items 
+2024-07-09T05:11:57.709Z [info]: Retrieved all CMS items 
+2024-07-09T05:11:57.721Z [info]: Retrieved all CMS items 
+2024-07-09T05:13:54.954Z [info]: Retrieved all CMS items 
+2024-07-09T05:13:54.996Z [info]: Retrieved all CMS items 
+2024-07-09T05:14:00.195Z [info]: Retrieved all CMS items 
+2024-07-09T05:14:00.203Z [info]: Retrieved all CMS items 
+2024-07-09T05:14:22.050Z [info]: Retrieved all CMS items 
+2024-07-09T05:14:22.057Z [info]: Retrieved all CMS items 
+2024-07-09T05:14:57.001Z [info]: Retrieved all CMS items 
+2024-07-09T05:14:57.012Z [info]: Retrieved all CMS items 
+2024-07-09T05:15:03.306Z [info]: Retrieved all CMS items 
+2024-07-09T05:15:03.314Z [info]: Retrieved all CMS items 
+2024-07-09T05:15:12.835Z [info]: Retrieved all CMS items 
+2024-07-09T05:15:12.842Z [info]: Retrieved all CMS items 
+2024-07-09T05:21:16.745Z [info]: Retrieved all CMS items 
+2024-07-09T05:21:16.759Z [info]: Retrieved all CMS items 
+2024-07-09T05:21:23.297Z [info]: Retrieved all CMS items 
+2024-07-09T05:21:23.307Z [info]: Retrieved all CMS items 
+2024-07-09T05:28:43.650Z [info]: Retrieved all CMS items 
+2024-07-09T05:28:43.668Z [info]: Retrieved all CMS items 
+2024-07-09T05:28:51.872Z [info]: Updated item {
+  "item": {
+    "_id": "668bbafaae0604678308a7d0",
+    "title_en": "Special Chairman!",
+    "description_en": "Honorable Cha. Jagadratsakan MP Former Union Minister",
+    "image": "image-1720435350323.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T05:29:59.821Z [info]: Retrieved all CMS items 
+2024-07-09T05:30:14.797Z [info]: Retrieved all CMS items 
+2024-07-09T05:33:19.803Z [info]: Retrieved all CMS items 
+2024-07-09T05:34:10.843Z [info]: Updated item {
+  "item": {
+    "_id": "668bbafaae0604678308a7d0",
+    "title_en": "Special Chairman",
+    "description_en": "Honorable Cha. Jagadratsakan MP Former Union Minister",
+    "image": "image-1720435350323.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T05:34:10.871Z [info]: Retrieved all CMS items 
+2024-07-09T05:36:03.648Z [info]: Retrieved all CMS items 
+2024-07-09T05:36:03.661Z [info]: Retrieved all CMS items 
+2024-07-09T05:36:06.416Z [info]: Retrieved all CMS items 
+2024-07-09T05:36:06.423Z [info]: Retrieved all CMS items 
+2024-07-09T05:36:32.187Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719576830715.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T05:36:40.389Z [info]: Retrieved all items 
+2024-07-09T05:36:40.394Z [info]: Retrieved all items 
+2024-07-09T05:36:40.400Z [info]: Retrieved all items 
+2024-07-09T05:36:40.405Z [info]: Retrieved all items 
+2024-07-09T05:36:40.411Z [info]: Retrieved all items 
+2024-07-09T05:36:40.416Z [info]: Retrieved all items 
+2024-07-09T05:36:47.660Z [info]: Updated item {
+  "item": {
+    "_id": "667bf05eb1a63c9bba54bb39",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719576830715.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-09T05:37:07.322Z [info]: Retrieved all items 
+2024-07-09T05:37:07.328Z [info]: Retrieved all items 
+2024-07-09T05:37:07.343Z [info]: Retrieved all items 
+2024-07-09T05:37:07.347Z [info]: Retrieved all items 
+2024-07-09T05:37:07.353Z [info]: Retrieved all items 
+2024-07-09T05:37:07.386Z [info]: Retrieved all items 
+2024-07-09T05:43:43.817Z [info]: Retrieved all CMS items 
+2024-07-09T05:43:43.824Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:19.617Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:19.625Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:22.063Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:22.070Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:24.746Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:24.754Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:29.653Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:29.696Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:32.909Z [info]: Retrieved all CMS items 
+2024-07-09T05:49:32.918Z [info]: Retrieved all CMS items 
+2024-07-09T05:50:01.548Z [info]: Retrieved all CMS items 
+2024-07-09T05:50:01.556Z [info]: Retrieved all CMS items 
+2024-07-09T05:50:08.361Z [info]: Retrieved all CMS items 
+2024-07-09T05:50:08.368Z [info]: Retrieved all CMS items 
+2024-07-09T05:50:11.457Z [info]: Retrieved all CMS items 
+2024-07-09T05:50:11.465Z [info]: Retrieved all CMS items 
+2024-07-09T05:57:46.065Z [info]: Retrieved all CMS items 
+2024-07-09T05:57:46.075Z [info]: Retrieved all CMS items 
+2024-07-09T05:58:00.434Z [info]: Retrieved all CMS items 
+2024-07-09T05:58:00.453Z [info]: Retrieved all CMS items 
+2024-07-09T06:04:39.531Z [info]: Retrieved all CMS items 
+2024-07-09T06:04:39.541Z [info]: Retrieved all CMS items 
+2024-07-09T06:04:41.347Z [info]: Retrieved all CMS items 
+2024-07-09T06:04:41.355Z [info]: Retrieved all CMS items 
+2024-07-09T06:11:45.848Z [info]: Retrieved all CMS items 
+2024-07-09T09:55:23.758Z [info]: Retrieved all CMS items 
+2024-07-09T09:55:23.769Z [info]: Retrieved all CMS items 
+2024-07-09T09:55:25.171Z [info]: Retrieved all CMS items 
+2024-07-09T09:55:25.179Z [info]: Retrieved all CMS items 
+2024-07-09T09:55:26.381Z [info]: Retrieved all CMS items 
+2024-07-09T09:55:26.388Z [info]: Retrieved all CMS items 
+2024-07-09T09:58:31.039Z [info]: Retrieved all CMS items 
+2024-07-09T09:58:31.048Z [info]: Retrieved all CMS items 
+2024-07-09T09:58:32.734Z [info]: Retrieved all CMS items 
+2024-07-09T09:58:32.743Z [info]: Retrieved all CMS items 
+2024-07-09T09:59:33.789Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:14.640Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:14.656Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:29.908Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:29.914Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:37.120Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:37.131Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:46.966Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:46.972Z [info]: Retrieved all CMS items 
+2024-07-09T10:00:58.208Z [info]: Updated item {
+  "item": {
+    "_id": "668bbafaae0604678308a7d0",
+    "title_en": "Special Chairman",
+    "description_en": "Honorable Cha. Jagadratsakan MP Former Union Minister",
+    "image": "image-1720435350323.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:00:58.219Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:10.796Z [info]: Updated item {
+  "item": {
+    "_id": "668bbafaae0604678308a7d0",
+    "title_en": "Special Chairman",
+    "description_en": "Honorable Cha. Jagadratsakan MP Former Union Minister",
+    "image": "image-1720435350323.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-09T10:03:12.555Z [info]: Updated item {
+  "item": {
+    "_id": "668bbafaae0604678308a7d0",
+    "title_en": "Special Chairman",
+    "description_en": "Honorable Cha. Jagadratsakan MP Former Union Minister",
+    "image": "image-1720435350323.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:03:17.708Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:17.715Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:21.861Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-09T10:03:25.519Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:25.526Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:28.150Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:28.162Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:31.858Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-09T10:03:33.403Z [info]: Updated item {
+  "item": {
+    "_id": "66794f9bd1580c3ed533030e",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719226267689.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:03:37.721Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:37.726Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:40.286Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:40.349Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:43.515Z [info]: Updated item {
+  "item": {
+    "_id": "66794d7cd1580c3ed5330300",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Collecting and preserving Tamil books, weekly and Monday magazines that have come up to date and will be published in the future, starting from photoprinting books, today's paper books, sound, optical fibers, microfilms, future computer typesetting books and the like.  Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1719225724791.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:03:46.803Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:46.810Z [info]: Retrieved all CMS items 
+2024-07-09T10:03:50.639Z [info]: Updated item {
+  "item": {
+    "_id": "66824ac02c2687851fe1fc0c",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719814848706.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:03:55.472Z [info]: Updated item {
+  "item": {
+    "_id": "66824ac02c2687851fe1fc0c",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1719814848706.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-09T10:04:09.333Z [info]: Retrieved all CMS items 
+2024-07-09T10:04:09.341Z [info]: Retrieved all CMS items 
+2024-07-09T10:06:05.791Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "description_en": "World Tamil Flag - Opening Ceremony",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1720519565737.jpeg",
+    "isDisabled": true,
+    "_id": "668d0b8d7b69948abf6361fb",
+    "createdAt": "2024-07-09T10:06:05.775Z",
+    "updatedAt": "2024-07-09T10:06:05.775Z",
+    "__v": 0
+  }
+}
+2024-07-09T10:06:05.806Z [info]: Retrieved all CMS items 
+2024-07-09T10:06:10.504Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "668d0b8d7b69948abf6361fb",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "World Tamil Flag - Opening Ceremony",
+    "image": "image-1720519565737.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:06:20.317Z [info]: Retrieved all CMS items 
+2024-07-09T10:06:20.325Z [info]: Retrieved all CMS items 
+2024-07-09T10:07:25.208Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "title_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "description_en": "World Tamil Flag - Opening Ceremony!",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1720519645199.jpeg",
+    "isDisabled": true,
+    "_id": "668d0bdd7b69948abf636202",
+    "createdAt": "2024-07-09T10:07:25.204Z",
+    "updatedAt": "2024-07-09T10:07:25.204Z",
+    "__v": 0
+  }
+}
+2024-07-09T10:07:25.229Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:27.131Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "668d0bdd7b69948abf636202",
+    "title_en": "World Tamil Flag - Opening Ceremony!",
+    "description_en": "World Tamil Flag - Opening Ceremony!",
+    "image": "image-1720519645199.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-09T10:09:32.914Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:32.924Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:34.557Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:34.566Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:44.416Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:44.423Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:51.535Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:51.540Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:54.695Z [info]: Retrieved all CMS items 
+2024-07-09T10:09:54.704Z [info]: Retrieved all CMS items 
+2024-07-09T10:10:00.840Z [info]: Retrieved all CMS items 
+2024-07-09T10:10:00.847Z [info]: Retrieved all CMS items 
+2024-07-09T10:10:04.264Z [info]: Retrieved all CMS items 
+2024-07-09T10:10:04.269Z [info]: Retrieved all CMS items 
+2024-07-09T11:27:23.879Z [info]: Retrieved all CMS items 
+2024-07-09T11:27:23.885Z [info]: Retrieved all CMS items 
+2024-07-09T11:27:26.100Z [info]: Retrieved all CMS items 
+2024-07-09T11:27:26.117Z [info]: Retrieved all CMS items 
+2024-07-09T11:27:33.448Z [info]: Retrieved all CMS items 
+2024-07-09T11:27:33.454Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:29.752Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:29.759Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:35.176Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:35.182Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:37.768Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:37.774Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:40.634Z [info]: Retrieved all CMS items 
+2024-07-09T11:46:40.640Z [info]: Retrieved all CMS items 
+2024-07-09T11:47:33.970Z [info]: Retrieved all CMS items 
+2024-07-09T11:47:34.021Z [info]: Retrieved all CMS items 
+2024-07-09T11:47:53.487Z [info]: Retrieved all CMS items 
+2024-07-09T11:47:53.539Z [info]: Retrieved all CMS items 
+2024-07-10T04:58:16.703Z [info]: Server is running on port 5000 
+2024-07-10T04:58:16.738Z [info]: Connected to MongoDB 
+2024-07-10T04:58:25.516Z [info]: Retrieved all items 
+2024-07-10T04:58:25.539Z [info]: Retrieved all items 
+2024-07-10T04:58:25.552Z [info]: Retrieved all items 
+2024-07-10T04:58:25.588Z [info]: Retrieved all items 
+2024-07-10T04:58:25.597Z [info]: Retrieved all items 
+2024-07-10T04:58:25.614Z [info]: Retrieved all items 
+2024-07-10T04:59:16.024Z [info]: Retrieved all CMS items 
+2024-07-10T04:59:16.029Z [info]: Retrieved all CMS items 
+2024-07-10T04:59:21.760Z [info]: Retrieved all CMS items 
+2024-07-10T04:59:21.768Z [info]: Retrieved all CMS items 
+2024-07-10T05:15:55.411Z [info]: Server is running on port 5000 
+2024-07-10T05:16:25.409Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-10T05:21:10.615Z [info]: Server is running on port 5000 
+2024-07-10T05:21:15.633Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-10T05:22:45.353Z [info]: Server is running on port 5000 
+2024-07-10T05:22:48.361Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T05:24:41.033Z [info]: Server is running on port 5000 
+2024-07-10T05:24:44.033Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND http"
+}
+2024-07-10T05:25:23.048Z [info]: Server is running on port 5000 
+2024-07-10T05:25:26.048Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T05:25:52.170Z [info]: Server is running on port 5000 
+2024-07-10T05:25:55.190Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:08:52.700Z [info]: Server is running on port 5000 
+2024-07-10T06:08:55.710Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:09:18.774Z [info]: Server is running on port 5000 
+2024-07-10T06:09:21.785Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:54:20.965Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:20.982Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:20.988Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:28.829Z [info]: Server is running on port 5000 
+2024-07-10T06:54:31.822Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:54:39.065Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:39.097Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:39.107Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T07:12:08.460Z [info]: Server is running on port 5000 
+2024-07-10T07:12:11.468Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T07:22:26.022Z [info]: Server is running on port 5000 
+2024-07-10T07:22:29.036Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T07:22:46.609Z [info]: Server is running on port 5000 
+2024-07-10T07:22:56.491Z [info]: Server is running on port 5000 
+2024-07-10T07:22:59.493Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T08:20:43.385Z [info]: Server is running on port 5000 
+2024-07-10T08:20:46.387Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T10:18:01.298Z [info]: Server is running on port 5000 
+2024-07-10T10:18:04.292Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T10:19:42.314Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:42.366Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:42.369Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:52.382Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:52.385Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:52.388Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:24.930Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:29.957Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:31.545Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:32.668Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:34.946Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:39.989Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:41.570Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:42.692Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T04:40:49.840Z [info]: Server is running on port 5000 
+2024-07-15T04:40:52.844Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T04:50:58.486Z [info]: Server is running on port 5000 
+2024-07-15T04:51:01.497Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T04:53:30.449Z [info]: Server is running on port 5000 
+2024-07-15T04:53:33.458Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T05:23:13.293Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:18.458Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:19.655Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:20.825Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:22.003Z [error]: Error retrieving contact forms: Operation `contactforms.find()` buffering timed out after 10000ms {
+  "statusCode": 500
+}
+2024-07-15T05:23:23.315Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:28.486Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:29.718Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:30.861Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:32.068Z [error]: Error retrieving contact forms: Operation `contactforms.find()` buffering timed out after 10000ms {
+  "statusCode": 500
+}
+2024-07-15T06:43:40.606Z [info]: Server is running on port 5000 
+2024-07-15T06:43:43.608Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T06:45:18.809Z [info]: Server is running on port 5000 
+2024-07-15T06:45:21.812Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T06:45:29.929Z [info]: Server is running on port 5000 
+2024-07-15T06:45:59.927Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-15T06:46:19.855Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T06:46:46.292Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T06:47:16.295Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-15T07:41:38.971Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T07:42:08.967Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-15T07:42:19.939Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T07:42:24.935Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-15T07:51:26.125Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T07:51:56.131Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-15T07:53:53.024Z [info]: Server is running on port 5000 
+2024-07-15T07:54:03.042Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T07:54:15.556Z [info]: Server is running on port 5000 
+2024-07-15T07:54:25.561Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T07:59:10.759Z [info]: Server is running on port 5000 
+2024-07-15T07:59:20.772Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T08:00:47.165Z [info]: Server is running on port 5000 
+2024-07-15T08:00:57.171Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T08:01:02.290Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T08:01:07.302Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-15T08:01:32.839Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T08:02:02.852Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-15T08:03:51.828Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T08:03:56.836Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-15T10:16:00.109Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T10:16:30.117Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-15T11:11:00.519Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T11:11:30.525Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-15T11:41:29.209Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T11:41:59.203Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-15T11:59:23.568Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T11:59:33.644Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T11:59:45.129Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-15T12:00:15.130Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-16T04:49:16.019Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T04:49:46.056Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-16T04:51:30.167Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-16T04:51:40.248Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-16T04:52:50.437Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T04:53:20.454Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-16T05:10:50.314Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:11:20.314Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-16T05:52:26.876Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:52:56.871Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-16T05:53:57.391Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:54:27.395Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-16T05:57:55.229Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:58:18.782Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:58:32.201Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:58:41.764Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:58:52.285Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:58:59.967Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-16T05:59:29.949Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-16T06:01:06.023Z [info]: Server is running on port 5000 
+2024-07-16T06:01:28.573Z [info]: Server is running on port 5000 
+2024-07-16T06:01:28.660Z [info]: Connected to MongoDB 
+2024-07-16T06:01:38.349Z [info]: Retrieved all items 
+2024-07-16T06:01:38.366Z [info]: Retrieved all items 
+2024-07-16T06:01:38.378Z [info]: Retrieved all items 
+2024-07-16T06:01:38.397Z [info]: Retrieved all items 
+2024-07-16T06:01:38.422Z [info]: Retrieved all items 
+2024-07-16T06:01:38.430Z [info]: Retrieved all items 
+2024-07-16T06:01:45.658Z [info]: Retrieved all CMS items 
+2024-07-16T06:01:45.669Z [info]: Retrieved all CMS items 
+2024-07-16T06:03:15.028Z [info]: Retrieved all items 
+2024-07-16T06:16:04.786Z [info]: Server is running on port 5000 
+2024-07-16T06:16:04.874Z [info]: Connected to MongoDB 
+2024-07-16T06:16:35.935Z [info]: Server is running on port 5000 
+2024-07-16T06:16:35.960Z [info]: Connected to MongoDB 
+2024-07-16T06:17:29.737Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-07-16T06:17:59.272Z [info]: Server is running on port 5000 
+2024-07-16T06:17:59.312Z [info]: Connected to MongoDB 
+2024-07-16T06:18:03.116Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-07-16T06:23:31.598Z [info]: Server is running on port 5000 
+2024-07-16T06:23:31.659Z [info]: Connected to MongoDB 
+2024-07-16T06:23:49.420Z [info]: Server is running on port 5000 
+2024-07-16T06:23:49.452Z [info]: Connected to MongoDB 
+2024-07-16T06:23:57.288Z [info]: Server is running on port 5000 
+2024-07-16T06:23:57.331Z [info]: Connected to MongoDB 
+2024-07-16T06:24:07.093Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1721111047014.jpeg",
+    "video": "video-1721111047030.mp4",
+    "isDisabled": false,
+    "_id": "669612074e9a51168a09f53f",
+    "createdAt": "2024-07-16T06:24:07.059Z",
+    "updatedAt": "2024-07-16T06:24:07.059Z",
+    "__v": 0
+  }
+}
+2024-07-16T06:27:18.361Z [info]: Retrieved all CMS items 
+2024-07-16T06:27:18.376Z [info]: Retrieved all CMS items 
+2024-07-16T06:27:19.183Z [info]: Retrieved all CMS items 
+2024-07-16T06:27:19.193Z [info]: Retrieved all CMS items 
+2024-07-16T06:30:52.862Z [info]: Server is running on port 5000 
+2024-07-16T06:30:52.919Z [info]: Connected to MongoDB 
+2024-07-16T06:31:26.774Z [info]: Server is running on port 5000 
+2024-07-16T06:31:26.829Z [info]: Connected to MongoDB 
+2024-07-16T06:31:29.065Z [info]: Server is running on port 5000 
+2024-07-16T06:31:29.153Z [info]: Connected to MongoDB 
+2024-07-16T06:33:16.053Z [info]: Server is running on port 5000 
+2024-07-16T06:33:16.107Z [info]: Connected to MongoDB 
+2024-07-16T06:34:23.233Z [info]: Server is running on port 5000 
+2024-07-16T06:34:23.296Z [info]: Connected to MongoDB 
+2024-07-16T06:34:32.721Z [info]: Server is running on port 5000 
+2024-07-16T06:34:32.773Z [info]: Connected to MongoDB 
+2024-07-16T06:35:30.460Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": false,
+    "_id": "669614b2dec09ad518364e2b",
+    "createdAt": "2024-07-16T06:35:30.439Z",
+    "updatedAt": "2024-07-16T06:35:30.439Z",
+    "__v": 0
+  }
+}
+2024-07-16T06:37:42.121Z [info]: Retrieved all items 
+2024-07-16T06:38:09.560Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T06:39:25.267Z [info]: Server is running on port 5000 
+2024-07-16T06:39:25.315Z [info]: Connected to MongoDB 
+2024-07-16T06:39:57.530Z [info]: Server is running on port 5000 
+2024-07-16T06:39:57.576Z [info]: Connected to MongoDB 
+2024-07-16T06:40:17.413Z [info]: Server is running on port 5000 
+2024-07-16T06:40:17.455Z [info]: Connected to MongoDB 
+2024-07-16T06:40:32.022Z [info]: Server is running on port 5000 
+2024-07-16T06:40:32.062Z [info]: Connected to MongoDB 
+2024-07-16T06:40:41.858Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "மே 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T07:21:32.784Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": false,
+    "_id": "66961f7ca44f191aaa4da025",
+    "createdAt": "2024-07-16T07:21:32.772Z",
+    "updatedAt": "2024-07-16T07:21:32.772Z",
+    "__v": 0
+  }
+}
+2024-07-16T07:22:51.734Z [info]: Retrieved all CMS items 
+2024-07-16T07:22:51.750Z [info]: Retrieved all CMS items 
+2024-07-16T07:22:54.015Z [info]: Retrieved all CMS items 
+2024-07-16T07:22:54.026Z [info]: Retrieved all CMS items 
+2024-07-16T07:22:59.180Z [info]: Retrieved all items 
+2024-07-16T07:22:59.186Z [info]: Retrieved all items 
+2024-07-16T07:22:59.190Z [info]: Retrieved all items 
+2024-07-16T07:22:59.210Z [info]: Retrieved all items 
+2024-07-16T07:22:59.217Z [info]: Retrieved all items 
+2024-07-16T07:22:59.222Z [info]: Retrieved all items 
+2024-07-16T07:23:04.508Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:23:11.841Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:23:51.229Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:24:13.523Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:24:59.171Z [info]: Server is running on port 5000 
+2024-07-16T07:24:59.211Z [info]: Connected to MongoDB 
+2024-07-16T07:26:15.413Z [info]: Retrieved all CMS items 
+2024-07-16T07:26:15.449Z [info]: Retrieved all CMS items 
+2024-07-16T07:26:18.452Z [info]: Retrieved all CMS items 
+2024-07-16T07:26:18.462Z [info]: Retrieved all CMS items 
+2024-07-16T07:26:20.108Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1721111730343.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-16T07:29:56.204Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1721111730343.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-16T07:30:18.780Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1721111730343.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-16T07:38:35.232Z [info]: Server is running on port 5000 
+2024-07-16T07:38:35.267Z [info]: Connected to MongoDB 
+2024-07-16T07:38:52.780Z [info]: Server is running on port 5000 
+2024-07-16T07:38:52.864Z [info]: Connected to MongoDB 
+2024-07-16T07:38:56.762Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": "image-1721115536649.jpeg",
+    "video": "video-1721115536654.mp4",
+    "isDisabled": false,
+    "_id": "66962390fc7d26fec86837a8",
+    "createdAt": "2024-07-16T07:38:56.745Z",
+    "updatedAt": "2024-07-16T07:38:56.745Z",
+    "__v": 0
+  }
+}
+2024-07-16T07:39:14.497Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "மே 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T07:39:36.559Z [info]: Retrieved all CMS items 
+2024-07-16T07:39:36.573Z [info]: Retrieved all CMS items 
+2024-07-16T07:39:39.007Z [info]: Retrieved all CMS items 
+2024-07-16T07:39:39.017Z [info]: Retrieved all CMS items 
+2024-07-16T07:39:42.672Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T07:39:45.073Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T07:39:45.953Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T07:39:49.461Z [info]: Retrieved all items 
+2024-07-16T07:39:49.467Z [info]: Retrieved all items 
+2024-07-16T07:39:49.471Z [info]: Retrieved all items 
+2024-07-16T07:39:49.495Z [info]: Retrieved all items 
+2024-07-16T07:39:49.505Z [info]: Retrieved all items 
+2024-07-16T07:39:49.511Z [info]: Retrieved all items 
+2024-07-16T07:39:52.679Z [info]: Updated item {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": "video-1721111730391.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T07:39:55.871Z [info]: Retrieved all items 
+2024-07-16T07:39:55.875Z [info]: Retrieved all items 
+2024-07-16T07:39:55.881Z [info]: Retrieved all items 
+2024-07-16T07:39:55.894Z [info]: Retrieved all items 
+2024-07-16T07:39:55.907Z [info]: Retrieved all items 
+2024-07-16T07:39:55.911Z [info]: Retrieved all items 
+2024-07-16T07:40:01.354Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T07:40:05.898Z [info]: Retrieved all items 
+2024-07-16T07:40:05.901Z [info]: Retrieved all items 
+2024-07-16T07:40:05.904Z [info]: Retrieved all items 
+2024-07-16T07:40:05.922Z [info]: Retrieved all items 
+2024-07-16T07:40:05.933Z [info]: Retrieved all items 
+2024-07-16T07:40:05.937Z [info]: Retrieved all items 
+2024-07-16T07:40:10.315Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T07:42:51.075Z [info]: Retrieved all CMS items 
+2024-07-16T07:42:51.083Z [info]: Retrieved all CMS items 
+2024-07-16T07:43:00.436Z [info]: Retrieved all CMS items 
+2024-07-16T07:43:00.444Z [info]: Retrieved all CMS items 
+2024-07-16T08:12:05.259Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T08:12:06.580Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T09:23:12.326Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T09:23:26.536Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T09:23:33.723Z [info]: Retrieved all items 
+2024-07-16T09:23:33.728Z [info]: Retrieved all items 
+2024-07-16T09:23:33.732Z [info]: Retrieved all items 
+2024-07-16T09:23:33.742Z [info]: Retrieved all items 
+2024-07-16T09:23:33.751Z [info]: Retrieved all items 
+2024-07-16T09:23:33.757Z [info]: Retrieved all items 

@@ -19,7 +19,8 @@ const createItem = async (req, res) => {
         try {
             const newItem = new FestivalModel({
                 ...req.body,
-                image: req.file.filename 
+                image: req.files.image ? req.files.image[0].filename : undefined,
+                video: req.files.video ? req.files.video[0].filename : undefined
             });
             await newItem.save(); 
             logger.info('Item created', { item: newItem });
@@ -63,7 +64,7 @@ const createItem = async (req, res) => {
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
     try {
-        const selectedValue = 'title_en title_ta description_en description_ta image isDisabled _id'; 
+        const selectedValue = 'title_en title_ta description_en description_ta date_en date_ta image video isDisabled _id'; 
 
         const items = await FestivalModel.find({}, selectedValue);
         logger.info('Retrieved all CMS items');
@@ -91,9 +92,9 @@ const getAllItems = async (req, res) => {
     try {
         let selectedValue;
         if (req.query.lang === "TA") {
-            selectedValue = 'title_ta description_ta image isDisabled _id';
+            selectedValue = 'title_ta description_ta date_ta image video isDisabled _id';
         } else {
-            selectedValue = 'title_en description_en image isDisabled _id';
+            selectedValue = 'title_en description_en date_en image video isDisabled _id';
         }
 
         const items = await FestivalModel.find({}, selectedValue);
@@ -139,9 +140,9 @@ const getItemById = async (req, res) => {
     try {
         let selectedValue;
         if (req.query.lang === "TA") {
-            selectedValue = 'title_ta description_ta image isDisabled _id';
+            selectedValue = 'title_ta description_ta date_ta image video isDisabled _id';
         } else {
-            selectedValue = 'title_en description_en image isDisabled _id';
+            selectedValue = 'title_en description_en date_en image video isDisabled _id';
         }
 
         const item = await FestivalModel.findById(req.params.id, selectedValue);
@@ -245,9 +246,9 @@ const updateItem = async (req, res) => {
 
             let selectedValue;
             if (req.query.lang === "TA") {
-                selectedValue = 'title_ta description_ta image isDisabled _id';
+                selectedValue = 'title_ta description_ta date_ta image video isDisabled _id';
             } else {
-                selectedValue = 'title_en description_en image isDisabled _id';
+                selectedValue = 'title_en description_en date_en image video isDisabled _id';
             }
 
             const updatedItem = await FestivalModel.findById(req.params.id, selectedValue);
@@ -295,9 +296,9 @@ const deleteItem = async (req, res) => {
         let selectedFields;
 
         if (req.query.lang === "TA") {
-            selectedFields = 'title_ta description_ta image isDisabled _id';
+            selectedFields = 'title_ta description_ta date_ta image video isDisabled _id';
         } else {
-            selectedFields = 'title_en description_en image isDisabled _id';
+            selectedFields = 'title_en description_en date_en image video isDisabled _id';
         }
 
         const dltitem = await FestivalModel.findById(req.params.id).select(selectedFields);
@@ -366,3 +367,5 @@ module.exports = {
     updateItem,
     deleteItem
 };
+
+

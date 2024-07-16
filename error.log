@@ -551,3 +551,249 @@
 2024-07-04T06:25:46.277Z [error]: Failed to connect to MongoDB {
   "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
 }
+2024-07-08T10:53:44.172Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-10T05:16:25.409Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-10T05:21:15.633Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-10T05:22:48.361Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T05:24:44.033Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND http"
+}
+2024-07-10T05:25:26.048Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T05:25:55.190Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:08:55.710Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:09:21.785Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:54:20.965Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:20.982Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:20.988Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:31.822Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T06:54:39.065Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:39.097Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T06:54:39.107Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T07:12:11.468Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T07:22:29.036Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T07:22:59.493Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T08:20:46.387Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T10:18:04.292Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-10T10:19:42.314Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:42.366Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:42.369Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:52.382Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:52.385Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:19:52.388Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:24.930Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:29.957Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:31.545Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:32.668Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:34.946Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:39.989Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:41.570Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-10T10:24:42.692Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T04:40:52.844Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T04:51:01.497Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T04:53:33.458Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T05:23:13.293Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:18.458Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:19.655Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:20.825Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:22.003Z [error]: Error retrieving contact forms: Operation `contactforms.find()` buffering timed out after 10000ms {
+  "statusCode": 500
+}
+2024-07-15T05:23:23.315Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:28.486Z [error]: Error retrieving CMS items {
+  "error": "Operation `structures.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:29.718Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:30.861Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T05:23:32.068Z [error]: Error retrieving contact forms: Operation `contactforms.find()` buffering timed out after 10000ms {
+  "statusCode": 500
+}
+2024-07-15T06:43:43.608Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T06:45:21.812Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 3000 ms"
+}
+2024-07-15T06:45:59.927Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-15T06:47:16.295Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-15T07:42:08.967Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-15T07:42:24.935Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-15T07:51:56.131Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-15T07:54:03.042Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T07:54:25.561Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T07:59:20.772Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T08:00:57.171Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 10000 ms"
+}
+2024-07-15T08:01:07.302Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-15T08:02:02.852Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-15T08:03:56.836Z [error]: Failed to connect to MongoDB {
+  "error": "Server selection timed out after 5000 ms"
+}
+2024-07-15T10:16:30.117Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-15T11:11:30.525Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-15T11:41:59.203Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-15T11:59:23.568Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T11:59:33.644Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-15T12:00:15.130Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-16T04:49:46.056Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-16T04:51:30.167Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-16T04:51:40.248Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-16T04:53:20.454Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-16T05:11:20.314Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-16T05:52:56.871Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-16T05:54:27.395Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-16T05:59:29.949Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-16T06:17:29.737Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-07-16T06:18:03.116Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-07-16T07:23:04.508Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:23:11.841Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:23:51.229Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-07-16T07:24:13.523Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
