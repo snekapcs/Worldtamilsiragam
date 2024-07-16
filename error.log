@@ -797,3 +797,39 @@
 2024-07-16T07:24:13.523Z [error]: Error updating item {
   "error": "Cannot read properties of undefined (reading 'image')"
 }
+2024-07-16T10:31:38.889Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:31:50.100Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:31:58.083Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:32:37.889Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:32:47.635Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:33:18.337Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:34:23.315Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:37:19.845Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:41:29.958Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:41:41.020Z [error]: Error creating item {
+  "error": "Cannot read properties of undefined (reading 'filename')"
+}
+2024-07-16T10:44:15.895Z [error]: Error creating item {
+  "error": "Vision validation failed: image: Cast to string failed for value \"[\n  {\n    fieldname: 'image',\n    originalname: 'vision.jpeg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: './public/',\n    filename: 'image-1721126655871.jpeg',\n    path: 'public\\\\image-1721126655871.jpeg',\n    size: 35731\n  }\n]\" (type Array) at path \"image\""
+}
+2024-07-16T10:44:26.605Z [error]: Error creating item {
+  "error": "Vision validation failed: image: Cast to string failed for value \"[\n  {\n    fieldname: 'image',\n    originalname: 'vision.jpeg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: './public/',\n    filename: 'image-1721126666600.jpeg',\n    path: 'public\\\\image-1721126666600.jpeg',\n    size: 35731\n  }\n]\" (type Array) at path \"image\""
+}

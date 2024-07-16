@@ -18,7 +18,7 @@ const createItem = async (req, res) => {
     try {
       const newItem = new VisionModel({
         ...req.body,
-        image: req.file.filename // Save filename in the database
+        image: req.files.image ? req.files.image[0].filename : undefined
       });
       await newItem.save();
       logger.info('Item created', { item: newItem });
