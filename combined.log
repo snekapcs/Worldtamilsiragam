@@ -8961,3 +8961,226 @@
 2024-07-16T09:23:33.742Z [info]: Retrieved all items 
 2024-07-16T09:23:33.751Z [info]: Retrieved all items 
 2024-07-16T09:23:33.757Z [info]: Retrieved all items 
+2024-07-16T09:29:25.053Z [info]: Server is running on port 5000 
+2024-07-16T09:29:25.083Z [info]: Connected to MongoDB 
+2024-07-16T09:37:40.968Z [info]: Retrieved all CMS items 
+2024-07-16T09:37:40.988Z [info]: Retrieved all CMS items 
+2024-07-16T09:47:14.972Z [info]: Retrieved all CMS items 
+2024-07-16T09:47:35.976Z [info]: Retrieved all CMS items 
+2024-07-16T09:48:02.939Z [info]: Retrieved all CMS items 
+2024-07-16T09:52:21.214Z [info]: Retrieved all CMS items 
+2024-07-16T09:52:21.229Z [info]: Retrieved all CMS items 
+2024-07-16T09:52:23.135Z [info]: Retrieved all CMS items 
+2024-07-16T09:52:23.148Z [info]: Retrieved all CMS items 
+2024-07-16T09:52:27.621Z [info]: Retrieved all CMS items 
+2024-07-16T09:52:27.630Z [info]: Retrieved all CMS items 
+2024-07-16T09:56:31.982Z [info]: Retrieved all CMS items 
+2024-07-16T09:56:37.989Z [info]: Retrieved all CMS items 
+2024-07-16T09:56:38.004Z [info]: Retrieved all CMS items 
+2024-07-16T09:56:40.991Z [info]: Retrieved all CMS items 
+2024-07-16T09:56:40.999Z [info]: Retrieved all CMS items 
+2024-07-16T09:56:44.811Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T09:56:49.114Z [info]: Retrieved all items 
+2024-07-16T09:56:49.120Z [info]: Retrieved all items 
+2024-07-16T09:56:49.125Z [info]: Retrieved all items 
+2024-07-16T09:56:49.138Z [info]: Retrieved all items 
+2024-07-16T09:56:49.143Z [info]: Retrieved all items 
+2024-07-16T09:56:49.147Z [info]: Retrieved all items 
+2024-07-16T09:56:50.568Z [info]: Retrieved all items 
+2024-07-16T09:56:50.572Z [info]: Retrieved all items 
+2024-07-16T09:56:50.575Z [info]: Retrieved all items 
+2024-07-16T09:56:50.592Z [info]: Retrieved all items 
+2024-07-16T09:56:50.598Z [info]: Retrieved all items 
+2024-07-16T09:56:50.606Z [info]: Retrieved all items 
+2024-07-16T09:56:55.752Z [info]: Updated item {
+  "item": {
+    "_id": "66961f7ca44f191aaa4da025",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721114492692.jpeg",
+    "video": "video-1721114492696.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T09:57:00.526Z [info]: Retrieved all items 
+2024-07-16T09:57:00.531Z [info]: Retrieved all items 
+2024-07-16T09:57:00.534Z [info]: Retrieved all items 
+2024-07-16T09:57:00.555Z [info]: Retrieved all items 
+2024-07-16T09:57:00.559Z [info]: Retrieved all items 
+2024-07-16T09:57:00.566Z [info]: Retrieved all items 
+2024-07-16T10:00:00.037Z [info]: Retrieved all CMS items 
+2024-07-16T10:01:04.961Z [info]: Retrieved all CMS items 
+2024-07-16T10:01:10.470Z [info]: Retrieved all CMS items 
+2024-07-16T10:03:02.792Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "",
+    "date_ta": "",
+    "image": "image-1721124182763.jpeg",
+    "video": "video-1721124182765.mp4",
+    "isDisabled": true,
+    "_id": "66964556c0f273d2df231de6",
+    "createdAt": "2024-07-16T10:03:02.782Z",
+    "updatedAt": "2024-07-16T10:03:02.782Z",
+    "__v": 0
+  }
+}
+2024-07-16T10:03:02.803Z [info]: Retrieved all CMS items 
+2024-07-16T10:03:12.821Z [info]: Retrieved all items 
+2024-07-16T10:03:12.824Z [info]: Retrieved all items 
+2024-07-16T10:03:12.828Z [info]: Retrieved all items 
+2024-07-16T10:03:12.836Z [info]: Retrieved all items 
+2024-07-16T10:03:12.840Z [info]: Retrieved all items 
+2024-07-16T10:03:12.843Z [info]: Retrieved all items 
+2024-07-16T10:03:19.310Z [info]: Updated item {
+  "item": {
+    "_id": "66964556c0f273d2df231de6",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "",
+    "image": "image-1721124182763.jpeg",
+    "video": "video-1721124182765.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T10:08:43.984Z [info]: Retrieved all CMS items 
+2024-07-16T10:08:48.571Z [info]: Retrieved all CMS items 
+2024-07-16T10:08:48.576Z [info]: Retrieved all CMS items 
+2024-07-16T10:08:50.935Z [info]: Retrieved all CMS items 
+2024-07-16T10:08:50.940Z [info]: Retrieved all CMS items 
+2024-07-16T10:09:24.967Z [info]: Retrieved all CMS items 
+2024-07-16T10:10:14.941Z [info]: Retrieved all CMS items 
+2024-07-16T10:11:16.276Z [info]: Updated item {
+  "item": {
+    "_id": "66964556c0f273d2df231de6",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "June 2024",
+    "image": "image-1721124182763.jpeg",
+    "video": "video-1721124182765.mp4",
+    "isDisabled": true
+  }
+}
+2024-07-16T10:11:16.283Z [info]: Retrieved all CMS items 
+2024-07-16T10:11:32.295Z [info]: Retrieved all items 
+2024-07-16T10:11:32.297Z [info]: Retrieved all items 
+2024-07-16T10:11:32.299Z [info]: Retrieved all items 
+2024-07-16T10:11:32.307Z [info]: Retrieved all items 
+2024-07-16T10:11:32.310Z [info]: Retrieved all items 
+2024-07-16T10:11:32.313Z [info]: Retrieved all items 
+2024-07-16T10:11:39.376Z [info]: Updated item {
+  "item": {
+    "_id": "66964556c0f273d2df231de6",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "June 2024",
+    "image": "image-1721124182763.jpeg",
+    "video": "video-1721124182765.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T10:12:35.969Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66962390fc7d26fec86837a8",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "May 2024",
+    "image": "image-1721115536649.jpeg",
+    "video": "video-1721115536654.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-16T10:12:39.884Z [info]: Retrieved all CMS items 
+2024-07-16T10:12:39.888Z [info]: Retrieved all CMS items 
+2024-07-16T10:12:42.176Z [info]: Retrieved all CMS items 
+2024-07-16T10:12:42.181Z [info]: Retrieved all CMS items 
+2024-07-16T10:13:24.297Z [info]: Retrieved all CMS items 
+2024-07-16T10:13:24.304Z [info]: Retrieved all CMS items 
+2024-07-16T10:13:36.961Z [info]: Retrieved all CMS items 
+2024-07-16T10:13:36.966Z [info]: Retrieved all CMS items 
+2024-07-16T10:15:43.411Z [info]: Server is running on port 5000 
+2024-07-16T10:15:43.425Z [info]: Connected to MongoDB 
+2024-07-16T10:16:05.867Z [info]: Server is running on port 5000 
+2024-07-16T10:16:05.881Z [info]: Connected to MongoDB 
+2024-07-16T10:17:40.208Z [info]: Server is running on port 5000 
+2024-07-16T10:17:40.222Z [info]: Connected to MongoDB 
+2024-07-16T10:18:29.736Z [info]: Server is running on port 5000 
+2024-07-16T10:18:29.751Z [info]: Connected to MongoDB 
+2024-07-16T10:18:46.824Z [info]: Server is running on port 5000 
+2024-07-16T10:18:46.848Z [info]: Connected to MongoDB 
+2024-07-16T10:19:14.901Z [info]: Server is running on port 5000 
+2024-07-16T10:19:14.915Z [info]: Connected to MongoDB 
+2024-07-16T10:19:40.109Z [info]: Server is running on port 5000 
+2024-07-16T10:19:40.138Z [info]: Connected to MongoDB 
+2024-07-16T10:19:47.666Z [info]: Server is running on port 5000 
+2024-07-16T10:19:47.683Z [info]: Connected to MongoDB 
+2024-07-16T10:20:07.255Z [info]: Server is running on port 5000 
+2024-07-16T10:20:07.269Z [info]: Connected to MongoDB 
+2024-07-16T10:23:56.774Z [info]: Retrieved all CMS items 
+2024-07-16T10:23:56.783Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:05.694Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:05.702Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:20.675Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:20.681Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:26.005Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:26.014Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:29.989Z [info]: Retrieved all CMS items 
+2024-07-16T10:24:29.995Z [info]: Retrieved all CMS items 
+2024-07-16T10:25:25.873Z [info]: Updated item {
+  "item": {
+    "_id": "66794ea1d1580c3ed5330308",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719226017036.jpeg",
+    "isDisabled": false,
+    "author_ta": "ஆல்வின் லெவெரிசா மூலம்",
+    "date_ta": "ஜனவரி 28, 2021"
+  }
+}
+2024-07-16T10:26:28.374Z [info]: Updated item {
+  "item": {
+    "_id": "66794edad1580c3ed533030a",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719226074040.jpeg",
+    "isDisabled": false,
+    "author_ta": "ஆல்வின் லெவெரிசா மூலம்",
+    "date_ta": "ஜனவரி 28, 2021"
+  }
+}
+2024-07-16T10:26:50.311Z [info]: Updated item {
+  "item": {
+    "_id": "66794f47d1580c3ed533030c",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719226183324.jpeg",
+    "isDisabled": false,
+    "author_ta": "ஆல்வின் லெவெரிசா மூலம்",
+    "date_ta": "ஜனவரி 28, 2021"
+  }
+}
+2024-07-16T10:27:07.849Z [info]: Updated item {
+  "item": {
+    "_id": "66824ac02c2687851fe1fc0c",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1719814848706.jpeg",
+    "isDisabled": false,
+    "author_ta": "ஆல்வின் லெவெரிசா மூலம்",
+    "date_ta": "ஜனவரி 28, 2021"
+  }
+}

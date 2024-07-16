@@ -61,7 +61,7 @@ const createItem = async (req, res) => {
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
   try {
-      const selectedValue = 'title_en title_ta description_en description_ta image isDisabled _id'; 
+      const selectedValue = 'title_en title_ta description_en description_ta date_en date_ta author_en author_ta image isDisabled _id'; 
 
       const items = await NewsModel.find({}, selectedValue);
       logger.info('Retrieved all CMS items');
@@ -87,9 +87,9 @@ const getAllCmsItems = async (req, res) => {
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled _id';
+    let selectedValue = 'title_en description_en date_en author_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta date_ta author_ta image isDisabled _id';
     }
     const items = await NewsModel.find({}, selectedValue);
     logger.info('Retrieved all items');
@@ -131,9 +131,9 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled _id';
+    let selectedValue = 'title_en description_en date_en author_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta date_ta author_ta image isDisabled _id';
     }
 
     const item = await NewsModel.findById(req.params.id, selectedValue);
@@ -235,9 +235,9 @@ const updateItem = async (req, res) => {
         return;
       }
 
-      let selectedValue = 'title_en description_en image isDisabled _id';
+      let selectedValue = 'title_en description_en date_en author_en image isDisabled _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta image isDisabled _id';
+        selectedValue = 'title_ta description_ta date_ta author_ta image isDisabled _id';
       }
       const updatedItem = await NewsModel.findById(req.params.id, selectedValue);
 
@@ -281,9 +281,9 @@ const updateItem = async (req, res) => {
 // Delete an item
 const deleteItem = async (req, res) => {
   try {
-    let selectedFields = 'title_en description_en image isDisabled _id';
+    let selectedFields = 'title_en description_en date_en author_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedFields = 'title_ta description_ta image isDisabled _id';
+      selectedFields = 'title_ta description_ta date_ta author_ta image isDisabled _id';
     }
 
     const dltitem = await NewsModel.findById(req.params.id).select(selectedFields);
