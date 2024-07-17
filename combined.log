@@ -9278,3 +9278,454 @@
 }
 2024-07-16T10:45:37.650Z [info]: Server is running on port 5000 
 2024-07-16T10:45:37.664Z [info]: Connected to MongoDB 
+2024-07-16T10:49:39.903Z [info]: Server is running on port 5000 
+2024-07-16T10:49:39.959Z [info]: Connected to MongoDB 
+2024-07-16T10:52:12.130Z [info]: Retrieved all CMS items 
+2024-07-16T10:52:12.151Z [info]: Retrieved all CMS items 
+2024-07-16T10:52:14.284Z [info]: Retrieved all CMS items 
+2024-07-16T10:52:14.302Z [info]: Retrieved all CMS items 
+2024-07-16T10:52:26.861Z [info]: Retrieved all items 
+2024-07-16T10:52:26.866Z [info]: Retrieved all items 
+2024-07-16T10:52:26.871Z [info]: Retrieved all items 
+2024-07-16T10:52:26.891Z [info]: Retrieved all items 
+2024-07-16T10:52:26.901Z [info]: Retrieved all items 
+2024-07-16T10:52:26.910Z [info]: Retrieved all items 
+2024-07-16T10:52:37.574Z [info]: Updated item {
+  "item": {
+    "_id": "66794ea1d1580c3ed5330308",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226017036.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T10:52:40.015Z [info]: Updated item {
+  "item": {
+    "_id": "66794edad1580c3ed533030a",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226074040.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T10:52:41.731Z [info]: Updated item {
+  "item": {
+    "_id": "66794f47d1580c3ed533030c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226183324.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T10:52:46.004Z [info]: Updated item {
+  "item": {
+    "_id": "66824ac02c2687851fe1fc0c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719814848706.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T10:52:47.375Z [info]: Updated item {
+  "item": {
+    "_id": "66964e8b3aed80178cfdaaee",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "date_en": "JANUARY 28, 2021",
+    "author_en": "BY ALVIN LEVERIZA",
+    "image": "image-1721126539502.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-16T10:52:50.523Z [info]: Retrieved all items 
+2024-07-16T10:52:50.529Z [info]: Retrieved all items 
+2024-07-16T10:52:50.539Z [info]: Retrieved all items 
+2024-07-16T10:52:50.548Z [info]: Retrieved all items 
+2024-07-16T10:52:50.559Z [info]: Retrieved all items 
+2024-07-16T10:52:50.565Z [info]: Retrieved all items 
+2024-07-16T10:53:04.841Z [info]: Updated item {
+  "item": {
+    "_id": "66964e8b3aed80178cfdaaee",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "date_en": "JANUARY 28, 2021",
+    "author_en": "BY ALVIN LEVERIZA",
+    "image": "image-1721126539502.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-16T10:53:05.975Z [info]: Updated item {
+  "item": {
+    "_id": "66824ac02c2687851fe1fc0c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719814848706.jpeg",
+    "isDisabled": false,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T10:53:09.982Z [info]: Retrieved all items 
+2024-07-16T10:53:09.987Z [info]: Retrieved all items 
+2024-07-16T10:53:09.996Z [info]: Retrieved all items 
+2024-07-16T10:53:10.017Z [info]: Retrieved all items 
+2024-07-16T10:53:10.024Z [info]: Retrieved all items 
+2024-07-16T10:53:10.036Z [info]: Retrieved all items 
+2024-07-16T10:55:42.968Z [info]: Retrieved all CMS items 
+2024-07-16T10:55:42.977Z [info]: Retrieved all CMS items 
+2024-07-16T10:56:38.990Z [info]: Retrieved all CMS items 
+2024-07-16T10:58:26.977Z [info]: Retrieved all CMS items 
+2024-07-16T10:59:14.020Z [info]: Retrieved all CMS items 
+2024-07-16T11:00:54.978Z [info]: Retrieved all CMS items 
+2024-07-16T11:01:03.993Z [info]: Retrieved all CMS items 
+2024-07-16T11:01:57.020Z [info]: Retrieved all CMS items 
+2024-07-16T11:03:10.822Z [info]: Retrieved all CMS items 
+2024-07-16T11:03:15.193Z [info]: Retrieved all CMS items 
+2024-07-16T11:03:15.200Z [info]: Retrieved all CMS items 
+2024-07-16T11:03:16.920Z [info]: Retrieved all CMS items 
+2024-07-16T11:03:16.927Z [info]: Retrieved all CMS items 
+2024-07-16T11:04:18.743Z [info]: Retrieved all CMS items 
+2024-07-16T11:04:18.752Z [info]: Retrieved all CMS items 
+2024-07-16T11:04:21.654Z [info]: Retrieved all CMS items 
+2024-07-16T11:04:21.661Z [info]: Retrieved all CMS items 
+2024-07-16T11:06:11.981Z [info]: Retrieved all CMS items 
+2024-07-16T11:06:35.964Z [info]: Updated item {
+  "item": {
+    "_id": "66794ea1d1580c3ed5330308",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226017036.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T11:06:35.993Z [info]: Retrieved all CMS items 
+2024-07-16T11:06:45.695Z [info]: Updated item {
+  "item": {
+    "_id": "66794edad1580c3ed533030a",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226074040.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T11:06:45.718Z [info]: Retrieved all CMS items 
+2024-07-16T11:06:55.927Z [info]: Updated item {
+  "item": {
+    "_id": "66794f47d1580c3ed533030c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226183324.jpeg",
+    "isDisabled": true,
+    "author_en": "BY ALVIN LEVERIZA",
+    "date_en": "JANUARY 28, 2021"
+  }
+}
+2024-07-16T11:06:55.964Z [info]: Retrieved all CMS items 
+2024-07-16T11:07:16.899Z [info]: Retrieved all CMS items 
+2024-07-16T11:07:16.910Z [info]: Retrieved all CMS items 
+2024-07-16T11:07:21.411Z [info]: Retrieved all CMS items 
+2024-07-16T11:07:21.419Z [info]: Retrieved all CMS items 
+2024-07-16T11:08:54.709Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "June 2024",
+    "date_ta": "ஜூன் 2024",
+    "author_en": "BY ALVIN LEVERIZA",
+    "author_ta": "ஆல்வின் லெவெரிசா",
+    "image": "image-1721128134671.jpeg",
+    "isDisabled": true,
+    "_id": "669654c6a30e3da68908dcd7",
+    "createdAt": "2024-07-16T11:08:54.694Z",
+    "updatedAt": "2024-07-16T11:08:54.694Z",
+    "__v": 0
+  }
+}
+2024-07-16T11:08:54.726Z [info]: Retrieved all CMS items 
+2024-07-16T11:09:04.159Z [info]: Retrieved all items 
+2024-07-16T11:09:04.163Z [info]: Retrieved all items 
+2024-07-16T11:09:04.167Z [info]: Retrieved all items 
+2024-07-16T11:09:04.177Z [info]: Retrieved all items 
+2024-07-16T11:09:04.180Z [info]: Retrieved all items 
+2024-07-16T11:09:04.185Z [info]: Retrieved all items 
+2024-07-16T11:09:22.059Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "669654c6a30e3da68908dcd7",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils.",
+    "date_en": "June 2024",
+    "author_en": "BY ALVIN LEVERIZA",
+    "image": "image-1721128134671.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-16T11:10:26.062Z [info]: Retrieved all CMS items 
+2024-07-16T11:10:26.070Z [info]: Retrieved all CMS items 
+2024-07-16T11:13:27.385Z [info]: Retrieved all CMS items 
+2024-07-16T11:13:27.393Z [info]: Retrieved all CMS items 
+2024-07-16T11:26:05.571Z [info]: Retrieved all CMS items 
+2024-07-16T11:26:05.578Z [info]: Retrieved all CMS items 
+2024-07-16T11:29:38.652Z [info]: Retrieved all CMS items 
+2024-07-16T11:29:38.661Z [info]: Retrieved all CMS items 
+2024-07-16T11:39:12.358Z [info]: Retrieved all CMS items 
+2024-07-16T11:39:12.367Z [info]: Retrieved all CMS items 
+2024-07-16T11:46:46.571Z [info]: Retrieved all CMS items 
+2024-07-16T11:47:06.994Z [info]: Retrieved all CMS items 
+2024-07-16T11:47:07.002Z [info]: Retrieved all CMS items 
+2024-07-16T11:47:09.553Z [info]: Retrieved all CMS items 
+2024-07-16T11:47:09.560Z [info]: Retrieved all CMS items 
+2024-07-16T11:47:56.255Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "June 2024",
+    "date_ta": "ஜூன் 2024",
+    "image": "image-1721130476202.jpeg",
+    "video": "video-1721130476204.mp4",
+    "isDisabled": false,
+    "_id": "66965deca30e3da68908dcf1",
+    "createdAt": "2024-07-16T11:47:56.240Z",
+    "updatedAt": "2024-07-16T11:47:56.240Z",
+    "__v": 0
+  }
+}
+2024-07-16T11:47:56.292Z [info]: Retrieved all CMS items 
+2024-07-16T11:48:34.764Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66965deca30e3da68908dcf1",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "June 2024",
+    "image": "image-1721130476202.jpeg",
+    "video": "video-1721130476204.mp4",
+    "isDisabled": false
+  }
+}
+2024-07-17T04:58:22.561Z [info]: Retrieved all CMS items 
+2024-07-17T04:58:22.571Z [info]: Retrieved all CMS items 
+2024-07-17T04:58:31.416Z [info]: Retrieved all CMS items 
+2024-07-17T04:58:31.423Z [info]: Retrieved all CMS items 
+2024-07-17T05:13:13.864Z [info]: Retrieved all CMS items 
+2024-07-17T05:13:13.873Z [info]: Retrieved all CMS items 
+2024-07-17T05:13:20.824Z [info]: Retrieved all CMS items 
+2024-07-17T05:13:20.831Z [info]: Retrieved all CMS items 
+2024-07-17T05:20:52.318Z [info]: Server is running on port 5000 
+2024-07-17T05:20:52.460Z [info]: Connected to MongoDB 
+2024-07-17T05:25:05.813Z [info]: Retrieved all CMS items 
+2024-07-17T05:25:05.849Z [info]: Retrieved all CMS items 
+2024-07-17T05:25:08.374Z [info]: Retrieved all CMS items 
+2024-07-17T05:25:08.384Z [info]: Retrieved all CMS items 
+2024-07-17T05:25:31.085Z [info]: Retrieved all CMS items 
+2024-07-17T05:25:31.096Z [info]: Retrieved all CMS items 
+2024-07-17T05:26:12.474Z [info]: Retrieved all CMS items 
+2024-07-17T05:26:12.482Z [info]: Retrieved all CMS items 
+2024-07-17T05:26:13.690Z [info]: Retrieved all CMS items 
+2024-07-17T05:26:13.702Z [info]: Retrieved all CMS items 
+2024-07-17T05:27:01.605Z [info]: Retrieved all CMS items 
+2024-07-17T05:27:01.614Z [info]: Retrieved all CMS items 
+2024-07-17T05:29:17.936Z [info]: Item created {
+  "item": {
+    "title_en": "Special Chairman",
+    "title_ta": "சிறப்புத் தலைவர்",
+    "description_en": "Lois Lane",
+    "description_ta": "லோயிஸ் லேன்",
+    "image": "image-1721194157889.jpeg",
+    "isDisabled": true,
+    "_id": "669756adbf3a1c9293e1b314",
+    "createdAt": "2024-07-17T05:29:17.917Z",
+    "updatedAt": "2024-07-17T05:29:17.917Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:29:17.956Z [info]: Retrieved all CMS items 
+2024-07-17T05:30:16.392Z [info]: Item created {
+  "item": {
+    "title_en": "Chairman",
+    "title_ta": "தலைவர்",
+    "description_en": "Clark Kent",
+    "description_ta": "கிளார்க் கென்ட்",
+    "image": "image-1721194216367.jpeg",
+    "isDisabled": true,
+    "_id": "669756e8bf3a1c9293e1b317",
+    "createdAt": "2024-07-17T05:30:16.379Z",
+    "updatedAt": "2024-07-17T05:30:16.379Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:30:16.441Z [info]: Retrieved all CMS items 
+2024-07-17T05:31:30.356Z [info]: Item created {
+  "item": {
+    "title_en": "General Secretary",
+    "title_ta": "பொதுச் செயலாளர்",
+    "description_en": "Ralph and Alice Graham",
+    "description_ta": "ரால்ப் மற்றும் ஆலிஸ் கிரஹாம்",
+    "image": "image-1721194290342.jpeg",
+    "isDisabled": true,
+    "_id": "66975732bf3a1c9293e1b31a",
+    "createdAt": "2024-07-17T05:31:30.349Z",
+    "updatedAt": "2024-07-17T05:31:30.349Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:31:30.384Z [info]: Retrieved all CMS items 
+2024-07-17T05:32:18.079Z [info]: Item created {
+  "item": {
+    "title_en": "Secretary ",
+    "title_ta": "செயலாளர் ",
+    "description_en": "Holly Golightly",
+    "description_ta": "ஹோலி கோலைட்லி",
+    "image": "image-1721194338036.jpeg",
+    "isDisabled": true,
+    "_id": "66975762bf3a1c9293e1b31d",
+    "createdAt": "2024-07-17T05:32:18.072Z",
+    "updatedAt": "2024-07-17T05:32:18.072Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:32:18.113Z [info]: Retrieved all CMS items 
+2024-07-17T05:33:20.543Z [info]: Item created {
+  "item": {
+    "title_en": "Treasurer ",
+    "title_ta": "பொருளாளர் ",
+    "description_en": "Lisa Doolittle",
+    "description_ta": "லிசா டூலிட்டில்",
+    "image": "image-1721194400523.jpeg",
+    "isDisabled": true,
+    "_id": "669757a0bf3a1c9293e1b320",
+    "createdAt": "2024-07-17T05:33:20.532Z",
+    "updatedAt": "2024-07-17T05:33:20.532Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:33:20.575Z [info]: Retrieved all CMS items 
+2024-07-17T05:34:07.273Z [info]: Item created {
+  "item": {
+    "title_en": "Vice Presidents ",
+    "title_ta": "துணைத் தலைவர்கள் ",
+    "description_en": "Henry Higgins",
+    "description_ta": "ஹென்றி ஹிக்கின்ஸ்",
+    "image": "image-1721194447226.jpeg",
+    "isDisabled": true,
+    "_id": "669757cfbf3a1c9293e1b323",
+    "createdAt": "2024-07-17T05:34:07.266Z",
+    "updatedAt": "2024-07-17T05:34:07.266Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:34:07.308Z [info]: Retrieved all CMS items 
+2024-07-17T05:35:06.279Z [info]: Item created {
+  "item": {
+    "title_en": "Deputy Secretary ",
+    "title_ta": "துணை செயலாளர் ",
+    "description_en": "Joseph of Arimathea",
+    "description_ta": "அரிமத்தியாவின் ஜோசப்",
+    "image": "image-1721194506262.jpeg",
+    "isDisabled": true,
+    "_id": "6697580abf3a1c9293e1b326",
+    "createdAt": "2024-07-17T05:35:06.272Z",
+    "updatedAt": "2024-07-17T05:35:06.272Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:35:06.310Z [info]: Retrieved all CMS items 
+2024-07-17T05:35:52.468Z [info]: Item created {
+  "item": {
+    "title_en": " Deputy Treasurer ",
+    "title_ta": "துணைப் பொருளாளர் ",
+    "description_en": "Mary Magdalene",
+    "description_ta": "மேரி மாக்தலீன்",
+    "image": "image-1721194552450.jpeg",
+    "isDisabled": true,
+    "_id": "66975838bf3a1c9293e1b329",
+    "createdAt": "2024-07-17T05:35:52.460Z",
+    "updatedAt": "2024-07-17T05:35:52.460Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:35:52.517Z [info]: Retrieved all CMS items 
+2024-07-17T05:37:11.226Z [info]: Item created {
+  "item": {
+    "title_en": "Deputy Treasurer ",
+    "title_ta": "துணைப் பொருளாளர்",
+    "description_en": "Mary Magdalene",
+    "description_ta": "மேரி மாக்தலீன்",
+    "image": "image-1721194631210.jpeg",
+    "isDisabled": true,
+    "_id": "66975887bf3a1c9293e1b32c",
+    "createdAt": "2024-07-17T05:37:11.220Z",
+    "updatedAt": "2024-07-17T05:37:11.220Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:37:11.273Z [info]: Retrieved all CMS items 
+2024-07-17T05:37:58.489Z [info]: Item created {
+  "item": {
+    "title_en": "Deputy Treasurer ",
+    "title_ta": "துணைப் பொருளாளர் ",
+    "description_en": "Simon Siren",
+    "description_ta": "சைமன் சைரன்",
+    "image": "image-1721194678440.jpeg",
+    "isDisabled": true,
+    "_id": "669758b6bf3a1c9293e1b32f",
+    "createdAt": "2024-07-17T05:37:58.477Z",
+    "updatedAt": "2024-07-17T05:37:58.477Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:37:58.548Z [info]: Retrieved all CMS items 
+2024-07-17T05:38:43.000Z [info]: Item created {
+  "item": {
+    "title_en": "Deputy Treasurer ",
+    "title_ta": "துணைப் பொருளாளர் ",
+    "description_en": "Hazelnut",
+    "description_ta": "ஹேசல்நட்",
+    "image": "image-1721194722976.jpeg",
+    "isDisabled": true,
+    "_id": "669758e2bf3a1c9293e1b332",
+    "createdAt": "2024-07-17T05:38:42.987Z",
+    "updatedAt": "2024-07-17T05:38:42.987Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:38:43.034Z [info]: Retrieved all CMS items 
+2024-07-17T05:39:27.865Z [info]: Item created {
+  "item": {
+    "title_en": "Deputy Treasurer ",
+    "title_ta": "துணைப் பொருளாளர் ",
+    "description_en": "Olive U",
+    "description_ta": "ஆலிவ் யு",
+    "image": "image-1721194767831.jpeg",
+    "isDisabled": true,
+    "_id": "6697590fbf3a1c9293e1b335",
+    "createdAt": "2024-07-17T05:39:27.836Z",
+    "updatedAt": "2024-07-17T05:39:27.836Z",
+    "__v": 0
+  }
+}
+2024-07-17T05:39:27.895Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:19.894Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:19.901Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:27.438Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:27.447Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:29.226Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:29.234Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:33.609Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:33.619Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:40.926Z [info]: Retrieved all CMS items 
+2024-07-17T05:47:40.933Z [info]: Retrieved all CMS items 

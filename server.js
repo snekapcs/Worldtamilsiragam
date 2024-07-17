@@ -72,19 +72,6 @@ app.use(cors());
 
 app.use('/public', express.static(__dirname + '/public'));
 
-// // Connect to MongoDB
-// const host = process.env.HOST;
-// const dbname = process.env.DBNAME;
-// const user = process.env.DB_USER;
-// const password = process.env.PASSWORD;
-
-// const uri = `mongodb://${user}:${password}@${host}/${dbname}?authSource=admin`;
-// mongoose.connect(uri, {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-//   // serverSelectionTimeoutMS: 3000, 
-// })
-
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
