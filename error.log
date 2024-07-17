@@ -833,3 +833,6 @@
 2024-07-16T10:44:26.605Z [error]: Error creating item {
   "error": "Vision validation failed: image: Cast to string failed for value \"[\n  {\n    fieldname: 'image',\n    originalname: 'vision.jpeg',\n    encoding: '7bit',\n    mimetype: 'image/jpeg',\n    destination: './public/',\n    filename: 'image-1721126666600.jpeg',\n    path: 'public\\\\image-1721126666600.jpeg',\n    size: 35731\n  }\n]\" (type Array) at path \"image\""
 }
+2024-07-17T06:07:38.061Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
