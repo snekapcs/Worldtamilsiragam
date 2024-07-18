@@ -10009,3 +10009,21 @@
 }
 2024-07-18T07:55:54.148Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
 2024-07-18T07:55:57.609Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
+2024-07-18T08:05:19.478Z [info]: Server is running on port 5000 
+2024-07-18T08:05:19.519Z [info]: Connected to MongoDB 
+2024-07-18T08:05:39.206Z [info]: Item created {
+  "item": {
+    "title_en": "Special Chairman",
+    "title_ta": "சிறப்புத் தலைவர்",
+    "description_en": "Lois Lane",
+    "description_ta": "லோயிஸ் லேன்",
+    "image": "image-1721289939169.jpeg",
+    "isDisabled": true,
+    "_id": "6698ccd38234487bc7130292",
+    "createdAt": "2024-07-18T08:05:39.192Z",
+    "updatedAt": "2024-07-18T08:05:39.192Z",
+    "__v": 0
+  }
+}
+2024-07-18T08:36:38.994Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
+2024-07-18T08:37:05.925Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
