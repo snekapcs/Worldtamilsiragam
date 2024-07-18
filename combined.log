@@ -9736,3 +9736,276 @@
 2024-07-17T06:07:38.061Z [error]: Failed to connect to MongoDB {
   "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
 }
+2024-07-17T06:19:18.381Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-17T06:19:48.383Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-07-17T07:07:20.380Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-17T07:07:50.383Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-17T07:09:00.973Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T07:09:11.044Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T07:09:12.731Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T07:09:21.062Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T07:09:22.756Z [error]: Error retrieving CMS items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T07:09:31.084Z [error]: Error retrieving CMS items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T09:25:23.364Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-07-17T09:25:53.340Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-07-17T09:31:25.251Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T09:31:25.273Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T09:31:25.303Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T09:38:03.353Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:43:25.714Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:43:25.738Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:43:25.743Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:43:35.765Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:43:35.819Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:43:35.822Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:21.073Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:23.163Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:26.442Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:31.097Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:33.173Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:36.458Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:41.124Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:43.196Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:46.455Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:45:46.480Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:29.670Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:29.674Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:29.678Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:44.846Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:44.852Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:44.858Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:54.870Z [error]: Error retrieving items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:54.872Z [error]: Error retrieving items {
+  "error": "Operation `news.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:47:54.891Z [error]: Error retrieving items {
+  "error": "Operation `festivals.find()` buffering timed out after 10000ms"
+}
+2024-07-17T10:48:16.848Z [info]: Server is running on port 5000 
+2024-07-17T10:48:16.859Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-07-17T10:49:17.690Z [info]: Server is running on port 5000 
+2024-07-17T10:49:17.760Z [info]: Connected to MongoDB 
+2024-07-17T10:49:22.882Z [info]: Retrieved all items 
+2024-07-17T10:49:22.900Z [info]: Retrieved all items 
+2024-07-17T10:49:22.908Z [info]: Retrieved all items 
+2024-07-17T10:49:22.933Z [info]: Retrieved all items 
+2024-07-17T10:49:22.939Z [info]: Retrieved all items 
+2024-07-17T10:49:22.949Z [info]: Retrieved all items 
+2024-07-17T10:50:00.142Z [info]: Retrieved all items 
+2024-07-17T10:50:00.148Z [info]: Retrieved all items 
+2024-07-17T10:50:00.162Z [info]: Retrieved all items 
+2024-07-17T10:50:00.166Z [info]: Retrieved all items 
+2024-07-17T10:52:16.262Z [info]: Retrieved all items 
+2024-07-17T10:52:16.268Z [info]: Retrieved all items 
+2024-07-17T10:52:16.279Z [info]: Retrieved all items 
+2024-07-17T10:52:16.286Z [info]: Retrieved all items 
+2024-07-17T10:54:25.141Z [info]: Retrieved all items 
+2024-07-17T10:54:25.145Z [info]: Retrieved all items 
+2024-07-17T10:54:25.154Z [info]: Retrieved all items 
+2024-07-17T10:54:25.159Z [info]: Retrieved all items 
+2024-07-17T10:55:14.531Z [info]: Retrieved all items 
+2024-07-17T10:55:14.536Z [info]: Retrieved all items 
+2024-07-17T10:55:14.547Z [info]: Retrieved all items 
+2024-07-17T10:55:14.554Z [info]: Retrieved all items 
+2024-07-17T10:55:47.653Z [info]: Retrieved all items 
+2024-07-17T10:56:05.632Z [info]: Retrieved all items 
+2024-07-17T10:56:05.637Z [info]: Retrieved all items 
+2024-07-17T10:56:05.649Z [info]: Retrieved all items 
+2024-07-17T10:56:05.654Z [info]: Retrieved all items 
+2024-07-17T10:56:05.664Z [info]: Retrieved all items 
+2024-07-17T10:56:05.667Z [info]: Retrieved all items 
+2024-07-17T10:58:57.080Z [info]: Retrieved all items 
+2024-07-17T10:58:57.089Z [info]: Retrieved all items 
+2024-07-17T10:58:57.100Z [info]: Retrieved all items 
+2024-07-17T10:58:57.111Z [info]: Retrieved all items 
+2024-07-17T10:58:57.123Z [info]: Retrieved all items 
+2024-07-17T10:58:57.127Z [info]: Retrieved all items 
+2024-07-17T11:03:13.675Z [info]: Retrieved all items 
+2024-07-17T11:05:16.476Z [info]: Retrieved all items 
+2024-07-17T11:05:16.485Z [info]: Retrieved all items 
+2024-07-17T11:05:16.493Z [info]: Retrieved all items 
+2024-07-17T11:05:16.510Z [info]: Retrieved all items 
+2024-07-17T11:05:16.523Z [info]: Retrieved all items 
+2024-07-17T11:05:16.526Z [info]: Retrieved all items 
+2024-07-17T11:06:15.806Z [info]: Retrieved all items 
+2024-07-17T11:06:15.811Z [info]: Retrieved all items 
+2024-07-17T11:06:15.819Z [info]: Retrieved all items 
+2024-07-17T11:06:15.824Z [info]: Retrieved all items 
+2024-07-17T11:06:47.552Z [info]: Retrieved all items 
+2024-07-17T11:06:47.560Z [info]: Retrieved all items 
+2024-07-17T11:06:47.569Z [info]: Retrieved all items 
+2024-07-17T11:06:47.576Z [info]: Retrieved all items 
+2024-07-17T11:07:11.713Z [info]: Retrieved all items 
+2024-07-17T11:07:22.343Z [info]: Retrieved all items 
+2024-07-17T11:07:22.350Z [info]: Retrieved all items 
+2024-07-17T11:07:22.354Z [info]: Retrieved all items 
+2024-07-17T11:07:22.367Z [info]: Retrieved all items 
+2024-07-17T11:07:22.371Z [info]: Retrieved all items 
+2024-07-17T11:07:22.376Z [info]: Retrieved all items 
+2024-07-17T11:11:08.033Z [info]: Retrieved all items 
+2024-07-17T11:11:08.037Z [info]: Retrieved all items 
+2024-07-17T11:11:08.054Z [info]: Retrieved all items 
+2024-07-17T11:11:08.060Z [info]: Retrieved all items 
+2024-07-17T11:11:25.981Z [info]: Retrieved all items 
+2024-07-17T11:11:30.409Z [info]: Retrieved all items 
+2024-07-17T11:11:30.415Z [info]: Retrieved all items 
+2024-07-17T11:11:30.421Z [info]: Retrieved all items 
+2024-07-17T11:11:30.429Z [info]: Retrieved all items 
+2024-07-17T11:11:30.440Z [info]: Retrieved all items 
+2024-07-17T11:11:30.447Z [info]: Retrieved all items 
+2024-07-17T11:18:53.054Z [info]: Retrieved all items 
+2024-07-17T11:18:53.064Z [info]: Retrieved all items 
+2024-07-17T11:18:53.072Z [info]: Retrieved all items 
+2024-07-17T11:18:53.076Z [info]: Retrieved all items 
+2024-07-17T11:18:53.090Z [info]: Retrieved all items 
+2024-07-17T11:18:53.096Z [info]: Retrieved all items 
+2024-07-17T11:19:34.545Z [info]: Retrieved all items 
+2024-07-17T11:19:34.572Z [info]: Retrieved all items 
+2024-07-17T11:19:34.577Z [info]: Retrieved all items 
+2024-07-17T11:19:34.597Z [info]: Retrieved all items 
+2024-07-17T11:19:34.620Z [info]: Retrieved all items 
+2024-07-17T11:19:34.634Z [info]: Retrieved all items 
+2024-07-17T11:21:39.449Z [info]: Retrieved all items 
+2024-07-17T11:21:39.458Z [info]: Retrieved all items 
+2024-07-17T11:21:53.698Z [info]: Retrieved all items 
+2024-07-17T11:21:53.706Z [info]: Retrieved all items 
+2024-07-17T11:23:17.641Z [info]: Retrieved all items 
+2024-07-17T11:23:17.651Z [info]: Retrieved all items 
+2024-07-17T12:26:37.933Z [info]: Retrieved all items 
+2024-07-17T12:26:37.955Z [info]: Retrieved all items 
+2024-07-17T12:28:15.291Z [info]: Retrieved all items 
+2024-07-17T12:28:15.303Z [info]: Retrieved all items 
+2024-07-17T12:34:24.778Z [info]: Retrieved all items 
+2024-07-17T12:34:24.833Z [info]: Retrieved all items 
+2024-07-17T12:34:48.678Z [info]: Retrieved all items 
+2024-07-17T12:34:48.688Z [info]: Retrieved all items 
+2024-07-17T12:37:12.829Z [info]: Retrieved all items 
+2024-07-17T12:37:12.837Z [info]: Retrieved all items 
+2024-07-17T12:37:12.842Z [info]: Retrieved all items 
+2024-07-17T12:37:12.851Z [info]: Retrieved all items 
+2024-07-17T12:37:12.856Z [info]: Retrieved all items 
+2024-07-17T12:37:12.862Z [info]: Retrieved all items 
+2024-07-17T12:37:29.497Z [info]: Retrieved all CMS items 
+2024-07-17T12:37:29.506Z [info]: Retrieved all CMS items 
+2024-07-17T12:37:33.944Z [info]: Retrieved all CMS items 
+2024-07-17T12:37:33.952Z [info]: Retrieved all CMS items 
+2024-07-17T12:37:35.707Z [info]: Retrieved all CMS items 
+2024-07-17T12:37:35.719Z [info]: Retrieved all CMS items 
+2024-07-17T12:42:59.792Z [info]: Retrieved all items 
+2024-07-17T12:42:59.798Z [info]: Retrieved all items 
+2024-07-17T12:45:51.588Z [info]: Retrieved all CMS items 
+2024-07-17T12:45:51.598Z [info]: Retrieved all CMS items 
+2024-07-18T05:00:16.629Z [info]: Server is running on port 5000 
+2024-07-18T05:00:16.672Z [info]: Connected to MongoDB 
+2024-07-18T05:03:31.651Z [info]: Retrieved all items 
+2024-07-18T05:03:31.666Z [info]: Retrieved all items 
+2024-07-18T05:03:31.683Z [info]: Retrieved all items 
+2024-07-18T05:03:31.712Z [info]: Retrieved all items 
+2024-07-18T05:03:31.746Z [info]: Retrieved all items 
+2024-07-18T05:03:31.753Z [info]: Retrieved all items 
+2024-07-18T05:06:14.745Z [info]: Retrieved all CMS items 
+2024-07-18T05:06:14.749Z [info]: Retrieved all CMS items 
+2024-07-18T05:09:44.203Z [info]: Retrieved all CMS items 
+2024-07-18T05:09:44.216Z [info]: Retrieved all CMS items 
+2024-07-18T05:11:28.219Z [info]: Retrieved all CMS items 
+2024-07-18T05:11:28.226Z [info]: Retrieved all CMS items 
+2024-07-18T05:18:56.276Z [info]: Retrieved all CMS items 
+2024-07-18T05:18:56.298Z [info]: Retrieved all CMS items 
+2024-07-18T06:40:23.124Z [info]: Retrieved all items 
+2024-07-18T06:40:23.137Z [info]: Retrieved all items 
+2024-07-18T06:40:59.735Z [info]: Retrieved all items 
+2024-07-18T06:40:59.743Z [info]: Retrieved all items 
+2024-07-18T07:32:38.773Z [info]: Retrieved all items 
+2024-07-18T07:32:38.783Z [info]: Retrieved all items 
+2024-07-18T07:46:56.810Z [info]: Server is running on port 5000 
+2024-07-18T07:46:56.858Z [info]: Connected to MongoDB 
+2024-07-18T07:50:24.631Z [info]: Item created {
+  "item": {
+    "title_en": "Special Chairman",
+    "title_ta": "சிறப்புத் தலைவர்",
+    "description_en": "Lois Lane",
+    "description_ta": "லோயிஸ் லேன்",
+    "image": "image-1721289024500.jpeg",
+    "isDisabled": true,
+    "_id": "6698c940eb5ae4554aa23d7d",
+    "createdAt": "2024-07-18T07:50:24.558Z",
+    "updatedAt": "2024-07-18T07:50:24.558Z",
+    "__v": 0
+  }
+}
+2024-07-18T07:55:54.148Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
+2024-07-18T07:55:57.609Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
