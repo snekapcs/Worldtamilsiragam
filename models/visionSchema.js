@@ -7,7 +7,7 @@ const visionSchema = new mongoose.Schema({
     description_ta: { type: String, required: false },
     imageTitle_en: { type: String, required: false },
     imageTitle_ta: { type: String, required: false },
-    image: { type: String, required: false },
+    image: { type: String, required: true },
     isDisabled: { type: Boolean, default: false }
 }, { timestamps: true });
 

@@ -953,3 +953,15 @@
 2024-07-17T10:48:16.859Z [error]: Failed to connect to MongoDB {
   "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
 }
+2024-07-18T08:38:18.692Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-07-19T05:10:51.579Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-07-29T09:41:43.730Z [error]: Error creating item {
+  "error": "Vision validation failed: image: Path `image` is required."
+}
+2024-07-29T11:29:32.340Z [error]: Error creating item {
+  "error": "Structure validation failed: team_type: `நிர்வாக குழு` is not a valid enum value for path `team_type`."
+}

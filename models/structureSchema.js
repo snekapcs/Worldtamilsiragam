@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const { TeamTypeEnum } = require('../util/constant');
 
 const structureSchema = new mongoose.Schema({
     title_en: { type: String, required: false },
@@ -6,6 +7,11 @@ const structureSchema = new mongoose.Schema({
     description_en: { type: String, required: false },
     description_ta: { type: String, required: false },
     image: { type: String, required: false },
+    team_type: { 
+        type: String, 
+        enum: Object.values(TeamTypeEnum), 
+        required: true 
+    },
     isDisabled: { type: Boolean, default: false }
 }, { timestamps: true });
 

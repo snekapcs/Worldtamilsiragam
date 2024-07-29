@@ -1,6 +1,6 @@
 const FestivalModel = require('../models/festivalSchema.js'); 
 const logger = require('../logger'); 
-const { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES } = require("../util/constant.js"); 
+const { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES, FILE_UPLOAD } = require("../util/constant.js"); 
 const upload = require('../middleware/upload'); 
 
 // Create a new item
@@ -9,9 +9,9 @@ const createItem = async (req, res) => {
     upload(req, res, async (err) => {
         if (err) {
             logger.error('Error uploading file', { error: err.message });
-            return res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
-                message: 'Error uploading file',
+            return res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
+                message: FILE_UPLOAD.UPLOAD_ERROR,
                 status: "error"
             });
         }
@@ -45,14 +45,14 @@ const createItem = async (req, res) => {
             logger.error('Error creating item', { error: error.message });
 
             if (req.body.lang === "TA") {
-                res.status(STATUS_CODES.ERROR).send({
-                    code: STATUS_CODES.ERROR,
+                res.status(STATUS_CODES.SERVER_ERROR).send({
+                    code: STATUS_CODES.SERVER_ERROR,
                     message: TAMIL_MESSAGE.CREATE_FAIL,
                     status: "error"
                 });
             } else {
-                res.status(STATUS_CODES.ERROR).send({
-                    code: STATUS_CODES.ERROR,
+                res.status(STATUS_CODES.SERVER_ERROR).send({
+                    code: STATUS_CODES.SERVER_ERROR,
                     message: ENGLISH_MESSAGE.CREATE_FAIL,
                     status: "error"
                 });
@@ -79,8 +79,8 @@ const getAllCmsItems = async (req, res) => {
     } catch (error) {
         logger.error('Error retrieving CMS items', { error: error.message });
 
-        res.status(STATUS_CODES.ERROR).send({
-            code: STATUS_CODES.ERROR,
+        res.status(STATUS_CODES.SERVER_ERROR).send({
+            code: STATUS_CODES.SERVER_ERROR,
             message: ENGLISH_MESSAGE.GET_FAIL,
             status: "error"
         });
@@ -120,14 +120,14 @@ const getAllItems = async (req, res) => {
         logger.error('Error retrieving items', { error: error.message });
 
         if (req.query.lang === "TA") {
-            res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
+            res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
                 message: TAMIL_MESSAGE.GET_FAIL,
                 status: "error"
             });
         } else {
-            res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
+            res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
                 message: ENGLISH_MESSAGE.GET_FAIL,
                 status: "error"
             });
@@ -187,14 +187,14 @@ const getItemById = async (req, res) => {
         logger.error('Error retrieving item', { error: error.message });
 
         if (req.query.lang === "TA") {
-            res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
+            res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
                 message: TAMIL_MESSAGE.GET_BY_ID_FAIL,
                 status: "error"
             });
         } else {
-            res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
+            res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
                 message: ENGLISH_MESSAGE.GET_BY_ID_FAIL,
                 status: "error"
             });
@@ -207,9 +207,9 @@ const updateItem = async (req, res) => {
     upload(req, res, async (err) => {
         if (err) {
             logger.error('Error uploading file', { error: err.message });
-            return res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
-                message: 'Error uploading file',
+            return res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
+                message: FILE_UPLOAD.UPLOAD_ERROR,
                 status: "error"
             });
         }
@@ -274,14 +274,14 @@ const updateItem = async (req, res) => {
             logger.error('Error updating item', { error: error.message });
 
             if (req.query.lang === "TA") {
-                res.status(STATUS_CODES.ERROR).send({
-                    code: STATUS_CODES.ERROR,
+                res.status(STATUS_CODES.SERVER_ERROR).send({
+                    code: STATUS_CODES.SERVER_ERROR,
                     message: TAMIL_MESSAGE.UPDATE_FAIL,
                     status: "error"
                 });
             } else {
-                res.status(STATUS_CODES.ERROR).send({
-                    code: STATUS_CODES.ERROR,
+                res.status(STATUS_CODES.SERVER_ERROR).send({
+                    code: STATUS_CODES.SERVER_ERROR,
                     message: ENGLISH_MESSAGE.UPDATE_FAIL,
                     status: "error"
                 });
@@ -344,14 +344,14 @@ const deleteItem = async (req, res) => {
         logger.error('Error deleting item', { error: error.message });
 
         if (req.query.lang === "TA") {
-            res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
+            res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
                 message: TAMIL_MESSAGE.DELETE_FAIL,
                 status: "error"
             });
         } else {
-            res.status(STATUS_CODES.ERROR).send({
-                code: STATUS_CODES.ERROR,
+            res.status(STATUS_CODES.SERVER_ERROR).send({
+                code: STATUS_CODES.SERVER_ERROR,
                 message: ENGLISH_MESSAGE.DELETE_FAIL,
                 status: "error"
             });

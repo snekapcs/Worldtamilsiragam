@@ -1,16 +1,101 @@
 const StructureModel = require('../models/structureSchema.js');
 const logger = require('../logger');
-const { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES } = require("../util/constant.js");
+const { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES, FILE_UPLOAD } = require("../util/constant.js");
 const upload = require('../middleware/upload');
+const { TeamTypeEnum } = require('../util/constant');
 
 // Create a new item
+// const createItem = async (req, res) => {
+//   upload(req, res, async (err) => {
+//     if (err) {
+//       logger.error('Error uploading file', { error: err.message });
+//       return res.status(STATUS_CODES.SERVER_ERROR).send({
+//         code: STATUS_CODES.SERVER_ERROR,
+//         message: FILE_UPLOAD.UPLOAD_ERROR,
+//         status: "error"
+//       });
+//     }
+
+//     const { team_type } = req.body;
+
+//     // Validate team_type
+//     if (!Object.values(TeamTypeEnum).includes(team_type)) {
+//       return res.status(STATUS_CODES.BAD_REQUEST).send({
+//         code: STATUS_CODES.BAD_REQUEST,
+//         message: 'Invalid team_type value',
+//         status: "error"
+//       });
+//     }
+
+//     try {
+//       const newItem = new StructureModel({
+//         ...req.body,
+//         image: req.files.image ? req.files.image[0].filename : undefined
+//       });
+//       await newItem.save();
+//       logger.info('Item created', { item: newItem });
+
+//       if (req?.body?.lang === "TA") {
+//         res.status(STATUS_CODES.SUCCESS).send({
+//           code: STATUS_CODES.SUCCESS,
+//           message: TAMIL_MESSAGE.CREATE_SUCC,
+//           data: newItem,
+//           status: "success"
+//         });
+//       } else {
+//         res.status(STATUS_CODES.SUCCESS).send({
+//           code: STATUS_CODES.SUCCESS,
+//           message: ENGLISH_MESSAGE.CREATE_SUCC,
+//           data: newItem,
+//           status: "success"
+//         });
+//       }
+//     } catch (error) {
+//       logger.error('Error creating item', { error: error.message });
+
+//       if (req?.body?.lang === "TA") {
+//         res.status(STATUS_CODES.SERVER_ERROR).send({
+//           code: STATUS_CODES.SERVER_ERROR,
+//           message: TAMIL_MESSAGE.CREATE_FAIL,
+//           status: "error"
+//         });
+//       } else {
+//         res.status(STATUS_CODES.SERVER_ERROR).send({
+//           code: STATUS_CODES.SERVER_ERROR,
+//           message: ENGLISH_MESSAGE.CREATE_FAIL,
+//           status: "error"
+//         });
+//       }
+//     }
+//   });
+// };
 const createItem = async (req, res) => {
   upload(req, res, async (err) => {
     if (err) {
       logger.error('Error uploading file', { error: err.message });
-      return res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
-        message: 'Error uploading file',
+      return res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
+        message: FILE_UPLOAD.UPLOAD_ERROR,
+        status: "error"
+      });
+    }
+
+    const { team_type } = req.body;
+    logger.info('Received team_type value', { team_type });
+
+    // Validate team_type
+    if (!team_type) {
+      return res.status(STATUS_CODES.BAD_REQUEST).send({
+        code: STATUS_CODES.BAD_REQUEST,
+        message: 'team_type is required',
+        status: "error"
+      });
+    }
+
+    if (!Object.values(TeamTypeEnum).includes(team_type)) {
+      return res.status(STATUS_CODES.BAD_REQUEST).send({
+        code: STATUS_CODES.BAD_REQUEST,
+        message: 'Invalid team_type value',
         status: "error"
       });
     }
@@ -42,14 +127,14 @@ const createItem = async (req, res) => {
       logger.error('Error creating item', { error: error.message });
 
       if (req?.body?.lang === "TA") {
-        res.status(STATUS_CODES.ERROR).send({
-          code: STATUS_CODES.ERROR,
+        res.status(STATUS_CODES.SERVER_ERROR).send({
+          code: STATUS_CODES.SERVER_ERROR,
           message: TAMIL_MESSAGE.CREATE_FAIL,
           status: "error"
         });
       } else {
-        res.status(STATUS_CODES.ERROR).send({
-          code: STATUS_CODES.ERROR,
+        res.status(STATUS_CODES.SERVER_ERROR).send({
+          code: STATUS_CODES.SERVER_ERROR,
           message: ENGLISH_MESSAGE.CREATE_FAIL,
           status: "error"
         });
@@ -58,38 +143,38 @@ const createItem = async (req, res) => {
   });
 };
 
+
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
   try {
-      const selectedValue = 'title_en title_ta description_en description_ta image isDisabled _id'; 
+    const selectedValue = 'title_en title_ta description_en description_ta image isDisabled team_type _id';
 
-      const items = await StructureModel.find({}, selectedValue);
-      logger.info('Retrieved all CMS items');
+    const items = await StructureModel.find({}, selectedValue);
+    logger.info('Retrieved all CMS items');
 
-      res.status(STATUS_CODES.SUCCESS).send({
-          code: STATUS_CODES.SUCCESS,
-          message: ENGLISH_MESSAGE.GET_SUCC,
-          data: items,
-          status: "success"
-      });
-
+    res.status(STATUS_CODES.SUCCESS).send({
+      code: STATUS_CODES.SUCCESS,
+      message: ENGLISH_MESSAGE.GET_SUCC,
+      data: items,
+      status: "success"
+    });
   } catch (error) {
-      logger.error('Error retrieving CMS items', { error: error.message });
+    logger.error('Error retrieving CMS items', { error: error.message });
 
-      res.status(STATUS_CODES.ERROR).send({
-          code: STATUS_CODES.ERROR,
-          message: ENGLISH_MESSAGE.GET_FAIL,
-          status: "error"
-      });
+    res.status(STATUS_CODES.SERVER_ERROR).send({
+      code: STATUS_CODES.SERVER_ERROR,
+      message: ENGLISH_MESSAGE.GET_FAIL,
+      status: "error"
+    });
   }
 };
 
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled _id';
+    let selectedValue = 'title_en description_en image isDisabled team_type _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta image isDisabled team_type _id';
     }
     const items = await StructureModel.find({}, selectedValue);
     logger.info('Retrieved all items');
@@ -113,14 +198,14 @@ const getAllItems = async (req, res) => {
     logger.error('Error retrieving items', { error: error.message });
 
     if (req?.query?.lang === "TA") {
-      res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
         message: TAMIL_MESSAGE.GET_FAIL,
         status: "error"
       });
     } else {
-      res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
         message: ENGLISH_MESSAGE.GET_FAIL,
         status: "error"
       });
@@ -131,9 +216,9 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled _id';
+    let selectedValue = 'title_en description_en image isDisabled team_type _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta image isDisabled team_type _id';
     }
 
     const item = await StructureModel.findById(req.params.id, selectedValue);
@@ -153,6 +238,7 @@ const getItemById = async (req, res) => {
           status: "error"
         });
       }
+      return;
     }
 
     logger.info('Retrieved item by ID', { item });
@@ -177,14 +263,14 @@ const getItemById = async (req, res) => {
     logger.error('Error retrieving item', { error: error.message });
 
     if (req?.query?.lang === "TA") {
-      res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
         message: TAMIL_MESSAGE.GET_BY_ID_FAIL,
         status: "error"
       });
     } else {
-      res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
         message: ENGLISH_MESSAGE.GET_BY_ID_FAIL,
         status: "error"
       });
@@ -197,9 +283,20 @@ const updateItem = async (req, res) => {
   upload(req, res, async (err) => {
     if (err) {
       logger.error('Error uploading file', { error: err.message });
-      return res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
-        message: 'Error uploading file',
+      return res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
+        message: FILE_UPLOAD.UPLOAD_ERROR,
+        status: "error"
+      });
+    }
+
+    const { team_type } = req.body;
+
+    // Validate team_type
+    if (team_type && !Object.values(TeamTypeEnum).includes(team_type)) {
+      return res.status(STATUS_CODES.BAD_REQUEST).send({
+        code: STATUS_CODES.BAD_REQUEST,
+        message: 'Invalid team_type value',
         status: "error"
       });
     }
@@ -207,7 +304,7 @@ const updateItem = async (req, res) => {
     try {
       const updateData = { ...req.body };
       if (req.file) {
-        updateData.image = req.file.filename; // Update filename if a new file is uploaded
+        updateData.image = req.file.filename; 
       }
 
       const item = await StructureModel.findByIdAndUpdate(
@@ -235,9 +332,9 @@ const updateItem = async (req, res) => {
         return;
       }
 
-      let selectedValue = 'title_en description_en image isDisabled _id';
+      let selectedValue = 'title_en description_en image isDisabled team_type _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta image isDisabled _id';
+        selectedValue = 'title_ta description_ta image isDisabled team_type _id';
       }
       const updatedItem = await StructureModel.findById(req.params.id, selectedValue);
 
@@ -262,14 +359,14 @@ const updateItem = async (req, res) => {
       logger.error('Error updating item', { error: error.message });
 
       if (req?.query?.lang === "TA") {
-        res.status(STATUS_CODES.ERROR).send({
-          code: STATUS_CODES.ERROR,
+        res.status(STATUS_CODES.SERVER_ERROR).send({
+          code: STATUS_CODES.SERVER_ERROR,
           message: TAMIL_MESSAGE.UPDATE_FAIL,
           status: "error"
         });
       } else {
-        res.status(STATUS_CODES.ERROR).send({
-          code: STATUS_CODES.ERROR,
+        res.status(STATUS_CODES.SERVER_ERROR).send({
+          code: STATUS_CODES.SERVER_ERROR,
           message: ENGLISH_MESSAGE.UPDATE_FAIL,
           status: "error"
         });
@@ -278,16 +375,12 @@ const updateItem = async (req, res) => {
   });
 };
 
-// Delete an item
+// Delete an item by ID
 const deleteItem = async (req, res) => {
   try {
-    let selectedFields = 'title_en description_en image isDisabled _id';
-    if (req.query.lang && req.query.lang === "TA") {
-      selectedFields = 'title_ta description_ta image isDisabled _id';
-    }
+    const item = await StructureModel.findByIdAndDelete(req.params.id);
 
-    const dltitem = await StructureModel.findById(req.params.id).select(selectedFields);
-    if (!dltitem) {
+    if (!item) {
       logger.warn('Item not found for deletion', { id: req.params.id });
 
       if (req?.query?.lang === "TA") {
@@ -303,23 +396,23 @@ const deleteItem = async (req, res) => {
           status: "error"
         });
       }
+      return;
     }
 
-    await StructureModel.findByIdAndDelete(req.params.id);
-    logger.info('Deleted item', { dltitem });
+    logger.info('Deleted item', { item });
 
     if (req?.query?.lang === "TA") {
       res.status(STATUS_CODES.SUCCESS).send({
         code: STATUS_CODES.SUCCESS,
         message: TAMIL_MESSAGE.DELETE_SUCC,
-        data: dltitem,
+        data: item,
         status: "success"
       });
     } else {
       res.status(STATUS_CODES.SUCCESS).send({
         code: STATUS_CODES.SUCCESS,
         message: ENGLISH_MESSAGE.DELETE_SUCC,
-        data: dltitem,
+        data: item,
         status: "success"
       });
     }
@@ -327,14 +420,14 @@ const deleteItem = async (req, res) => {
     logger.error('Error deleting item', { error: error.message });
 
     if (req?.query?.lang === "TA") {
-      res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
         message: TAMIL_MESSAGE.DELETE_FAIL,
         status: "error"
       });
     } else {
-      res.status(STATUS_CODES.ERROR).send({
-        code: STATUS_CODES.ERROR,
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
         message: ENGLISH_MESSAGE.DELETE_FAIL,
         status: "error"
       });

@@ -26,9 +26,27 @@ const ENGLISH_MESSAGE = {
 
 const STATUS_CODES = {
   SUCCESS: 200,
-  ERROR: 500,
-  NOT_FOUND: 404
+  BAD_REQUEST: 400,
+  NOT_FOUND: 404,
+  SERVER_ERROR: 500
 };
-module.exports = { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES };
+
+const FILE_UPLOAD = {
+  UPLOAD_ERROR:  "Error uploading file"
+};
+
+const CONTACT_FORM = {
+  SUCCESS : "Contact User Added Successfully",
+  RETRIVE_ERROR : "An error occurred while retrieving contact forms",
+  NOT_FOUND : "Contact form not found",
+  UPDATE_ERROR : "An error occurred while updating the contact form"
+};
+
+const TeamTypeEnum ={
+  ADMIN_TEAM: 'நிர்வாக குழு',
+  SUBCOMMITTEE_MEMBERS: 'செயற்குழு உறுப்பினர்கள்',
+};
+
+module.exports = { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES, FILE_UPLOAD, CONTACT_FORM, TeamTypeEnum };
 
 

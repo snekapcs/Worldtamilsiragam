@@ -1,7 +1,7 @@
 const nodeMail = require("nodemailer");
 const ContactformModel = require('../models/contactformSchema');
 const logger = require('../logger');
-const { STATUS_CODES } = require("../util/constant.js");
+const { STATUS_CODES, CONTACT_FORM } = require("../util/constant.js");
 require('dotenv').config();
 
 const createContactForm = async (req, res) => {
@@ -47,20 +47,20 @@ const createContactForm = async (req, res) => {
         logger.info(`Email sent: ${info.response}`, { statusCode: STATUS_CODES.SUCCESS });
         logger.info(`Contact user added: ${name}`, { statusCode: STATUS_CODES.SUCCESS });
 
-        res.status(201).json({ contactUser, msg: "Contact User Added Successfully" });
+        res.status(STATUS_CODES.SUCCESS).json({ contactUser, msg: CONTACT_FORM.SUCCESS });
     } catch (error) {
-        logger.error(`Error creating contact user: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
-        res.status(500).json({ error: "An error occurred" });
+        logger.error(`Error creating contact user: ${error.message}`, { statusCode: STATUS_CODES.SERVER_ERROR });
+        res.status(STATUS_CODES.SERVER_ERROR).json({ error: "An error occurred" });
     }
 };
 
 const getContactForms = async (req, res) => {
     try {
         const contactForms = await ContactformModel.find({});
-        res.status(200).json(contactForms);
+        res.status(STATUS_CODES.SUCCESS).json(contactForms);
     } catch (error) {
-        logger.error(`Error retrieving contact forms: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
-        res.status(500).json({ error: "An error occurred while retrieving contact forms" });
+        logger.error(`Error retrieving contact forms: ${error.message}`, { statusCode: STATUS_CODES.SERVER_ERROR });
+        res.status(STATUS_CODES.SERVER_ERROR).json({ error: CONTACT_FORM.RETRIVE_ERROR });
     }
 };
 
@@ -76,13 +76,13 @@ const updateContactForm = async (req, res) => {
         );
 
         if (!updatedContactForm) {
-            return res.status(404).json({ error: "Contact form not found" });
+            return res.status(STATUS_CODES.NOT_FOUND).json({ error: CONTACT_FORM.NOT_FOUND });
         }
 
-        res.status(200).json(updatedContactForm);
+        res.status(STATUS_CODES.SUCCESS).json(updatedContactForm);
     } catch (error) {
-        logger.error(`Error updating contact form: ${error.message}`, { statusCode: STATUS_CODES.ERROR });
-        res.status(500).json({ error: "An error occurred while updating the contact form" });
+        logger.error(`Error updating contact form: ${error.message}`, { statusCode: STATUS_CODES.SERVER_ERROR });
+        res.status(STATUS_CODES.SERVER_ERROR).json({ error: CONTACT_FORM.UPDATE_ERROR });
     }
 };
 
