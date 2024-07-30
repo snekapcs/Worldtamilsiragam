@@ -1,8 +1,7 @@
-const StructureModel = require('../models/structureSchema.js');
+const InvitationModel = require('../models/invitationSchema.js');
 const logger = require('../logger');
 const { TAMIL_MESSAGE, ENGLISH_MESSAGE, STATUS_CODES, FILE_UPLOAD } = require("../util/constant.js");
 const upload = require('../middleware/upload');
-const { TeamTypeEnum } = require('../util/constant');
 
 // Create a new item
 const createItem = async (req, res) => {
@@ -16,28 +15,8 @@ const createItem = async (req, res) => {
       });
     }
 
-    const { team_type } = req.body;
-    logger.info('Received team_type value', { team_type });
-
-    // Validate team_type
-    if (!team_type) {
-      return res.status(STATUS_CODES.BAD_REQUEST).send({
-        code: STATUS_CODES.BAD_REQUEST,
-        message: 'team_type is required',
-        status: "error"
-      });
-    }
-
-    if (!Object.values(TeamTypeEnum).includes(team_type)) {
-      return res.status(STATUS_CODES.BAD_REQUEST).send({
-        code: STATUS_CODES.BAD_REQUEST,
-        message: 'Invalid team_type value',
-        status: "error"
-      });
-    }
-
     try {
-      const newItem = new StructureModel({
+      const newItem = new InvitationModel({
         ...req.body,
         image: req.files.image ? req.files.image[0].filename : undefined
       });
@@ -79,40 +58,40 @@ const createItem = async (req, res) => {
   });
 };
 
-
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
   try {
-    const selectedValue = 'title_en title_ta description_en description_ta image isDisabled team_type _id';
+      const selectedValue = 'title_en title_ta description_en description_ta date_en date_ta time_en time_ta location_en location_ta sub_description_en sub_description_ta image isDisabled _id'; 
 
-    const items = await StructureModel.find({}, selectedValue);
-    logger.info('Retrieved all CMS items');
+      const items = await InvitationModel.find({}, selectedValue);
+      logger.info('Retrieved all CMS items');
 
-    res.status(STATUS_CODES.SUCCESS).send({
-      code: STATUS_CODES.SUCCESS,
-      message: ENGLISH_MESSAGE.GET_SUCC,
-      data: items,
-      status: "success"
-    });
+      res.status(STATUS_CODES.SUCCESS).send({
+          code: STATUS_CODES.SUCCESS,
+          message: ENGLISH_MESSAGE.GET_SUCC,
+          data: items,
+          status: "success"
+      });
+
   } catch (error) {
-    logger.error('Error retrieving CMS items', { error: error.message });
+      logger.error('Error retrieving CMS items', { error: error.message });
 
-    res.status(STATUS_CODES.SERVER_ERROR).send({
-      code: STATUS_CODES.SERVER_ERROR,
-      message: ENGLISH_MESSAGE.GET_FAIL,
-      status: "error"
-    });
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+          code: STATUS_CODES.SERVER_ERROR,
+          message: ENGLISH_MESSAGE.GET_FAIL,
+          status: "error"
+      });
   }
 };
 
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled team_type _id';
+    let selectedValue = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled team_type _id';
+      selectedValue = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
     }
-    const items = await StructureModel.find({}, selectedValue);
+    const items = await InvitationModel.find({}, selectedValue);
     logger.info('Retrieved all items');
 
     if (req?.query?.lang === "TA") {
@@ -152,12 +131,12 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled team_type _id';
+    let selectedValue = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled team_type _id';
+      selectedValue = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
     }
 
-    const item = await StructureModel.findById(req.params.id, selectedValue);
+    const item = await InvitationModel.findById(req.params.id, selectedValue);
     if (!item) {
       logger.warn('Item not found', { id: req.params.id });
 
@@ -174,7 +153,6 @@ const getItemById = async (req, res) => {
           status: "error"
         });
       }
-      return;
     }
 
     logger.info('Retrieved item by ID', { item });
@@ -226,24 +204,13 @@ const updateItem = async (req, res) => {
       });
     }
 
-    const { team_type } = req.body;
-
-    // Validate team_type
-    if (team_type && !Object.values(TeamTypeEnum).includes(team_type)) {
-      return res.status(STATUS_CODES.BAD_REQUEST).send({
-        code: STATUS_CODES.BAD_REQUEST,
-        message: 'Invalid team_type value',
-        status: "error"
-      });
-    }
-
     try {
       const updateData = { ...req.body };
       if (req.file) {
-        updateData.image = req.file.filename; 
+        updateData.image = req.file.filename; // Update filename if a new file is uploaded
       }
 
-      const item = await StructureModel.findByIdAndUpdate(
+      const item = await InvitationModel.findByIdAndUpdate(
         req.params.id,
         updateData,
         { new: true, runValidators: true }
@@ -268,11 +235,11 @@ const updateItem = async (req, res) => {
         return;
       }
 
-      let selectedValue = 'title_en description_en image isDisabled team_type _id';
+      let selectedValue = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta image isDisabled team_type _id';
+        selectedValue = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
       }
-      const updatedItem = await StructureModel.findById(req.params.id, selectedValue);
+      const updatedItem = await InvitationModel.findById(req.params.id, selectedValue);
 
       logger.info('Updated item', { item: updatedItem });
 
@@ -311,12 +278,16 @@ const updateItem = async (req, res) => {
   });
 };
 
-// Delete an item by ID
+// Delete an item
 const deleteItem = async (req, res) => {
   try {
-    const item = await StructureModel.findByIdAndDelete(req.params.id);
+    let selectedFields = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
+    if (req.query.lang && req.query.lang === "TA") {
+      selectedFields = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
+    }
 
-    if (!item) {
+    const dltitem = await InvitationModel.findById(req.params.id).select(selectedFields);
+    if (!dltitem) {
       logger.warn('Item not found for deletion', { id: req.params.id });
 
       if (req?.query?.lang === "TA") {
@@ -332,23 +303,23 @@ const deleteItem = async (req, res) => {
           status: "error"
         });
       }
-      return;
     }
 
-    logger.info('Deleted item', { item });
+    await InvitationModel.findByIdAndDelete(req.params.id);
+    logger.info('Deleted item', { dltitem });
 
     if (req?.query?.lang === "TA") {
       res.status(STATUS_CODES.SUCCESS).send({
         code: STATUS_CODES.SUCCESS,
         message: TAMIL_MESSAGE.DELETE_SUCC,
-        data: item,
+        data: dltitem,
         status: "success"
       });
     } else {
       res.status(STATUS_CODES.SUCCESS).send({
         code: STATUS_CODES.SUCCESS,
         message: ENGLISH_MESSAGE.DELETE_SUCC,
-        data: item,
+        data: dltitem,
         status: "success"
       });
     }

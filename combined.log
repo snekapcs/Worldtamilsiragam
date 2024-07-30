@@ -11836,3 +11836,310 @@
 2024-07-29T11:36:58.499Z [info]: Retrieved all items 
 2024-07-29T11:37:37.316Z [info]: Retrieved all items 
 2024-07-29T11:37:37.325Z [info]: Retrieved all items 
+2024-07-29T11:41:01.074Z [info]: Server is running on port 5000 
+2024-07-29T11:41:01.106Z [info]: Connected to MongoDB 
+2024-07-29T11:49:13.300Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:13.334Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:17.767Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:17.784Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:53.948Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:53.958Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:56.977Z [info]: Retrieved all CMS items 
+2024-07-29T11:49:56.990Z [info]: Retrieved all CMS items 
+2024-07-29T12:31:18.965Z [info]: Retrieved all CMS items 
+2024-07-29T12:31:18.981Z [info]: Retrieved all CMS items 
+2024-07-29T12:31:27.017Z [info]: Retrieved all items 
+2024-07-29T12:31:27.026Z [info]: Retrieved all items 
+2024-07-29T12:31:27.042Z [info]: Retrieved all items 
+2024-07-29T12:31:27.048Z [info]: Retrieved all items 
+2024-07-29T12:31:32.318Z [info]: Retrieved all CMS items 
+2024-07-29T12:31:32.325Z [info]: Retrieved all CMS items 
+2024-07-29T15:05:09.275Z [info]: Retrieved all items 
+2024-07-29T15:05:09.286Z [info]: Retrieved all items 
+2024-07-29T15:12:48.352Z [info]: Server is running on port 5000 
+2024-07-29T15:12:48.399Z [info]: Connected to MongoDB 
+2024-07-29T15:13:09.636Z [info]: Server is running on port 5000 
+2024-07-29T15:13:09.684Z [info]: Connected to MongoDB 
+2024-07-29T15:13:31.972Z [info]: Server is running on port 5000 
+2024-07-29T15:13:32.079Z [info]: Connected to MongoDB 
+2024-07-29T15:16:06.622Z [info]: Server is running on port 5000 
+2024-07-29T15:16:06.668Z [info]: Connected to MongoDB 
+2024-07-29T15:16:39.289Z [info]: Server is running on port 5000 
+2024-07-29T15:16:39.341Z [info]: Connected to MongoDB 
+2024-07-29T15:16:58.915Z [info]: Server is running on port 5000 
+2024-07-29T15:16:58.965Z [info]: Connected to MongoDB 
+2024-07-29T15:17:35.237Z [info]: Server is running on port 5000 
+2024-07-29T15:17:35.291Z [info]: Connected to MongoDB 
+2024-07-29T15:17:52.401Z [info]: Server is running on port 5000 
+2024-07-29T15:17:52.447Z [info]: Connected to MongoDB 
+2024-07-29T15:18:05.757Z [info]: Server is running on port 5000 
+2024-07-29T15:18:05.835Z [info]: Connected to MongoDB 
+2024-07-29T15:22:10.700Z [info]: Server is running on port 5000 
+2024-07-29T15:22:10.857Z [info]: Connected to MongoDB 
+2024-07-29T15:23:48.330Z [info]: Server is running on port 5000 
+2024-07-29T15:23:48.378Z [info]: Connected to MongoDB 
+2024-07-29T15:24:33.718Z [info]: Server is running on port 5000 
+2024-07-29T15:24:33.774Z [info]: Connected to MongoDB 
+2024-07-29T15:26:19.002Z [info]: Server is running on port 5000 
+2024-07-29T15:26:19.049Z [info]: Connected to MongoDB 
+2024-07-29T15:31:59.658Z [info]: Server is running on port 5000 
+2024-07-29T15:31:59.724Z [info]: Connected to MongoDB 
+2024-07-29T15:32:23.463Z [info]: Server is running on port 5000 
+2024-07-29T15:32:23.578Z [info]: Connected to MongoDB 
+2024-07-29T15:33:50.130Z [info]: Server is running on port 5000 
+2024-07-29T15:33:50.217Z [info]: Connected to MongoDB 
+2024-07-29T15:33:54.753Z [info]: Server is running on port 5000 
+2024-07-29T15:33:54.831Z [info]: Connected to MongoDB 
+2024-07-29T15:34:10.858Z [info]: Server is running on port 5000 
+2024-07-29T15:34:10.900Z [info]: Connected to MongoDB 
+2024-07-29T15:37:08.424Z [info]: Server is running on port 5000 
+2024-07-29T15:37:08.465Z [info]: Connected to MongoDB 
+2024-07-29T15:41:15.289Z [info]: Server is running on port 5000 
+2024-07-29T15:41:15.343Z [info]: Connected to MongoDB 
+2024-07-29T15:43:16.359Z [info]: Server is running on port 5000 
+2024-07-29T15:43:16.414Z [info]: Connected to MongoDB 
+2024-07-29T15:44:42.395Z [info]: Server is running on port 5000 
+2024-07-29T15:44:42.469Z [info]: Connected to MongoDB 
+2024-07-29T15:45:06.245Z [info]: Server is running on port 5000 
+2024-07-29T15:45:06.305Z [info]: Connected to MongoDB 
+2024-07-29T15:46:23.811Z [info]: Server is running on port 5000 
+2024-07-29T15:46:23.859Z [info]: Connected to MongoDB 
+2024-07-29T15:47:38.538Z [info]: Server is running on port 5000 
+2024-07-29T15:47:38.585Z [info]: Connected to MongoDB 
+2024-07-29T15:48:57.066Z [info]: Retrieved all items 
+2024-07-29T15:49:16.303Z [info]: Retrieved all items 
+2024-07-29T15:49:28.992Z [info]: Retrieved all items 
+2024-07-29T15:57:18.746Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "time_en": "6:00 PM",
+    "time_ta": "மாலை 6:00 மணி",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "_id": "66a7bbde9b10af2381303c60",
+    "createdAt": "2024-07-29T15:57:18.731Z",
+    "updatedAt": "2024-07-29T15:57:18.731Z",
+    "__v": 0
+  }
+}
+2024-07-29T15:57:52.156Z [info]: Server is running on port 5000 
+2024-07-29T15:57:52.205Z [info]: Connected to MongoDB 
+2024-07-29T15:58:20.811Z [info]: Server is running on port 5000 
+2024-07-29T15:58:20.863Z [info]: Connected to MongoDB 
+2024-07-29T16:00:18.177Z [info]: Server is running on port 5000 
+2024-07-29T16:00:18.235Z [info]: Connected to MongoDB 
+2024-07-29T16:00:50.137Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "time_en": "6:00 PM",
+    "time_ta": "மாலை 6:00 மணி",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "image": "image-1722268850086.jpeg",
+    "isDisabled": false,
+    "_id": "66a7bcb2055b7280df897dd7",
+    "createdAt": "2024-07-29T16:00:50.121Z",
+    "updatedAt": "2024-07-29T16:00:50.121Z",
+    "__v": 0
+  }
+}
+2024-07-29T16:07:20.060Z [info]: Updated item {
+  "item": {
+    "_id": "66a7bcb2055b7280df897dd7",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "image": "image-1722268850086.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-29T16:14:07.296Z [info]: Retrieved all CMS items 
+2024-07-29T16:14:07.309Z [info]: Retrieved all CMS items 
+2024-07-29T16:15:00.133Z [info]: Retrieved all CMS items 
+2024-07-29T16:15:00.142Z [info]: Retrieved all CMS items 
+2024-07-29T16:26:49.691Z [info]: Server is running on port 5000 
+2024-07-29T16:26:49.782Z [info]: Connected to MongoDB 
+2024-07-29T16:26:53.875Z [info]: Server is running on port 5000 
+2024-07-29T16:26:53.920Z [info]: Connected to MongoDB 
+2024-07-29T16:27:18.490Z [info]: Server is running on port 5000 
+2024-07-29T16:27:18.528Z [info]: Connected to MongoDB 
+2024-07-29T16:27:57.517Z [info]: Server is running on port 5000 
+2024-07-29T16:27:57.567Z [info]: Connected to MongoDB 
+2024-07-29T16:28:12.614Z [info]: Server is running on port 5000 
+2024-07-29T16:28:12.648Z [info]: Connected to MongoDB 
+2024-07-29T16:28:32.450Z [info]: Server is running on port 5000 
+2024-07-29T16:28:32.559Z [info]: Connected to MongoDB 
+2024-07-29T16:28:36.300Z [info]: Server is running on port 5000 
+2024-07-29T16:28:36.356Z [info]: Connected to MongoDB 
+2024-07-29T16:28:56.891Z [info]: Server is running on port 5000 
+2024-07-29T16:28:56.944Z [info]: Connected to MongoDB 
+2024-07-29T16:29:22.666Z [info]: Server is running on port 5000 
+2024-07-29T16:29:22.766Z [info]: Connected to MongoDB 
+2024-07-29T17:05:11.447Z [info]: Retrieved all items 
+2024-07-29T17:05:21.225Z [info]: Retrieved all CMS items 
+2024-07-29T17:05:21.242Z [info]: Retrieved all CMS items 
+2024-07-29T17:05:30.887Z [info]: Retrieved all items 
+2024-07-29T17:05:30.894Z [info]: Retrieved all items 
+2024-07-30T05:16:11.912Z [info]: Server is running on port 5000 
+2024-07-30T05:16:11.936Z [info]: Connected to MongoDB 
+2024-07-30T05:19:53.386Z [info]: Retrieved all items 
+2024-07-30T05:19:53.394Z [info]: Retrieved all items 
+2024-07-30T05:19:53.397Z [info]: Retrieved all items 
+2024-07-30T05:19:53.408Z [info]: Retrieved all items 
+2024-07-30T05:19:53.411Z [info]: Retrieved all items 
+2024-07-30T05:19:53.413Z [info]: Retrieved all items 
+2024-07-30T05:25:47.996Z [info]: Retrieved all CMS items 
+2024-07-30T05:25:48.004Z [info]: Retrieved all CMS items 
+2024-07-30T05:25:51.556Z [info]: Retrieved all items 
+2024-07-30T05:25:51.562Z [info]: Retrieved all items 
+2024-07-30T05:28:29.394Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "time_en": "6:00 PM",
+    "time_ta": "மாலை 6:00 மணி",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": true,
+    "_id": "66a879fd65dbdc6c362ab372",
+    "createdAt": "2024-07-30T05:28:29.384Z",
+    "updatedAt": "2024-07-30T05:28:29.384Z",
+    "__v": 0
+  }
+}
+2024-07-30T05:30:05.416Z [info]: Retrieved all CMS items 
+2024-07-30T05:30:05.422Z [info]: Retrieved all CMS items 
+2024-07-30T05:31:07.331Z [info]: Retrieved all CMS items 
+2024-07-30T05:31:07.338Z [info]: Retrieved all CMS items 
+2024-07-30T05:32:28.746Z [info]: Retrieved all items 
+2024-07-30T05:32:43.791Z [info]: Retrieved all items 
+2024-07-30T05:32:56.776Z [info]: Retrieved all items 
+2024-07-30T05:33:01.739Z [info]: Retrieved all items 
+2024-07-30T05:33:17.733Z [info]: Retrieved all items 
+2024-07-30T05:35:09.738Z [info]: Retrieved all items 
+2024-07-30T05:37:13.798Z [info]: Retrieved all CMS items 
+2024-07-30T05:40:58.753Z [info]: Retrieved all CMS items 
+2024-07-30T05:41:21.778Z [info]: Retrieved all CMS items 
+2024-07-30T05:41:37.726Z [info]: Retrieved all CMS items 
+2024-07-30T05:57:21.794Z [info]: Retrieved all CMS items 
+2024-07-30T06:10:39.820Z [info]: Retrieved all CMS items 
+2024-07-30T06:10:45.514Z [info]: Retrieved all CMS items 
+2024-07-30T06:10:45.524Z [info]: Retrieved all CMS items 
+2024-07-30T06:10:49.619Z [info]: Retrieved all CMS items 
+2024-07-30T06:10:49.625Z [info]: Retrieved all CMS items 
+2024-07-30T06:13:18.385Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-30T06:13:18.395Z [info]: Retrieved all CMS items 
+2024-07-30T06:14:12.452Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "time_en": "6:00 PM",
+    "time_ta": "மாலை 6:00 மணி",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "image": "image-1722320052442.jpeg",
+    "isDisabled": true,
+    "_id": "66a884b465dbdc6c362ab38b",
+    "createdAt": "2024-07-30T06:14:12.448Z",
+    "updatedAt": "2024-07-30T06:14:12.448Z",
+    "__v": 0
+  }
+}
+2024-07-30T06:14:22.035Z [info]: Retrieved all CMS items 
+2024-07-30T06:14:22.040Z [info]: Retrieved all CMS items 
+2024-07-30T06:14:24.599Z [info]: Retrieved all CMS items 
+2024-07-30T06:14:24.605Z [info]: Retrieved all CMS items 
+2024-07-30T06:14:37.043Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66a884b465dbdc6c362ab38b",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "image": "image-1722320052442.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-30T06:15:04.740Z [info]: Retrieved all CMS items 
+2024-07-30T06:15:04.744Z [info]: Retrieved all CMS items 
+2024-07-30T06:15:09.859Z [info]: Retrieved all CMS items 
+2024-07-30T06:15:09.864Z [info]: Retrieved all CMS items 
+2024-07-30T06:17:08.745Z [info]: Retrieved all CMS items 
+2024-07-30T06:17:15.783Z [info]: Retrieved all CMS items 
+2024-07-30T06:17:15.787Z [info]: Retrieved all CMS items 
+2024-07-30T06:17:57.580Z [info]: Retrieved all CMS items 
+2024-07-30T06:17:57.631Z [info]: Retrieved all CMS items 
+2024-07-30T06:18:08.409Z [info]: Retrieved all CMS items 
+2024-07-30T06:18:08.418Z [info]: Retrieved all CMS items 
+2024-07-30T06:18:10.965Z [info]: Retrieved all CMS items 
+2024-07-30T06:18:10.972Z [info]: Retrieved all CMS items 
+2024-07-30T06:18:14.906Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-30T06:18:16.220Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": true
+  }
+}
