@@ -1,10 +1,11 @@
 const jwt = require('jsonwebtoken');
+const { STATUS_CODES } = require('../util/constant');
 
 const authMiddleware = (req, res, next) => {
     const token = req.header('Authorization')?.replace('Bearer ', '');
 
     if (!token) {
-        return res.status(401).json({ error: 'Access denied. No token provided.' });
+        return res.status(STATUS_CODES.NOT_FOUND).json({ error: 'Access denied. No token provided.' });
     }
 
     try {
@@ -12,7 +13,7 @@ const authMiddleware = (req, res, next) => {
         req.user = decoded; 
         next();
     } catch (error) {
-        res.status(400).json({ error: 'Invalid token.' });
+        res.status(STATUS_CODES.SERVER_ERROR).json({ error: 'Invalid token.' });
     }
 };
 

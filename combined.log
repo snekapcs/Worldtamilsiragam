@@ -12143,3 +12143,1036 @@
     "isDisabled": true
   }
 }
+2024-07-30T06:19:52.255Z [info]: Server is running on port 5000 
+2024-07-30T06:19:52.354Z [info]: Connected to MongoDB 
+2024-07-30T06:22:34.806Z [info]: Retrieved all CMS items 
+2024-07-30T06:22:34.831Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:16.687Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:16.700Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:17.959Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:17.985Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:19.281Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:19.289Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:20.512Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:20.524Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:22.258Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:22.268Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:48.898Z [info]: Retrieved all CMS items 
+2024-07-30T06:32:48.906Z [info]: Retrieved all CMS items 
+2024-07-30T06:44:38.824Z [info]: Retrieved all items 
+2024-07-30T06:44:38.833Z [info]: Retrieved all items 
+2024-07-30T06:44:38.838Z [info]: Retrieved all items 
+2024-07-30T06:44:38.862Z [info]: Retrieved all items 
+2024-07-30T06:44:38.870Z [info]: Retrieved all items 
+2024-07-30T06:44:38.888Z [info]: Retrieved all items 
+2024-07-30T06:51:56.056Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-30T06:52:04.011Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-30T06:52:04.595Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": false
+  }
+}
+2024-07-30T06:52:06.445Z [info]: Updated item {
+  "item": {
+    "_id": "66a879fd65dbdc6c362ab372",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "time_en": "6:00 PM",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!..",
+    "image": "image-1722317309365.jpeg",
+    "isDisabled": true
+  }
+}
+2024-07-30T09:38:26.105Z [info]: Server is running on port 5000 
+2024-07-30T09:38:26.146Z [info]: Connected to MongoDB 
+2024-07-30T09:41:27.429Z [info]: Server is running on port 5000 
+2024-07-30T09:41:27.478Z [info]: Connected to MongoDB 
+2024-07-30T09:45:05.879Z [info]: Server is running on port 5000 
+2024-07-30T09:45:05.931Z [info]: Connected to MongoDB 
+2024-07-30T09:45:20.169Z [info]: Server is running on port 5000 
+2024-07-30T09:45:20.231Z [info]: Connected to MongoDB 
+2024-07-30T09:45:53.910Z [info]: Server is running on port 5000 
+2024-07-30T09:45:53.960Z [info]: Connected to MongoDB 
+2024-07-30T09:49:24.584Z [info]: Server is running on port 5000 
+2024-07-30T09:49:24.635Z [info]: Connected to MongoDB 
+2024-07-30T09:59:04.253Z [info]: Server is running on port 5000 
+2024-07-30T09:59:04.303Z [info]: Connected to MongoDB 
+2024-07-30T10:00:26.345Z [info]: Server is running on port 5000 
+2024-07-30T10:00:26.411Z [info]: Connected to MongoDB 
+2024-07-30T10:03:38.983Z [info]: Server is running on port 5000 
+2024-07-30T10:03:39.067Z [info]: Connected to MongoDB 
+2024-07-30T10:04:19.116Z [info]: Server is running on port 5000 
+2024-07-30T10:04:19.185Z [info]: Connected to MongoDB 
+2024-07-30T10:05:10.024Z [info]: Server is running on port 5000 
+2024-07-30T10:05:10.169Z [info]: Connected to MongoDB 
+2024-07-30T10:05:33.023Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "669614b2dec09ad518364e2b",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "மே 2024",
+    "image": "image-1721111730343.jpeg",
+    "video": [
+      "video-1721111730391.mp4"
+    ],
+    "isDisabled": true
+  }
+}
+2024-07-30T10:06:05.304Z [info]: Retrieved all CMS items 
+2024-07-30T10:08:03.799Z [error]: Error creating item {
+  "error": "req.files.filter is not a function"
+}
+2024-07-30T10:12:53.897Z [info]: Server is running on port 5000 
+2024-07-30T10:12:53.936Z [info]: Connected to MongoDB 
+2024-07-30T10:13:10.626Z [info]: Server is running on port 5000 
+2024-07-30T10:13:10.676Z [info]: Connected to MongoDB 
+2024-07-30T10:13:24.925Z [info]: Server is running on port 5000 
+2024-07-30T10:13:24.977Z [info]: Connected to MongoDB 
+2024-07-30T10:14:01.368Z [error]: Error creating item {
+  "error": "req.files.filter is not a function"
+}
+2024-07-30T10:14:43.442Z [info]: Server is running on port 5000 
+2024-07-30T10:14:43.496Z [info]: Connected to MongoDB 
+2024-07-30T10:15:45.359Z [info]: Server is running on port 5000 
+2024-07-30T10:15:45.407Z [info]: Connected to MongoDB 
+2024-07-30T10:16:14.130Z [info]: Server is running on port 5000 
+2024-07-30T10:16:14.169Z [info]: Connected to MongoDB 
+2024-07-30T10:16:20.263Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": [
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\image-1722334580187.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722334580205.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722334580209.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722334580210.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "structure.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722334580216.jpeg",
+        "fileSize": 22523
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722334580192.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "_id": "66a8bd74ac7b11a5f69ca43b",
+    "createdAt": "2024-07-30T10:16:20.245Z",
+    "updatedAt": "2024-07-30T10:16:20.245Z",
+    "__v": 0
+  }
+}
+2024-07-30T10:24:09.993Z [info]: Retrieved all CMS items 
+2024-07-30T10:24:10.014Z [info]: Retrieved all CMS items 
+2024-07-30T10:24:12.277Z [info]: Retrieved all CMS items 
+2024-07-30T10:24:12.286Z [info]: Retrieved all CMS items 
+2024-07-30T10:25:27.406Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-30T10:25:53.147Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": [
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\image-1722335153103.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335153119.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335153123.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335153124.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "structure.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335153129.jpeg",
+        "fileSize": 22523
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722335153106.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "_id": "66a8bfb1ac7b11a5f69ca441",
+    "createdAt": "2024-07-30T10:25:53.139Z",
+    "updatedAt": "2024-07-30T10:25:53.139Z",
+    "__v": 0
+  }
+}
+2024-07-30T10:30:54.733Z [info]: Server is running on port 5000 
+2024-07-30T10:30:54.785Z [info]: Connected to MongoDB 
+2024-07-30T10:31:18.126Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": [
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\image-1722335478037.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335478058.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335478064.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335478064.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "structure.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335478072.jpeg",
+        "fileSize": 22523
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722335478042.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "_id": "66a8c0f6439e7a393487dde5",
+    "createdAt": "2024-07-30T10:31:18.106Z",
+    "updatedAt": "2024-07-30T10:31:18.106Z",
+    "__v": 0
+  }
+}
+2024-07-30T10:32:22.103Z [info]: Server is running on port 5000 
+2024-07-30T10:32:22.156Z [info]: Connected to MongoDB 
+2024-07-30T10:34:18.455Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": "image-1722335658312.jpeg",
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335658351.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335658360.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335658361.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "structure.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335658378.jpeg",
+        "fileSize": 22523
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722335658322.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "_id": "66a8c1aa8e88c68fe2b92c77",
+    "createdAt": "2024-07-30T10:34:18.427Z",
+    "updatedAt": "2024-07-30T10:34:18.427Z",
+    "__v": 0
+  }
+}
+2024-07-30T10:37:10.522Z [info]: Server is running on port 5000 
+2024-07-30T10:37:10.560Z [info]: Connected to MongoDB 
+2024-07-30T10:37:32.236Z [info]: Server is running on port 5000 
+2024-07-30T10:37:32.292Z [info]: Connected to MongoDB 
+2024-07-30T10:38:00.146Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722335880061.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335880090.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335880094.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335880094.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "structure.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722335880100.jpeg",
+        "fileSize": 22523
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722335880072.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "_id": "66a8c28870984a23805b448e",
+    "createdAt": "2024-07-30T10:38:00.130Z",
+    "updatedAt": "2024-07-30T10:38:00.130Z",
+    "__v": 0
+  }
+}
+2024-07-30T10:38:41.137Z [info]: Server is running on port 5000 
+2024-07-30T10:38:41.175Z [info]: Connected to MongoDB 
+2024-07-30T10:39:24.055Z [info]: Server is running on port 5000 
+2024-07-30T10:39:24.120Z [info]: Connected to MongoDB 
+2024-07-30T10:43:10.734Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722336190638.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722336190659.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722336190659.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722336190643.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "_id": "66a8c3bef561ff9e058d7333",
+    "createdAt": "2024-07-30T10:43:10.703Z",
+    "updatedAt": "2024-07-30T10:43:10.703Z",
+    "__v": 0
+  }
+}
+2024-07-30T10:44:44.673Z [info]: Retrieved all CMS items 
+2024-07-30T10:44:44.688Z [info]: Retrieved all CMS items 
+2024-07-30T10:44:47.617Z [info]: Retrieved all CMS items 
+2024-07-30T10:44:47.626Z [info]: Retrieved all CMS items 
+2024-07-30T10:50:19.752Z [info]: Retrieved all CMS items 
+2024-07-30T10:50:19.762Z [info]: Retrieved all CMS items 
+2024-07-30T10:51:34.757Z [info]: Retrieved all CMS items 
+2024-07-30T10:51:58.744Z [info]: Retrieved all CMS items 
+2024-07-30T10:52:02.441Z [info]: Retrieved all CMS items 
+2024-07-30T10:52:02.449Z [info]: Retrieved all CMS items 
+2024-07-30T10:52:06.590Z [info]: Retrieved all CMS items 
+2024-07-30T10:52:06.600Z [info]: Retrieved all CMS items 
+2024-07-30T10:53:22.766Z [info]: Retrieved all CMS items 
+2024-07-30T10:53:36.184Z [info]: Retrieved all CMS items 
+2024-07-30T10:53:36.193Z [info]: Retrieved all CMS items 
+2024-07-30T10:53:39.078Z [info]: Retrieved all CMS items 
+2024-07-30T10:53:39.087Z [info]: Retrieved all CMS items 
+2024-07-30T10:55:52.816Z [info]: Retrieved all CMS items 
+2024-07-30T10:56:28.743Z [info]: Retrieved all CMS items 
+2024-07-30T10:57:34.809Z [info]: Retrieved all CMS items 
+2024-07-30T10:58:10.824Z [info]: Retrieved all CMS items 
+2024-07-30T10:58:45.474Z [info]: Retrieved all CMS items 
+2024-07-30T10:58:45.482Z [info]: Retrieved all CMS items 
+2024-07-30T10:58:48.731Z [info]: Retrieved all CMS items 
+2024-07-30T10:58:48.738Z [info]: Retrieved all CMS items 
+2024-07-30T11:06:13.484Z [info]: Retrieved all CMS items 
+2024-07-30T11:06:13.493Z [info]: Retrieved all CMS items 
+2024-07-30T11:07:33.759Z [info]: Retrieved all CMS items 
+2024-07-30T11:07:50.756Z [info]: Retrieved all CMS items 
+2024-07-30T11:08:03.747Z [info]: Retrieved all CMS items 
+2024-07-30T11:09:06.770Z [info]: Retrieved all CMS items 
+2024-07-30T11:09:06.827Z [info]: Retrieved all CMS items 
+2024-07-30T11:09:10.527Z [info]: Retrieved all CMS items 
+2024-07-30T11:09:10.543Z [info]: Retrieved all CMS items 
+2024-07-30T11:17:12.738Z [info]: Retrieved all CMS items 
+2024-07-30T11:17:53.782Z [info]: Retrieved all CMS items 
+2024-07-30T11:17:53.789Z [info]: Retrieved all CMS items 
+2024-07-30T11:18:40.908Z [info]: Retrieved all CMS items 
+2024-07-30T11:18:40.916Z [info]: Retrieved all CMS items 
+2024-07-30T11:18:54.954Z [info]: Retrieved all CMS items 
+2024-07-30T11:18:54.962Z [info]: Retrieved all CMS items 
+2024-07-30T11:18:57.875Z [info]: Retrieved all CMS items 
+2024-07-30T11:18:57.886Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:00.199Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:00.239Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:20.763Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:20.772Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:26.313Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:26.321Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:29.040Z [info]: Retrieved all CMS items 
+2024-07-30T11:19:29.047Z [info]: Retrieved all CMS items 
+2024-07-30T11:30:57.257Z [info]: Retrieved all CMS items 
+2024-07-30T11:30:57.272Z [info]: Retrieved all CMS items 
+2024-07-30T11:31:03.656Z [info]: Retrieved all CMS items 
+2024-07-30T11:31:03.668Z [info]: Retrieved all CMS items 
+2024-07-30T11:33:58.283Z [info]: Retrieved all CMS items 
+2024-07-30T11:33:58.294Z [info]: Retrieved all CMS items 
+2024-07-30T11:34:02.059Z [info]: Retrieved all CMS items 
+2024-07-30T11:34:02.067Z [info]: Retrieved all CMS items 
+2024-07-30T11:36:03.957Z [info]: Retrieved all CMS items 
+2024-07-30T11:36:43.784Z [info]: Retrieved all CMS items 
+2024-07-30T11:37:59.769Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:12.809Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:12.822Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:14.088Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:14.096Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:42.798Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:58.717Z [info]: Retrieved all CMS items 
+2024-07-30T11:38:58.772Z [info]: Retrieved all CMS items 
+2024-07-30T11:39:01.673Z [info]: Retrieved all CMS items 
+2024-07-30T11:39:01.679Z [info]: Retrieved all CMS items 
+2024-07-30T11:40:09.802Z [info]: Retrieved all CMS items 
+2024-07-30T11:40:19.027Z [info]: Retrieved all CMS items 
+2024-07-30T11:40:19.040Z [info]: Retrieved all CMS items 
+2024-07-30T11:40:21.952Z [info]: Retrieved all CMS items 
+2024-07-30T11:40:21.960Z [info]: Retrieved all CMS items 
+2024-07-30T11:43:37.792Z [info]: Retrieved all CMS items 
+2024-07-30T11:43:47.163Z [info]: Retrieved all CMS items 
+2024-07-30T11:43:47.191Z [info]: Retrieved all CMS items 
+2024-07-30T11:44:07.889Z [info]: Retrieved all CMS items 
+2024-07-30T11:44:07.899Z [info]: Retrieved all CMS items 
+2024-07-30T11:44:23.158Z [info]: Retrieved all CMS items 
+2024-07-30T11:44:23.165Z [info]: Retrieved all CMS items 
+2024-07-30T11:45:45.569Z [info]: Retrieved all CMS items 
+2024-07-30T11:46:21.759Z [info]: Retrieved all CMS items 
+2024-07-30T11:46:41.539Z [info]: Retrieved all CMS items 
+2024-07-30T11:46:41.553Z [info]: Retrieved all CMS items 
+2024-07-30T11:46:59.624Z [info]: Retrieved all CMS items 
+2024-07-30T11:46:59.630Z [info]: Retrieved all CMS items 
+2024-07-30T12:05:43.090Z [info]: Server is running on port 5000 
+2024-07-30T12:05:43.139Z [info]: Connected to MongoDB 
+2024-07-30T16:03:54.614Z [info]: Server is running on port 5000 
+2024-07-30T16:03:54.639Z [info]: Connected to MongoDB 
+2024-07-30T16:04:18.986Z [info]: User login successful {
+  "userId": "66a3538b0b83a7594d90371c"
+}
+2024-07-30T16:06:33.271Z [info]: Server is running on port 5000 
+2024-07-30T16:06:33.295Z [info]: Connected to MongoDB 
+2024-07-30T16:19:51.882Z [info]: Server is running on port 5000 
+2024-07-30T16:19:51.899Z [info]: Connected to MongoDB 
+2024-07-30T16:36:26.778Z [info]: Server is running on port 5000 
+2024-07-30T16:36:26.798Z [info]: Connected to MongoDB 
+2024-07-30T16:36:46.398Z [info]: Server is running on port 5000 
+2024-07-30T16:36:46.416Z [info]: Connected to MongoDB 
+2024-07-30T16:37:40.661Z [info]: Server is running on port 5000 
+2024-07-30T16:37:40.682Z [info]: Connected to MongoDB 
+2024-07-30T16:39:03.201Z [info]: Server is running on port 5000 
+2024-07-30T16:39:03.222Z [info]: Connected to MongoDB 
+2024-07-30T16:42:01.603Z [info]: Server is running on port 5000 
+2024-07-30T16:42:01.621Z [info]: Connected to MongoDB 
+2024-07-30T16:45:05.349Z [info]: Server is running on port 5000 
+2024-07-30T16:45:05.370Z [info]: Connected to MongoDB 
+2024-07-30T16:45:24.152Z [info]: Server is running on port 5000 
+2024-07-30T16:45:24.180Z [info]: Connected to MongoDB 
+2024-07-30T16:45:34.582Z [info]: Server is running on port 5000 
+2024-07-30T16:45:34.602Z [info]: Connected to MongoDB 
+2024-07-30T16:45:40.522Z [info]: Server is running on port 5000 
+2024-07-30T16:45:40.547Z [info]: Connected to MongoDB 
+2024-07-30T16:47:07.763Z [info]: Server is running on port 5000 
+2024-07-30T16:47:07.785Z [info]: Connected to MongoDB 
+2024-07-30T16:47:14.469Z [info]: Server is running on port 5000 
+2024-07-30T16:47:14.488Z [info]: Connected to MongoDB 
+2024-07-30T16:47:31.592Z [info]: Server is running on port 5000 
+2024-07-30T16:47:31.609Z [info]: Connected to MongoDB 
+2024-07-30T16:47:39.455Z [info]: Server is running on port 5000 
+2024-07-30T16:47:39.478Z [info]: Connected to MongoDB 
+2024-07-30T16:47:58.931Z [info]: Server is running on port 5000 
+2024-07-30T16:47:58.951Z [info]: Connected to MongoDB 
+2024-07-30T16:53:48.852Z [info]: Server is running on port 5000 
+2024-07-30T16:53:48.871Z [info]: Connected to MongoDB 
+2024-07-30T16:54:17.306Z [info]: Server is running on port 5000 
+2024-07-30T16:54:17.328Z [info]: Connected to MongoDB 
+2024-07-30T16:54:37.277Z [info]: Server is running on port 5000 
+2024-07-30T16:54:37.292Z [info]: Connected to MongoDB 
+2024-07-30T16:54:52.386Z [info]: Server is running on port 5000 
+2024-07-30T16:54:52.414Z [info]: Connected to MongoDB 
+2024-07-30T16:55:05.044Z [info]: Server is running on port 5000 
+2024-07-30T16:55:05.065Z [info]: Connected to MongoDB 
+2024-07-30T16:55:19.264Z [info]: Server is running on port 5000 
+2024-07-30T16:55:19.283Z [info]: Connected to MongoDB 
+2024-07-30T16:55:40.712Z [info]: Server is running on port 5000 
+2024-07-30T16:55:40.734Z [info]: Connected to MongoDB 
+2024-07-30T16:58:00.349Z [info]: Retrieved all CMS items 
+2024-07-30T16:58:26.519Z [info]: Retrieved all CMS items 
+2024-07-30T17:07:21.161Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "15 May 2024",
+    "date_ta": "15 மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722359241116.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241126.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241126.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241128.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241131.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722359241120.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "heading_ta": "தலைமை",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_en": "Honorable Cha. Jagadratsakan MB ",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி ",
+    "minister_en": "Former Union Minister",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_en": "Chairman",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_en": "Patarasar K. Bharathidasan France",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா",
+    "_id": "66a91dc9d7665e0f7051a6e5",
+    "createdAt": "2024-07-30T17:07:21.150Z",
+    "updatedAt": "2024-07-30T17:07:21.150Z",
+    "__v": 0
+  }
+}
+2024-07-30T17:08:20.910Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66a91dc9d7665e0f7051a6e5",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "15 மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722359241116.jpeg",
+      "fileSize": 178011
+    },
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722359241120.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_ta": "தலைமை",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி ",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா"
+  }
+}
+2024-07-30T17:09:18.286Z [info]: Retrieved all CMS items 
+2024-07-30T17:10:02.475Z [info]: Server is running on port 5000 
+2024-07-30T17:10:02.497Z [info]: Connected to MongoDB 
+2024-07-30T17:10:13.359Z [info]: Server is running on port 5000 
+2024-07-30T17:10:13.377Z [info]: Connected to MongoDB 
+2024-07-30T17:10:24.217Z [info]: Server is running on port 5000 
+2024-07-30T17:10:24.257Z [info]: Connected to MongoDB 
+2024-07-30T17:10:33.682Z [info]: Server is running on port 5000 
+2024-07-30T17:10:33.707Z [info]: Connected to MongoDB 
+2024-07-30T17:10:40.920Z [info]: Server is running on port 5000 
+2024-07-30T17:10:40.946Z [info]: Connected to MongoDB 
+2024-07-30T17:10:54.552Z [info]: Server is running on port 5000 
+2024-07-30T17:10:54.578Z [info]: Connected to MongoDB 
+2024-07-30T17:11:01.963Z [info]: Retrieved all CMS items 
+2024-07-30T17:11:40.633Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66a91dc9d7665e0f7051a6e5",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "15 மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722359241116.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241126.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241126.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241128.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359241131.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722359241120.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_ta": "தலைமை",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி ",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா"
+  }
+}
+2024-07-30T17:19:09.732Z [info]: Updated item {
+  "item": {
+    "_id": "66a91dc9d7665e0f7051a6e5",
+    "title_en": "World Tamil Flag!!..",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722359241116.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359949692.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359949696.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359949697.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359949701.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [],
+    "isDisabled": false,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable Cha. Jagadratsakan MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar K. Bharathidasan France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America"
+  }
+}
+2024-07-30T17:19:27.873Z [info]: Updated item {
+  "item": {
+    "_id": "66a91dc9d7665e0f7051a6e5",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம்!!..",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "15 மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722359241116.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359967852.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359967854.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359967855.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722359967859.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [],
+    "isDisabled": false,
+    "heading_ta": "தலைமை",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா!"
+  }
+}
+2024-07-30T17:22:59.558Z [info]: Server is running on port 5000 
+2024-07-30T17:22:59.576Z [info]: Connected to MongoDB 
+2024-07-30T17:24:58.095Z [warn]: Item not found {
+  "id": "66a91dc9d7665e0f7051a6e5"
+}
+2024-07-30T17:25:10.582Z [info]: Retrieved all CMS items 
+2024-07-30T17:25:25.804Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "15 May 2024",
+    "date_ta": "15 மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722360325764.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325775.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325775.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325778.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325780.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722360325767.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "heading_ta": "தலைமை",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_en": "Honorable Cha. Jagadratsakan MB ",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி ",
+    "minister_en": "Former Union Minister",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_en": "Chairman",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_en": "Patarasar K. Bharathidasan France",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா",
+    "_id": "66a92205a1acbbc9ad731c8f",
+    "createdAt": "2024-07-30T17:25:25.796Z",
+    "updatedAt": "2024-07-30T17:25:25.796Z",
+    "__v": 0
+  }
+}
+2024-07-30T17:25:43.305Z [info]: Retrieved all CMS items 
+2024-07-30T17:25:58.472Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66a92205a1acbbc9ad731c8f",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_ta": "15 மே 2024",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1722360325764.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325775.jpeg",
+        "fileSize": 10576
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325775.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325778.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1722360325780.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1722360325767.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_ta": "தலைமை",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி ",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா"
+  }
+}
+2024-07-30T17:26:58.616Z [info]: Retrieved all items 
+2024-07-30T17:26:58.619Z [info]: Retrieved all items 
+2024-07-30T17:26:58.625Z [info]: Retrieved all items 
+2024-07-30T17:26:58.631Z [info]: Retrieved all items 
+2024-07-30T17:27:02.075Z [info]: Retrieved all items 
+2024-07-30T17:27:02.083Z [info]: Retrieved all items 

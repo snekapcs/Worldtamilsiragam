@@ -16,7 +16,11 @@ const upload = multer({
   fileFilter: function(req, file, cb){
     checkFileType(file, cb);
   }
-}).fields([{ name: 'image', maxCount: 1 }, { name: 'video', maxCount: 1 }]); // Support both image and video upload
+}).fields([
+  { name: 'image', maxCount: 1 }, 
+  { name: 'video', maxCount: 1 },
+  { name: 'gallery_images', maxCount: 50 }
+]); // Support both image and video upload
 
 // Check file type
 function checkFileType(file, cb){

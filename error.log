@@ -965,3 +965,12 @@
 2024-07-29T11:29:32.340Z [error]: Error creating item {
   "error": "Structure validation failed: team_type: `நிர்வாக குழு` is not a valid enum value for path `team_type`."
 }
+2024-07-30T10:08:03.799Z [error]: Error creating item {
+  "error": "req.files.filter is not a function"
+}
+2024-07-30T10:14:01.368Z [error]: Error creating item {
+  "error": "req.files.filter is not a function"
+}
+2024-07-30T10:25:27.406Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
