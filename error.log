@@ -974,3 +974,24 @@
 2024-07-30T10:25:27.406Z [error]: Error uploading files {
   "error": "Unexpected field"
 }
+2024-07-31T08:03:31.367Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-31T10:18:27.374Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-31T10:56:46.827Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-31T11:08:11.961Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-31T11:09:06.862Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-31T11:43:57.970Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-07-31T11:56:34.001Z [error]: Error creating item {
+  "error": "Festival validation failed: title_en: Path `title_en` is required., title_ta: Path `title_ta` is required., description_en: Path `description_en` is required., description_ta: Path `description_ta` is required., date_en: Path `date_en` is required., date_ta: Path `date_ta` is required., heading_en: Path `heading_en` is required., heading_ta: Path `heading_ta` is required., subHeading_en: Path `subHeading_en` is required., subHeading_ta: Path `subHeading_ta` is required., specialChairman_en: Path `specialChairman_en` is required., specialChairman_ta: Path `specialChairman_ta` is required., specialChairmanName_en: Path `specialChairmanName_en` is required., specialChairmanName_ta: Path `specialChairmanName_ta` is required., minister_en: Path `minister_en` is required., minister_ta: Path `minister_ta` is required., chairman_en: Path `chairman_en` is required., chairman_ta: Path `chairman_ta` is required., chairmanName_en: Path `chairmanName_en` is required., chairmanName_ta: Path `chairmanName_ta` is required., generalSecretary_en: Path `generalSecretary_en` is required., generalSecretary_ta: Path `generalSecretary_ta` is required., generalSecretaryName_en: Path `generalSecretaryName_en` is required., generalSecretaryName_ta: Path `generalSecretaryName_ta` is required."
+}
