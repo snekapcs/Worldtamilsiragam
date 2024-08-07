@@ -18,7 +18,7 @@ const createItem = async (req, res) => {
     try {
       const newItem = new InvitationModel({
         ...req.body,
-        image: req.files.image ? req.files.image[0].filename : undefined
+        file: req.files.file ? req.files.file[0].filename : undefined
       });
       await newItem.save();
       logger.info('Item created', { item: newItem });
@@ -61,7 +61,7 @@ const createItem = async (req, res) => {
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
   try {
-      const selectedValue = 'title_en title_ta description_en description_ta date_en date_ta time_en time_ta location_en location_ta sub_description_en sub_description_ta image isDisabled _id'; 
+      const selectedValue = 'title_en title_ta description_en description_ta date_en date_ta location_en location_ta sub_description_en sub_description_ta file isDisabled _id'; 
 
       const items = await InvitationModel.find({}, selectedValue);
       logger.info('Retrieved all CMS items');
@@ -87,9 +87,9 @@ const getAllCmsItems = async (req, res) => {
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
+    let selectedValue = 'title_en description_en date_en location_en sub_description_en file isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta date_ta location_ta sub_description_ta file isDisabled _id';
     }
     const items = await InvitationModel.find({}, selectedValue);
     logger.info('Retrieved all items');
@@ -131,9 +131,9 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
+    let selectedValue = 'title_en description_en date_en location_en sub_description_en file isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta date_ta location_ta sub_description_ta file isDisabled _id';
     }
 
     const item = await InvitationModel.findById(req.params.id, selectedValue);
@@ -207,7 +207,7 @@ const updateItem = async (req, res) => {
     try {
       const updateData = { ...req.body };
       if (req.file) {
-        updateData.image = req.file.filename; // Update filename if a new file is uploaded
+        updateData.file = req.file.filename; // Update filename if a new file is uploaded
       }
 
       const item = await InvitationModel.findByIdAndUpdate(
@@ -235,9 +235,9 @@ const updateItem = async (req, res) => {
         return;
       }
 
-      let selectedValue = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
+      let selectedValue = 'title_en description_en date_en location_en sub_description_en file isDisabled _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
+        selectedValue = 'title_ta description_ta date_ta location_ta sub_description_ta file isDisabled _id';
       }
       const updatedItem = await InvitationModel.findById(req.params.id, selectedValue);
 
@@ -281,9 +281,9 @@ const updateItem = async (req, res) => {
 // Delete an item
 const deleteItem = async (req, res) => {
   try {
-    let selectedFields = 'title_en description_en date_en time_en location_en sub_description_en image isDisabled _id';
+    let selectedFields = 'title_en description_en date_en location_en sub_description_en file isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedFields = 'title_ta description_ta date_ta time_ta location_ta sub_description_ta image isDisabled _id';
+      selectedFields = 'title_ta description_ta date_ta location_ta sub_description_ta file isDisabled _id';
     }
 
     const dltitem = await InvitationModel.findById(req.params.id).select(selectedFields);

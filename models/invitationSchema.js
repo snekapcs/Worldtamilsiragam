@@ -7,13 +7,11 @@ const invitationSchema = new mongoose.Schema({
   description_ta: { type: String, required: true },
   date_en: { type: String, required: true },
   date_ta: { type: String, required: true },
-  time_en: { type: String, required: true },
-  time_ta: { type: String, required: true },
   location_en: { type: String, required: true },
   location_ta: { type: String, required: true },
   sub_description_en: { type: String, required: true },
   sub_description_ta: { type: String, required: true },
-  image: { type: String, required: true },
+  file: { type: String, required: true },
   isDisabled: { type: Boolean, default: false }
 }, { timestamps: true });
 

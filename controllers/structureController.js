@@ -83,7 +83,7 @@ const createItem = async (req, res) => {
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
   try {
-    const selectedValue = 'title_en title_ta description_en description_ta image isDisabled team_type _id';
+    const selectedValue = 'title_en title_ta description_en description_ta image isDisabled team_type contactNo_en contactNo_ta _id';
 
     const items = await StructureModel.find({}, selectedValue);
     logger.info('Retrieved all CMS items');
@@ -108,9 +108,9 @@ const getAllCmsItems = async (req, res) => {
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled team_type _id';
+    let selectedValue = 'title_en description_en image isDisabled team_type contactNo_en _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled team_type _id';
+      selectedValue = 'title_ta description_ta image isDisabled team_type contactNo_ta _id';
     }
     const items = await StructureModel.find({}, selectedValue);
     logger.info('Retrieved all items');
@@ -152,9 +152,9 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en image isDisabled team_type _id';
+    let selectedValue = 'title_en description_en image isDisabled team_type contactNo_en _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta image isDisabled team_type _id';
+      selectedValue = 'title_ta description_ta image isDisabled team_type contactNo_ta _id';
     }
 
     const item = await StructureModel.findById(req.params.id, selectedValue);
@@ -268,9 +268,9 @@ const updateItem = async (req, res) => {
         return;
       }
 
-      let selectedValue = 'title_en description_en image isDisabled team_type _id';
+      let selectedValue = 'title_en description_en image isDisabled team_type contactNo_en _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta image isDisabled team_type _id';
+        selectedValue = 'title_ta description_ta image isDisabled team_type contactNo_ta _id';
       }
       const updatedItem = await StructureModel.findById(req.params.id, selectedValue);
 

@@ -6,12 +6,14 @@ const structureSchema = new mongoose.Schema({
     title_ta: { type: String, required: true },
     description_en: { type: String, required: true },
     description_ta: { type: String, required: true },
-    image: { type: String, required: true },
+    image: { type: String, required: false },
     team_type: { 
         type: String, 
         enum: Object.values(TeamTypeEnum), 
         required: true 
     },
+    contactNo_en: { type: String, require: false },
+    contactNo_ta: { type: String, require: false },
     isDisabled: { type: Boolean, default: false }
 }, { timestamps: true });
 

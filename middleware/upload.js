@@ -17,7 +17,7 @@ const upload = multer({
     checkFileType(file, cb);
   }
 }).fields([
-  { name: 'image', maxCount: 1 }, 
+  { name: 'file', maxCount: 1 }, 
   { name: 'video', maxCount: 1 },
   { name: 'gallery_images', maxCount: 50 }
 ]); // Support both image and video upload
@@ -25,7 +25,7 @@ const upload = multer({
 // Check file type
 function checkFileType(file, cb){
   // Allowed ext
-  const filetypes = /jpeg|jpg|png|gif|mp4|mov|wmv|avi/; // Added video file types
+  const filetypes = /jpeg|jpg|png|gif|pdf|doc|docx|mp4|mov|wmv|avi/; // Added video file types
   // Check ext
   const extname = filetypes.test(path.extname(file.originalname).toLowerCase());
   // Check mime
@@ -34,7 +34,7 @@ function checkFileType(file, cb){
   if(mimetype && extname){
     return cb(null, true);
   } else {
-    cb('Error: Images and Videos Only!');
+    cb('Error: Images, Videos, PDFs, and Word Documents Only!');
   }
 }
 
