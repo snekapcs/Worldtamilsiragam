@@ -207,8 +207,8 @@ const updateItem = async (req, res) => {
 
     try {
       const updateData = { ...req.body };
-      if (req.file) {
-        updateData.image = req.file.filename; // Update filename if a new file is uploaded
+      if (req.files?.image) {
+        updateData.image = req.files.image[0].filename; // Update filename if a new image is uploaded
       }
 
       const item = await VisionModel.findByIdAndUpdate(

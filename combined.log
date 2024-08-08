@@ -20158,3 +20158,1951 @@
 2024-08-07T12:14:49.946Z [info]: Retrieved all CMS items 
 2024-08-07T12:15:08.627Z [info]: Server is running on port 5000 
 2024-08-07T12:15:08.690Z [info]: Connected to MongoDB 
+2024-08-07T12:18:24.838Z [info]: Server is running on port 5000 
+2024-08-07T12:18:24.878Z [info]: Connected to MongoDB 
+2024-08-07T12:18:38.327Z [info]: Retrieved all CMS items 
+2024-08-07T12:18:38.355Z [info]: Retrieved all CMS items 
+2024-08-07T12:18:41.472Z [info]: Retrieved all CMS items 
+2024-08-07T12:18:41.489Z [info]: Retrieved all CMS items 
+2024-08-07T12:19:15.730Z [info]: Retrieved all CMS items 
+2024-08-07T12:19:15.738Z [info]: Retrieved all CMS items 
+2024-08-07T12:38:34.128Z [info]: Retrieved all items 
+2024-08-07T12:38:34.134Z [info]: Retrieved all CMS items 
+2024-08-07T12:38:34.141Z [info]: Retrieved all items 
+2024-08-07T12:38:34.159Z [info]: Retrieved all items 
+2024-08-07T12:38:34.166Z [info]: Retrieved all items 
+2024-08-07T12:40:32.928Z [info]: Retrieved all CMS items 
+2024-08-07T12:40:32.939Z [info]: Retrieved all CMS items 
+2024-08-07T12:40:52.635Z [info]: Retrieved all CMS items 
+2024-08-07T12:40:52.639Z [info]: Retrieved all CMS items 
+2024-08-07T12:41:53.856Z [info]: Updated item {
+  "item": {
+    "_id": "66b361c612f7769814468f95",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-07T12:41:53.863Z [info]: Retrieved all CMS items 
+2024-08-07T12:43:38.492Z [info]: Retrieved all CMS items 
+2024-08-07T12:43:39.021Z [info]: Retrieved all items 
+2024-08-07T12:43:39.024Z [info]: Retrieved all items 
+2024-08-07T12:43:39.032Z [info]: Retrieved all items 
+2024-08-07T12:43:39.036Z [info]: Retrieved all items 
+2024-08-07T12:44:03.415Z [info]: Updated item {
+  "item": {
+    "_id": "66b3623512f7769814468f9d",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +1 (586) 801-2246",
+    "isDisabled": true
+  }
+}
+2024-08-07T12:44:03.425Z [info]: Retrieved all CMS items 
+2024-08-07T12:45:06.867Z [info]: Retrieved all CMS items 
+2024-08-07T12:45:06.873Z [info]: Retrieved all CMS items 
+2024-08-07T12:49:47.054Z [info]: Retrieved all CMS items 
+2024-08-07T12:49:47.058Z [info]: Retrieved all CMS items 
+2024-08-07T12:49:47.225Z [info]: Retrieved all CMS items 
+2024-08-07T12:49:47.231Z [info]: Retrieved all CMS items 
+2024-08-07T12:49:49.687Z [info]: Retrieved all CMS items 
+2024-08-07T12:49:49.692Z [info]: Retrieved all CMS items 
+2024-08-07T12:51:41.743Z [info]: Retrieved all CMS items 
+2024-08-07T12:51:41.750Z [info]: Retrieved all CMS items 
+2024-08-07T12:52:58.578Z [info]: Retrieved all CMS items 
+2024-08-07T12:52:58.583Z [info]: Retrieved all CMS items 
+2024-08-07T12:54:26.559Z [info]: Retrieved all CMS items 
+2024-08-07T12:54:26.565Z [info]: Retrieved all CMS items 
+2024-08-07T12:57:20.710Z [info]: Server is running on port 5000 
+2024-08-07T12:57:20.737Z [info]: Connected to MongoDB 
+2024-08-07T12:57:51.764Z [info]: Server is running on port 5000 
+2024-08-07T12:57:51.781Z [info]: Connected to MongoDB 
+2024-08-07T12:59:00.929Z [info]: Server is running on port 5000 
+2024-08-07T12:59:00.944Z [info]: Connected to MongoDB 
+2024-08-07T12:59:49.448Z [info]: Server is running on port 5000 
+2024-08-07T12:59:49.466Z [info]: Connected to MongoDB 
+2024-08-07T12:59:59.357Z [info]: Server is running on port 5000 
+2024-08-07T12:59:59.376Z [info]: Connected to MongoDB 
+2024-08-07T13:00:16.143Z [info]: Retrieved all items 
+2024-08-07T13:01:49.466Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:03:30.594Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:04:30.394Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:06:57.514Z [info]: Server is running on port 5000 
+2024-08-07T13:06:57.533Z [info]: Connected to MongoDB 
+2024-08-07T13:07:08.118Z [info]: Updated item {
+  "item": {
+    "_id": "66794ea1d1580c3ed5330308",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226017036.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:07:40.558Z [info]: Updated item {
+  "item": {
+    "_id": "66794edad1580c3ed533030a",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1719226074040.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:08:13.586Z [info]: Server is running on port 5000 
+2024-08-07T13:08:13.603Z [info]: Connected to MongoDB 
+2024-08-07T13:08:26.437Z [warn]: Item not found for update {
+  "id": "66794edad1580c3ed533030a"
+}
+2024-08-07T13:09:30.034Z [error]: Error creating item {
+  "error": "News validation failed: image: Path `image` is required."
+}
+2024-08-07T13:10:07.288Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723036207278.jpeg",
+    "isDisabled": true,
+    "_id": "66b3722f2f46af8ac7707e6c",
+    "createdAt": "2024-08-07T13:10:07.281Z",
+    "updatedAt": "2024-08-07T13:10:07.281Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:10:44.242Z [info]: Retrieved all CMS items 
+2024-08-07T13:10:44.249Z [info]: Retrieved all CMS items 
+2024-08-07T13:11:21.408Z [info]: Server is running on port 5000 
+2024-08-07T13:11:21.463Z [info]: Connected to MongoDB 
+2024-08-07T13:11:30.544Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723036290522.jpeg",
+    "isDisabled": true,
+    "_id": "66b3728253bb7866898fbe9a",
+    "createdAt": "2024-08-07T13:11:30.536Z",
+    "updatedAt": "2024-08-07T13:11:30.536Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:11:34.158Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723036294147.jpeg",
+    "isDisabled": true,
+    "_id": "66b3728653bb7866898fbe9c",
+    "createdAt": "2024-08-07T13:11:34.154Z",
+    "updatedAt": "2024-08-07T13:11:34.154Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:12:07.947Z [info]: Updated item {
+  "item": {
+    "_id": "66b3728653bb7866898fbe9c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723036294147.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:12:48.272Z [info]: Updated item {
+  "item": {
+    "_id": "66b3728253bb7866898fbe9a",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723036290522.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:12:59.405Z [info]: Retrieved all CMS items 
+2024-08-07T13:12:59.412Z [info]: Retrieved all CMS items 
+2024-08-07T13:13:01.395Z [info]: Retrieved all CMS items 
+2024-08-07T13:13:01.403Z [info]: Retrieved all CMS items 
+2024-08-07T13:13:56.406Z [info]: Updated item {
+  "item": {
+    "_id": "66b3722f2f46af8ac7707e6c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723036207278.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:14:15.038Z [info]: Retrieved all CMS items 
+2024-08-07T13:14:15.046Z [info]: Retrieved all CMS items 
+2024-08-07T13:14:27.263Z [info]: Retrieved all CMS items 
+2024-08-07T13:14:27.268Z [info]: Retrieved all CMS items 
+2024-08-07T13:14:30.976Z [info]: Retrieved all CMS items 
+2024-08-07T13:14:30.980Z [info]: Retrieved all CMS items 
+2024-08-07T13:15:04.040Z [info]: Retrieved all items 
+2024-08-07T13:15:04.043Z [info]: Retrieved all items 
+2024-08-07T13:15:04.048Z [info]: Retrieved all items 
+2024-08-07T13:15:04.058Z [info]: Retrieved all items 
+2024-08-07T13:15:04.060Z [info]: Retrieved all items 
+2024-08-07T13:15:04.063Z [info]: Retrieved all items 
+2024-08-07T13:16:50.995Z [info]: Retrieved all CMS items 
+2024-08-07T13:16:51.001Z [info]: Retrieved all CMS items 
+2024-08-07T13:16:58.995Z [info]: Retrieved all CMS items 
+2024-08-07T13:17:26.012Z [info]: Retrieved all CMS items 
+2024-08-07T13:17:55.563Z [info]: Retrieved all CMS items 
+2024-08-07T13:18:10.318Z [info]: Updated item {
+  "item": {
+    "_id": "66b3728653bb7866898fbe9c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723036294147.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:18:10.326Z [info]: Retrieved all CMS items 
+2024-08-07T13:18:17.911Z [info]: Retrieved all CMS items 
+2024-08-07T13:18:17.915Z [info]: Retrieved all CMS items 
+2024-08-07T13:19:18.169Z [info]: Server is running on port 5000 
+2024-08-07T13:19:18.195Z [info]: Connected to MongoDB 
+2024-08-07T13:20:24.390Z [info]: Server is running on port 5000 
+2024-08-07T13:20:24.418Z [info]: Connected to MongoDB 
+2024-08-07T13:20:31.780Z [info]: Retrieved all CMS items 
+2024-08-07T13:20:31.795Z [info]: Retrieved all CMS items 
+2024-08-07T13:20:36.022Z [info]: Updated item {
+  "item": {
+    "_id": "66b3722f2f46af8ac7707e6c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:21:38.156Z [info]: Updated item {
+  "item": {
+    "_id": "66b3722f2f46af8ac7707e6c",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:22:42.232Z [info]: Server is running on port 5000 
+2024-08-07T13:22:42.254Z [info]: Connected to MongoDB 
+2024-08-07T13:23:48.207Z [error]: Error creating item {
+  "error": "News validation failed: file: Path `file` is required."
+}
+2024-08-07T13:24:33.285Z [info]: Server is running on port 5000 
+2024-08-07T13:24:33.306Z [info]: Connected to MongoDB 
+2024-08-07T13:24:42.809Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "file": "file-1723037082780.jpeg",
+    "isDisabled": true,
+    "_id": "66b3759a18fde4dc373d4400",
+    "createdAt": "2024-08-07T13:24:42.799Z",
+    "updatedAt": "2024-08-07T13:24:42.799Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:24:53.737Z [info]: Retrieved all CMS items 
+2024-08-07T13:24:53.747Z [info]: Retrieved all CMS items 
+2024-08-07T13:24:55.571Z [info]: Retrieved all CMS items 
+2024-08-07T13:24:55.579Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:16.197Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:16.205Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:18.624Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:18.630Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:20.426Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:20.433Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:24.386Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:24.391Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:30.989Z [info]: Retrieved all CMS items 
+2024-08-07T13:25:30.994Z [info]: Retrieved all CMS items 
+2024-08-07T13:26:53.095Z [info]: Retrieved all CMS items 
+2024-08-07T13:26:53.101Z [info]: Retrieved all CMS items 
+2024-08-07T13:26:55.583Z [info]: Retrieved all CMS items 
+2024-08-07T13:26:55.588Z [info]: Retrieved all CMS items 
+2024-08-07T13:27:07.490Z [info]: Retrieved all items 
+2024-08-07T13:27:07.495Z [info]: Retrieved all items 
+2024-08-07T13:27:07.498Z [info]: Retrieved all items 
+2024-08-07T13:27:07.515Z [info]: Retrieved all items 
+2024-08-07T13:27:07.520Z [info]: Retrieved all items 
+2024-08-07T13:27:07.524Z [info]: Retrieved all items 
+2024-08-07T13:27:35.665Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "file": "file-1723037255656.jpeg",
+    "isDisabled": true,
+    "_id": "66b3764718fde4dc373d441a",
+    "createdAt": "2024-08-07T13:27:35.662Z",
+    "updatedAt": "2024-08-07T13:27:35.662Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:27:51.142Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "file": "file-1723037271135.jpeg",
+    "isDisabled": true,
+    "_id": "66b3765718fde4dc373d441c",
+    "createdAt": "2024-08-07T13:27:51.139Z",
+    "updatedAt": "2024-08-07T13:27:51.139Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:28:07.021Z [info]: Retrieved all CMS items 
+2024-08-07T13:28:07.033Z [info]: Retrieved all CMS items 
+2024-08-07T13:28:18.688Z [info]: Retrieved all CMS items 
+2024-08-07T13:28:18.698Z [info]: Retrieved all CMS items 
+2024-08-07T13:28:26.329Z [info]: Retrieved all CMS items 
+2024-08-07T13:28:26.336Z [info]: Retrieved all CMS items 
+2024-08-07T13:31:00.008Z [info]: Server is running on port 5000 
+2024-08-07T13:31:00.068Z [info]: Connected to MongoDB 
+2024-08-07T13:32:05.763Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:32:26.918Z [error]: Error creating item {
+  "error": "Vision validation failed: image: Path `image` is required."
+}
+2024-08-07T13:32:53.110Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:33:15.211Z [info]: Server is running on port 5000 
+2024-08-07T13:33:15.279Z [info]: Connected to MongoDB 
+2024-08-07T13:33:20.364Z [info]: Item created {
+  "item": {
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "title_ta": "தமிழறிஞர்களைக் கொண்டு தமிழாய்வுக் கூட்டங்கள் நடத்துதல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1723037600331.jpeg",
+    "isDisabled": true,
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "createdAt": "2024-08-07T13:33:20.355Z",
+    "updatedAt": "2024-08-07T13:33:20.355Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:33:32.837Z [info]: Retrieved all CMS items 
+2024-08-07T13:33:32.853Z [info]: Retrieved all CMS items 
+2024-08-07T13:33:43.280Z [info]: Retrieved all CMS items 
+2024-08-07T13:33:43.288Z [info]: Retrieved all CMS items 
+2024-08-07T13:33:51.960Z [info]: Retrieved all CMS items 
+2024-08-07T13:33:51.973Z [info]: Retrieved all CMS items 
+2024-08-07T13:34:29.334Z [info]: Server is running on port 5000 
+2024-08-07T13:34:29.386Z [info]: Connected to MongoDB 
+2024-08-07T13:34:35.806Z [info]: Server is running on port 5000 
+2024-08-07T13:34:35.844Z [info]: Connected to MongoDB 
+2024-08-07T13:35:43.851Z [info]: Server is running on port 5000 
+2024-08-07T13:35:43.901Z [info]: Connected to MongoDB 
+2024-08-07T13:35:49.076Z [info]: Retrieved all CMS items 
+2024-08-07T13:35:49.095Z [info]: Retrieved all CMS items 
+2024-08-07T13:35:52.051Z [info]: Retrieved all CMS items 
+2024-08-07T13:35:52.068Z [info]: Retrieved all CMS items 
+2024-08-07T13:37:46.083Z [info]: Retrieved all CMS items 
+2024-08-07T13:37:46.102Z [info]: Retrieved all CMS items 
+2024-08-07T13:37:46.178Z [info]: Retrieved all items 
+2024-08-07T13:37:46.182Z [info]: Retrieved all items 
+2024-08-07T13:37:46.193Z [info]: Retrieved all items 
+2024-08-07T13:37:46.214Z [info]: Retrieved all items 
+2024-08-07T13:37:46.223Z [info]: Retrieved all items 
+2024-08-07T13:37:46.232Z [info]: Retrieved all items 
+2024-08-07T13:37:51.845Z [info]: Retrieved all CMS items 
+2024-08-07T13:37:51.851Z [info]: Retrieved all CMS items 
+2024-08-07T13:37:55.737Z [info]: Retrieved all CMS items 
+2024-08-07T13:37:55.745Z [info]: Retrieved all CMS items 
+2024-08-07T13:39:00.108Z [info]: Retrieved all CMS items 
+2024-08-07T13:39:00.117Z [info]: Retrieved all CMS items 
+2024-08-07T13:39:06.303Z [info]: Retrieved all CMS items 
+2024-08-07T13:39:06.314Z [info]: Retrieved all CMS items 
+2024-08-07T13:39:23.577Z [info]: Updated item {
+  "item": {
+    "_id": "66b3759a18fde4dc373d4400",
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "isDisabled": true
+  }
+}
+2024-08-07T13:39:23.595Z [info]: Retrieved all CMS items 
+2024-08-07T13:41:18.054Z [info]: Retrieved all CMS items 
+2024-08-07T13:41:18.062Z [info]: Retrieved all CMS items 
+2024-08-07T13:41:29.247Z [info]: Item created {
+  "item": {
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "title_ta": "தமிழறிஞர்களைக் கொண்டு தமிழாய்வுக் கூட்டங்கள் நடத்துதல்",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "imageTitle_ta": "பேரவையின் 3வது தமிழ் விழா",
+    "image": "image-1723038089215.jpeg",
+    "isDisabled": true,
+    "_id": "66b37989315ee78d73aef899",
+    "createdAt": "2024-08-07T13:41:29.236Z",
+    "updatedAt": "2024-08-07T13:41:29.236Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:41:43.640Z [info]: Retrieved all CMS items 
+2024-08-07T13:41:43.650Z [info]: Retrieved all CMS items 
+2024-08-07T13:42:26.164Z [info]: Retrieved all CMS items 
+2024-08-07T13:42:26.172Z [info]: Retrieved all CMS items 
+2024-08-07T13:42:51.590Z [info]: Server is running on port 5000 
+2024-08-07T13:42:51.631Z [info]: Connected to MongoDB 
+2024-08-07T13:43:03.482Z [info]: Server is running on port 5000 
+2024-08-07T13:43:03.525Z [info]: Connected to MongoDB 
+2024-08-07T13:43:07.835Z [info]: Server is running on port 5000 
+2024-08-07T13:43:07.864Z [info]: Connected to MongoDB 
+2024-08-07T13:43:15.543Z [info]: Retrieved all CMS items 
+2024-08-07T13:43:15.562Z [info]: Retrieved all CMS items 
+2024-08-07T13:43:18.808Z [info]: Retrieved all CMS items 
+2024-08-07T13:43:18.825Z [info]: Retrieved all CMS items 
+2024-08-07T13:43:38.796Z [info]: Retrieved all CMS items 
+2024-08-07T13:43:38.821Z [info]: Retrieved all CMS items 
+2024-08-07T13:43:39.086Z [info]: Retrieved all items 
+2024-08-07T13:43:39.095Z [info]: Retrieved all items 
+2024-08-07T13:43:39.120Z [info]: Retrieved all items 
+2024-08-07T13:43:39.202Z [info]: Retrieved all items 
+2024-08-07T13:43:39.222Z [info]: Retrieved all items 
+2024-08-07T13:43:39.232Z [info]: Retrieved all items 
+2024-08-07T13:44:13.284Z [error]: Error creating item {
+  "error": "News validation failed: author_ta: Path `author_ta` is required., author_en: Path `author_en` is required., date_ta: Path `date_ta` is required., date_en: Path `date_en` is required."
+}
+2024-08-07T13:44:48.641Z [info]: Server is running on port 5000 
+2024-08-07T13:44:48.695Z [info]: Connected to MongoDB 
+2024-08-07T13:44:53.321Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723038293290.jpeg",
+    "isDisabled": true,
+    "_id": "66b37a557fe98fc6cc30d1f3",
+    "createdAt": "2024-08-07T13:44:53.311Z",
+    "updatedAt": "2024-08-07T13:44:53.311Z",
+    "__v": 0
+  }
+}
+2024-08-07T13:45:02.948Z [info]: Retrieved all CMS items 
+2024-08-07T13:45:02.961Z [info]: Retrieved all CMS items 
+2024-08-07T13:45:10.343Z [info]: Retrieved all CMS items 
+2024-08-07T13:45:10.357Z [info]: Retrieved all CMS items 
+2024-08-07T13:46:23.062Z [info]: Retrieved all items 
+2024-08-07T13:46:23.067Z [info]: Retrieved all items 
+2024-08-07T13:46:23.074Z [info]: Retrieved all CMS items 
+2024-08-07T13:46:23.087Z [info]: Retrieved all items 
+2024-08-07T13:46:23.111Z [info]: Retrieved all items 
+2024-08-07T13:46:23.116Z [info]: Retrieved all items 
+2024-08-07T13:46:23.127Z [info]: Retrieved all items 
+2024-08-07T13:46:30.999Z [info]: Retrieved all CMS items 
+2024-08-07T13:46:31.061Z [info]: Retrieved all items 
+2024-08-07T13:46:31.068Z [info]: Retrieved all items 
+2024-08-07T13:46:31.087Z [info]: Retrieved all items 
+2024-08-07T13:46:31.091Z [info]: Retrieved all items 
+2024-08-07T13:46:31.096Z [info]: Retrieved all items 
+2024-08-07T13:46:31.108Z [info]: Retrieved all items 
+2024-08-07T13:46:59.128Z [info]: Retrieved all CMS items 
+2024-08-07T13:46:59.132Z [info]: Retrieved all CMS items 
+2024-08-07T13:47:07.783Z [info]: Retrieved all CMS items 
+2024-08-07T13:47:07.791Z [info]: Retrieved all CMS items 
+2024-08-07T13:47:46.710Z [info]: Retrieved all CMS items 
+2024-08-07T13:47:47.074Z [info]: Retrieved all items 
+2024-08-07T13:47:47.079Z [info]: Retrieved all items 
+2024-08-07T13:47:47.087Z [info]: Retrieved all items 
+2024-08-07T13:47:47.101Z [info]: Retrieved all items 
+2024-08-07T13:47:47.106Z [info]: Retrieved all items 
+2024-08-07T13:47:47.113Z [info]: Retrieved all items 
+2024-08-07T13:49:18.538Z [info]: Server is running on port 5000 
+2024-08-07T13:49:18.586Z [info]: Connected to MongoDB 
+2024-08-07T13:49:44.357Z [info]: Server is running on port 5000 
+2024-08-07T13:49:44.408Z [info]: Connected to MongoDB 
+2024-08-07T13:50:40.437Z [info]: Server is running on port 5000 
+2024-08-07T13:50:40.484Z [info]: Connected to MongoDB 
+2024-08-07T13:51:26.214Z [info]: Retrieved all items 
+2024-08-07T13:51:26.236Z [info]: Retrieved all items 
+2024-08-07T13:51:26.247Z [info]: Retrieved all items 
+2024-08-07T13:51:26.269Z [info]: Retrieved all items 
+2024-08-07T13:51:26.276Z [info]: Retrieved all CMS items 
+2024-08-07T13:51:26.281Z [info]: Retrieved all items 
+2024-08-07T13:51:26.290Z [info]: Retrieved all items 
+2024-08-07T13:51:45.282Z [info]: Retrieved all CMS items 
+2024-08-07T13:51:45.292Z [info]: Retrieved all CMS items 
+2024-08-07T13:51:52.752Z [info]: Retrieved all CMS items 
+2024-08-07T13:51:52.767Z [info]: Retrieved all CMS items 
+2024-08-07T13:53:18.840Z [info]: Server is running on port 5000 
+2024-08-07T13:53:18.984Z [info]: Connected to MongoDB 
+2024-08-07T13:53:53.297Z [info]: Retrieved all items 
+2024-08-07T13:53:53.318Z [info]: Retrieved all items 
+2024-08-07T13:53:53.329Z [info]: Retrieved all items 
+2024-08-07T13:53:53.351Z [info]: Retrieved all items 
+2024-08-07T13:53:53.366Z [info]: Retrieved all items 
+2024-08-07T13:53:53.372Z [info]: Retrieved all items 
+2024-08-07T13:54:22.480Z [info]: Retrieved all CMS items 
+2024-08-07T13:54:22.489Z [info]: Retrieved all CMS items 
+2024-08-07T13:55:28.080Z [info]: Retrieved all CMS items 
+2024-08-07T13:55:28.091Z [info]: Retrieved all CMS items 
+2024-08-07T13:56:16.576Z [info]: Retrieved all CMS items 
+2024-08-07T13:56:16.583Z [info]: Retrieved all CMS items 
+2024-08-07T13:56:58.902Z [info]: Retrieved all CMS items 
+2024-08-07T13:56:58.912Z [info]: Retrieved all CMS items 
+2024-08-08T05:12:38.037Z [info]: Server is running on port 5000 
+2024-08-08T05:12:38.103Z [info]: Connected to MongoDB 
+2024-08-08T05:15:26.681Z [info]: Server is running on port 5000 
+2024-08-08T05:15:26.723Z [info]: Connected to MongoDB 
+2024-08-08T05:17:50.497Z [info]: Server is running on port 5000 
+2024-08-08T05:17:50.548Z [info]: Connected to MongoDB 
+2024-08-08T05:18:53.057Z [info]: Server is running on port 5000 
+2024-08-08T05:18:53.098Z [info]: Connected to MongoDB 
+2024-08-08T05:20:59.498Z [info]: Server is running on port 5000 
+2024-08-08T05:20:59.550Z [info]: Connected to MongoDB 
+2024-08-08T05:21:15.234Z [info]: Server is running on port 5000 
+2024-08-08T05:21:15.284Z [info]: Connected to MongoDB 
+2024-08-08T05:21:33.676Z [info]: Retrieved all items 
+2024-08-08T05:21:46.887Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-08T05:25:37.240Z [info]: Server is running on port 5000 
+2024-08-08T05:25:37.285Z [info]: Connected to MongoDB 
+2024-08-08T05:25:41.916Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "image": "image-1723094741868.jpeg",
+    "isDisabled": true,
+    "_id": "66b456d59921aecbfc1688e2",
+    "createdAt": "2024-08-08T05:25:41.901Z",
+    "updatedAt": "2024-08-08T05:25:41.901Z",
+    "__v": 0
+  }
+}
+2024-08-08T05:26:58.467Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "image": "image-1723094818404.pdf",
+    "isDisabled": true,
+    "_id": "66b457229921aecbfc1688e4",
+    "createdAt": "2024-08-08T05:26:58.461Z",
+    "updatedAt": "2024-08-08T05:26:58.461Z",
+    "__v": 0
+  }
+}
+2024-08-08T05:28:06.548Z [info]: Retrieved all CMS items 
+2024-08-08T05:28:06.559Z [info]: Retrieved all CMS items 
+2024-08-08T05:33:32.477Z [info]: Retrieved all CMS items 
+2024-08-08T05:33:32.488Z [info]: Retrieved all CMS items 
+2024-08-08T05:33:33.875Z [info]: Retrieved all items 
+2024-08-08T05:33:33.883Z [info]: Retrieved all items 
+2024-08-08T05:33:33.895Z [info]: Retrieved all items 
+2024-08-08T05:33:33.903Z [info]: Retrieved all items 
+2024-08-08T05:33:33.911Z [info]: Retrieved all items 
+2024-08-08T05:33:33.919Z [info]: Retrieved all items 
+2024-08-08T05:38:13.334Z [info]: Updated item {
+  "item": {
+    "_id": "66b457229921aecbfc1688e4",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "image": "image-1723094818404.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T05:40:57.179Z [info]: Server is running on port 5000 
+2024-08-08T05:40:57.228Z [info]: Connected to MongoDB 
+2024-08-08T05:45:25.311Z [info]: Server is running on port 5000 
+2024-08-08T05:45:25.359Z [info]: Connected to MongoDB 
+2024-08-08T05:47:20.825Z [info]: Server is running on port 5000 
+2024-08-08T05:47:20.950Z [info]: Connected to MongoDB 
+2024-08-08T05:47:33.196Z [info]: Server is running on port 5000 
+2024-08-08T05:47:33.243Z [info]: Connected to MongoDB 
+2024-08-08T05:48:02.132Z [info]: Server is running on port 5000 
+2024-08-08T05:48:02.190Z [info]: Connected to MongoDB 
+2024-08-08T05:48:15.041Z [info]: Retrieved all items 
+2024-08-08T05:48:33.984Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723096113924.jpeg",
+    "isDisabled": true,
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "createdAt": "2024-08-08T05:48:33.966Z",
+    "updatedAt": "2024-08-08T05:48:33.966Z",
+    "__v": 0
+  }
+}
+2024-08-08T05:49:00.101Z [warn]: Item not found for update {
+  "id": "66b3722f2f46af8ac7707e6c"
+}
+2024-08-08T05:49:28.810Z [info]: Updated item {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723096113924.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T05:50:02.470Z [info]: Retrieved all items 
+2024-08-08T05:50:02.495Z [info]: Retrieved all items 
+2024-08-08T05:50:16.947Z [info]: Retrieved all CMS items 
+2024-08-08T05:50:16.955Z [info]: Retrieved all CMS items 
+2024-08-08T05:50:32.324Z [info]: Updated item {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723096113924.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T05:50:32.337Z [info]: Retrieved all CMS items 
+2024-08-08T05:50:39.459Z [info]: Retrieved all CMS items 
+2024-08-08T05:50:39.468Z [info]: Retrieved all CMS items 
+2024-08-08T05:50:42.422Z [info]: Retrieved all CMS items 
+2024-08-08T05:50:42.430Z [info]: Retrieved all CMS items 
+2024-08-08T05:51:06.632Z [info]: Server is running on port 5000 
+2024-08-08T05:51:06.681Z [info]: Connected to MongoDB 
+2024-08-08T05:54:59.460Z [info]: Server is running on port 5000 
+2024-08-08T05:54:59.495Z [info]: Connected to MongoDB 
+2024-08-08T05:55:16.151Z [info]: Updated item {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723096516090.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T05:55:38.290Z [info]: Retrieved all CMS items 
+2024-08-08T05:55:38.302Z [info]: Retrieved all CMS items 
+2024-08-08T05:55:42.829Z [info]: Retrieved all CMS items 
+2024-08-08T05:55:42.839Z [info]: Retrieved all CMS items 
+2024-08-08T05:55:54.284Z [info]: Updated item {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723096516090.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T05:55:54.298Z [info]: Retrieved all CMS items 
+2024-08-08T05:56:11.299Z [info]: Updated item {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future",
+    "image": "image-1723096571266.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T05:56:11.325Z [info]: Retrieved all CMS items 
+2024-08-08T05:57:45.158Z [info]: Server is running on port 5000 
+2024-08-08T05:57:45.224Z [info]: Connected to MongoDB 
+2024-08-08T05:58:16.485Z [info]: Updated item {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723096696427.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:02:29.538Z [info]: Retrieved all CMS items 
+2024-08-08T06:02:29.549Z [info]: Retrieved all CMS items 
+2024-08-08T06:02:33.078Z [info]: Retrieved all CMS items 
+2024-08-08T06:02:33.087Z [info]: Retrieved all CMS items 
+2024-08-08T06:03:47.253Z [info]: Server is running on port 5000 
+2024-08-08T06:03:47.312Z [info]: Connected to MongoDB 
+2024-08-08T06:03:59.913Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723097039866.jpeg",
+    "isDisabled": true,
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "createdAt": "2024-08-08T06:03:59.896Z",
+    "updatedAt": "2024-08-08T06:03:59.896Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:04:11.626Z [info]: Item created {
+  "item": {
+    "title_en": "Tamils ​​and Tamils ​​performing arts",
+    "title_ta": "தமிழர்களும், தமிழர்களின் கலை நிகழ்ச்சிகளும்",
+    "description_en": "A game of pretending to wear a saddle and ride on it",
+    "description_ta": "தமிழர் பண்பாட்டில் கலை நிகழ்ச்சிகளுக்கு முக்கிய இடமுண்டு. இவர்களின் வாழ்க்கை முறையை, ஆன்மீகத்தை, சமூகத்தை, உணர்வுகளை அனைத்து துறைகளிலும் கலை நிகழ்ச்சிகள் பிரதிபலிக்கின்றன. தமிழர்களின் கலை நிகழ்ச்சிகள் பலவகைப்படும், அவற்றில் சில: நாடகக் கலைகள்: தெருக்கூத்து: தமிழ் நாட்டின் பாரம்பரிய நாடகமாகத் திகழ்கின்றது. இது கிராமங்களில் பிரபலமான கலை. திருக்கூத்தில் பெருமாள், சிவன் போன்ற தெய்வங்களின் கதைகள் நாடகமாக அரங்கேறும். வில்லுப்பாட்டு: வில்லின் நாணயத்தை அடித்து பாட்டு பாடுவது. இது தொன்மையான கலை வடிவமாகும். இசைக் கலைகள்: கரகாட்டம்: கரகம்பூண்டிகாரர்கள் கரகம் சுமந்து தெய்வத்தை போற்றும் நிகழ்ச்சி. பாறிபாட்டுகள்: கோவில் விழாக்களில், கிராம திருவிழாக்களில் நடைபெறும் இசை நிகழ்ச்சி. நடனக் கலைகள்: பரதநாட்டியம்: தமிழ்நாட்டின் பரம்பரை நடனக் கலை. இது பாரம்பரிய பூஜைகளிலும், விழாக்களிலும் நடனம் ஆடப்படும். கூத்துக் கலைகள்: கிராமங்களில் பரவலாக நடைபெறும் கூத்து வகைகள், இவை பொதுவாக கிராம நிகழ்ச்சிகளின் போது அரங்கேறும். குதிரைக் கூடு அணிந்து அதன் மேல் சவாரி செய்வது போல் பாசாங்கு செய்து ஆடப்படும் ஆட்டம்: இந்த பாரம்பரிய நடனம், தமிழர்களின் கலை நிகழ்ச்சிகளில் முக்கியமான ஒன்று. குதிரைக் கூடு அணிந்து ஆடும் நடனம் தமிழ்நாட்டின் பல பகுதிகளில் பிரபலமாக உள்ளது.",
+    "image": "image-1723097051607.jpeg",
+    "isDisabled": true,
+    "_id": "66b45fdb6cc685ef39dc3154",
+    "createdAt": "2024-08-08T06:04:11.616Z",
+    "updatedAt": "2024-08-08T06:04:11.616Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:04:16.591Z [info]: Retrieved all CMS items 
+2024-08-08T06:04:16.604Z [info]: Retrieved all CMS items 
+2024-08-08T06:04:18.803Z [info]: Retrieved all CMS items 
+2024-08-08T06:04:18.817Z [info]: Retrieved all CMS items 
+2024-08-08T06:05:12.876Z [info]: Retrieved item by ID {
+  "item": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1723096696427.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:05:24.310Z [info]: Retrieved all CMS items 
+2024-08-08T06:05:47.102Z [info]: Deleted item {
+  "dltitem": {
+    "_id": "66b45c318fec6a6a2e5f415e",
+    "title_ta": "தமிழ் நூல்களை பதிப்பித்தல்",
+    "description_ta": "தமிழ் தோன்றிய காலந்தொட்டு இன்றுவரை வந்துள்ள, இனி எதிர் காலத்தில் வெளிவர இருக்கும் தமிழ் நூல்கள், வார, திங்கள் இதழ்களையும்",
+    "image": "image-1723096696427.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:06:57.602Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723097217545.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:07:54.561Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fdb6cc685ef39dc3154",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723097274548.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:08:07.485Z [info]: Retrieved all CMS items 
+2024-08-08T06:08:07.494Z [info]: Retrieved all CMS items 
+2024-08-08T06:08:27.594Z [info]: Retrieved all CMS items 
+2024-08-08T06:08:27.603Z [info]: Retrieved all CMS items 
+2024-08-08T06:09:25.896Z [info]: Item created {
+  "item": {
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "image": "image-1723097365885.jpeg",
+    "isDisabled": true,
+    "_id": "66b461156cc685ef39dc3166",
+    "createdAt": "2024-08-08T06:09:25.891Z",
+    "updatedAt": "2024-08-08T06:09:25.891Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:09:25.912Z [info]: Retrieved all CMS items 
+2024-08-08T06:09:38.296Z [info]: Retrieved all items 
+2024-08-08T06:09:38.305Z [info]: Retrieved all items 
+2024-08-08T06:09:59.861Z [info]: Retrieved all items 
+2024-08-08T06:09:59.865Z [info]: Retrieved all items 
+2024-08-08T06:09:59.875Z [info]: Retrieved all items 
+2024-08-08T06:09:59.904Z [info]: Retrieved all items 
+2024-08-08T06:09:59.909Z [info]: Retrieved all items 
+2024-08-08T06:09:59.920Z [info]: Retrieved all items 
+2024-08-08T06:10:31.362Z [info]: Server is running on port 5000 
+2024-08-08T06:10:31.432Z [info]: Connected to MongoDB 
+2024-08-08T06:12:17.551Z [info]: Retrieved all CMS items 
+2024-08-08T06:12:17.594Z [info]: Retrieved all CMS items 
+2024-08-08T06:12:37.490Z [info]: Retrieved all CMS items 
+2024-08-08T06:12:50.496Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723097217545.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-08T06:12:57.360Z [info]: Retrieved all items 
+2024-08-08T06:12:57.366Z [info]: Retrieved all items 
+2024-08-08T06:12:57.377Z [info]: Retrieved all items 
+2024-08-08T06:12:57.408Z [info]: Retrieved all items 
+2024-08-08T06:12:57.424Z [info]: Retrieved all items 
+2024-08-08T06:12:57.438Z [info]: Retrieved all items 
+2024-08-08T06:13:10.085Z [info]: Retrieved all items 
+2024-08-08T06:13:10.096Z [info]: Retrieved all items 
+2024-08-08T06:13:19.839Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723097217545.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:13:58.606Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fdb6cc685ef39dc3154",
+    "title_en": "Publication of Tamil books!!",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723097274548.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:13:58.653Z [info]: Retrieved all CMS items 
+2024-08-08T06:14:06.973Z [info]: Retrieved all items 
+2024-08-08T06:14:06.982Z [info]: Retrieved all items 
+2024-08-08T06:14:12.995Z [info]: Retrieved all items 
+2024-08-08T06:14:12.999Z [info]: Retrieved all items 
+2024-08-08T06:14:13.005Z [info]: Retrieved all items 
+2024-08-08T06:14:13.016Z [info]: Retrieved all items 
+2024-08-08T06:14:13.021Z [info]: Retrieved all items 
+2024-08-08T06:14:13.028Z [info]: Retrieved all items 
+2024-08-08T06:14:26.071Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fdb6cc685ef39dc3154",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723097274548.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:14:26.140Z [info]: Retrieved all CMS items 
+2024-08-08T06:14:30.168Z [info]: Retrieved all items 
+2024-08-08T06:14:30.174Z [info]: Retrieved all items 
+2024-08-08T06:14:30.180Z [info]: Retrieved all items 
+2024-08-08T06:14:30.199Z [info]: Retrieved all items 
+2024-08-08T06:14:30.210Z [info]: Retrieved all items 
+2024-08-08T06:14:30.218Z [info]: Retrieved all items 
+2024-08-08T06:14:47.408Z [info]: Retrieved all CMS items 
+2024-08-08T06:14:47.414Z [info]: Retrieved all CMS items 
+2024-08-08T06:15:20.801Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723037600331.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:15:20.823Z [info]: Retrieved all CMS items 
+2024-08-08T06:15:40.264Z [info]: Server is running on port 5000 
+2024-08-08T06:15:40.332Z [info]: Connected to MongoDB 
+2024-08-08T06:16:03.540Z [info]: Server is running on port 5000 
+2024-08-08T06:16:03.580Z [info]: Connected to MongoDB 
+2024-08-08T06:16:11.418Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723037600331.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:16:11.448Z [info]: Retrieved all CMS items 
+2024-08-08T06:16:24.477Z [info]: Retrieved all CMS items 
+2024-08-08T06:16:24.484Z [info]: Retrieved all CMS items 
+2024-08-08T06:17:13.908Z [info]: Server is running on port 5000 
+2024-08-08T06:17:13.951Z [info]: Connected to MongoDB 
+2024-08-08T06:17:32.973Z [info]: Retrieved all CMS items 
+2024-08-08T06:17:32.996Z [info]: Retrieved all CMS items 
+2024-08-08T06:17:43.101Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723097863049.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:17:43.123Z [info]: Retrieved all CMS items 
+2024-08-08T06:18:04.853Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723097863049.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:18:04.868Z [info]: Retrieved all CMS items 
+2024-08-08T06:18:11.372Z [info]: Retrieved all items 
+2024-08-08T06:18:11.380Z [info]: Retrieved all items 
+2024-08-08T06:18:11.393Z [info]: Retrieved all items 
+2024-08-08T06:18:11.416Z [info]: Retrieved all items 
+2024-08-08T06:18:11.421Z [info]: Retrieved all items 
+2024-08-08T06:18:11.434Z [info]: Retrieved all items 
+2024-08-08T06:18:26.227Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723038089215.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-08T06:18:29.856Z [info]: Retrieved all items 
+2024-08-08T06:18:29.861Z [info]: Retrieved all items 
+2024-08-08T06:18:29.865Z [info]: Retrieved all items 
+2024-08-08T06:18:29.887Z [info]: Retrieved all items 
+2024-08-08T06:18:29.893Z [info]: Retrieved all items 
+2024-08-08T06:18:29.899Z [info]: Retrieved all items 
+2024-08-08T06:18:34.949Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723038089215.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:18:57.597Z [info]: Retrieved all CMS items 
+2024-08-08T06:18:57.603Z [info]: Retrieved all CMS items 
+2024-08-08T06:19:19.144Z [info]: Updated item {
+  "item": {
+    "_id": "66b461156cc685ef39dc3166",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1723097959115.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:19:19.160Z [info]: Retrieved all CMS items 
+2024-08-08T06:21:42.507Z [info]: Retrieved all CMS items 
+2024-08-08T06:21:42.513Z [info]: Retrieved all CMS items 
+2024-08-08T06:22:40.629Z [info]: Retrieved all items 
+2024-08-08T06:23:33.688Z [info]: Received team_type value {
+  "team_type": "செயற்குழு உறுப்பினர்கள்"
+}
+2024-08-08T06:23:33.721Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46465d52860656d9f45e9",
+    "createdAt": "2024-08-08T06:23:33.707Z",
+    "updatedAt": "2024-08-08T06:23:33.707Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:24:11.729Z [info]: Retrieved all items 
+2024-08-08T06:24:11.733Z [info]: Retrieved all items 
+2024-08-08T06:24:11.741Z [info]: Retrieved all items 
+2024-08-08T06:24:11.745Z [info]: Retrieved all items 
+2024-08-08T06:24:27.356Z [info]: Received team_type value {
+  "team_type": "நிர்வாக குழு"
+}
+2024-08-08T06:24:27.362Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b4649bd52860656d9f45ef",
+    "createdAt": "2024-08-08T06:24:27.359Z",
+    "updatedAt": "2024-08-08T06:24:27.359Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:24:41.899Z [info]: Retrieved all CMS items 
+2024-08-08T06:24:41.906Z [info]: Retrieved all CMS items 
+2024-08-08T06:24:59.203Z [info]: Retrieved all CMS items 
+2024-08-08T06:24:59.209Z [info]: Retrieved all CMS items 
+2024-08-08T06:25:27.934Z [info]: Updated item {
+  "item": {
+    "_id": "66b4649bd52860656d9f45ef",
+    "title_en": "Leader",
+    "description_en": "Patriarch<strong> K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:25:27.963Z [info]: Retrieved all CMS items 
+2024-08-08T06:25:47.798Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:25:47.826Z [info]: Retrieved all CMS items 
+2024-08-08T06:26:08.129Z [info]: Retrieved all items 
+2024-08-08T06:26:08.132Z [info]: Retrieved all items 
+2024-08-08T06:26:08.139Z [info]: Retrieved all items 
+2024-08-08T06:26:08.144Z [info]: Retrieved all items 
+2024-08-08T06:26:32.208Z [info]: Retrieved all items 
+2024-08-08T06:26:32.211Z [info]: Retrieved all items 
+2024-08-08T06:26:32.216Z [info]: Retrieved all items 
+2024-08-08T06:26:32.229Z [info]: Retrieved all items 
+2024-08-08T06:26:32.232Z [info]: Retrieved all items 
+2024-08-08T06:26:32.250Z [info]: Retrieved all items 
+2024-08-08T06:26:35.360Z [info]: Retrieved all items 
+2024-08-08T06:26:35.366Z [info]: Retrieved all items 
+2024-08-08T06:26:35.378Z [info]: Retrieved all items 
+2024-08-08T06:26:35.385Z [info]: Retrieved all items 
+2024-08-08T06:28:08.991Z [info]: Retrieved all CMS items 
+2024-08-08T06:28:09.002Z [info]: Retrieved all CMS items 
+2024-08-08T06:28:13.129Z [info]: Retrieved all CMS items 
+2024-08-08T06:28:13.135Z [info]: Retrieved all CMS items 
+2024-08-08T06:28:20.347Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T06:28:20.371Z [info]: Retrieved all CMS items 
+2024-08-08T06:30:01.499Z [info]: Retrieved all items 
+2024-08-08T06:30:01.502Z [info]: Retrieved all items 
+2024-08-08T06:30:01.518Z [info]: Retrieved all items 
+2024-08-08T06:30:01.521Z [info]: Retrieved all items 
+2024-08-08T06:31:32.998Z [info]: Retrieved all items 
+2024-08-08T06:31:33.014Z [info]: Retrieved all items 
+2024-08-08T06:31:36.611Z [info]: Retrieved all items 
+2024-08-08T06:31:36.623Z [info]: Retrieved all items 
+2024-08-08T06:31:36.636Z [info]: Retrieved all items 
+2024-08-08T06:31:36.660Z [info]: Retrieved all items 
+2024-08-08T06:31:36.674Z [info]: Retrieved all items 
+2024-08-08T06:31:36.689Z [info]: Retrieved all items 
+2024-08-08T06:32:20.456Z [info]: Retrieved all items 
+2024-08-08T06:32:20.463Z [info]: Retrieved all items 
+2024-08-08T06:32:20.480Z [info]: Retrieved all items 
+2024-08-08T06:32:20.495Z [info]: Retrieved all items 
+2024-08-08T06:32:22.529Z [info]: Retrieved all items 
+2024-08-08T06:32:22.536Z [info]: Retrieved all items 
+2024-08-08T06:33:35.510Z [info]: Server is running on port 5000 
+2024-08-08T06:33:35.564Z [info]: Connected to MongoDB 
+2024-08-08T06:34:03.932Z [info]: Retrieved all CMS items 
+2024-08-08T06:34:03.971Z [info]: Retrieved all CMS items 
+2024-08-08T06:36:36.557Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723098996427.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723098996439.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723098996464.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723098996479.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-08T06:36:36.588Z [info]: Retrieved all CMS items 
+2024-08-08T06:37:35.393Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723098996427.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America"
+  }
+}
+2024-08-08T06:37:35.425Z [info]: Retrieved all CMS items 
+2024-08-08T06:38:58.934Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban_in_france.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723099138769.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "Screenshot 2024-01-11 094257 - Copy - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138774.png",
+        "fileSize": 925587
+      },
+      {
+        "fileName": "Screenshot 2024-01-23 105212 - Copy - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138808.png",
+        "fileSize": 901547
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 143015 - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138830.png",
+        "fileSize": 921415
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 143015.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138844.png",
+        "fileSize": 921415
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 144845 - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138861.png",
+        "fileSize": 511291
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 144845.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138869.png",
+        "fileSize": 511291
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 144927 - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138880.png",
+        "fileSize": 117710
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 144927.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138883.png",
+        "fileSize": 117710
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 145041.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138883.png",
+        "fileSize": 893061
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 145504.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099138900.png",
+        "fileSize": 375366
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723099138904.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable Sha. Jagadratsakan MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar K. Bharathidasan France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America"
+  }
+}
+2024-08-08T06:38:58.977Z [info]: Retrieved all CMS items 
+2024-08-08T06:40:03.980Z [info]: Retrieved all items 
+2024-08-08T06:40:03.985Z [info]: Retrieved all items 
+2024-08-08T06:40:03.991Z [info]: Retrieved all items 
+2024-08-08T06:40:04.010Z [info]: Retrieved all items 
+2024-08-08T06:40:04.016Z [info]: Retrieved all items 
+2024-08-08T06:40:04.022Z [info]: Retrieved all items 
+2024-08-08T06:40:13.231Z [info]: Retrieved all items 
+2024-08-08T06:40:13.239Z [info]: Retrieved all items 
+2024-08-08T06:40:13.248Z [info]: Retrieved all items 
+2024-08-08T06:40:13.261Z [info]: Retrieved all items 
+2024-08-08T06:40:13.279Z [info]: Retrieved all items 
+2024-08-08T06:40:13.299Z [info]: Retrieved all items 
+2024-08-08T06:40:30.472Z [info]: Retrieved all items 
+2024-08-08T06:40:30.492Z [info]: Retrieved all items 
+2024-08-08T06:40:35.286Z [info]: Retrieved all items 
+2024-08-08T06:40:35.294Z [info]: Retrieved all items 
+2024-08-08T06:40:35.339Z [info]: Retrieved all items 
+2024-08-08T06:40:35.349Z [info]: Retrieved all items 
+2024-08-08T06:40:35.359Z [info]: Retrieved all items 
+2024-08-08T06:40:35.367Z [info]: Retrieved all items 
+2024-08-08T06:41:27.123Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723098996427.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-08T06:41:27.168Z [info]: Retrieved all CMS items 
+2024-08-08T06:43:12.825Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban_in_france.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723099138769.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-08T06:43:12.869Z [info]: Retrieved all CMS items 
+2024-08-08T06:43:28.148Z [info]: Server is running on port 5000 
+2024-08-08T06:43:28.219Z [info]: Connected to MongoDB 
+2024-08-08T06:43:35.618Z [info]: Server is running on port 5000 
+2024-08-08T06:43:35.704Z [info]: Connected to MongoDB 
+2024-08-08T06:44:12.424Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban_in_france.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723099138769.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "Screenshot 2024-08-03 144927 - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452208.png",
+        "fileSize": 117710
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 144927.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452211.png",
+        "fileSize": 117710
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 145041.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452216.png",
+        "fileSize": 893061
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 145504.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452282.png",
+        "fileSize": 375366
+      },
+      {
+        "fileName": "Screenshot 2024-08-03 145526.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452298.png",
+        "fileSize": 360392
+      },
+      {
+        "fileName": "Screenshot 2024-01-11 094257 - Copy - Copy (2).png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452305.png",
+        "fileSize": 925587
+      },
+      {
+        "fileName": "Screenshot 2024-01-11 094257 - Copy - Copy - Copy.png",
+        "fileType": "image/png",
+        "filePath": "public\\gallery_images-1723099452316.png",
+        "fileSize": 925587
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723099452330.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-08T06:44:12.470Z [info]: Retrieved all CMS items 
+2024-08-08T06:44:25.718Z [info]: Retrieved all CMS items 
+2024-08-08T06:44:25.728Z [info]: Retrieved all CMS items 
+2024-08-08T06:44:32.431Z [info]: Retrieved all CMS items 
+2024-08-08T06:44:32.440Z [info]: Retrieved all CMS items 
+2024-08-08T06:46:47.899Z [info]: Retrieved all items 
+2024-08-08T06:46:47.904Z [info]: Retrieved all items 
+2024-08-08T06:46:47.913Z [info]: Retrieved all items 
+2024-08-08T06:46:47.918Z [info]: Retrieved all items 
+2024-08-08T06:46:57.131Z [info]: Retrieved all items 
+2024-08-08T06:46:57.141Z [info]: Retrieved all items 
+2024-08-08T06:47:24.751Z [info]: Retrieved all items 
+2024-08-08T06:47:24.759Z [info]: Retrieved all items 
+2024-08-08T06:47:35.349Z [info]: Retrieved all items 
+2024-08-08T06:48:02.431Z [info]: Retrieved all items 
+2024-08-08T06:48:18.442Z [info]: Retrieved all items 
+2024-08-08T06:49:30.501Z [info]: Retrieved all items 
+2024-08-08T06:49:50.390Z [info]: Retrieved all items 
+2024-08-08T06:49:50.400Z [info]: Retrieved all items 
+2024-08-08T06:52:41.036Z [info]: Retrieved all items 
+2024-08-08T06:52:41.041Z [info]: Retrieved all items 
+2024-08-08T06:52:41.049Z [info]: Retrieved all items 
+2024-08-08T06:52:41.052Z [info]: Retrieved all items 
+2024-08-08T06:53:01.213Z [info]: Retrieved all items 
+2024-08-08T06:53:01.224Z [info]: Retrieved all items 
+2024-08-08T06:53:11.435Z [info]: Retrieved all items 
+2024-08-08T06:53:18.447Z [info]: Retrieved all items 
+2024-08-08T06:53:44.457Z [info]: Retrieved all items 
+2024-08-08T06:54:31.435Z [info]: Retrieved all items 
+2024-08-08T06:56:19.901Z [info]: Retrieved all items 
+2024-08-08T06:56:21.902Z [info]: Retrieved all items 
+2024-08-08T06:56:21.910Z [info]: Retrieved all items 
+2024-08-08T06:56:24.602Z [info]: Retrieved all items 
+2024-08-08T06:56:24.609Z [info]: Retrieved all items 
+2024-08-08T06:56:30.152Z [info]: Retrieved all items 
+2024-08-08T06:56:30.163Z [info]: Retrieved all items 
+2024-08-08T06:56:48.437Z [info]: Retrieved all items 
+2024-08-08T06:57:05.313Z [info]: Retrieved all items 
+2024-08-08T06:57:11.236Z [info]: Retrieved all items 
+2024-08-08T06:57:11.244Z [info]: Retrieved all items 
+2024-08-08T06:57:42.435Z [info]: Retrieved all items 
+2024-08-08T06:57:53.438Z [info]: Retrieved all items 
+2024-08-08T06:58:03.348Z [info]: Retrieved all items 
+2024-08-08T06:58:43.675Z [info]: Received team_type value {
+  "team_type": "செயற்குழு உறுப்பினர்கள்"
+}
+2024-08-08T06:58:43.766Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46ca3282ee3517f8f219f",
+    "createdAt": "2024-08-08T06:58:43.734Z",
+    "updatedAt": "2024-08-08T06:58:43.734Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:58:47.281Z [info]: Received team_type value {
+  "team_type": "செயற்குழு உறுப்பினர்கள்"
+}
+2024-08-08T06:58:47.289Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46ca7282ee3517f8f21a1",
+    "createdAt": "2024-08-08T06:58:47.285Z",
+    "updatedAt": "2024-08-08T06:58:47.285Z",
+    "__v": 0
+  }
+}
+2024-08-08T06:58:58.040Z [info]: Retrieved all items 
+2024-08-08T06:58:58.045Z [info]: Retrieved all items 
+2024-08-08T06:58:58.053Z [info]: Retrieved all items 
+2024-08-08T06:58:58.056Z [info]: Retrieved all items 
+2024-08-08T06:59:01.373Z [info]: Retrieved all items 
+2024-08-08T06:59:01.396Z [info]: Retrieved all items 
+2024-08-08T07:00:25.336Z [info]: Received team_type value {
+  "team_type": "நிர்வாக குழு"
+}
+2024-08-08T07:00:25.345Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46d09282ee3517f8f21a9",
+    "createdAt": "2024-08-08T07:00:25.342Z",
+    "updatedAt": "2024-08-08T07:00:25.342Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:00:28.583Z [info]: Received team_type value {
+  "team_type": "நிர்வாக குழு"
+}
+2024-08-08T07:00:28.597Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46d0c282ee3517f8f21ab",
+    "createdAt": "2024-08-08T07:00:28.587Z",
+    "updatedAt": "2024-08-08T07:00:28.587Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:00:30.390Z [info]: Received team_type value {
+  "team_type": "நிர்வாக குழு"
+}
+2024-08-08T07:00:30.402Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46d0e282ee3517f8f21ad",
+    "createdAt": "2024-08-08T07:00:30.397Z",
+    "updatedAt": "2024-08-08T07:00:30.397Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:00:32.082Z [info]: Received team_type value {
+  "team_type": "நிர்வாக குழு"
+}
+2024-08-08T07:00:32.096Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46d10282ee3517f8f21af",
+    "createdAt": "2024-08-08T07:00:32.088Z",
+    "updatedAt": "2024-08-08T07:00:32.088Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:00:33.889Z [info]: Received team_type value {
+  "team_type": "நிர்வாக குழு"
+}
+2024-08-08T07:00:33.900Z [info]: Item created {
+  "item": {
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch K. Bharathidasan, France",
+    "description_ta": "பாட்டரசர்கி.பாரதிதாசன், பிரான்சு",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "_id": "66b46d11282ee3517f8f21b1",
+    "createdAt": "2024-08-08T07:00:33.894Z",
+    "updatedAt": "2024-08-08T07:00:33.894Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:00:36.906Z [info]: Retrieved all items 
+2024-08-08T07:00:36.917Z [info]: Retrieved all items 
+2024-08-08T07:00:40.664Z [info]: Retrieved all items 
+2024-08-08T07:00:40.670Z [info]: Retrieved all items 
+2024-08-08T07:00:40.684Z [info]: Retrieved all items 
+2024-08-08T07:00:40.688Z [info]: Retrieved all items 
+2024-08-08T07:00:47.001Z [info]: Retrieved all items 
+2024-08-08T07:00:47.011Z [info]: Retrieved all items 
+2024-08-08T07:01:27.451Z [info]: Retrieved all items 
+2024-08-08T07:01:50.218Z [info]: Retrieved all items 
+2024-08-08T07:02:19.137Z [info]: Retrieved all items 
+2024-08-08T07:02:57.265Z [info]: Retrieved all items 
+2024-08-08T07:03:13.971Z [info]: Retrieved all items 
+2024-08-08T07:03:17.276Z [info]: Retrieved all items 
+2024-08-08T07:03:17.326Z [info]: Retrieved all items 
+2024-08-08T07:03:21.934Z [info]: Retrieved all items 
+2024-08-08T07:03:21.944Z [info]: Retrieved all items 
+2024-08-08T07:03:39.065Z [info]: Retrieved all items 
+2024-08-08T07:03:52.781Z [info]: Retrieved all items 
+2024-08-08T07:03:52.803Z [info]: Retrieved all items 
+2024-08-08T07:04:37.171Z [info]: Retrieved all items 
+2024-08-08T07:05:08.455Z [info]: Retrieved all items 
+2024-08-08T07:05:28.141Z [info]: Retrieved all items 
+2024-08-08T07:05:32.633Z [info]: Retrieved all items 
+2024-08-08T07:05:32.640Z [info]: Retrieved all items 
+2024-08-08T07:05:57.028Z [info]: Retrieved all CMS items 
+2024-08-08T07:05:57.034Z [info]: Retrieved all CMS items 
+2024-08-08T07:06:00.576Z [info]: Retrieved all CMS items 
+2024-08-08T07:06:00.588Z [info]: Retrieved all CMS items 
+2024-08-08T07:06:17.504Z [info]: Updated item {
+  "item": {
+    "_id": "66b46ca3282ee3517f8f219f",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:06:17.525Z [info]: Retrieved all CMS items 
+2024-08-08T07:06:34.257Z [info]: Updated item {
+  "item": {
+    "_id": "66b46ca7282ee3517f8f21a1",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:06:34.298Z [info]: Retrieved all CMS items 
+2024-08-08T07:06:53.634Z [info]: Updated item {
+  "item": {
+    "_id": "66b46d09282ee3517f8f21a9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:06:53.662Z [info]: Retrieved all CMS items 
+2024-08-08T07:07:12.935Z [info]: Updated item {
+  "item": {
+    "_id": "66b46d0c282ee3517f8f21ab",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:07:12.951Z [info]: Retrieved all CMS items 
+2024-08-08T07:07:44.430Z [info]: Updated item {
+  "item": {
+    "_id": "66b46d0e282ee3517f8f21ad",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:07:44.443Z [info]: Retrieved all CMS items 
+2024-08-08T07:08:00.679Z [info]: Updated item {
+  "item": {
+    "_id": "66b46d10282ee3517f8f21af",
+    "title_en": "Leader",
+    "description_en": "Patriarch<strong> K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:08:00.706Z [info]: Retrieved all CMS items 
+2024-08-08T07:08:18.995Z [info]: Updated item {
+  "item": {
+    "_id": "66b46d11282ee3517f8f21b1",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:08:19.027Z [info]: Retrieved all CMS items 
+2024-08-08T07:08:32.238Z [info]: Retrieved all items 
+2024-08-08T07:08:32.245Z [info]: Retrieved all items 
+2024-08-08T07:08:32.249Z [info]: Retrieved all items 
+2024-08-08T07:08:32.257Z [info]: Retrieved all items 
+2024-08-08T07:08:57.261Z [info]: Retrieved all items 
+2024-08-08T07:09:15.550Z [info]: Retrieved all items 
+2024-08-08T07:09:15.560Z [info]: Retrieved all items 
+2024-08-08T07:09:29.455Z [info]: Retrieved all items 
+2024-08-08T07:11:08.350Z [info]: Retrieved all items 
+2024-08-08T07:11:08.359Z [info]: Retrieved all items 
+2024-08-08T07:11:35.542Z [info]: Updated item {
+  "item": {
+    "_id": "66b46d11282ee3517f8f21b1",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "நிர்வாக குழு",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": false
+  }
+}
+2024-08-08T07:11:44.699Z [info]: Retrieved all items 
+2024-08-08T07:11:44.702Z [info]: Retrieved all items 
+2024-08-08T07:11:44.710Z [info]: Retrieved all items 
+2024-08-08T07:11:44.713Z [info]: Retrieved all items 
+2024-08-08T07:12:28.550Z [info]: Retrieved all CMS items 
+2024-08-08T07:12:28.566Z [info]: Retrieved all CMS items 
+2024-08-08T07:12:41.761Z [info]: Retrieved all CMS items 
+2024-08-08T07:12:41.768Z [info]: Retrieved all CMS items 
+2024-08-08T07:13:03.933Z [info]: Retrieved all CMS items 
+2024-08-08T07:13:03.944Z [info]: Retrieved all CMS items 
+2024-08-08T07:13:21.298Z [info]: Retrieved all CMS items 
+2024-08-08T07:13:21.303Z [info]: Retrieved all CMS items 
+2024-08-08T07:13:27.066Z [info]: Retrieved all CMS items 
+2024-08-08T07:13:27.073Z [info]: Retrieved all CMS items 
+2024-08-08T07:15:02.316Z [info]: Updated item {
+  "item": {
+    "_id": "66b456d59921aecbfc1688e2",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "image": "image-1723094741868.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:15:02.333Z [info]: Retrieved all CMS items 
+2024-08-08T07:16:09.624Z [info]: Server is running on port 5000 
+2024-08-08T07:16:09.675Z [info]: Connected to MongoDB 
+2024-08-08T07:16:44.290Z [info]: Server is running on port 5000 
+2024-08-08T07:16:44.336Z [info]: Connected to MongoDB 
+2024-08-08T07:17:12.408Z [info]: Retrieved all items 
+2024-08-08T07:18:01.643Z [info]: Server is running on port 5000 
+2024-08-08T07:18:01.699Z [info]: Connected to MongoDB 
+2024-08-08T07:18:42.528Z [info]: Retrieved all items 
+2024-08-08T07:19:14.226Z [error]: Error creating item {
+  "error": "Invitation validation failed: file: Path `file` is required."
+}
+2024-08-08T07:19:34.359Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "file": "file-1723101574337.jpeg",
+    "isDisabled": true,
+    "_id": "66b47186aff684095f5ac0fc",
+    "createdAt": "2024-08-08T07:19:34.349Z",
+    "updatedAt": "2024-08-08T07:19:34.349Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:20:44.666Z [info]: Retrieved all CMS items 
+2024-08-08T07:20:44.675Z [info]: Retrieved all CMS items 
+2024-08-08T07:20:47.644Z [info]: Retrieved all CMS items 
+2024-08-08T07:20:47.654Z [info]: Retrieved all CMS items 
+2024-08-08T07:21:42.672Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723101574337.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:23:07.488Z [info]: Server is running on port 5000 
+2024-08-08T07:23:07.552Z [info]: Connected to MongoDB 
+2024-08-08T07:23:14.825Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723101574337.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:27:54.820Z [info]: Server is running on port 5000 
+2024-08-08T07:27:54.873Z [info]: Connected to MongoDB 
+2024-08-08T07:28:15.089Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723102094971.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:28:48.659Z [info]: Item created {
+  "item": {
+    "title_en": "An invitation to the flourishing of love",
+    "title_ta": "அன்பின் பேரெழுச்சிக்கு அழைப்பு",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "description_ta": "தமிழ் சங்கத்தின் அன்பு மக்கள் அனைவரும், எங்கள் அன்பு வாழ்த்துக்களுடன் உங்களை தமிழ்ச் சங்கத்தின் சிறப்பு நிகழ்ச்சிக்கு வரவேற்கிறோம்.",
+    "date_en": "24 July 2024",
+    "date_ta": "24 ஜூலை 2024",
+    "location_en": "Tamil Sangam Hall",
+    "location_ta": "தமிழ் சங்கக் கூடம்",
+    "sub_description_en": "We warmly welcome you all!",
+    "sub_description_ta": "உங்களை அனைவரையும் அன்புடன் வரவேற்கின்றோம்!",
+    "file": "file-1723102128613.jpeg",
+    "isDisabled": true,
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "createdAt": "2024-08-08T07:28:48.644Z",
+    "updatedAt": "2024-08-08T07:28:48.644Z",
+    "__v": 0
+  }
+}
+2024-08-08T07:28:57.250Z [info]: Retrieved all CMS items 
+2024-08-08T07:28:57.263Z [info]: Retrieved all CMS items 
+2024-08-08T07:29:00.552Z [info]: Retrieved all CMS items 
+2024-08-08T07:29:00.563Z [info]: Retrieved all CMS items 
+2024-08-08T07:32:23.790Z [info]: Retrieved all CMS items 
+2024-08-08T07:32:23.801Z [info]: Retrieved all CMS items 
+2024-08-08T07:32:31.237Z [info]: Retrieved all CMS items 
+2024-08-08T07:32:31.245Z [info]: Retrieved all CMS items 
+2024-08-08T07:32:41.459Z [info]: Retrieved all CMS items 
+2024-08-08T07:32:41.468Z [info]: Retrieved all CMS items 
+2024-08-08T07:33:00.889Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723102380706.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:33:00.907Z [info]: Retrieved all CMS items 
+2024-08-08T07:33:27.850Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723102407816.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T07:33:27.876Z [info]: Retrieved all CMS items 
+2024-08-08T08:05:15.388Z [info]: Server is running on port 5000 
+2024-08-08T08:05:15.439Z [info]: Connected to MongoDB 
+2024-08-08T10:50:31.006Z [info]: Retrieved all CMS items 
+2024-08-08T10:50:31.019Z [info]: Retrieved all CMS items 
+2024-08-08T10:50:43.523Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114243492.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T10:50:43.531Z [info]: Retrieved all CMS items 
+2024-08-08T10:52:50.502Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T10:52:50.514Z [info]: Retrieved all CMS items 
+2024-08-08T10:53:02.782Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114382770.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T10:53:02.793Z [info]: Retrieved all CMS items 
+2024-08-08T10:53:40.077Z [info]: Retrieved all CMS items 
+2024-08-08T10:53:40.082Z [info]: Retrieved all CMS items 
+2024-08-08T10:54:33.430Z [info]: Retrieved all CMS items 
+2024-08-08T10:57:36.535Z [info]: Retrieved all CMS items 
+2024-08-08T10:57:36.540Z [info]: Retrieved all CMS items 
+2024-08-08T10:57:40.397Z [info]: Retrieved all CMS items 
+2024-08-08T10:57:40.403Z [info]: Retrieved all CMS items 
+2024-08-08T10:58:36.908Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723114716883.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T10:58:36.917Z [info]: Retrieved all CMS items 
+2024-08-08T10:58:57.138Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723114737037.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T10:58:57.146Z [info]: Retrieved all CMS items 
+2024-08-08T11:01:27.421Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723114716883.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-08T11:01:27.435Z [info]: Retrieved all CMS items 

@@ -206,8 +206,8 @@ const updateItem = async (req, res) => {
 
     try {
       const updateData = { ...req.body };
-      if (req.file) {
-        updateData.file = req.file.filename; // Update filename if a new file is uploaded
+      if (req.files?.file) {
+        updateData.file = req.files.file[0].filename; // Update filename if a new image is uploaded
       }
 
       const item = await InvitationModel.findByIdAndUpdate(

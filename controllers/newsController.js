@@ -61,7 +61,7 @@ const createItem = async (req, res) => {
 // Retrieve all CMS items (only select specific fields)
 const getAllCmsItems = async (req, res) => {
   try {
-      const selectedValue = 'title_en title_ta description_en description_ta date_en date_ta author_en author_ta image isDisabled _id'; 
+      const selectedValue = 'title_en title_ta description_en description_ta image isDisabled _id'; 
 
       const items = await NewsModel.find({}, selectedValue);
       logger.info('Retrieved all CMS items');
@@ -87,9 +87,9 @@ const getAllCmsItems = async (req, res) => {
 // Retrieve all items
 const getAllItems = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en date_en author_en image isDisabled _id';
+    let selectedValue = 'title_en description_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta date_ta author_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta image isDisabled _id';
     }
     const items = await NewsModel.find({}, selectedValue);
     logger.info('Retrieved all items');
@@ -131,9 +131,9 @@ const getAllItems = async (req, res) => {
 // Retrieve an item by ID
 const getItemById = async (req, res) => {
   try {
-    let selectedValue = 'title_en description_en date_en author_en image isDisabled _id';
+    let selectedValue = 'title_en description_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedValue = 'title_ta description_ta date_ta author_ta image isDisabled _id';
+      selectedValue = 'title_ta description_ta image isDisabled _id';
     }
 
     const item = await NewsModel.findById(req.params.id, selectedValue);
@@ -206,8 +206,8 @@ const updateItem = async (req, res) => {
 
     try {
       const updateData = { ...req.body };
-      if (req.file) {
-        updateData.image = req.file.filename; // Update filename if a new file is uploaded
+      if (req.files?.image) {
+        updateData.image = req.files.image[0].filename; // Update filename if a new image is uploaded
       }
 
       const item = await NewsModel.findByIdAndUpdate(
@@ -219,71 +219,47 @@ const updateItem = async (req, res) => {
       if (!item) {
         logger.warn('Item not found for update', { id: req.params.id });
 
-        if (req?.query?.lang === "TA") {
-          res.status(STATUS_CODES.NOT_FOUND).send({
-            code: STATUS_CODES.NOT_FOUND,
-            message: TAMIL_MESSAGE.UPDATE_FAIL,
-            status: "error"
-          });
-        } else {
-          res.status(STATUS_CODES.NOT_FOUND).send({
-            code: STATUS_CODES.NOT_FOUND,
-            message: ENGLISH_MESSAGE.UPDATE_FAIL,
-            status: "error"
-          });
-        }
-        return;
+        return res.status(STATUS_CODES.NOT_FOUND).send({
+          code: STATUS_CODES.NOT_FOUND,
+          message: req?.query?.lang === "TA" ? TAMIL_MESSAGE.UPDATE_FAIL : ENGLISH_MESSAGE.UPDATE_FAIL,
+          status: "error"
+        });
       }
 
-      let selectedValue = 'title_en description_en date_en author_en image isDisabled _id';
+      let selectedValue = 'title_en description_en image isDisabled _id';
       if (req.query.lang && req.query.lang === "TA") {
-        selectedValue = 'title_ta description_ta date_ta author_ta image isDisabled _id';
+        selectedValue = 'title_ta description_ta image isDisabled _id';
       }
       const updatedItem = await NewsModel.findById(req.params.id, selectedValue);
 
       logger.info('Updated item', { item: updatedItem });
 
-      if (req?.query?.lang === "TA") {
-        res.status(STATUS_CODES.SUCCESS).send({
-          code: STATUS_CODES.SUCCESS,
-          message: TAMIL_MESSAGE.UPDATE_SUCC,
-          data: updatedItem,
-          status: "success"
-        });
-      } else {
-        res.status(STATUS_CODES.SUCCESS).send({
-          code: STATUS_CODES.SUCCESS,
-          message: ENGLISH_MESSAGE.UPDATE_SUCC,
-          data: updatedItem,
-          status: "success"
-        });
-      }
+      res.status(STATUS_CODES.SUCCESS).send({
+        code: STATUS_CODES.SUCCESS,
+        message: req?.query?.lang === "TA" ? TAMIL_MESSAGE.UPDATE_SUCC : ENGLISH_MESSAGE.UPDATE_SUCC,
+        data: updatedItem,
+        status: "success"
+      });
+
     } catch (error) {
       logger.error('Error updating item', { error: error.message });
 
-      if (req?.query?.lang === "TA") {
-        res.status(STATUS_CODES.SERVER_ERROR).send({
-          code: STATUS_CODES.SERVER_ERROR,
-          message: TAMIL_MESSAGE.UPDATE_FAIL,
-          status: "error"
-        });
-      } else {
-        res.status(STATUS_CODES.SERVER_ERROR).send({
-          code: STATUS_CODES.SERVER_ERROR,
-          message: ENGLISH_MESSAGE.UPDATE_FAIL,
-          status: "error"
-        });
-      }
+      res.status(STATUS_CODES.SERVER_ERROR).send({
+        code: STATUS_CODES.SERVER_ERROR,
+        message: req?.query?.lang === "TA" ? TAMIL_MESSAGE.UPDATE_FAIL : ENGLISH_MESSAGE.UPDATE_FAIL,
+        status: "error"
+      });
     }
   });
 };
 
+
 // Delete an item
 const deleteItem = async (req, res) => {
   try {
-    let selectedFields = 'title_en description_en date_en author_en image isDisabled _id';
+    let selectedFields = 'title_en description_en image isDisabled _id';
     if (req.query.lang && req.query.lang === "TA") {
-      selectedFields = 'title_ta description_ta date_ta author_ta image isDisabled _id';
+      selectedFields = 'title_ta description_ta image isDisabled _id';
     }
 
     const dltitem = await NewsModel.findById(req.params.id).select(selectedFields);

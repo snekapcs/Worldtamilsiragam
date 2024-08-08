@@ -1121,3 +1121,36 @@
 2024-08-07T11:47:50.053Z [error]: Error creating item {
   "error": "Structure validation failed: contactNumber: Cast to Number failed for value \"+33 6 51 57 47 58\" (type string) at path \"contactNumber\""
 }
+2024-08-07T13:01:49.466Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:03:30.594Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:04:30.394Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:09:30.034Z [error]: Error creating item {
+  "error": "News validation failed: image: Path `image` is required."
+}
+2024-08-07T13:23:48.207Z [error]: Error creating item {
+  "error": "News validation failed: file: Path `file` is required."
+}
+2024-08-07T13:32:05.763Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:32:26.918Z [error]: Error creating item {
+  "error": "Vision validation failed: image: Path `image` is required."
+}
+2024-08-07T13:32:53.110Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-07T13:44:13.284Z [error]: Error creating item {
+  "error": "News validation failed: author_ta: Path `author_ta` is required., author_en: Path `author_en` is required., date_ta: Path `date_ta` is required., date_en: Path `date_en` is required."
+}
+2024-08-08T05:21:46.887Z [error]: Error uploading file {
+  "error": "Unexpected field"
+}
+2024-08-08T07:19:14.226Z [error]: Error creating item {
+  "error": "Invitation validation failed: file: Path `file` is required."
+}

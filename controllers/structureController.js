@@ -239,8 +239,8 @@ const updateItem = async (req, res) => {
 
     try {
       const updateData = { ...req.body };
-      if (req.file) {
-        updateData.image = req.file.filename; 
+      if (req.files?.image) {
+        updateData.image = req.files.image[0].filename; // Update filename if a new image is uploaded
       }
 
       const item = await StructureModel.findByIdAndUpdate(
