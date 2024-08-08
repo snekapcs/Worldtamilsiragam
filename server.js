@@ -67,6 +67,7 @@ const festivalRoutes = require('./routes/festivalRoutes');
 const contactformRoutes = require('./routes/contactformRoutes');
 const structureRoutes = require('./routes/structureRoutes');
 const invitationRoutes = require('./routes/invitationRoutes');
+const publishRoutes = require('./routes/publishRoutes');
 const userRoutes = require('./routes/userRoutes');
 const roleRoutes = require('./routes/roleRoutes');
 const logger = require('./logger');
@@ -99,6 +100,7 @@ app.use('/api/structure', structureRoutes);
 app.use('/api/invitation', invitationRoutes);
 app.use('/api/user', userRoutes);
 app.use('/api/role', roleRoutes);
+app.use('/api/publish', publishRoutes);
 
 app.get("/", (req, res) => {
   return res.status(STATUS_CODES.SUCCESS).send(`Welcome to World Tamil siragam 🎉`);

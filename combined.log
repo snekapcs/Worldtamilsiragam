@@ -22106,3 +22106,126 @@
   }
 }
 2024-08-08T11:01:27.435Z [info]: Retrieved all CMS items 
+2024-08-08T11:10:20.765Z [info]: Server is running on port 5000 
+2024-08-08T11:10:20.811Z [info]: Connected to MongoDB 
+2024-08-08T11:29:31.604Z [info]: Server is running on port 5000 
+2024-08-08T11:29:31.656Z [info]: Connected to MongoDB 
+2024-08-08T11:32:13.411Z [info]: Server is running on port 5000 
+2024-08-08T11:32:13.460Z [info]: Connected to MongoDB 
+2024-08-08T11:34:38.176Z [info]: Server is running on port 5000 
+2024-08-08T11:34:38.222Z [info]: Connected to MongoDB 
+2024-08-08T11:42:26.179Z [info]: Server is running on port 5000 
+2024-08-08T11:42:26.229Z [info]: Connected to MongoDB 
+2024-08-08T11:42:28.855Z [info]: Server is running on port 5000 
+2024-08-08T11:42:28.926Z [info]: Connected to MongoDB 
+2024-08-08T11:58:43.938Z [info]: Server is running on port 5000 
+2024-08-08T11:58:43.988Z [info]: Connected to MongoDB 
+2024-08-08T11:59:14.431Z [info]: Server is running on port 5000 
+2024-08-08T11:59:14.482Z [info]: Connected to MongoDB 
+2024-08-08T11:59:37.215Z [info]: Server is running on port 5000 
+2024-08-08T11:59:37.268Z [info]: Connected to MongoDB 
+2024-08-08T12:00:20.745Z [info]: Server is running on port 5000 
+2024-08-08T12:00:20.785Z [info]: Connected to MongoDB 
+2024-08-08T12:01:19.461Z [info]: Server is running on port 5000 
+2024-08-08T12:01:19.503Z [info]: Connected to MongoDB 
+2024-08-08T12:01:36.270Z [info]: Server is running on port 5000 
+2024-08-08T12:01:36.317Z [info]: Connected to MongoDB 
+2024-08-08T12:03:04.703Z [info]: Server is running on port 5000 
+2024-08-08T12:03:04.758Z [info]: Connected to MongoDB 
+2024-08-08T12:03:06.573Z [info]: Server is running on port 5000 
+2024-08-08T12:03:06.618Z [info]: Connected to MongoDB 
+2024-08-08T12:05:19.684Z [info]: Server is running on port 5000 
+2024-08-08T12:05:19.744Z [info]: Connected to MongoDB 
+2024-08-08T12:05:52.296Z [info]: Server is running on port 5000 
+2024-08-08T12:05:52.348Z [info]: Connected to MongoDB 
+2024-08-08T12:08:57.276Z [info]: Server is running on port 5000 
+2024-08-08T12:08:57.316Z [info]: Connected to MongoDB 
+2024-08-08T12:10:57.877Z [info]: Server is running on port 5000 
+2024-08-08T12:10:57.927Z [info]: Connected to MongoDB 
+2024-08-08T12:11:16.572Z [info]: Server is running on port 5000 
+2024-08-08T12:11:16.620Z [info]: Connected to MongoDB 
+2024-08-08T12:11:30.730Z [info]: Server is running on port 5000 
+2024-08-08T12:11:30.772Z [info]: Connected to MongoDB 
+2024-08-08T12:13:07.072Z [info]: Server is running on port 5000 
+2024-08-08T12:13:07.128Z [info]: Connected to MongoDB 
+2024-08-08T12:13:53.510Z [info]: Server is running on port 5000 
+2024-08-08T12:13:53.565Z [info]: Connected to MongoDB 
+2024-08-08T12:15:59.148Z [info]: Server is running on port 5000 
+2024-08-08T12:15:59.211Z [info]: Connected to MongoDB 
+2024-08-08T12:17:43.017Z [info]: Server is running on port 5000 
+2024-08-08T12:17:43.070Z [info]: Connected to MongoDB 
+2024-08-08T12:19:10.455Z [info]: Server is running on port 5000 
+2024-08-08T12:19:10.522Z [info]: Connected to MongoDB 
+2024-08-08T12:21:18.018Z [info]: Server is running on port 5000 
+2024-08-08T12:21:18.068Z [info]: Connected to MongoDB 
+2024-08-08T12:21:50.138Z [info]: Server is running on port 5000 
+2024-08-08T12:21:50.203Z [info]: Connected to MongoDB 
+2024-08-08T12:31:03.904Z [info]: Server is running on port 5000 
+2024-08-08T12:31:03.949Z [info]: Connected to MongoDB 
+2024-08-08T12:31:47.499Z [info]: Server is running on port 5000 
+2024-08-08T12:31:47.561Z [info]: Connected to MongoDB 
+2024-08-08T12:35:06.278Z [info]: Server is running on port 5000 
+2024-08-08T12:35:06.328Z [info]: Connected to MongoDB 
+2024-08-08T12:38:43.077Z [info]: Server is running on port 5000 
+2024-08-08T12:38:43.125Z [info]: Connected to MongoDB 
+2024-08-08T12:39:22.161Z [info]: Server is running on port 5000 
+2024-08-08T12:39:22.224Z [info]: Connected to MongoDB 
+2024-08-08T12:40:59.866Z [info]: Server is running on port 5000 
+2024-08-08T12:40:59.919Z [info]: Connected to MongoDB 
+2024-08-08T12:44:32.542Z [info]: Server is running on port 5000 
+2024-08-08T12:44:32.590Z [info]: Connected to MongoDB 
+2024-08-08T12:45:39.044Z [info]: Server is running on port 5000 
+2024-08-08T12:45:39.104Z [info]: Connected to MongoDB 
+2024-08-08T12:45:43.045Z [info]: Server is running on port 5000 
+2024-08-08T12:45:43.089Z [info]: Connected to MongoDB 
+2024-08-08T12:45:59.547Z [info]: Server is running on port 5000 
+2024-08-08T12:45:59.604Z [info]: Connected to MongoDB 
+2024-08-08T12:46:09.638Z [info]: Server is running on port 5000 
+2024-08-08T12:46:09.730Z [info]: Connected to MongoDB 
+2024-08-08T12:48:04.398Z [info]: Server is running on port 5000 
+2024-08-08T12:48:04.438Z [info]: Connected to MongoDB 
+2024-08-08T12:48:12.055Z [info]: Server is running on port 5000 
+2024-08-08T12:48:12.096Z [info]: Connected to MongoDB 
+2024-08-08T12:49:34.657Z [info]: Retrieved all publish entries 
+2024-08-08T12:52:05.128Z [info]: Retrieved all CMS items 
+2024-08-08T12:52:05.139Z [info]: Retrieved all CMS items 
+2024-08-08T12:53:52.483Z [info]: Publish entry created {
+  "publish": {
+    "title_en": "World Tamil Flag",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் ",
+    "file": "file-1723121632375.pdf",
+    "isDisabled": true,
+    "_id": "66b4bfe0a5c5fd33e4f73aba",
+    "createdAt": "2024-08-08T12:53:52.467Z",
+    "updatedAt": "2024-08-08T12:53:52.467Z",
+    "__v": 0
+  }
+}
+2024-08-08T12:54:37.196Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4bfe0a5c5fd33e4f73aba",
+    "title_en": "World Tamil Flag!",
+    "file": "file-1723121677096.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T12:56:21.193Z [info]: Publish entry created {
+  "publish": {
+    "title_en": "World Tamil Flag",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "file": "file-1723121781061.pdf",
+    "isDisabled": true,
+    "_id": "66b4c075a5c5fd33e4f73abe",
+    "createdAt": "2024-08-08T12:56:21.190Z",
+    "updatedAt": "2024-08-08T12:56:21.190Z",
+    "__v": 0
+  }
+}
+2024-08-08T12:57:09.186Z [info]: Retrieved all publish entries 
+2024-08-08T12:57:27.516Z [info]: Retrieved all publish entries 
+2024-08-08T13:03:16.630Z [info]: Server is running on port 5000 
+2024-08-08T13:03:16.673Z [info]: Connected to MongoDB 
+2024-08-08T13:08:00.474Z [info]: Server is running on port 5000 
+2024-08-08T13:08:00.525Z [info]: Connected to MongoDB 
+2024-08-08T13:08:23.828Z [info]: Server is running on port 5000 
+2024-08-08T13:08:23.877Z [info]: Connected to MongoDB 

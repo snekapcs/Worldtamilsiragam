@@ -210,11 +210,10 @@ const updateItem = async (req, res) => {
         updateData.file = req.files.file[0].filename; // Update filename if a new image is uploaded
       }
 
-      const item = await InvitationModel.findByIdAndUpdate(
-        req.params.id,
-        updateData,
-        { new: true, runValidators: true }
-      );
+      const item = await InvitationModel.findByIdAndUpdate(req.params.id,updateData,{ 
+        new: true, 
+        runValidators: true 
+      });
 
       if (!item) {
         logger.warn('Item not found for update', { id: req.params.id });
