@@ -22229,3 +22229,1595 @@
 2024-08-08T13:08:00.525Z [info]: Connected to MongoDB 
 2024-08-08T13:08:23.828Z [info]: Server is running on port 5000 
 2024-08-08T13:08:23.877Z [info]: Connected to MongoDB 
+2024-08-08T13:16:04.549Z [info]: Server is running on port 5000 
+2024-08-08T13:16:04.626Z [info]: Connected to MongoDB 
+2024-08-08T13:32:51.538Z [info]: Retrieved all publish entries 
+2024-08-08T13:33:21.450Z [info]: Retrieved all publish entries 
+2024-08-08T13:33:31.439Z [info]: Retrieved all publish entries 
+2024-08-08T13:33:34.438Z [info]: Retrieved all publish entries 
+2024-08-08T13:34:57.500Z [info]: Retrieved all publish entries 
+2024-08-08T13:35:48.442Z [info]: Retrieved all publish entries 
+2024-08-08T13:38:15.471Z [info]: Retrieved all publish entries 
+2024-08-08T13:39:15.451Z [info]: Retrieved all publish entries 
+2024-08-08T13:39:24.464Z [info]: Retrieved all publish entries 
+2024-08-08T13:39:42.472Z [info]: Retrieved all publish entries 
+2024-08-08T13:40:38.458Z [info]: Retrieved all publish entries 
+2024-08-08T13:41:14.458Z [info]: Retrieved all publish entries 
+2024-08-08T13:41:37.494Z [info]: Retrieved all publish entries 
+2024-08-08T13:42:18.423Z [info]: Retrieved all publish entries 
+2024-08-08T13:42:29.467Z [info]: Retrieved all publish entries 
+2024-08-08T13:42:49.039Z [info]: Retrieved all CMS items 
+2024-08-08T13:42:49.050Z [info]: Retrieved all CMS items 
+2024-08-08T13:42:51.098Z [info]: Retrieved all publish entries 
+2024-08-08T13:42:51.106Z [info]: Retrieved all publish entries 
+2024-08-08T13:43:58.622Z [info]: Retrieved all CMS items 
+2024-08-08T13:43:58.636Z [info]: Retrieved all CMS items 
+2024-08-08T13:44:06.716Z [info]: Retrieved all publish entries 
+2024-08-08T13:44:06.773Z [info]: Retrieved all publish entries 
+2024-08-08T13:44:15.651Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4bfe0a5c5fd33e4f73aba",
+    "title_en": "World Tamil Flag",
+    "file": "file-1723121677096.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T13:44:15.663Z [info]: Retrieved all publish entries 
+2024-08-08T13:44:29.614Z [info]: Publish entry created {
+  "publish": {
+    "title_en": "World Tamil Flag",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "file": "file-1723124669465.pdf",
+    "isDisabled": true,
+    "_id": "66b4cbbd623a7d77fcfd5579",
+    "createdAt": "2024-08-08T13:44:29.594Z",
+    "updatedAt": "2024-08-08T13:44:29.594Z",
+    "__v": 0
+  }
+}
+2024-08-08T13:44:37.220Z [info]: Retrieved all CMS items 
+2024-08-08T13:44:37.228Z [info]: Retrieved all CMS items 
+2024-08-08T13:44:40.178Z [info]: Retrieved all publish entries 
+2024-08-08T13:44:40.185Z [info]: Retrieved all publish entries 
+2024-08-08T13:45:02.173Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4cbbd623a7d77fcfd5579",
+    "title_en": "World Tamil Flag!",
+    "file": "file-1723124669465.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T13:45:02.192Z [info]: Retrieved all publish entries 
+2024-08-08T13:46:42.474Z [info]: Retrieved all publish entries 
+2024-08-08T13:47:23.450Z [info]: Retrieved all publish entries 
+2024-08-08T13:47:38.475Z [info]: Retrieved all publish entries 
+2024-08-08T13:48:25.445Z [info]: Retrieved all publish entries 
+2024-08-08T13:50:31.468Z [info]: Retrieved all publish entries 
+2024-08-08T13:51:02.784Z [info]: Deleted publish entry {
+  "dltpublish": {
+    "_id": "66b4cbbd623a7d77fcfd5579",
+    "title_en": "World Tamil Flag!",
+    "file": "file-1723124669465.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T13:51:12.344Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4bfe0a5c5fd33e4f73aba",
+    "title_en": "World Tamil Flag!",
+    "file": "file-1723121677096.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T13:51:12.372Z [info]: Retrieved all publish entries 
+2024-08-08T13:55:55.196Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4c075a5c5fd33e4f73abe",
+    "title_en": "World Tamil Flag",
+    "file": "file-1723121781061.pdf",
+    "isDisabled": false
+  }
+}
+2024-08-08T13:55:57.327Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4c075a5c5fd33e4f73abe",
+    "title_en": "World Tamil Flag",
+    "file": "file-1723121781061.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-08T13:56:40.751Z [info]: Retrieved all publish entries 
+2024-08-08T13:56:40.757Z [info]: Retrieved all publish entries 
+2024-08-08T13:56:47.611Z [info]: Retrieved all publish entries 
+2024-08-08T13:56:47.618Z [info]: Retrieved all publish entries 
+2024-08-08T13:57:01.063Z [info]: Retrieved all CMS items 
+2024-08-08T13:57:01.072Z [info]: Retrieved all CMS items 
+2024-08-08T13:57:11.115Z [info]: Retrieved all publish entries 
+2024-08-08T13:57:11.122Z [info]: Retrieved all publish entries 
+2024-08-08T13:58:38.667Z [info]: Retrieved all CMS items 
+2024-08-08T13:58:38.694Z [info]: Retrieved all CMS items 
+2024-08-08T14:00:43.095Z [info]: Retrieved all CMS items 
+2024-08-08T14:00:43.103Z [info]: Retrieved all CMS items 
+2024-08-09T05:28:38.971Z [info]: Retrieved all CMS items 
+2024-08-09T05:28:38.983Z [info]: Retrieved all CMS items 
+2024-08-09T05:29:23.808Z [info]: Retrieved all publish entries 
+2024-08-09T05:29:23.815Z [info]: Retrieved all publish entries 
+2024-08-09T05:30:53.858Z [info]: Retrieved all CMS items 
+2024-08-09T05:30:53.865Z [info]: Retrieved all CMS items 
+2024-08-09T05:30:59.205Z [info]: Retrieved all CMS items 
+2024-08-09T05:30:59.213Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:03.505Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:03.516Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:07.223Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:07.230Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:10.465Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:10.471Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:46.714Z [info]: Retrieved all publish entries 
+2024-08-09T05:31:46.764Z [info]: Retrieved all publish entries 
+2024-08-09T05:31:50.552Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:50.559Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:54.808Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:54.814Z [info]: Retrieved all CMS items 
+2024-08-09T05:31:56.997Z [info]: Retrieved all publish entries 
+2024-08-09T05:31:57.003Z [info]: Retrieved all publish entries 
+2024-08-09T05:32:22.267Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:22.322Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:25.436Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:25.443Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:31.631Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:31.637Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:38.212Z [info]: Retrieved all publish entries 
+2024-08-09T05:32:38.218Z [info]: Retrieved all publish entries 
+2024-08-09T05:32:40.194Z [info]: Retrieved all CMS items 
+2024-08-09T05:32:40.201Z [info]: Retrieved all CMS items 
+2024-08-09T05:42:11.399Z [info]: Retrieved all CMS items 
+2024-08-09T05:42:11.409Z [info]: Retrieved all CMS items 
+2024-08-09T05:42:54.130Z [info]: Retrieved all CMS items 
+2024-08-09T05:42:54.141Z [info]: Retrieved all CMS items 
+2024-08-09T05:44:25.751Z [info]: Retrieved all items 
+2024-08-09T05:44:25.756Z [info]: Retrieved all items 
+2024-08-09T05:44:25.765Z [info]: Retrieved all items 
+2024-08-09T05:44:25.770Z [info]: Retrieved all items 
+2024-08-09T05:44:30.962Z [info]: Retrieved all items 
+2024-08-09T05:44:30.967Z [info]: Retrieved all items 
+2024-08-09T05:44:30.972Z [info]: Retrieved all items 
+2024-08-09T05:44:30.985Z [info]: Retrieved all items 
+2024-08-09T05:44:30.988Z [info]: Retrieved all items 
+2024-08-09T05:44:30.991Z [info]: Retrieved all items 
+2024-08-09T05:44:35.417Z [info]: Retrieved all items 
+2024-08-09T05:44:35.446Z [info]: Retrieved all items 
+2024-08-09T05:44:39.915Z [info]: Retrieved all items 
+2024-08-09T05:44:39.918Z [info]: Retrieved all items 
+2024-08-09T05:44:39.922Z [info]: Retrieved all items 
+2024-08-09T05:44:39.932Z [info]: Retrieved all items 
+2024-08-09T05:44:39.936Z [info]: Retrieved all items 
+2024-08-09T05:44:39.941Z [info]: Retrieved all items 
+2024-08-09T05:45:50.185Z [info]: Retrieved all CMS items 
+2024-08-09T05:45:50.195Z [info]: Retrieved all CMS items 
+2024-08-09T05:56:52.286Z [info]: Retrieved all items 
+2024-08-09T05:56:52.305Z [info]: Retrieved all items 
+2024-08-09T05:59:37.354Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723183177234.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723183177240.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723183177251.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723183177255.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-09T05:59:37.465Z [info]: Retrieved all CMS items 
+2024-08-09T06:00:36.405Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "kamban kalagam.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723183236362.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-09T06:00:36.425Z [info]: Retrieved all CMS items 
+2024-08-09T06:04:24.045Z [info]: Retrieved all CMS items 
+2024-08-09T06:04:24.057Z [info]: Retrieved all CMS items 
+2024-08-09T06:04:29.226Z [info]: Retrieved all CMS items 
+2024-08-09T06:04:29.237Z [info]: Retrieved all CMS items 
+2024-08-09T06:05:01.882Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723183501796.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723183501810.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723183501818.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-09T06:05:01.939Z [info]: Retrieved all CMS items 
+2024-08-09T06:19:36.044Z [info]: Retrieved all publish entries 
+2024-08-09T06:19:36.054Z [info]: Retrieved all publish entries 
+2024-08-09T06:34:24.812Z [info]: Retrieved all CMS items 
+2024-08-09T06:34:24.819Z [info]: Retrieved all CMS items 
+2024-08-09T06:43:36.773Z [info]: Retrieved all CMS items 
+2024-08-09T06:44:11.786Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723185851766.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-09T06:44:11.797Z [info]: Retrieved all CMS items 
+2024-08-09T06:44:33.005Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723185872877.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-09T06:44:33.014Z [info]: Retrieved all CMS items 
+2024-08-09T06:45:19.844Z [info]: Retrieved all CMS items 
+2024-08-09T06:45:27.849Z [info]: Retrieved all CMS items 
+2024-08-09T06:45:27.858Z [info]: Retrieved all CMS items 
+2024-08-09T06:45:40.553Z [info]: Retrieved all CMS items 
+2024-08-09T06:45:40.560Z [info]: Retrieved all CMS items 
+2024-08-09T06:47:35.534Z [info]: Retrieved all CMS items 
+2024-08-09T06:47:35.539Z [info]: Retrieved all CMS items 
+2024-08-09T06:48:15.913Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723186095900.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-09T06:48:15.923Z [info]: Retrieved all CMS items 
+2024-08-09T06:48:50.354Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723186130311.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-09T06:48:50.361Z [info]: Retrieved all CMS items 
+2024-08-09T06:49:38.766Z [info]: Retrieved all CMS items 
+2024-08-09T06:50:15.779Z [info]: Retrieved all CMS items 
+2024-08-09T06:51:29.053Z [info]: Retrieved all publish entries 
+2024-08-09T06:51:29.057Z [info]: Retrieved all publish entries 
+2024-08-09T06:52:04.913Z [info]: Retrieved all CMS items 
+2024-08-09T06:52:04.923Z [info]: Retrieved all CMS items 
+2024-08-09T06:52:07.022Z [info]: Retrieved all CMS items 
+2024-08-09T06:52:07.027Z [info]: Retrieved all CMS items 
+2024-08-09T06:57:16.059Z [info]: Retrieved all publish entries 
+2024-08-09T06:57:16.064Z [info]: Retrieved all publish entries 
+2024-08-09T06:57:38.741Z [info]: Retrieved all CMS items 
+2024-08-09T06:57:38.762Z [info]: Retrieved all CMS items 
+2024-08-09T06:57:47.358Z [info]: Retrieved all publish entries 
+2024-08-09T06:57:47.363Z [info]: Retrieved all publish entries 
+2024-08-09T06:58:25.754Z [info]: Retrieved all publish entries 
+2024-08-09T06:58:42.565Z [info]: Retrieved all CMS items 
+2024-08-09T06:58:42.570Z [info]: Retrieved all CMS items 
+2024-08-09T06:58:46.193Z [info]: Retrieved all publish entries 
+2024-08-09T06:58:46.197Z [info]: Retrieved all publish entries 
+2024-08-09T06:59:44.780Z [info]: Retrieved all publish entries 
+2024-08-09T07:00:49.156Z [info]: Retrieved all CMS items 
+2024-08-09T07:00:49.163Z [info]: Retrieved all CMS items 
+2024-08-09T07:05:18.289Z [info]: Retrieved all items 
+2024-08-09T07:05:18.291Z [info]: Retrieved all items 
+2024-08-09T07:05:18.294Z [info]: Retrieved all items 
+2024-08-09T07:05:18.302Z [info]: Retrieved all items 
+2024-08-09T07:05:18.305Z [info]: Retrieved all items 
+2024-08-09T07:05:18.307Z [info]: Retrieved all items 
+2024-08-09T07:05:40.132Z [info]: Retrieved all items 
+2024-08-09T07:05:40.134Z [info]: Retrieved all items 
+2024-08-09T07:05:40.137Z [info]: Retrieved all items 
+2024-08-09T07:05:40.140Z [info]: Retrieved all items 
+2024-08-09T07:06:48.630Z [info]: Retrieved all items 
+2024-08-09T07:06:48.639Z [info]: Retrieved all items 
+2024-08-09T07:07:04.362Z [info]: Retrieved all items 
+2024-08-09T07:07:04.366Z [info]: Retrieved all items 
+2024-08-09T07:07:10.211Z [info]: Retrieved all items 
+2024-08-09T07:07:10.217Z [info]: Retrieved all items 
+2024-08-09T07:07:10.224Z [info]: Retrieved all items 
+2024-08-09T07:07:10.239Z [info]: Retrieved all items 
+2024-08-09T07:07:10.246Z [info]: Retrieved all items 
+2024-08-09T07:07:10.251Z [info]: Retrieved all items 
+2024-08-09T07:11:53.629Z [info]: Retrieved all publish entries 
+2024-08-09T07:11:53.634Z [info]: Retrieved all publish entries 
+2024-08-09T07:12:04.696Z [info]: Retrieved all CMS items 
+2024-08-09T07:12:04.700Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:01.250Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:01.256Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:03.046Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:03.055Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:04.225Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:04.239Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:05.546Z [info]: Retrieved all publish entries 
+2024-08-09T07:22:05.552Z [info]: Retrieved all publish entries 
+2024-08-09T07:22:14.697Z [info]: Retrieved all CMS items 
+2024-08-09T07:22:14.709Z [info]: Retrieved all CMS items 
+2024-08-09T07:29:12.839Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723188552778.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723188552782.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723188552783.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723188552790.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723188552795.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-09T07:29:12.907Z [info]: Retrieved all CMS items 
+2024-08-09T11:00:17.114Z [info]: Retrieved all CMS items 
+2024-08-09T11:00:17.125Z [info]: Retrieved all CMS items 
+2024-08-09T11:03:03.136Z [info]: Retrieved all CMS items 
+2024-08-09T11:03:03.156Z [info]: Retrieved all CMS items 
+2024-08-09T11:07:07.267Z [info]: Retrieved all CMS items 
+2024-08-09T11:07:07.278Z [info]: Retrieved all CMS items 
+2024-08-09T11:08:12.855Z [info]: Retrieved all CMS items 
+2024-08-09T11:08:12.862Z [info]: Retrieved all CMS items 
+2024-08-09T11:08:24.033Z [info]: Retrieved all CMS items 
+2024-08-09T11:08:24.040Z [info]: Retrieved all CMS items 
+2024-08-09T11:09:44.240Z [info]: Retrieved all CMS items 
+2024-08-09T11:09:44.247Z [info]: Retrieved all CMS items 
+2024-08-09T11:13:16.453Z [info]: Retrieved all items 
+2024-08-09T11:13:16.457Z [info]: Retrieved all items 
+2024-08-09T11:13:16.460Z [info]: Retrieved all items 
+2024-08-09T11:13:16.475Z [info]: Retrieved all items 
+2024-08-09T11:13:16.477Z [info]: Retrieved all items 
+2024-08-09T11:13:16.486Z [info]: Retrieved all items 
+2024-08-09T11:13:43.776Z [info]: Retrieved all items 
+2024-08-09T11:13:43.781Z [info]: Retrieved all items 
+2024-08-09T11:13:43.788Z [info]: Retrieved all items 
+2024-08-09T11:13:43.803Z [info]: Retrieved all items 
+2024-08-09T11:13:43.809Z [info]: Retrieved all items 
+2024-08-09T11:13:43.816Z [info]: Retrieved all items 
+2024-08-09T11:15:34.224Z [info]: Retrieved all CMS items 
+2024-08-09T11:15:34.231Z [info]: Retrieved all CMS items 
+2024-08-09T11:15:48.223Z [info]: Fetched all roles successfully 
+2024-08-09T11:15:48.231Z [info]: Fetched all roles successfully 
+2024-08-09T11:15:52.727Z [info]: Retrieved all CMS items 
+2024-08-09T11:15:52.752Z [info]: Retrieved all CMS items 
+2024-08-09T11:15:58.626Z [info]: Retrieved all items 
+2024-08-09T11:15:58.629Z [info]: Retrieved all items 
+2024-08-09T11:15:58.633Z [info]: Retrieved all items 
+2024-08-09T11:15:58.644Z [info]: Retrieved all items 
+2024-08-09T11:15:58.647Z [info]: Retrieved all items 
+2024-08-09T11:15:58.650Z [info]: Retrieved all items 
+2024-08-09T11:16:16.225Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:16.231Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:24.659Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:24.665Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:28.502Z [info]: Retrieved all publish entries 
+2024-08-09T11:16:28.508Z [info]: Retrieved all publish entries 
+2024-08-09T11:16:39.103Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:39.153Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:43.856Z [info]: Retrieved all CMS items 
+2024-08-09T11:16:43.863Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:04.135Z [info]: Deleted item {
+  "item": {
+    "_id": "66b46ca3282ee3517f8f219f",
+    "title_en": "Leader",
+    "title_ta": "தலைவர்",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "description_ta": "பாட்டரசர் <strong>கி.பாரதிதாசன்</strong>, பிரான்சு",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "contactNo_ta": "தொடர்பு எண் - +33 6 51 57 47 58",
+    "isDisabled": true,
+    "createdAt": "2024-08-08T06:58:43.734Z",
+    "updatedAt": "2024-08-08T07:06:17.470Z",
+    "__v": 0
+  }
+}
+2024-08-09T11:17:13.233Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:13.242Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:18.291Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:18.312Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:25.626Z [info]: Retrieved all publish entries 
+2024-08-09T11:17:25.632Z [info]: Retrieved all publish entries 
+2024-08-09T11:17:32.606Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:32.613Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:33.845Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:33.855Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:35.033Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:35.046Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:35.976Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:35.982Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:37.285Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:37.294Z [info]: Retrieved all CMS items 
+2024-08-09T11:17:38.394Z [info]: Retrieved all publish entries 
+2024-08-09T11:17:38.401Z [info]: Retrieved all publish entries 
+2024-08-09T11:20:46.327Z [info]: Retrieved all items 
+2024-08-09T11:20:46.333Z [info]: Retrieved all items 
+2024-08-09T11:20:46.340Z [info]: Retrieved all items 
+2024-08-09T11:20:46.346Z [info]: Retrieved all items 
+2024-08-09T11:20:46.355Z [info]: Retrieved all items 
+2024-08-09T11:20:46.362Z [info]: Retrieved all items 
+2024-08-09T11:20:55.258Z [info]: Retrieved all CMS items 
+2024-08-09T11:20:55.266Z [info]: Retrieved all CMS items 
+2024-08-09T11:58:15.259Z [info]: Retrieved all items 
+2024-08-09T11:58:15.279Z [info]: Retrieved all items 
+2024-08-09T11:58:15.287Z [info]: Retrieved all items 
+2024-08-09T11:58:15.303Z [info]: Retrieved all items 
+2024-08-09T11:58:15.309Z [info]: Retrieved all items 
+2024-08-09T11:58:15.313Z [info]: Retrieved all items 
+2024-08-09T12:03:37.061Z [info]: Retrieved all items 
+2024-08-09T12:05:50.090Z [info]: Retrieved all items 
+2024-08-09T12:05:50.102Z [info]: Retrieved all items 
+2024-08-09T12:06:35.261Z [info]: Retrieved all CMS items 
+2024-08-09T12:06:35.268Z [info]: Retrieved all CMS items 
+2024-08-09T12:06:41.864Z [info]: Retrieved all CMS items 
+2024-08-09T12:06:41.875Z [info]: Retrieved all CMS items 
+2024-08-09T12:10:13.878Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723205413825.jpeg",
+        "fileSize": 226721
+      }
+    ],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-09T12:10:13.908Z [info]: Retrieved all CMS items 
+2024-08-09T12:11:05.166Z [info]: Retrieved all CMS items 
+2024-08-09T12:11:42.711Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723205502687.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-09T12:11:42.751Z [info]: Retrieved all CMS items 
+2024-08-09T12:14:15.166Z [info]: Retrieved all CMS items 
+2024-08-09T12:14:35.083Z [info]: Retrieved all CMS items 
+2024-08-10T04:55:41.516Z [info]: Server is running on port 5000 
+2024-08-10T04:55:41.561Z [info]: Connected to MongoDB 
+2024-08-10T05:54:33.799Z [info]: Retrieved all CMS items 
+2024-08-10T05:54:33.829Z [info]: Retrieved all CMS items 
+2024-08-10T06:13:24.655Z [info]: Retrieved all items 
+2024-08-10T06:13:24.667Z [info]: Retrieved all items 
+2024-08-10T07:38:42.484Z [info]: Retrieved all CMS items 
+2024-08-10T07:38:42.492Z [info]: Retrieved all CMS items 
+2024-08-10T07:43:29.302Z [info]: Retrieved all CMS items 
+2024-08-10T07:49:08.313Z [info]: Retrieved all CMS items 
+2024-08-10T07:50:56.283Z [info]: Retrieved all CMS items 
+2024-08-10T07:51:10.844Z [info]: Retrieved all items 
+2024-08-10T07:51:10.856Z [info]: Retrieved all items 
+2024-08-10T07:51:10.882Z [info]: Retrieved all items 
+2024-08-10T07:51:10.895Z [info]: Retrieved all items 
+2024-08-10T07:51:10.903Z [info]: Retrieved all items 
+2024-08-10T07:51:10.910Z [info]: Retrieved all items 
+2024-08-10T07:51:26.604Z [info]: Retrieved all CMS items 
+2024-08-10T07:51:26.615Z [info]: Retrieved all CMS items 
+2024-08-10T07:51:51.950Z [info]: Retrieved all publish entries 
+2024-08-10T07:51:51.955Z [info]: Retrieved all publish entries 
+2024-08-10T07:52:35.389Z [info]: Retrieved all CMS items 
+2024-08-10T07:52:35.397Z [info]: Retrieved all CMS items 
+2024-08-10T07:53:06.835Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723276386755.jpeg",
+        "fileSize": 226721
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723276386760.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T07:53:06.861Z [info]: Retrieved all CMS items 
+2024-08-10T07:56:43.344Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723276603322.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723276603326.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723276603329.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T07:56:43.358Z [info]: Retrieved all CMS items 
+2024-08-10T07:58:28.365Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723276708352.jpeg",
+        "fileSize": 226721
+      }
+    ],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T07:58:28.375Z [info]: Retrieved all CMS items 
+2024-08-10T08:00:30.296Z [info]: Retrieved all CMS items 
+2024-08-10T08:00:40.123Z [info]: Retrieved all CMS items 
+2024-08-10T08:00:40.128Z [info]: Retrieved all CMS items 
+2024-08-10T08:00:51.135Z [info]: Retrieved all CMS items 
+2024-08-10T08:00:51.141Z [info]: Retrieved all CMS items 
+2024-08-10T08:08:47.874Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723188552778.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723277327862.jpeg",
+        "fileSize": 226721
+      }
+    ],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T08:08:47.894Z [info]: Retrieved all CMS items 
+2024-08-10T08:44:30.891Z [info]: Fetched all roles successfully 
+2024-08-10T08:44:30.903Z [info]: Fetched all roles successfully 
+2024-08-10T08:44:39.576Z [info]: Fetched all roles successfully 
+2024-08-10T08:44:39.584Z [info]: Fetched all roles successfully 
+2024-08-10T08:44:52.678Z [info]: User login successful {
+  "userId": "66a377ff0b83a7594d903748"
+}
+2024-08-10T08:44:52.695Z [info]: Fetched role successfully: ID 66a272f03d1b5dfcca9c8270 
+2024-08-10T08:44:54.828Z [info]: Retrieved all CMS items 
+2024-08-10T08:44:54.836Z [info]: Retrieved all CMS items 
+2024-08-10T08:44:57.599Z [info]: Retrieved all CMS items 
+2024-08-10T08:44:57.653Z [info]: Retrieved all CMS items 
+2024-08-10T08:53:11.550Z [info]: Fetched all roles successfully 
+2024-08-10T08:53:11.562Z [info]: Fetched all roles successfully 
+2024-08-10T08:53:20.517Z [info]: Fetched all roles successfully 
+2024-08-10T08:53:20.524Z [info]: Fetched all roles successfully 
+2024-08-10T08:59:53.958Z [info]: Retrieved all items 
+2024-08-10T08:59:53.966Z [info]: Retrieved all items 
+2024-08-10T09:57:29.155Z [info]: Retrieved all CMS items 
+2024-08-10T09:57:29.166Z [info]: Retrieved all CMS items 
+2024-08-10T09:59:08.336Z [info]: Retrieved all CMS items 
+2024-08-10T10:00:05.531Z [info]: Retrieved all CMS items 
+2024-08-10T10:00:05.538Z [info]: Retrieved all CMS items 
+2024-08-10T10:00:11.739Z [info]: Retrieved all CMS items 
+2024-08-10T10:00:11.747Z [info]: Retrieved all CMS items 
+2024-08-10T10:03:35.645Z [info]: Retrieved all CMS items 
+2024-08-10T10:03:35.651Z [info]: Retrieved all CMS items 
+2024-08-10T10:03:39.266Z [info]: Retrieved all CMS items 
+2024-08-10T10:03:39.277Z [info]: Retrieved all CMS items 
+2024-08-10T10:04:25.326Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723188552778.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723284265240.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723284265243.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723284265244.jpeg",
+        "fileSize": 178011
+      }
+    ],
+    "video": [
+      {
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1723284265264.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T10:04:25.398Z [info]: Retrieved all CMS items 
+2024-08-10T10:05:43.299Z [info]: Updated item {
+  "item": {
+    "_id": "66adcdff3cd49bd9cd0c0123",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723188552778.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1723284343278.jpeg",
+        "fileSize": 226721
+      }
+    ],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable <strong>Sha. Jagadratsakan</strong> MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T10:05:43.335Z [info]: Retrieved all CMS items 
+2024-08-10T10:06:32.307Z [info]: Retrieved all CMS items 
+2024-08-10T10:06:42.110Z [info]: Retrieved all CMS items 
+2024-08-10T10:06:42.119Z [info]: Retrieved all CMS items 
+2024-08-10T10:07:34.202Z [info]: Retrieved all CMS items 
+2024-08-10T10:07:34.213Z [info]: Retrieved all CMS items 
+2024-08-10T10:31:00.919Z [info]: Retrieved all CMS items 
+2024-08-10T10:31:00.930Z [info]: Retrieved all CMS items 
+2024-08-10T10:31:04.131Z [info]: Retrieved all CMS items 
+2024-08-10T10:31:04.138Z [info]: Retrieved all CMS items 
+2024-08-10T10:32:20.875Z [info]: Retrieved all CMS items 
+2024-08-10T10:33:53.263Z [info]: Retrieved all CMS items 
+2024-08-10T10:34:13.930Z [info]: Retrieved all CMS items 
+2024-08-10T10:34:13.985Z [info]: Retrieved all CMS items 
+2024-08-10T10:34:19.210Z [info]: Retrieved all CMS items 
+2024-08-10T10:34:19.216Z [info]: Retrieved all CMS items 
+2024-08-10T10:34:24.771Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723186130311.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T10:34:24.786Z [info]: Retrieved all CMS items 
+2024-08-10T10:34:38.790Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723186130311.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T10:34:38.833Z [info]: Retrieved all CMS items 
+2024-08-10T10:36:12.261Z [info]: Retrieved all CMS items 
+2024-08-10T10:37:12.551Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723286232316.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T10:37:12.564Z [info]: Retrieved all CMS items 
+2024-08-10T10:38:05.670Z [info]: Retrieved all CMS items 
+2024-08-10T10:39:12.390Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723286352175.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T10:39:12.406Z [info]: Retrieved all CMS items 
+2024-08-10T10:41:13.265Z [info]: Retrieved all CMS items 
+2024-08-10T10:42:33.598Z [info]: Retrieved all publish entries 
+2024-08-10T10:42:33.609Z [info]: Retrieved all publish entries 
+2024-08-10T10:43:24.235Z [info]: Retrieved all publish entries 
+2024-08-10T10:44:30.243Z [info]: Retrieved all publish entries 
+2024-08-10T10:59:30.890Z [info]: Retrieved all publish entries 
+2024-08-10T11:00:19.456Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4c075a5c5fd33e4f73abe",
+    "title_en": "World Tamil Flag",
+    "file": "file-1723287619283.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T11:00:19.472Z [info]: Retrieved all publish entries 
+2024-08-10T11:00:49.169Z [info]: Retrieved all CMS items 
+2024-08-10T11:00:49.177Z [info]: Retrieved all CMS items 
+2024-08-10T11:04:06.076Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723287846040.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T11:04:06.093Z [info]: Retrieved all CMS items 
+2024-08-10T11:04:26.071Z [info]: Updated item {
+  "item": {
+    "_id": "66b473b01d3f9a1ec07ec5b3",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!",
+    "file": "file-1723287865964.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T11:04:26.086Z [info]: Retrieved all CMS items 
+2024-08-10T11:04:45.711Z [info]: Retrieved all publish entries 
+2024-08-10T11:04:45.717Z [info]: Retrieved all publish entries 
+2024-08-10T11:05:08.273Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b4c075a5c5fd33e4f73abe",
+    "title_en": "World Tamil Flag",
+    "file": "file-1723287907992.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-10T11:05:08.286Z [info]: Retrieved all publish entries 
+2024-08-10T11:08:31.716Z [info]: Retrieved all publish entries 
+2024-08-10T11:08:31.723Z [info]: Retrieved all publish entries 
+2024-08-10T11:08:43.544Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:43.551Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:44.592Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:44.601Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:45.904Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:45.920Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:47.156Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:47.164Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:48.344Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:48.358Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:49.523Z [info]: Retrieved all publish entries 
+2024-08-10T11:08:49.529Z [info]: Retrieved all publish entries 
+2024-08-10T11:08:52.547Z [info]: Retrieved all CMS items 
+2024-08-10T11:08:52.555Z [info]: Retrieved all CMS items 
+2024-08-10T11:09:39.416Z [info]: Fetched all roles successfully 
+2024-08-10T11:09:39.423Z [info]: Fetched all roles successfully 
+2024-08-10T11:09:42.483Z [info]: Retrieved all CMS items 
+2024-08-10T11:09:42.490Z [info]: Retrieved all CMS items 
+2024-08-10T11:09:48.081Z [info]: Retrieved all CMS items 
+2024-08-10T11:09:48.091Z [info]: Retrieved all CMS items 
+2024-08-10T11:09:52.818Z [info]: Retrieved all CMS items 
+2024-08-10T11:09:52.827Z [info]: Retrieved all CMS items 
+2024-08-10T15:58:37.730Z [info]: Retrieved all CMS items 
+2024-08-10T15:58:37.741Z [info]: Retrieved all CMS items 
+2024-08-10T15:58:44.608Z [info]: Retrieved all items 
+2024-08-10T15:58:44.624Z [info]: Retrieved all items 
+2024-08-10T15:58:44.631Z [info]: Retrieved all items 
+2024-08-10T15:58:44.637Z [info]: Retrieved all items 
+2024-08-10T15:58:44.653Z [info]: Retrieved all items 
+2024-08-10T15:58:44.664Z [info]: Retrieved all items 
+2024-08-10T15:59:54.965Z [info]: Retrieved all items 
+2024-08-10T15:59:54.968Z [info]: Retrieved all items 
+2024-08-10T15:59:54.972Z [info]: Retrieved all items 
+2024-08-10T15:59:55.022Z [info]: Retrieved all items 
+2024-08-10T15:59:55.025Z [info]: Retrieved all items 
+2024-08-10T15:59:55.029Z [info]: Retrieved all items 
+2024-08-10T16:03:47.401Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-10T16:03:54.794Z [info]: Retrieved all items 
+2024-08-10T16:03:54.798Z [info]: Retrieved all items 
+2024-08-10T16:03:54.805Z [info]: Retrieved all items 
+2024-08-10T16:03:54.809Z [info]: Retrieved all items 
+2024-08-10T16:03:54.813Z [info]: Retrieved all items 
+2024-08-10T16:03:54.818Z [info]: Retrieved all items 
+2024-08-10T16:04:02.165Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T16:04:19.932Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114382770.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T16:04:19.944Z [info]: Retrieved all CMS items 
+2024-08-10T16:04:24.910Z [info]: Retrieved all items 
+2024-08-10T16:04:24.913Z [info]: Retrieved all items 
+2024-08-10T16:04:24.920Z [info]: Retrieved all items 
+2024-08-10T16:04:24.927Z [info]: Retrieved all items 
+2024-08-10T16:04:24.931Z [info]: Retrieved all items 
+2024-08-10T16:04:24.938Z [info]: Retrieved all items 
+2024-08-10T16:04:36.927Z [info]: Retrieved all items 
+2024-08-10T16:04:36.929Z [info]: Retrieved all items 
+2024-08-10T16:04:36.933Z [info]: Retrieved all items 
+2024-08-10T16:04:36.943Z [info]: Retrieved all items 
+2024-08-10T16:04:36.946Z [info]: Retrieved all items 
+2024-08-10T16:04:36.952Z [info]: Retrieved all items 
+2024-08-10T16:04:51.899Z [info]: Retrieved all items 
+2024-08-10T16:04:51.904Z [info]: Retrieved all items 
+2024-08-10T16:04:51.908Z [info]: Retrieved all items 
+2024-08-10T16:04:51.919Z [info]: Retrieved all items 
+2024-08-10T16:04:51.924Z [info]: Retrieved all items 
+2024-08-10T16:04:51.927Z [info]: Retrieved all items 
+2024-08-10T16:05:02.497Z [info]: Retrieved all items 
+2024-08-10T16:05:02.500Z [info]: Retrieved all items 
+2024-08-10T16:05:02.503Z [info]: Retrieved all items 
+2024-08-10T16:05:02.571Z [info]: Retrieved all items 
+2024-08-10T16:05:02.573Z [info]: Retrieved all items 
+2024-08-10T16:05:02.576Z [info]: Retrieved all items 
+2024-08-10T16:05:26.532Z [info]: Retrieved all CMS items 
+2024-08-10T16:05:26.540Z [info]: Retrieved all CMS items 
+2024-08-10T16:05:42.908Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723305942882.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T16:05:42.923Z [info]: Retrieved all CMS items 
+2024-08-10T16:05:56.666Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fdb6cc685ef39dc3154",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723305956599.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T16:05:56.692Z [info]: Retrieved all CMS items 
+2024-08-10T16:06:10.112Z [info]: Updated item {
+  "item": {
+    "_id": "66b461156cc685ef39dc3166",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "image": "image-1723305970101.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T16:06:10.128Z [info]: Retrieved all CMS items 
+2024-08-10T16:06:15.294Z [info]: Retrieved all items 
+2024-08-10T16:06:15.298Z [info]: Retrieved all items 
+2024-08-10T16:06:15.301Z [info]: Retrieved all items 
+2024-08-10T16:06:15.310Z [info]: Retrieved all items 
+2024-08-10T16:06:15.313Z [info]: Retrieved all items 
+2024-08-10T16:06:15.317Z [info]: Retrieved all items 
+2024-08-10T16:06:24.755Z [info]: Retrieved all items 
+2024-08-10T16:06:24.761Z [info]: Retrieved all items 
+2024-08-10T16:06:34.760Z [info]: Retrieved all items 
+2024-08-10T16:06:34.762Z [info]: Retrieved all items 
+2024-08-10T16:06:34.765Z [info]: Retrieved all items 
+2024-08-10T16:06:34.776Z [info]: Retrieved all items 
+2024-08-10T16:06:34.779Z [info]: Retrieved all items 
+2024-08-10T16:06:34.784Z [info]: Retrieved all items 
+2024-08-10T16:06:57.486Z [info]: Retrieved all items 
+2024-08-10T16:06:57.492Z [info]: Retrieved all items 
+2024-08-10T16:06:57.495Z [info]: Retrieved all items 
+2024-08-10T16:06:57.531Z [info]: Retrieved all items 
+2024-08-10T16:06:57.536Z [info]: Retrieved all items 
+2024-08-10T16:06:57.539Z [info]: Retrieved all items 
+2024-08-10T16:08:08.197Z [info]: Retrieved all items 
+2024-08-10T16:08:08.205Z [info]: Retrieved all items 
+2024-08-10T16:08:08.218Z [info]: Retrieved all items 
+2024-08-10T16:08:08.226Z [info]: Retrieved all items 
+2024-08-10T16:08:08.238Z [info]: Retrieved all items 
+2024-08-10T16:08:08.252Z [info]: Retrieved all items 
+2024-08-10T16:08:42.491Z [info]: Retrieved all CMS items 
+2024-08-10T16:08:42.497Z [info]: Retrieved all CMS items 
+2024-08-10T16:09:07.549Z [info]: Updated item {
+  "item": {
+    "_id": "66aa6008ad9616e95b354618",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "date_en": "15 May 2023",
+    "image": {
+      "fileName": "award.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723183177223.jpeg",
+      "fileSize": 226721
+    },
+    "gallery_images": [],
+    "video": [],
+    "isDisabled": true,
+    "heading_en": "Chief",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairmanName_en": "Honorable Sha. Jagadratsakan MB",
+    "minister_en": "Former Union Minister",
+    "chairman_en": "Chairman",
+    "chairmanName_en": "Patarasar <strong>K. Bharathidasan</strong> France",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretaryName_en": "Dr. <strong>M. Ponnusamy</strong> America"
+  }
+}
+2024-08-10T16:09:07.591Z [info]: Retrieved all CMS items 
+2024-08-10T16:09:15.489Z [info]: Retrieved all items 
+2024-08-10T16:09:15.498Z [info]: Retrieved all items 
+2024-08-10T16:09:15.506Z [info]: Retrieved all items 
+2024-08-10T16:09:15.523Z [info]: Retrieved all items 
+2024-08-10T16:09:15.533Z [info]: Retrieved all items 
+2024-08-10T16:09:15.543Z [info]: Retrieved all items 
+2024-08-10T16:09:44.319Z [info]: Retrieved all items 
+2024-08-10T16:09:44.321Z [info]: Retrieved all items 
+2024-08-10T16:09:44.324Z [info]: Retrieved all items 
+2024-08-10T16:09:44.344Z [info]: Retrieved all items 
+2024-08-10T16:09:44.347Z [info]: Retrieved all items 
+2024-08-10T16:09:44.351Z [info]: Retrieved all items 
+2024-08-10T16:10:24.828Z [info]: Email sent: 250 2.0.0 OK  1723306225 98e67ed59e1d1-2d1c9ca7ca5sm5025840a91.25 - gsmtp {
+  "statusCode": 200
+}
+2024-08-10T16:10:24.830Z [info]: Contact user added: Siva {
+  "statusCode": 200
+}
+2024-08-10T16:10:27.182Z [info]: Email sent: 250 2.0.0 OK  1723306227 98e67ed59e1d1-2d203ddfc93sm735280a91.1 - gsmtp {
+  "statusCode": 200
+}
+2024-08-10T16:10:27.184Z [info]: Contact user added: Siva {
+  "statusCode": 200
+}
+2024-08-10T16:10:51.053Z [info]: Retrieved all items 
+2024-08-10T16:10:51.059Z [info]: Retrieved all items 
+2024-08-10T16:10:58.553Z [info]: Retrieved all items 
+2024-08-10T16:10:58.559Z [info]: Retrieved all items 
+2024-08-10T16:10:58.566Z [info]: Retrieved all items 
+2024-08-10T16:10:58.572Z [info]: Retrieved all items 
+2024-08-10T16:11:09.020Z [info]: Retrieved all items 
+2024-08-10T16:11:09.029Z [info]: Retrieved all items 
+2024-08-10T16:11:15.503Z [info]: Retrieved all items 
+2024-08-10T16:11:15.511Z [info]: Retrieved all items 
+2024-08-10T16:11:41.602Z [info]: Retrieved all CMS items 
+2024-08-10T16:11:41.610Z [info]: Retrieved all CMS items 
+2024-08-10T16:11:48.633Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723186095900.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-10T16:11:51.840Z [info]: Retrieved all items 
+2024-08-10T16:11:51.847Z [info]: Retrieved all items 
+2024-08-10T16:11:58.279Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723186095900.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-10T16:12:01.240Z [info]: Retrieved all items 
+2024-08-10T16:12:01.247Z [info]: Retrieved all items 
+2024-08-10T16:12:07.152Z [info]: Retrieved all items 
+2024-08-10T16:12:07.164Z [info]: Retrieved all items 
+2024-08-10T16:12:13.954Z [info]: Retrieved all items 
+2024-08-10T16:12:13.963Z [info]: Retrieved all items 
+2024-08-10T16:12:14.019Z [info]: Retrieved all items 
+2024-08-10T16:12:14.029Z [info]: Retrieved all items 
+2024-08-10T16:12:14.037Z [info]: Retrieved all items 
+2024-08-10T16:12:14.046Z [info]: Retrieved all items 
+2024-08-10T16:12:20.856Z [info]: Retrieved all items 
+2024-08-10T16:12:20.863Z [info]: Retrieved all items 
+2024-08-10T16:12:30.425Z [info]: Retrieved all items 
+2024-08-10T16:12:30.432Z [info]: Retrieved all items 
+2024-08-10T16:12:32.378Z [info]: Retrieved all items 
+2024-08-10T16:12:39.480Z [info]: Retrieved all items 
+2024-08-10T16:12:39.488Z [info]: Retrieved all items 
+2024-08-10T16:12:43.254Z [info]: Retrieved all items 
+2024-08-10T16:12:43.260Z [info]: Retrieved all items 
+2024-08-10T16:13:21.430Z [info]: Fetched all roles successfully 
+2024-08-10T16:13:21.438Z [info]: Fetched all roles successfully 
+2024-08-10T16:13:39.547Z [info]: User login successful {
+  "userId": "66a377ff0b83a7594d903748"
+}
+2024-08-10T16:13:39.567Z [info]: Fetched role successfully: ID 66a272f03d1b5dfcca9c8270 
+2024-08-10T16:13:41.616Z [info]: Retrieved all CMS items 
+2024-08-10T16:13:41.623Z [info]: Retrieved all CMS items 
+2024-08-10T16:14:28.770Z [info]: Retrieved all items 
+2024-08-10T16:14:28.774Z [info]: Retrieved all items 
+2024-08-10T16:14:28.777Z [info]: Retrieved all items 
+2024-08-10T16:14:28.786Z [info]: Retrieved all items 
+2024-08-10T16:14:28.790Z [info]: Retrieved all items 
+2024-08-10T16:14:28.794Z [info]: Retrieved all items 
+2024-08-10T16:14:40.078Z [info]: Retrieved all items 
+2024-08-10T16:14:40.080Z [info]: Retrieved all items 
+2024-08-10T16:14:40.084Z [info]: Retrieved all items 
+2024-08-10T16:15:35.126Z [info]: Retrieved all items 
+2024-08-10T16:15:35.133Z [info]: Retrieved all items 
+2024-08-10T16:15:50.979Z [info]: Retrieved all CMS items 
+2024-08-10T16:15:50.986Z [info]: Retrieved all CMS items 
+2024-08-10T16:17:01.905Z [info]: Retrieved all CMS items 
+2024-08-10T16:17:01.912Z [info]: Retrieved all CMS items 
+2024-08-10T16:18:46.246Z [info]: Retrieved all CMS items 
+2024-08-10T16:18:46.255Z [info]: Retrieved all CMS items 
+2024-08-10T16:19:16.292Z [info]: Retrieved all items 
+2024-08-10T16:19:16.299Z [info]: Retrieved all items 
+2024-08-10T16:19:16.307Z [info]: Retrieved all items 
+2024-08-10T16:19:16.314Z [info]: Retrieved all items 
+2024-08-10T16:19:16.319Z [info]: Retrieved all items 
+2024-08-10T16:19:16.322Z [info]: Retrieved all items 
+2024-08-12T05:06:49.828Z [info]: Server is running on port 5000 
+2024-08-12T05:06:49.905Z [info]: Connected to MongoDB 
+2024-08-12T05:07:54.156Z [info]: Retrieved all items 
+2024-08-12T05:07:54.172Z [info]: Retrieved all items 
+2024-08-12T05:07:54.183Z [info]: Retrieved all items 
+2024-08-12T05:07:54.200Z [info]: Retrieved all items 
+2024-08-12T05:07:54.208Z [info]: Retrieved all items 
+2024-08-12T05:07:54.214Z [info]: Retrieved all items 
+2024-08-12T05:08:03.570Z [info]: Retrieved all CMS items 
+2024-08-12T05:08:03.581Z [info]: Retrieved all CMS items 
+2024-08-12T05:12:50.769Z [info]: Retrieved all items 
+2024-08-12T05:12:50.775Z [info]: Retrieved all items 
+2024-08-12T05:12:50.787Z [info]: Retrieved all items 
+2024-08-12T05:12:50.835Z [info]: Retrieved all items 
+2024-08-12T05:12:50.846Z [info]: Retrieved all items 
+2024-08-12T05:12:50.854Z [info]: Retrieved all items 
+2024-08-12T05:14:07.697Z [info]: Retrieved all items 
+2024-08-12T05:14:07.704Z [info]: Retrieved all items 
+2024-08-12T05:14:18.856Z [info]: Retrieved all CMS items 
+2024-08-12T05:14:18.867Z [info]: Retrieved all CMS items 
+2024-08-12T05:19:03.499Z [info]: Retrieved all items 
+2024-08-12T05:20:39.833Z [info]: Retrieved all CMS items 
+2024-08-12T05:20:39.842Z [info]: Retrieved all CMS items 
+2024-08-12T05:20:59.729Z [info]: Retrieved all CMS items 
+2024-08-12T05:20:59.739Z [info]: Retrieved all CMS items 
+2024-08-12T05:21:05.512Z [info]: Retrieved all items 
+2024-08-12T05:21:05.515Z [info]: Retrieved all items 
+2024-08-12T05:21:05.526Z [info]: Retrieved all items 
+2024-08-12T05:21:05.531Z [info]: Retrieved all items 
+2024-08-12T05:21:10.630Z [info]: Retrieved all items 
+2024-08-12T05:21:10.634Z [info]: Retrieved all items 
+2024-08-12T05:34:54.479Z [info]: Retrieved all items 
+2024-08-12T05:34:54.485Z [info]: Retrieved all items 
+2024-08-12T05:34:57.182Z [info]: Retrieved all items 
+2024-08-12T05:34:57.190Z [info]: Retrieved all items 
+2024-08-12T05:34:59.073Z [info]: Retrieved all items 
+2024-08-12T05:34:59.078Z [info]: Retrieved all items 
+2024-08-12T05:34:59.085Z [info]: Retrieved all items 
+2024-08-12T05:35:03.970Z [info]: Retrieved all items 
+2024-08-12T05:35:03.973Z [info]: Retrieved all items 
+2024-08-12T05:35:19.361Z [info]: Retrieved all items 
+2024-08-12T05:35:19.363Z [info]: Retrieved all items 
+2024-08-12T05:35:19.365Z [info]: Retrieved all items 
+2024-08-12T05:35:19.369Z [info]: Retrieved all items 
+2024-08-12T05:35:19.371Z [info]: Retrieved all items 
+2024-08-12T05:35:19.374Z [info]: Retrieved all items 
+2024-08-12T05:38:35.974Z [info]: Retrieved all items 
+2024-08-12T05:38:35.977Z [info]: Retrieved all items 
+2024-08-12T05:38:35.981Z [info]: Retrieved all items 
+2024-08-12T05:38:35.984Z [info]: Retrieved all items 
+2024-08-12T05:41:28.119Z [info]: Retrieved all items 
+2024-08-12T05:41:28.122Z [info]: Retrieved all items 
+2024-08-12T05:41:28.128Z [info]: Retrieved all items 
+2024-08-12T05:41:28.131Z [info]: Retrieved all items 
+2024-08-12T05:44:20.424Z [info]: Retrieved all items 
+2024-08-12T05:44:20.430Z [info]: Retrieved all items 
+2024-08-12T05:44:20.433Z [info]: Retrieved all items 
+2024-08-12T05:44:20.444Z [info]: Retrieved all items 
+2024-08-12T05:45:09.437Z [info]: Retrieved all items 
+2024-08-12T05:45:09.439Z [info]: Retrieved all items 
+2024-08-12T05:45:09.443Z [info]: Retrieved all items 
+2024-08-12T05:45:09.450Z [info]: Retrieved all items 
+2024-08-12T05:45:09.452Z [info]: Retrieved all items 
+2024-08-12T05:45:09.455Z [info]: Retrieved all items 
+2024-08-12T05:45:17.361Z [info]: Retrieved all items 
+2024-08-12T05:45:17.365Z [info]: Retrieved all items 
+2024-08-12T05:45:30.276Z [info]: Retrieved all items 
+2024-08-12T05:45:30.288Z [info]: Retrieved all items 
+2024-08-12T05:45:40.050Z [info]: Retrieved all items 
+2024-08-12T05:45:40.052Z [info]: Retrieved all items 
+2024-08-12T05:45:40.054Z [info]: Retrieved all items 
+2024-08-12T05:45:40.060Z [info]: Retrieved all items 
+2024-08-12T05:45:40.062Z [info]: Retrieved all items 
+2024-08-12T05:45:40.069Z [info]: Retrieved all items 
+2024-08-12T05:46:11.079Z [info]: Retrieved all items 
+2024-08-12T05:46:11.081Z [info]: Retrieved all items 
+2024-08-12T05:46:11.084Z [info]: Retrieved all items 
+2024-08-12T05:46:11.092Z [info]: Retrieved all items 
+2024-08-12T05:46:11.095Z [info]: Retrieved all items 
+2024-08-12T05:46:11.098Z [info]: Retrieved all items 
+2024-08-12T05:51:35.283Z [info]: Retrieved all publish entries 
+2024-08-12T05:51:35.289Z [info]: Retrieved all publish entries 
+2024-08-12T05:52:00.616Z [info]: Deleted publish entry {
+  "dltpublish": {
+    "_id": "66b4c075a5c5fd33e4f73abe",
+    "title_en": "World Tamil Flag",
+    "file": "file-1723287907992.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-12T05:52:29.251Z [info]: Publish entry created {
+  "publish": {
+    "title_en": "World Tamil Flag ",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம்!",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": false,
+    "_id": "66b9a31d57a33082c1317732",
+    "createdAt": "2024-08-12T05:52:29.244Z",
+    "updatedAt": "2024-08-12T05:52:29.244Z",
+    "__v": 0
+  }
+}
+2024-08-12T05:52:29.261Z [info]: Retrieved all publish entries 
+2024-08-12T05:52:32.544Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-12T05:52:44.252Z [info]: Retrieved all CMS items 
+2024-08-12T05:52:44.258Z [info]: Retrieved all CMS items 
+2024-08-12T05:52:53.035Z [info]: Retrieved all CMS items 
+2024-08-12T05:52:53.042Z [info]: Retrieved all CMS items 
+2024-08-12T05:53:07.001Z [info]: Retrieved all publish entries 
+2024-08-12T05:53:07.006Z [info]: Retrieved all publish entries 
+2024-08-12T05:54:13.431Z [info]: Retrieved all publish entries 
+2024-08-12T05:54:18.330Z [info]: Retrieved all publish entries 
+2024-08-12T05:54:27.731Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": false
+  }
+}
+2024-08-12T05:54:27.738Z [info]: Retrieved all publish entries 
+2024-08-12T05:54:33.350Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-12T05:54:33.359Z [info]: Retrieved all publish entries 
+2024-08-12T06:00:01.172Z [info]: Retrieved all items 
+2024-08-12T06:00:01.185Z [info]: Retrieved all items 
+2024-08-12T06:00:22.143Z [info]: Retrieved all items 
+2024-08-12T06:00:22.148Z [info]: Retrieved all items 
+2024-08-12T06:00:54.751Z [info]: Retrieved all items 
+2024-08-12T06:00:54.760Z [info]: Retrieved all items 
+2024-08-12T06:00:54.763Z [info]: Retrieved all items 
+2024-08-12T06:00:54.767Z [info]: Retrieved all items 
+2024-08-12T06:00:54.772Z [info]: Retrieved all items 
+2024-08-12T06:00:54.775Z [info]: Retrieved all items 
+2024-08-12T06:01:16.700Z [info]: Retrieved all items 
+2024-08-12T06:01:16.706Z [info]: Retrieved all items 
+2024-08-12T06:01:16.711Z [info]: Retrieved all items 
+2024-08-12T06:01:16.718Z [info]: Retrieved all items 
+2024-08-12T06:01:16.727Z [info]: Retrieved all items 
+2024-08-12T06:01:16.734Z [info]: Retrieved all items 
+2024-08-12T06:01:29.026Z [info]: Retrieved all items 
+2024-08-12T06:01:29.030Z [info]: Retrieved all items 
+2024-08-12T06:01:48.528Z [info]: Retrieved all items 
+2024-08-12T06:01:48.535Z [info]: Retrieved all items 
+2024-08-12T06:01:48.541Z [info]: Retrieved all items 
+2024-08-12T06:01:48.545Z [info]: Retrieved all items 
+2024-08-12T06:01:48.553Z [info]: Retrieved all items 
+2024-08-12T06:01:48.558Z [info]: Retrieved all items 
+2024-08-12T06:02:18.152Z [info]: Retrieved all items 
+2024-08-12T06:02:18.156Z [info]: Retrieved all items 
+2024-08-12T06:05:13.751Z [info]: Retrieved all items 
+2024-08-12T06:05:13.752Z [info]: Retrieved all items 
+2024-08-12T06:05:13.754Z [info]: Retrieved all items 
+2024-08-12T06:05:13.760Z [info]: Retrieved all items 
+2024-08-12T06:05:13.762Z [info]: Retrieved all items 
+2024-08-12T06:05:13.765Z [info]: Retrieved all items 
+2024-08-12T06:05:23.445Z [info]: Retrieved all items 
+2024-08-12T06:05:23.449Z [info]: Retrieved all items 
+2024-08-12T06:05:31.483Z [info]: Retrieved all items 
+2024-08-12T06:05:31.488Z [info]: Retrieved all items 
+2024-08-12T06:08:56.714Z [info]: Retrieved all items 
+2024-08-12T06:08:56.719Z [info]: Retrieved all items 
+2024-08-12T06:09:03.860Z [info]: Retrieved all items 
+2024-08-12T06:09:03.865Z [info]: Retrieved all items 
+2024-08-12T06:11:35.310Z [info]: Retrieved all items 
+2024-08-12T06:11:35.374Z [info]: Retrieved all items 
+2024-08-12T06:14:22.966Z [info]: Retrieved all items 
+2024-08-12T06:14:23.061Z [info]: Retrieved all items 
+2024-08-12T06:22:05.297Z [info]: Retrieved all items 
+2024-08-12T06:22:05.300Z [info]: Retrieved all items 
+2024-08-12T06:22:05.304Z [info]: Retrieved all items 
+2024-08-12T06:22:05.313Z [info]: Retrieved all items 
+2024-08-12T06:22:05.316Z [info]: Retrieved all items 
+2024-08-12T06:22:05.321Z [info]: Retrieved all items 
+2024-08-12T06:22:25.576Z [info]: Retrieved all items 
+2024-08-12T06:22:25.584Z [info]: Retrieved all items 
+2024-08-12T06:22:25.594Z [info]: Retrieved all items 
+2024-08-12T06:22:25.605Z [info]: Retrieved all items 
+2024-08-12T06:22:25.615Z [info]: Retrieved all items 
+2024-08-12T06:22:25.623Z [info]: Retrieved all items 
+2024-08-12T06:31:03.386Z [info]: Retrieved all items 
+2024-08-12T06:31:03.392Z [info]: Retrieved all items 
+2024-08-12T06:34:45.488Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": false
+  }
+}
+2024-08-12T06:34:50.489Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-12T06:34:50.543Z [info]: Retrieved all publish entries 
+2024-08-12T06:34:58.204Z [info]: Retrieved all CMS items 
+2024-08-12T06:34:58.210Z [info]: Retrieved all CMS items 
+2024-08-12T06:39:22.558Z [info]: Server is running on port 5000 
+2024-08-12T06:39:22.682Z [info]: Connected to MongoDB 
+2024-08-12T08:39:53.147Z [info]: Retrieved all items 
+2024-08-12T08:39:53.163Z [info]: Retrieved all items 
+2024-08-12T09:37:47.158Z [info]: Server is running on port 5000 
+2024-08-12T09:37:47.217Z [info]: Connected to MongoDB 
+2024-08-12T11:06:48.337Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
