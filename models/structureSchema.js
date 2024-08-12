@@ -2,10 +2,10 @@ const mongoose = require('mongoose');
 const { TeamTypeEnum } = require('../util/constant');
 
 const structureSchema = new mongoose.Schema({
-    title_en: { type: String, required: true },
-    title_ta: { type: String, required: true },
-    description_en: { type: String, required: true },
-    description_ta: { type: String, required: true },
+    title_en: { type: String, required: false },
+    title_ta: { type: String, required: false },
+    description_en: { type: String, required: false },
+    description_ta: { type: String, required: false },
     image: { type: String, required: false },
     team_type: { 
         type: String, 
