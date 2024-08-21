@@ -1154,3 +1154,99 @@
 2024-08-08T07:19:14.226Z [error]: Error creating item {
   "error": "Invitation validation failed: file: Path `file` is required."
 }
+2024-08-13T11:04:11.395Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-08-17T16:07:24.922Z [error]: Error creating item {
+  "error": "Festival validation failed: generalSecretaryName_ta: Path `generalSecretaryName_ta` is required., generalSecretaryName_en: Path `generalSecretaryName_en` is required., generalSecretary_ta: Path `generalSecretary_ta` is required., generalSecretary_en: Path `generalSecretary_en` is required., chairmanName_ta: Path `chairmanName_ta` is required., chairmanName_en: Path `chairmanName_en` is required., chairman_ta: Path `chairman_ta` is required., chairman_en: Path `chairman_en` is required., minister_ta: Path `minister_ta` is required., minister_en: Path `minister_en` is required., specialChairmanName_ta: Path `specialChairmanName_ta` is required., specialChairmanName_en: Path `specialChairmanName_en` is required., specialChairman_ta: Path `specialChairman_ta` is required., specialChairman_en: Path `specialChairman_en` is required., subHeading_ta: Path `subHeading_ta` is required., subHeading_en: Path `subHeading_en` is required., heading_ta: Path `heading_ta` is required., heading_en: Path `heading_en` is required., image: Path `image` is required."
+}
+2024-08-19T11:07:16.845Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:09:58.119Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:13:35.691Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:16:05.664Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:19:55.591Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:24:31.710Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:35:17.704Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:37:44.138Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-19T11:38:06.218Z [error]: Error uploading files {
+  "error": "Unexpected field"
+}
+2024-08-20T11:05:09.201Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T11:05:44.385Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T11:07:17.167Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T11:10:28.030Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T11:21:13.560Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T11:31:09.771Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:07:35.074Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:09:43.493Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:10:21.278Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:14:42.451Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:26:17.963Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:34:37.340Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:36:54.118Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:38:21.354Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:51:47.687Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:52:22.652Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-20T16:53:26.148Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T05:26:04.368Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T05:33:54.648Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T06:50:51.524Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND undefined"
+}
+2024-08-21T06:51:45.853Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}

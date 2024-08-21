@@ -19,8 +19,8 @@ const upload = multer({
 }).fields([
   { name: 'image', maxCount: 1 }, 
   { name: 'file', maxCount: 1 },  // Support image and document upload in the file field
-  { name: 'video', maxCount: 1 },
-  { name: 'gallery_images', maxCount: 50 }
+  { name: 'video', maxCount: 5 },
+  { name: 'gallery_images', maxCount: 200 }
 ]); // Support both image and video upload
 
 // Check file type
@@ -40,3 +40,4 @@ function checkFileType(file, cb){
 }
 
 module.exports = upload;
+
