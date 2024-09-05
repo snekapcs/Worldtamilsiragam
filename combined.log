@@ -30850,3 +30850,647 @@
 2024-08-21T06:51:45.853Z [error]: Failed to connect to MongoDB {
   "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
 }
+2024-08-21T07:14:38.852Z [info]: Server is running on port 5000 
+2024-08-21T07:14:38.893Z [info]: Connected to MongoDB 
+2024-08-21T07:14:52.779Z [info]: Server is running on port 5000 
+2024-08-21T07:14:52.825Z [info]: Connected to MongoDB 
+2024-08-21T07:15:44.509Z [info]: Retrieved all CMS items 
+2024-08-21T07:15:44.531Z [info]: Retrieved all CMS items 
+2024-08-21T07:15:48.489Z [info]: Retrieved all items 
+2024-08-21T07:15:48.501Z [info]: Retrieved all items 
+2024-08-21T07:15:48.512Z [info]: Retrieved all items 
+2024-08-21T07:15:48.525Z [info]: Retrieved all items 
+2024-08-21T07:15:48.539Z [info]: Retrieved all items 
+2024-08-21T07:15:48.550Z [info]: Retrieved all items 
+2024-08-21T07:16:35.062Z [info]: Server is running on port 5000 
+2024-08-21T07:16:35.110Z [info]: Connected to MongoDB 
+2024-08-21T07:16:40.029Z [info]: Retrieved all items 
+2024-08-21T07:16:40.055Z [info]: Retrieved all items 
+2024-08-21T07:16:40.070Z [info]: Retrieved all items 
+2024-08-21T07:16:40.089Z [info]: Retrieved all items 
+2024-08-21T07:16:40.108Z [info]: Retrieved all items 
+2024-08-21T07:16:40.132Z [info]: Retrieved all items 
+2024-08-21T07:17:16.363Z [info]: Retrieved all items 
+2024-08-21T07:17:16.375Z [info]: Retrieved all items 
+2024-08-21T07:17:30.093Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-21T07:17:47.570Z [info]: Retrieved all items 
+2024-08-21T07:17:47.574Z [info]: Retrieved all items 
+2024-08-21T07:17:47.581Z [info]: Retrieved all items 
+2024-08-21T07:17:47.597Z [info]: Retrieved all items 
+2024-08-21T07:17:47.604Z [info]: Retrieved all items 
+2024-08-21T07:17:47.608Z [info]: Retrieved all items 
+2024-08-21T07:17:51.127Z [info]: Retrieved all items 
+2024-08-21T07:17:51.134Z [info]: Retrieved all items 
+2024-08-21T07:17:57.521Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-21T07:18:01.915Z [info]: Retrieved all CMS items 
+2024-08-21T07:18:01.930Z [info]: Retrieved all CMS items 
+2024-08-21T07:18:04.214Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": false
+  }
+}
+2024-08-21T07:18:05.141Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-21T07:18:07.931Z [info]: Retrieved all CMS items 
+2024-08-21T07:18:07.940Z [info]: Retrieved all CMS items 
+2024-08-21T07:18:12.653Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T10:28:31.925Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T10:36:21.883Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-22T05:08:05.123Z [info]: Server is running on port 5000 
+2024-08-22T05:08:05.175Z [info]: Connected to MongoDB 
+2024-08-22T05:08:39.670Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:39.694Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:44.280Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:44.299Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:50.713Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:50.725Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:53.852Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": false
+  }
+}
+2024-08-22T05:08:54.954Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-22T05:08:57.249Z [info]: Retrieved all CMS items 
+2024-08-22T05:08:57.265Z [info]: Retrieved all CMS items 
+2024-08-22T05:10:06.101Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-22T05:14:59.842Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-24T07:25:03.758Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-08-24T07:25:33.747Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-08-24T07:26:15.671Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-08-24T07:26:25.718Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-08-24T07:29:03.947Z [info]: Server is running on port 5000 
+2024-08-24T07:29:03.955Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-08-24T07:29:22.346Z [info]: Server is running on port 5000 
+2024-08-24T07:29:22.408Z [info]: Connected to MongoDB 
+2024-08-24T07:30:10.701Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:10.724Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:12.531Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:12.542Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:16.777Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:16.786Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:18.892Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:18.907Z [info]: Retrieved all CMS items 
+2024-08-24T07:30:23.490Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-24T07:30:40.969Z [info]: Retrieved all items 
+2024-08-24T07:30:40.974Z [info]: Retrieved all items 
+2024-08-24T07:30:40.979Z [info]: Retrieved all items 
+2024-08-24T07:30:40.997Z [info]: Retrieved all items 
+2024-08-24T07:30:41.014Z [info]: Retrieved all items 
+2024-08-24T07:30:41.046Z [info]: Retrieved all items 
+2024-08-24T07:31:14.135Z [info]: Item updated {
+  "item": {
+    "_id": "66c0cf3452712240ce59ee05",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": {
+      "id": 1,
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723911988188.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "id": "gallery_images-1724132273426-0",
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132273402.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "id": "gallery_images-1724132318191-0",
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132318152.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "id": "gallery_images-1724132364061-0",
+        "fileName": "invitation.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132364041.jpeg",
+        "fileSize": 440825
+      },
+      {
+        "id": "gallery_images-1724132518992-0",
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132518976.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "id": "gallery_images-1724132548070-0",
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132548037.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "id": "gallery_images-1724132569504-0",
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132569486.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "id": "gallery_images-1724132605850-2",
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132605838.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "id": "gallery_images-1724134076602-0",
+        "fileName": "statue.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724134076583.jpeg",
+        "fileSize": 37596
+      }
+    ],
+    "video": [
+      {
+        "id": "video-1724138280177-0",
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1724138280153.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": false,
+    "heading_en": "Cheif",
+    "heading_ta": "தலைமை",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_en": "Honorable Cha. Jagadratsakan MB",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி",
+    "minister_en": "Former Union Minister",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_en": "Chairman",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_en": "Patarasar K. Bharathidasan France",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா",
+    "createdAt": "2024-08-17T16:26:28.270Z",
+    "updatedAt": "2024-08-24T07:31:14.114Z",
+    "__v": 0
+  }
+}
+2024-08-24T07:31:14.177Z [info]: Retrieved all CMS items 
+2024-08-24T07:31:18.706Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-24T07:31:24.710Z [info]: Retrieved all CMS items 
+2024-08-24T07:31:24.717Z [info]: Retrieved all CMS items 
+2024-08-24T07:31:29.847Z [info]: Retrieved all CMS items 
+2024-08-24T07:31:29.858Z [info]: Retrieved all CMS items 
+2024-08-27T06:28:18.406Z [info]: Server is running on port 5000 
+2024-08-27T06:28:18.474Z [info]: Connected to MongoDB 
+2024-08-27T06:28:58.933Z [info]: Retrieved all items 
+2024-08-27T06:28:58.945Z [info]: Retrieved all items 
+2024-08-27T06:28:58.953Z [info]: Retrieved all items 
+2024-08-27T06:28:58.970Z [info]: Retrieved all items 
+2024-08-27T06:28:58.974Z [info]: Retrieved all items 
+2024-08-27T06:28:58.979Z [info]: Retrieved all items 
+2024-08-27T06:29:22.738Z [info]: Retrieved all CMS items 
+2024-08-27T06:29:22.748Z [info]: Retrieved all CMS items 
+2024-08-27T06:29:30.514Z [info]: Retrieved all CMS items 
+2024-08-27T06:29:30.526Z [info]: Retrieved all CMS items 
+2024-08-27T06:29:34.958Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:02:36.223Z [info]: Retrieved all CMS items 
+2024-08-27T11:02:36.248Z [info]: Retrieved all CMS items 
+2024-08-27T11:03:00.308Z [info]: Retrieved all CMS items 
+2024-08-27T11:03:00.318Z [info]: Retrieved all CMS items 
+2024-08-27T11:03:19.268Z [info]: Item updated {
+  "item": {
+    "_id": "66c0cf3452712240ce59ee05",
+    "title_en": "World Tamil Flag - Opening Ceremony",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் - தொடக்க விழா",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "description_ta": "தமிழ் நூல்களை மட்டுமின்றி தமிழைப் பற்றி, தமிழரைப் பற்றி, வெளிவந்துள்ள பிறமொழி நூல்களையும் ஒன்று திரட்டுதல்",
+    "date_en": "May 2024",
+    "date_ta": "மே 2024",
+    "image": {
+      "id": 1,
+      "fileName": "kamban kalagam.jpeg",
+      "fileType": "image/jpeg",
+      "filePath": "public\\image-1723911988188.jpeg",
+      "fileSize": 178011
+    },
+    "gallery_images": [
+      {
+        "id": "gallery_images-1724132273426-0",
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132273402.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "id": "gallery_images-1724132318191-0",
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132318152.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "id": "gallery_images-1724132364061-0",
+        "fileName": "invitation.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132364041.jpeg",
+        "fileSize": 440825
+      },
+      {
+        "id": "gallery_images-1724132518992-0",
+        "fileName": "wts_madurai.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132518976.jpeg",
+        "fileSize": 16471
+      },
+      {
+        "id": "gallery_images-1724132548070-0",
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132548037.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "id": "gallery_images-1724132569504-0",
+        "fileName": "kamban_in_france.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132569486.jpeg",
+        "fileSize": 178011
+      },
+      {
+        "id": "gallery_images-1724132605850-2",
+        "fileName": "award.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724132605838.jpeg",
+        "fileSize": 226721
+      },
+      {
+        "id": "gallery_images-1724134076602-0",
+        "fileName": "statue.jpeg",
+        "fileType": "image/jpeg",
+        "filePath": "public\\gallery_images-1724134076583.jpeg",
+        "fileSize": 37596
+      }
+    ],
+    "video": [
+      {
+        "id": "video-1724138280177-0",
+        "fileName": "History of Tamil Nadu.mp4",
+        "fileType": "video/mp4",
+        "filePath": "public\\video-1724138280153.mp4",
+        "fileSize": 561202
+      }
+    ],
+    "isDisabled": true,
+    "heading_en": "Cheif",
+    "heading_ta": "தலைமை",
+    "subHeading_en": "Dear all! You are addicted to alcohol! Hello!",
+    "subHeading_ta": "அன்புடையீர்! அருந்தமிழ் பற்றுடையீர்! வணக்கம்!",
+    "specialChairman_en": "Special Chairman",
+    "specialChairman_ta": "சிறப்பு தலைவர்",
+    "specialChairmanName_en": "Honorable Cha. Jagadratsakan MB",
+    "specialChairmanName_ta": "மாண்புமிகு சா. ஜெகத்ரட்சகன் எம்பி",
+    "minister_en": "Former Union Minister",
+    "minister_ta": "முன்னாள் மத்திய அமைச்சர்",
+    "chairman_en": "Chairman",
+    "chairman_ta": "தலைவர்",
+    "chairmanName_en": "Patarasar K. Bharathidasan France",
+    "chairmanName_ta": "பாட்டரசர் கி. பாரதிதாசன் பிரான்சு",
+    "generalSecretary_en": "General Secretary",
+    "generalSecretary_ta": "பொதுச் செயலாளர்",
+    "generalSecretaryName_en": "Dr. M. Ponnusamy America",
+    "generalSecretaryName_ta": "முனைவர் ம. பொன்னுசாமி அமெரிக்கா",
+    "createdAt": "2024-08-17T16:26:28.270Z",
+    "updatedAt": "2024-08-27T11:03:19.234Z",
+    "__v": 0
+  }
+}
+2024-08-27T11:03:19.330Z [info]: Retrieved all CMS items 
+2024-08-27T11:03:24.232Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:03:25.143Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:03:28.918Z [info]: Retrieved all CMS items 
+2024-08-27T11:03:28.924Z [info]: Retrieved all CMS items 
+2024-08-27T11:05:48.950Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114382770.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:05:50.489Z [info]: Updated item {
+  "item": {
+    "_id": "66b377a0773bfa7d0d423f8e",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114382770.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:05:53.008Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:05:53.937Z [info]: Updated item {
+  "item": {
+    "_id": "66b37989315ee78d73aef899",
+    "title_en": "Conducting Tamil research meetings with Tamil scholars",
+    "description_en": "Bringing together not only Tamil books but also other language books about Tamil and about Tamils",
+    "imageTitle_en": "3rd Tamil Festival of the Assembly",
+    "image": "image-1723114370490.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:05:56.873Z [info]: Retrieved all CMS items 
+2024-08-27T11:05:56.882Z [info]: Retrieved all CMS items 
+2024-08-27T11:05:58.774Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:05:59.532Z [info]: Updated item {
+  "item": {
+    "_id": "66b46465d52860656d9f45e9",
+    "title_en": "Leader",
+    "description_en": "Patriarch <strong>K. Bharathidasan</strong>, France",
+    "team_type": "செயற்குழு உறுப்பினர்கள்",
+    "contactNo_en": "Contact Number - +33 6 51 57 47 58",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:06:01.671Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:01.678Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:03.265Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723305942882.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:06:04.062Z [info]: Updated item {
+  "item": {
+    "_id": "66b45fcf6cc685ef39dc3152",
+    "title_en": "Publication of Tamil books",
+    "description_en": "Tamil books, weeklies and Monday magazines which have come up to date and which will be published in the future.",
+    "image": "image-1723305942882.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:06:05.646Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:05.652Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:09.077Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723186095900.jpeg",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:06:10.006Z [info]: Updated item {
+  "item": {
+    "_id": "66b47186aff684095f5ac0fc",
+    "title_en": "An invitation to the flourishing of love",
+    "description_en": "Dear people of Tamil Sangh, With our best wishes, we welcome you to the special program of the Tamil Society.",
+    "date_en": "24 July 2024",
+    "location_en": "Tamil Sangam Hall",
+    "sub_description_en": "We warmly welcome you all!!",
+    "file": "file-1723186095900.jpeg",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:06:11.715Z [info]: Retrieved all publish entries 
+2024-08-27T11:06:11.725Z [info]: Retrieved all publish entries 
+2024-08-27T11:06:14.853Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:06:16.187Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:06:19.125Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:19.134Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:22.498Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:06:24.636Z [info]: Retrieved all publish entries 
+2024-08-27T11:06:24.652Z [info]: Retrieved all publish entries 
+2024-08-27T11:06:26.455Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": false
+  }
+}
+2024-08-27T11:06:27.561Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66b9a31d57a33082c1317732",
+    "title_en": "World Tamil Flag ",
+    "file": "file-1723441949090.pdf",
+    "isDisabled": true
+  }
+}
+2024-08-27T11:06:35.134Z [info]: Retrieved all CMS items 
+2024-08-27T11:06:35.156Z [info]: Retrieved all CMS items 
+2024-08-28T06:49:06.269Z [info]: Server is running on port 5000 
+2024-08-28T06:49:06.328Z [info]: Connected to MongoDB 
+2024-08-29T05:21:53.386Z [info]: Server is running on port 5000 
+2024-08-29T05:21:53.404Z [info]: Connected to MongoDB 
+2024-08-30T05:49:10.488Z [info]: Server is running on port 5000 
+2024-08-30T05:49:10.535Z [info]: Connected to MongoDB 
+2024-09-02T05:12:04.559Z [info]: Server is running on port 5000 
+2024-09-02T05:12:04.614Z [info]: Connected to MongoDB 
+2024-09-02T05:41:29.556Z [info]: Server is running on port 5000 
+2024-09-02T05:41:29.600Z [info]: Connected to MongoDB 
+2024-09-02T05:44:56.030Z [info]: Server is running on port 5000 
+2024-09-02T05:44:56.079Z [info]: Connected to MongoDB 
+2024-09-02T06:36:33.578Z [info]: Server is running on port 5000 
+2024-09-02T06:36:33.620Z [info]: Connected to MongoDB 
+2024-09-02T06:36:48.811Z [info]: Server is running on port 5000 
+2024-09-02T06:36:48.865Z [info]: Connected to MongoDB 
+2024-09-02T09:08:20.422Z [info]: Server is running on port 5000 
+2024-09-02T09:08:20.470Z [info]: Connected to MongoDB 
+2024-09-02T09:08:36.771Z [info]: Server is running on port 5000 
+2024-09-02T09:08:36.832Z [info]: Connected to MongoDB 
+2024-09-02T09:09:14.557Z [info]: Server is running on port 5000 
+2024-09-02T09:09:14.603Z [info]: Connected to MongoDB 
+2024-09-02T10:14:37.814Z [info]: Server is running on port 5000 
+2024-09-02T10:14:37.843Z [info]: Connected to MongoDB 
+2024-09-02T10:38:24.764Z [info]: Server is running on port 5000 
+2024-09-02T10:38:24.784Z [info]: Connected to MongoDB 
+2024-09-02T10:38:49.174Z [info]: Server is running on port 5000 
+2024-09-02T10:38:49.194Z [info]: Connected to MongoDB 
+2024-09-02T11:00:00.643Z [info]: Server is running on port 5000 
+2024-09-02T11:00:00.659Z [info]: Connected to MongoDB 
+2024-09-02T11:01:03.901Z [info]: Server is running on port 5000 
+2024-09-02T11:01:03.923Z [info]: Connected to MongoDB 
+2024-09-02T11:22:28.698Z [info]: Server is running on port 5000 
+2024-09-02T11:22:28.744Z [info]: Connected to MongoDB 
+2024-09-02T11:22:30.825Z [info]: Server is running on port 5000 
+2024-09-02T11:22:30.865Z [info]: Connected to MongoDB 
+2024-09-02T11:47:43.157Z [info]: Server is running on port 5000 
+2024-09-02T11:47:43.204Z [info]: Connected to MongoDB 
+2024-09-03T13:45:07.705Z [info]: Server is running on port 5000 
+2024-09-03T13:45:07.858Z [info]: Connected to MongoDB 
+2024-09-04T05:02:40.706Z [info]: Server is running on port 5000 
+2024-09-04T05:02:40.800Z [info]: Connected to MongoDB 
+2024-09-04T06:34:57.483Z [info]: Server is running on port 5000 
+2024-09-04T06:34:57.505Z [info]: Connected to MongoDB 
+2024-09-04T09:11:28.659Z [info]: Server is running on port 5000 
+2024-09-04T09:11:28.736Z [info]: Connected to MongoDB 
+2024-09-04T09:26:11.813Z [info]: Server is running on port 5000 
+2024-09-04T09:26:11.871Z [info]: Connected to MongoDB 
+2024-09-04T09:28:26.399Z [info]: Server is running on port 5000 
+2024-09-04T09:28:26.445Z [info]: Connected to MongoDB 
+2024-09-04T09:33:03.482Z [info]: Server is running on port 5000 
+2024-09-04T09:33:03.588Z [info]: Connected to MongoDB 
+2024-09-04T09:35:05.367Z [info]: Server is running on port 5000 
+2024-09-04T09:35:05.425Z [info]: Connected to MongoDB 
+2024-09-04T09:44:55.829Z [info]: Server is running on port 5000 
+2024-09-04T09:44:55.883Z [info]: Connected to MongoDB 
+2024-09-04T09:55:09.209Z [error]: Error creating contact user: Contactform validation failed: mobile: Path `mobile` is required., subject: Path `subject` is required. {
+  "statusCode": 500
+}
+2024-09-04T09:55:30.036Z [info]: Server is running on port 5000 
+2024-09-04T09:55:30.093Z [info]: Connected to MongoDB 
+2024-09-04T10:24:19.243Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "+31 6 17451034" (type string) at path "mobile" {
+  "statusCode": 500
+}
+2024-09-04T10:24:29.972Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "6 17451034" (type string) at path "mobile" {
+  "statusCode": 500
+}
+2024-09-04T10:25:26.118Z [info]: Email sent: 250 2.0.0 OK  1725445526 98e67ed59e1d1-2da66ac8cbbsm3334411a91.13 - gsmtp {
+  "statusCode": 200
+}
+2024-09-04T10:25:26.122Z [info]: Contact user added: Sneka {
+  "statusCode": 200
+}
+2024-09-04T10:29:20.151Z [info]: Server is running on port 5000 
+2024-09-04T10:29:20.202Z [info]: Connected to MongoDB 
+2024-09-04T10:30:08.947Z [info]: Email sent: 250 2.0.0 OK  1725445809 d9443c01a7336-206aea94b99sm10939215ad.279 - gsmtp {
+  "statusCode": 200
+}
+2024-09-04T10:30:08.951Z [info]: Contact user added: Sneka {
+  "statusCode": 200
+}
+2024-09-04T10:30:51.093Z [info]: Server is running on port 5000 
+2024-09-04T10:30:51.164Z [info]: Connected to MongoDB 
+2024-09-04T10:31:04.300Z [info]: Email sent: 250 2.0.0 OK  1725445864 41be03b00d2f7-7d4fbd8d6ebsm1385675a12.36 - gsmtp {
+  "statusCode": 200
+}
+2024-09-04T10:31:04.304Z [info]: Contact user added: Sneka {
+  "statusCode": 200
+}
+2024-09-05T05:26:01.238Z [info]: Server is running on port 5000 
+2024-09-05T05:26:01.289Z [info]: Connected to MongoDB 

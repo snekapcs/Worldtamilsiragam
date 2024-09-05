@@ -1250,3 +1250,57 @@
 2024-08-21T06:51:45.853Z [error]: Failed to connect to MongoDB {
   "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
 }
+2024-08-21T07:18:12.653Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T10:28:31.925Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-21T10:36:21.883Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-22T05:10:06.101Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-22T05:14:59.842Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-24T07:25:33.747Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-08-24T07:26:15.671Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-08-24T07:26:25.718Z [error]: Error retrieving CMS items {
+  "error": "Operation `visions.find()` buffering timed out after 10000ms"
+}
+2024-08-24T07:29:03.955Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-08-24T07:30:23.490Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-24T07:31:18.706Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T06:29:34.958Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:03:24.232Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:03:25.143Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-08-27T11:06:22.498Z [error]: Error updating item {
+  "error": "Cannot read properties of undefined (reading 'image')"
+}
+2024-09-04T09:55:09.209Z [error]: Error creating contact user: Contactform validation failed: mobile: Path `mobile` is required., subject: Path `subject` is required. {
+  "statusCode": 500
+}
+2024-09-04T10:24:19.243Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "+31 6 17451034" (type string) at path "mobile" {
+  "statusCode": 500
+}
+2024-09-04T10:24:29.972Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "6 17451034" (type string) at path "mobile" {
+  "statusCode": 500
+}

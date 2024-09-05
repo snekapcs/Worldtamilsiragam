@@ -5,14 +5,14 @@ const { STATUS_CODES, CONTACT_FORM } = require("../util/constant.js");
 require('dotenv').config();
 
 const createContactForm = async (req, res) => {
-    const { name, email, liveFrom, interestedIn, message, status = 'New' } = req.body;
+    const { name, email, mobile, subject, message, status = 'New' } = req.body;
 
     try {
         const contactUser = new ContactformModel({
             name,
             email,
-            liveFrom,
-            interestedIn,
+            mobile,
+            subject,
             message,
             status 
         });
@@ -29,14 +29,14 @@ const createContactForm = async (req, res) => {
 
         const mailOptions = {
             from: email,
-            to: "snekav371@gmail.com",
+            to: "tamilsiragam@gmail.com",
             subject: `Message from ${name}`,
             html: `
                 You got a message from <br>
                 Email: ${email}<br>
                 Name: ${name}<br>
-                Live From: ${liveFrom}<br>
-                Interested In: ${interestedIn}<br>
+                Live From: ${mobile}<br>
+                Interested In: ${subject}<br>
                 Message: ${message}
             `,
         };
@@ -66,12 +66,12 @@ const getContactForms = async (req, res) => {
 
 const updateContactForm = async (req, res) => {
     const { id } = req.params;
-    const { name, email, liveFrom, interestedIn, message, status } = req.body;
+    const { name, email, mobile, subject, message, status } = req.body;
 
     try {
         const updatedContactForm = await ContactformModel.findByIdAndUpdate(
             id, 
-            { name, email, liveFrom, interestedIn, message, status },
+            { name, email, mobile, subject, message, status },
             { new: true } 
         );
 
