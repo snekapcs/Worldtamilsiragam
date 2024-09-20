@@ -31494,3 +31494,177 @@
 }
 2024-09-05T05:26:01.238Z [info]: Server is running on port 5000 
 2024-09-05T05:26:01.289Z [info]: Connected to MongoDB 
+2024-09-06T08:12:09.310Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-06T08:12:39.318Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-09T05:09:09.967Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-09T05:09:39.972Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-10T04:34:02.607Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-10T04:34:32.603Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-09-11T04:41:29.175Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-11T04:41:59.188Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-11T06:57:59.844Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-11T06:58:01.821Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-11T06:58:31.830Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-11T07:01:39.640Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-11T07:02:09.636Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-11T07:05:36.927Z [error]: Error updating item {
+  "error": "Cast to ObjectId failed for value \" 66d8114ded91d8026dfc212c\" (type string) at path \"_id\" for model \"Festival\""
+}
+2024-09-11T09:22:25.937Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-11T09:22:55.944Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-12T06:22:42.270Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-12T06:23:12.270Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-13T09:45:53.645Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-13T09:46:23.654Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-09-13T09:56:48.584Z [info]: Server is running on port 5000 
+2024-09-13T09:56:48.594Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-09-13T09:57:18.040Z [info]: Server is running on port 5000 
+2024-09-13T09:57:18.121Z [info]: Connected to MongoDB 
+2024-09-13T09:59:40.273Z [info]: Server is running on port 5000 
+2024-09-13T09:59:40.309Z [info]: Connected to MongoDB 
+2024-09-13T10:03:14.221Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "+91 6345256631" (type string) at path "mobile" {
+  "statusCode": 500
+}
+2024-09-13T10:03:55.446Z [info]: Server is running on port 5000 
+2024-09-13T10:03:55.499Z [info]: Connected to MongoDB 
+2024-09-13T10:04:02.740Z [info]: Email sent: 250 2.0.0 OK  1726221842 41be03b00d2f7-7db1fbbe21csm3093144a12.49 - gsmtp {
+  "statusCode": 200
+}
+2024-09-13T10:04:02.742Z [info]: Contact user added: Sneka1 {
+  "statusCode": 200
+}
+2024-09-13T10:10:11.943Z [info]: Server is running on port 5000 
+2024-09-13T10:10:11.984Z [info]: Connected to MongoDB 
+2024-09-14T04:59:45.252Z [info]: Server is running on port 5000 
+2024-09-14T04:59:45.301Z [info]: Connected to MongoDB 
+2024-09-16T04:59:09.803Z [info]: Server is running on port 5000 
+2024-09-16T04:59:09.856Z [info]: Connected to MongoDB 
+2024-09-18T04:46:10.276Z [info]: Server is running on port 5000 
+2024-09-18T04:46:10.341Z [info]: Connected to MongoDB 
+2024-09-18T10:23:54.261Z [info]: Server is running on port 5000 
+2024-09-18T10:23:54.318Z [info]: Connected to MongoDB 
+2024-09-18T12:05:17.988Z [info]: Server is running on port 5000 
+2024-09-18T12:05:18.027Z [info]: Connected to MongoDB 
+2024-09-18T12:06:09.833Z [info]: Server is running on port 5000 
+2024-09-18T12:06:09.914Z [info]: Connected to MongoDB 
+2024-09-18T12:06:56.533Z [info]: Server is running on port 5000 
+2024-09-18T12:06:56.569Z [info]: Connected to MongoDB 
+2024-09-19T04:49:57.349Z [info]: Server is running on port 5000 
+2024-09-19T04:49:57.379Z [info]: Connected to MongoDB 
+2024-09-19T04:58:42.994Z [info]: Server is running on port 5000 
+2024-09-19T04:58:43.017Z [info]: Connected to MongoDB 
+2024-09-19T04:58:45.838Z [info]: Server is running on port 5000 
+2024-09-19T04:58:45.861Z [info]: Connected to MongoDB 
+2024-09-19T04:59:13.987Z [info]: Server is running on port 5000 
+2024-09-19T04:59:14.004Z [info]: Connected to MongoDB 
+2024-09-19T05:13:04.615Z [info]: Server is running on port 5000 
+2024-09-19T05:13:04.637Z [info]: Connected to MongoDB 
+2024-09-19T05:25:37.832Z [info]: Retrieved all publish entries 
+2024-09-19T05:25:48.382Z [info]: Retrieved all publish entries 
+2024-09-19T05:33:33.384Z [error]: Error creating publish entry {
+  "error": "Publish validation failed: file: Path `file` is required."
+}
+2024-09-19T05:40:04.000Z [info]: Publish entry created {
+  "publish": {
+    "title_en": "World Tamil Flag",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம்",
+    "image": "image-1726724403989.jpeg",
+    "file": "file-1726724403946.pdf",
+    "isDisabled": true,
+    "_id": "66ebb933d16d9332fa869ae0",
+    "createdAt": "2024-09-19T05:40:03.991Z",
+    "updatedAt": "2024-09-19T05:40:03.991Z",
+    "__v": 0
+  }
+}
+2024-09-19T05:46:38.038Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
+2024-09-19T05:46:59.772Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
+2024-09-19T05:47:29.781Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND undefined"
+}
+2024-09-19T05:48:00.008Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-19T05:48:30.019Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-09-19T05:52:34.859Z [error]: Error updating publish entry {
+  "error": "Operation `publishes.findOneAndUpdate()` buffering timed out after 10000ms"
+}
+2024-09-19T05:53:49.480Z [error]: Error updating publish entry {
+  "error": "Operation `publishes.findOneAndUpdate()` buffering timed out after 10000ms"
+}
+2024-09-19T05:57:27.265Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-19T05:57:57.271Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-19T06:12:28.081Z [info]: Server is running on port 5000 
+2024-09-19T06:12:28.087Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-09-19T06:15:28.847Z [info]: Server is running on port 5000 
+2024-09-19T06:15:28.883Z [info]: Connected to MongoDB 
+2024-09-19T06:16:54.414Z [info]: Updated publish entry {
+  "publish": {
+    "_id": "66ebb933d16d9332fa869ae0",
+    "title_en": "World Tamil Siragam Opening Ceremony Magazine - 2023",
+    "title_ta": "உலகத் தமிழ்ச் சிறகம் தொடக்க விழா மலர் - 2023 ",
+    "image": "image-1726726614238.jpeg",
+    "file": "file-1726726614240.pdf",
+    "isDisabled": true,
+    "createdAt": "2024-09-19T05:40:03.991Z",
+    "updatedAt": "2024-09-19T06:16:54.368Z",
+    "__v": 0
+  }
+}
+2024-09-19T06:26:59.172Z [info]: Publish entry created {
+  "publish": {
+    "title_en": "Research Compendium - Tamil Heritage (Antiquity and Continuity) - 2024",
+    "title_ta": "ஆய்வுக்கோவை - தமிழர் தடங்கள் (தொன்மையும் தொடர்ச்சியும்) - 2024",
+    "image": "image-1726727219144.jpeg",
+    "file": "file-1726727219051.pdf",
+    "isDisabled": true,
+    "_id": "66ebc433570126274b7f99a0",
+    "createdAt": "2024-09-19T06:26:59.162Z",
+    "updatedAt": "2024-09-19T06:26:59.162Z",
+    "__v": 0
+  }
+}
+2024-09-19T09:20:20.108Z [info]: Server is running on port 5000 undefined undefined undefined undefined 
+2024-09-19T09:20:50.070Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND undefined"
+}
+2024-09-19T09:21:16.232Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-19T09:21:46.236Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-19T11:07:57.445Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-19T11:08:27.455Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-09-20T05:02:55.749Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-20T05:03:25.759Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-20T05:07:16.116Z [info]: Server is running on port 5000 node207927-dbserver1.in1.cobracloudservers.com Worldtamilsiragam admin OLHfqy53558 
+2024-09-20T05:07:46.125Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}

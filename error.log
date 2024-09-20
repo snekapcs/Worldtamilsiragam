@@ -1304,3 +1304,75 @@
 2024-09-04T10:24:29.972Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "6 17451034" (type string) at path "mobile" {
   "statusCode": 500
 }
+2024-09-06T08:12:39.318Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-09T05:09:39.972Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-10T04:34:32.603Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-09-11T04:41:59.188Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-11T06:58:31.830Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-11T07:02:09.636Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-11T07:05:36.927Z [error]: Error updating item {
+  "error": "Cast to ObjectId failed for value \" 66d8114ded91d8026dfc212c\" (type string) at path \"_id\" for model \"Festival\""
+}
+2024-09-11T09:22:55.944Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-12T06:23:12.270Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-13T09:46:23.654Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-09-13T09:56:48.594Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-09-13T10:03:14.221Z [error]: Error creating contact user: Contactform validation failed: mobile: Cast to Number failed for value "+91 6345256631" (type string) at path "mobile" {
+  "statusCode": 500
+}
+2024-09-19T05:33:33.384Z [error]: Error creating publish entry {
+  "error": "Publish validation failed: file: Path `file` is required."
+}
+2024-09-19T05:47:29.781Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND undefined"
+}
+2024-09-19T05:48:30.019Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}
+2024-09-19T05:52:34.859Z [error]: Error updating publish entry {
+  "error": "Operation `publishes.findOneAndUpdate()` buffering timed out after 10000ms"
+}
+2024-09-19T05:53:49.480Z [error]: Error updating publish entry {
+  "error": "Operation `publishes.findOneAndUpdate()` buffering timed out after 10000ms"
+}
+2024-09-19T05:57:57.271Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017"
+}
+2024-09-19T06:12:28.087Z [error]: Failed to connect to MongoDB {
+  "error": "The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."
+}
+2024-09-19T09:20:50.070Z [error]: Failed to connect to MongoDB {
+  "error": "getaddrinfo ENOTFOUND undefined"
+}
+2024-09-19T09:21:46.236Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-19T11:08:27.455Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.8:27017"
+}
+2024-09-20T05:03:25.759Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.9:27017, connect ETIMEDOUT 103.217.220.249:27017"
+}
+2024-09-20T05:07:46.125Z [error]: Failed to connect to MongoDB {
+  "error": "connect ETIMEDOUT 103.217.220.8:27017, connect ETIMEDOUT 103.217.220.249:27017, connect ETIMEDOUT 103.217.220.250:27017, connect ETIMEDOUT 103.217.220.9:27017"
+}

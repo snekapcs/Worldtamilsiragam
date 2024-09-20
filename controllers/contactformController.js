@@ -35,8 +35,8 @@ const createContactForm = async (req, res) => {
                 You got a message from <br>
                 Email: ${email}<br>
                 Name: ${name}<br>
-                Live From: ${mobile}<br>
-                Interested In: ${subject}<br>
+                Mobile: ${mobile}<br>
+                Subject: ${subject}<br>
                 Message: ${message}
             `,
         };
