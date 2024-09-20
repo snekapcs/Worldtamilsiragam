@@ -201,7 +201,6 @@ const getItemById = async (req, res) => {
 
 // Update an existing item
 const updateItem = async (req, res) => {
-    console.log('Request body:', req.body);
     upload(req, res, async (err) => {
         if (err) {
             logger.error('Error uploading files', { error: err.message });
